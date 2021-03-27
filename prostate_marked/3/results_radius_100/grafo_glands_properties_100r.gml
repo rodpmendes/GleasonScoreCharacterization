@@ -1,0 +1,49602 @@
+graph [
+  node [
+    id 0
+    label "0"
+    idx 0
+    row 303
+    column 9009
+    demarcated "False"
+    area 8804.0
+    solidity 0.8709932726553226
+    eccentricity 0.9748491647860318
+    diameter 105.87540295955607
+    perimeter 523.9482681718907
+    degree 1.0
+    strength 0.8566705480591179
+    betweenness 0.0
+  ]
+  node [
+    id 1
+    label "1"
+    idx 1
+    row 369
+    column 8469
+    demarcated "False"
+    area 23281.0
+    solidity 0.9459975619666802
+    eccentricity 0.8231128320845309
+    diameter 172.16936382811932
+    perimeter 632.2152954766494
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2
+    label "2"
+    idx 2
+    row 378
+    column 9034
+    demarcated "False"
+    area 5034.0
+    solidity 0.9605037206639955
+    eccentricity 0.9094179485616468
+    diameter 80.05927721505365
+    perimeter 306.35028842544403
+    degree 1.0
+    strength 0.8566705480591179
+    betweenness 0.0
+  ]
+  node [
+    id 3
+    label "3"
+    idx 3
+    row 370
+    column 9460
+    demarcated "False"
+    area 3622.0
+    solidity 0.874034749034749
+    eccentricity 0.915585346143496
+    diameter 67.90930445108947
+    perimeter 279.32085117392114
+    degree 1.0
+    strength 0.9050582015032256
+    betweenness 0.0
+  ]
+  node [
+    id 4
+    label "4"
+    idx 4
+    row 394
+    column 8184
+    demarcated "False"
+    area 10967.0
+    solidity 0.9570643162579632
+    eccentricity 0.8632038204342053
+    diameter 118.1677540072186
+    perimeter 444.048773235279
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 5
+    label "5"
+    idx 5
+    row 398
+    column 9490
+    demarcated "False"
+    area 1191.0
+    solidity 0.9009077155824509
+    eccentricity 0.9086738054254108
+    diameter 38.94134432424719
+    perimeter 155.53910524340094
+    degree 1.0
+    strength 0.9050582015032256
+    betweenness 0.0
+  ]
+  node [
+    id 6
+    label "6"
+    idx 6
+    row 582
+    column 7859
+    demarcated "False"
+    area 50339.0
+    solidity 0.7935524552691732
+    eccentricity 0.9696097264289176
+    diameter 253.1671492165272
+    perimeter 1338.9057710597708
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 7
+    label "7"
+    idx 7
+    row 479
+    column 8331
+    demarcated "False"
+    area 15148.0
+    solidity 0.7672981460844899
+    eccentricity 0.9639692185636265
+    diameter 138.877761443826
+    perimeter 693.5117600329311
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 8
+    label "8"
+    idx 8
+    row 546
+    column 3091
+    demarcated "False"
+    area 1454.0
+    solidity 0.9003095975232198
+    eccentricity 0.9838742368201396
+    diameter 43.02662313085849
+    perimeter 243.75840533340724
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 9
+    label "9"
+    idx 9
+    row 565
+    column 3473
+    demarcated "False"
+    area 4314.0
+    solidity 0.7960878390847019
+    eccentricity 0.8757371100669641
+    diameter 74.11312566602149
+    perimeter 325.46298679765215
+    degree 1.0
+    strength 0.9856595071035161
+    betweenness 0.0
+  ]
+  node [
+    id 10
+    label "10"
+    idx 10
+    row 576
+    column 2901
+    demarcated "False"
+    area 3604.0
+    solidity 0.9103308916393028
+    eccentricity 0.9752413104237135
+    diameter 67.74035222247907
+    perimeter 331.82337649086287
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 11
+    label "11"
+    idx 11
+    row 734
+    column 9693
+    demarcated "False"
+    area 74716.0
+    solidity 0.8220395858775896
+    eccentricity 0.5759902173220308
+    diameter 308.43373003683047
+    perimeter 1669.4032457428293
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 12
+    label "12"
+    idx 12
+    row 619
+    column 3464
+    demarcated "False"
+    area 4666.0
+    solidity 0.9852195945945946
+    eccentricity 0.6654335092505472
+    diameter 77.07746568053642
+    perimeter 257.9066376115481
+    degree 3.0
+    strength 2.841593050098171
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 13
+    label "13"
+    idx 13
+    row 618
+    column 9265
+    demarcated "False"
+    area 2441.0
+    solidity 0.9764
+    eccentricity 0.8344213690824007
+    diameter 55.74923971408518
+    perimeter 200.40916292848976
+    degree 1.0
+    strength 0.9525368868447791
+    betweenness 0.0
+  ]
+  node [
+    id 14
+    label "14"
+    idx 14
+    row 679
+    column 9362
+    demarcated "False"
+    area 17563.0
+    solidity 0.9523886990944092
+    eccentricity 0.8400363528630213
+    diameter 149.5389786115435
+    perimeter 562.1147904132611
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 15
+    label "15"
+    idx 15
+    row 665
+    column 9164
+    demarcated "False"
+    area 4345.0
+    solidity 0.9716010733452594
+    eccentricity 0.8948221332435755
+    diameter 74.37893399259148
+    perimeter 282.06601717798213
+    degree 1.0
+    strength 0.8809476812879765
+    betweenness 0.0
+  ]
+  node [
+    id 16
+    label "16"
+    idx 16
+    row 709
+    column 10048
+    demarcated "False"
+    area 5942.0
+    solidity 0.8216261061946902
+    eccentricity 0.8340420274666961
+    diameter 86.98039649723573
+    perimeter 365.01933598375615
+    degree 1.0
+    strength 0.8044403369569135
+    betweenness 0.0
+  ]
+  node [
+    id 17
+    label "17"
+    idx 17
+    row 698
+    column 9948
+    demarcated "False"
+    area 8015.0
+    solidity 0.971868558263611
+    eccentricity 0.8460040879579663
+    diameter 101.01987403997458
+    perimeter 376.43354954612926
+    degree 1.0
+    strength 0.7388399323111114
+    betweenness 0.0
+  ]
+  node [
+    id 18
+    label "18"
+    idx 18
+    row 680
+    column 8989
+    demarcated "False"
+    area 2604.0
+    solidity 0.9796839729119639
+    eccentricity 0.8169535450964645
+    diameter 57.58051558027562
+    perimeter 202.89444430272835
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 19
+    label "19"
+    idx 19
+    row 690
+    column 9232
+    demarcated "False"
+    area 1256.0
+    solidity 0.8740431454418929
+    eccentricity 0.7734832066026129
+    diameter 39.989859566987285
+    perimeter 154.61017305526644
+    degree 3.0
+    strength 2.7914308079208827
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 20
+    label "20"
+    idx 20
+    row 702
+    column 3429
+    demarcated "False"
+    area 2931.0
+    solidity 0.8580210772833724
+    eccentricity 0.8486056554634643
+    diameter 61.088993326283926
+    perimeter 256.45079348883235
+    degree 3.0
+    strength 2.8848274077122174
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 21
+    label "21"
+    idx 21
+    row 708
+    column 3500
+    demarcated "False"
+    area 2757.0
+    solidity 0.9646606018194541
+    eccentricity 0.740555422695623
+    diameter 59.24796557549334
+    perimeter 207.9655121145938
+    degree 2.0
+    strength 1.9175392484430227
+    betweenness 0.0
+  ]
+  node [
+    id 22
+    label "22"
+    idx 22
+    row 700
+    column 10011
+    demarcated "False"
+    area 639.0
+    solidity 0.9652567975830816
+    eccentricity 0.8573218324088481
+    diameter 28.523675588636344
+    perimeter 103.49747468305833
+    degree 2.0
+    strength 1.543280269268025
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 23
+    label "23"
+    idx 23
+    row 701
+    column 2946
+    demarcated "False"
+    area 665.0
+    solidity 0.7275711159737418
+    eccentricity 0.9019930947250242
+    diameter 29.098183744847088
+    perimeter 133.74011537017762
+    degree 1.0
+    strength 0.9929668334506464
+    betweenness 0.0
+  ]
+  node [
+    id 24
+    label "24"
+    idx 24
+    row 752
+    column 9101
+    demarcated "False"
+    area 21610.0
+    solidity 0.8421996180677345
+    eccentricity 0.8721917091401098
+    diameter 165.87557554301617
+    perimeter 732.9676041556469
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 25
+    label "25"
+    idx 25
+    row 824
+    column 10209
+    demarcated "False"
+    area 39928.0
+    solidity 0.8153230417381361
+    eccentricity 0.861637593573669
+    diameter 225.4726336879613
+    perimeter 1101.7026688919411
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 26
+    label "26"
+    idx 26
+    row 717
+    column 3332
+    demarcated "False"
+    area 1953.0
+    solidity 0.918194640338505
+    eccentricity 0.8646781696803401
+    diameter 49.86618925552436
+    perimeter 198.16652224137047
+    degree 1.0
+    strength 0.9606624250515013
+    betweenness 0.0
+  ]
+  node [
+    id 27
+    label "27"
+    idx 27
+    row 723
+    column 2898
+    demarcated "False"
+    area 837.0
+    solidity 0.8961456102783726
+    eccentricity 0.936126922839849
+    diameter 32.64508384034771
+    perimeter 136.66904755831212
+    degree 1.0
+    strength 0.9929668334506464
+    betweenness 0.0
+  ]
+  node [
+    id 28
+    label "28"
+    idx 28
+    row 747
+    column 9289
+    demarcated "False"
+    area 2303.0
+    solidity 0.8100597959901512
+    eccentricity 0.8592592133693159
+    diameter 54.150444795265344
+    perimeter 244.4802307403552
+    degree 1.0
+    strength 0.9579462397881271
+    betweenness 0.0
+  ]
+  node [
+    id 29
+    label "29"
+    idx 29
+    row 743
+    column 12699
+    demarcated "True"
+    area 859.0
+    solidity 0.9651685393258427
+    eccentricity 0.8544101362897663
+    diameter 33.0713285026094
+    perimeter 124.22539674441619
+    degree 8.0
+    strength 7.728356195453627
+    betweenness 0.0
+  ]
+  node [
+    id 30
+    label "30"
+    idx 30
+    row 766
+    column 12634
+    demarcated "True"
+    area 4948.0
+    solidity 0.8703605980650836
+    eccentricity 0.8674440624042226
+    diameter 79.37247172256629
+    perimeter 316.048773235279
+    degree 6.0
+    strength 5.152417141799084
+    betweenness 3.0446293410034112E-05
+  ]
+  node [
+    id 31
+    label "31"
+    idx 31
+    row 759
+    column 12508
+    demarcated "True"
+    area 2121.0
+    solidity 0.9477211796246648
+    eccentricity 0.4900093602718414
+    diameter 51.96673045693062
+    perimeter 186.50966799187808
+    degree 2.0
+    strength 1.8640909613585013
+    betweenness 4.8355877768877704E-05
+  ]
+  node [
+    id 32
+    label "32"
+    idx 32
+    row 764
+    column 12729
+    demarcated "True"
+    area 1346.0
+    solidity 0.9586894586894587
+    eccentricity 0.8224130052395263
+    diameter 41.397831189731775
+    perimeter 149.6812408671319
+    degree 11.0
+    strength 10.5093683452755
+    betweenness 1.1641229833248337E-05
+  ]
+  node [
+    id 33
+    label "33"
+    idx 33
+    row 748
+    column 12768
+    demarcated "True"
+    area 135.0
+    solidity 0.9507042253521126
+    eccentricity 0.9350351949241551
+    diameter 13.110581167104948
+    perimeter 50.55634918610404
+    degree 10.0
+    strength 9.646255395028293
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 34
+    label "34"
+    idx 34
+    row 811
+    column 8045
+    demarcated "False"
+    area 24815.0
+    solidity 0.9725270418560903
+    eccentricity 0.9470823610620526
+    diameter 177.75105991977392
+    perimeter 760.1564209736038
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 35
+    label "35"
+    idx 35
+    row 916
+    column 10366
+    demarcated "False"
+    area 72110.0
+    solidity 0.8936006741350253
+    eccentricity 0.8153956287074513
+    diameter 303.0071015188466
+    perimeter 1553.2489168102784
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 36
+    label "36"
+    idx 36
+    row 763
+    column 12394
+    demarcated "True"
+    area 720.0
+    solidity 0.9769335142469471
+    eccentricity 0.6692718598208476
+    diameter 30.277590264241923
+    perimeter 100.42640687119284
+    degree 3.0
+    strength 2.7223336099770257
+    betweenness 8.954792179421798E-06
+  ]
+  node [
+    id 37
+    label "37"
+    idx 37
+    row 777
+    column 4546
+    demarcated "False"
+    area 3257.0
+    solidity 0.9830968910353154
+    eccentricity 0.8547698753241257
+    diameter 64.39674834339405
+    perimeter 228.16652224137044
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 38
+    label "38"
+    idx 38
+    row 804
+    column 12447
+    demarcated "True"
+    area 4778.0
+    solidity 0.8498754891497687
+    eccentricity 0.769974959869443
+    diameter 77.99704189739896
+    perimeter 320.97770542341357
+    degree 5.0
+    strength 4.3438078999468885
+    betweenness 0.00031252224706182074
+  ]
+  node [
+    id 39
+    label "39"
+    idx 39
+    row 775
+    column 12768
+    demarcated "True"
+    area 532.0
+    solidity 0.9637681159420289
+    eccentricity 0.8383591155272134
+    diameter 26.026206750102993
+    perimeter 91.9827560572969
+    degree 12.0
+    strength 11.694592131163827
+    betweenness 0.0
+  ]
+  node [
+    id 40
+    label "40"
+    idx 40
+    row 930
+    column 8608
+    demarcated "False"
+    area 131687.0
+    solidity 0.869341624911704
+    eccentricity 0.8746277643063416
+    diameter 409.4741700370603
+    perimeter 2114.5525240414963
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 41
+    label "41"
+    idx 41
+    row 786
+    column 12846
+    demarcated "True"
+    area 2752.0
+    solidity 0.9489655172413793
+    eccentricity 0.8653199370770285
+    diameter 59.19421616265535
+    perimeter 226.40916292848976
+    degree 7.0
+    strength 6.488601191955665
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 42
+    label "42"
+    idx 42
+    row 803
+    column 10631
+    demarcated "False"
+    area 7870.0
+    solidity 0.8894665461121157
+    eccentricity 0.7912569614433249
+    diameter 100.10192414267435
+    perimeter 417.1614716074871
+    degree 2.0
+    strength 1.6824563090076687
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 43
+    label "43"
+    idx 43
+    row 790
+    column 4435
+    demarcated "False"
+    area 3628.0
+    solidity 0.973437080762007
+    eccentricity 0.9561116825341083
+    diameter 67.96552852953599
+    perimeter 295.19595949289334
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 44
+    label "44"
+    idx 44
+    row 787
+    column 12595
+    demarcated "True"
+    area 1313.0
+    solidity 0.9813153961136024
+    eccentricity 0.8683376011079488
+    diameter 40.887204871906675
+    perimeter 149.88225099390857
+    degree 5.0
+    strength 4.765435007305904
+    betweenness 0.00011014394380688812
+  ]
+  node [
+    id 45
+    label "45"
+    idx 45
+    row 803
+    column 8829
+    demarcated "False"
+    area 2402.0
+    solidity 0.9728635074929121
+    eccentricity 0.8449072270411693
+    diameter 55.30209206218026
+    perimeter 198.89444430272832
+    degree 1.0
+    strength 0.9702895884452734
+    betweenness 0.0
+  ]
+  node [
+    id 46
+    label "46"
+    idx 46
+    row 802
+    column 12377
+    demarcated "True"
+    area 2467.0
+    solidity 0.926051051051051
+    eccentricity 0.8497940706430162
+    diameter 56.04535624707587
+    perimeter 217.48023074035524
+    degree 5.0
+    strength 4.684620666821436
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 47
+    label "47"
+    idx 47
+    row 806
+    column 9521
+    demarcated "False"
+    area 1384.0
+    solidity 0.9440654843110505
+    eccentricity 0.5912330325004352
+    diameter 41.97813156768016
+    perimeter 145.29646455628165
+    degree 1.0
+    strength 0.8952329369036155
+    betweenness 0.0
+  ]
+  node [
+    id 48
+    label "48"
+    idx 48
+    row 807
+    column 12682
+    demarcated "True"
+    area 830.0
+    solidity 0.9242761692650334
+    eccentricity 0.848763536440614
+    diameter 32.5082885143187
+    perimeter 120.22539674441617
+    degree 12.0
+    strength 11.571976190130377
+    betweenness 0.000488483913387459
+  ]
+  node [
+    id 49
+    label "49"
+    idx 49
+    row 807
+    column 12724
+    demarcated "True"
+    area 986.0
+    solidity 0.9781746031746031
+    eccentricity 0.6836823136384117
+    diameter 35.43182455235505
+    perimeter 118.46803743153546
+    degree 14.0
+    strength 13.502688028132898
+    betweenness 2.5968897320323215E-05
+  ]
+  node [
+    id 50
+    label "50"
+    idx 50
+    row 798
+    column 12758
+    demarcated "True"
+    area 237.0
+    solidity 0.855595667870036
+    eccentricity 0.9522754422433134
+    diameter 17.371176474327626
+    perimeter 75.11269837220809
+    degree 13.0
+    strength 12.642525993313011
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 51
+    label "51"
+    idx 51
+    row 843
+    column 9559
+    demarcated "False"
+    area 4081.0
+    solidity 0.9510603588907015
+    eccentricity 0.7941180333082919
+    diameter 72.08391347633811
+    perimeter 259.7228714274745
+    degree 3.0
+    strength 2.7481464315393604
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 52
+    label "52"
+    idx 52
+    row 803
+    column 12803
+    demarcated "True"
+    area 288.0
+    solidity 0.9504950495049505
+    eccentricity 0.8755760417855494
+    diameter 19.149229459268767
+    perimeter 68.8700576850888
+    degree 11.0
+    strength 10.64320732257753
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 53
+    label "53"
+    idx 53
+    row 864
+    column 6410
+    demarcated "False"
+    area 12467.0
+    solidity 0.8412280701754385
+    eccentricity 0.9464097688424192
+    diameter 125.98998930158409
+    perimeter 578.842712474619
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 54
+    label "54"
+    idx 54
+    row 836
+    column 9229
+    demarcated "False"
+    area 4127.0
+    solidity 0.9671900632763065
+    eccentricity 0.8069797602625242
+    diameter 72.48903090207521
+    perimeter 261.7228714274745
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 55
+    label "55"
+    idx 55
+    row 843
+    column 12789
+    demarcated "True"
+    area 2673.0
+    solidity 0.783641160949868
+    eccentricity 0.8949961754148763
+    diameter 58.33840332985717
+    perimeter 269.76450198781714
+    degree 13.0
+    strength 12.048586144353278
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 56
+    label "56"
+    idx 56
+    row 832
+    column 12643
+    demarcated "True"
+    area 2064.0
+    solidity 0.955113373438223
+    eccentricity 0.8542373065685454
+    diameter 51.26369495396695
+    perimeter 183.3380951166243
+    degree 9.0
+    strength 8.53571542161414
+    betweenness 0.00020819891817155679
+  ]
+  node [
+    id 57
+    label "57"
+    idx 57
+    row 824
+    column 12819
+    demarcated "True"
+    area 334.0
+    solidity 0.9653179190751445
+    eccentricity 0.5642926639590254
+    diameter 20.62188177498708
+    perimeter 68.76955262170047
+    degree 11.0
+    strength 10.53658622318764
+    betweenness 0.0001674546137551876
+  ]
+  node [
+    id 58
+    label "58"
+    idx 58
+    row 847
+    column 3200
+    demarcated "False"
+    area 5113.0
+    solidity 0.9598272949127088
+    eccentricity 0.8010449707672825
+    diameter 80.68502830284493
+    perimeter 289.22034611053283
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 59
+    label "59"
+    idx 59
+    row 839
+    column 12348
+    demarcated "True"
+    area 2101.0
+    solidity 0.9642037631941257
+    eccentricity 0.8425310283564585
+    diameter 51.72113961900469
+    perimeter 190.7523086789974
+    degree 4.0
+    strength 3.8627966341230273
+    betweenness 0.00015223146705017055
+  ]
+  node [
+    id 60
+    label "60"
+    idx 60
+    row 884
+    column 8953
+    demarcated "False"
+    area 9560.0
+    solidity 0.9768059670992132
+    eccentricity 0.7033653746426185
+    diameter 110.32755797020143
+    perimeter 381.445742854949
+    degree 1.0
+    strength 0.7233304810287711
+    betweenness 0.0
+  ]
+  node [
+    id 61
+    label "61"
+    idx 61
+    row 864
+    column 10083
+    demarcated "False"
+    area 4704.0
+    solidity 0.9700969272014849
+    eccentricity 0.7303088168068036
+    diameter 77.39068948157914
+    perimeter 274.73506473629425
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 62
+    label "62"
+    idx 62
+    row 864
+    column 10558
+    demarcated "False"
+    area 4131.0
+    solidity 0.9761342155009451
+    eccentricity 0.6134549251484863
+    diameter 72.52415155864257
+    perimeter 249.86500705120545
+    degree 1.0
+    strength 0.85776099859739
+    betweenness 0.0
+  ]
+  node [
+    id 63
+    label "63"
+    idx 63
+    row 881
+    column 6542
+    demarcated "False"
+    area 13265.0
+    solidity 0.8482000127885415
+    eccentricity 0.9638546840010038
+    diameter 129.9596959095855
+    perimeter 613.9554108468271
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 64
+    label "64"
+    idx 64
+    row 846
+    column 12284
+    demarcated "True"
+    area 1652.0
+    solidity 0.9643899591360187
+    eccentricity 0.8191118859901524
+    diameter 45.86274880447626
+    perimeter 162.61017305526642
+    degree 2.0
+    strength 1.9439845432901373
+    betweenness 0.0002296904194021691
+  ]
+  node [
+    id 65
+    label "65"
+    idx 65
+    row 846
+    column 12003
+    demarcated "False"
+    area 834.0
+    solidity 0.9754385964912281
+    eccentricity 0.6043238482163156
+    diameter 32.586527589007176
+    perimeter 109.9827560572969
+    degree 1.0
+    strength 0.9635049167584296
+    betweenness 0.0
+  ]
+  node [
+    id 66
+    label "66"
+    idx 66
+    row 865
+    column 9834
+    demarcated "False"
+    area 2876.0
+    solidity 0.948236069897791
+    eccentricity 0.4972978245516487
+    diameter 60.513113708173435
+    perimeter 212.7523086789974
+    degree 3.0
+    strength 2.774517715435244
+    betweenness 0.0
+  ]
+  node [
+    id 67
+    label "67"
+    idx 67
+    row 836
+    column 12722
+    demarcated "True"
+    area 287.0
+    solidity 0.959866220735786
+    eccentricity 0.741657248090303
+    diameter 19.115955360352558
+    perimeter 65.698484809835
+    degree 16.0
+    strength 15.41374152229665
+    betweenness 0.0010732318427037024
+  ]
+  node [
+    id 68
+    label "68"
+    idx 68
+    row 863
+    column 12869
+    demarcated "True"
+    area 1995.0
+    solidity 0.800561797752809
+    eccentricity 0.6535190340001671
+    diameter 50.39953265404997
+    perimeter 220.99494936611666
+    degree 5.0
+    strength 4.6293179956408625
+    betweenness 0.00010253237045437959
+  ]
+  node [
+    id 69
+    label "69"
+    idx 69
+    row 856
+    column 8863
+    demarcated "False"
+    area 1667.0
+    solidity 0.9829009433962265
+    eccentricity 0.6801176842580302
+    diameter 46.07049295453128
+    perimeter 156.36753236814712
+    degree 2.0
+    strength 1.6936200694740444
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 70
+    label "70"
+    idx 70
+    row 851
+    column 12572
+    demarcated "True"
+    area 1642.0
+    solidity 0.9613583138173302
+    eccentricity 0.8312668410402537
+    diameter 45.723728330650566
+    perimeter 163.0538238691624
+    degree 4.0
+    strength 3.899872844593951
+    betweenness 0.00022073562722274733
+  ]
+  node [
+    id 71
+    label "71"
+    idx 71
+    row 850
+    column 12744
+    demarcated "True"
+    area 503.0
+    solidity 0.9490566037735849
+    eccentricity 0.8346105542364298
+    diameter 25.30690599424961
+    perimeter 91.25483399593904
+    degree 13.0
+    strength 12.555286529099906
+    betweenness 0.00017193200984489852
+  ]
+  node [
+    id 72
+    label "72"
+    idx 72
+    row 882
+    column 11836
+    demarcated "False"
+    area 5097.0
+    solidity 0.9155739177294773
+    eccentricity 0.7902100805214057
+    diameter 80.55868643116722
+    perimeter 323.07821048680194
+    degree 2.0
+    strength 1.7701259768017796
+    betweenness 0.0
+  ]
+  node [
+    id 73
+    label "73"
+    idx 73
+    row 850
+    column 12462
+    demarcated "True"
+    area 496.0
+    solidity 0.9744597249508841
+    eccentricity 0.8490243957894013
+    diameter 25.13019725725687
+    perimeter 87.94112549695429
+    degree 7.0
+    strength 6.564433163438291
+    betweenness 0.0006702661946297216
+  ]
+  node [
+    id 74
+    label "74"
+    idx 74
+    row 894
+    column 11578
+    demarcated "False"
+    area 5039.0
+    solidity 0.9636641805316504
+    eccentricity 0.7492202076834619
+    diameter 80.09902662280288
+    perimeter 282.8355697996826
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 75
+    label "75"
+    idx 75
+    row 882
+    column 10689
+    demarcated "False"
+    area 3173.0
+    solidity 0.9847920546244568
+    eccentricity 0.618734317059343
+    diameter 63.56090839065055
+    perimeter 211.9655121145938
+    degree 2.0
+    strength 1.7337734294998657
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 76
+    label "76"
+    idx 76
+    row 902
+    column 11173
+    demarcated "False"
+    area 6154.0
+    solidity 0.9123795404002966
+    eccentricity 0.7393901985094385
+    diameter 88.51845094837681
+    perimeter 361.1198410471445
+    degree 5.0
+    strength 3.9911485087467176
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 77
+    label "77"
+    idx 77
+    row 872
+    column 11969
+    demarcated "False"
+    area 1740.0
+    solidity 0.8982963345379453
+    eccentricity 0.5611023919108843
+    diameter 47.068426868115985
+    perimeter 173.82337649086284
+    degree 3.0
+    strength 2.934177173351783
+    betweenness 0.00021804918956892078
+  ]
+  node [
+    id 78
+    label "78"
+    idx 78
+    row 877
+    column 3011
+    demarcated "False"
+    area 1639.0
+    solidity 0.9490445859872612
+    eccentricity 0.968679742883646
+    diameter 45.68193968978257
+    perimeter 212.00104602052653
+    degree 3.0
+    strength 2.6966076462672146
+    betweenness 0.0
+  ]
+  node [
+    id 79
+    label "79"
+    idx 79
+    row 898
+    column 9716
+    demarcated "False"
+    area 3531.0
+    solidity 0.9724593775819333
+    eccentricity 0.8847636138720766
+    diameter 67.05079292938943
+    perimeter 252.93607486307093
+    degree 3.0
+    strength 2.71616842707212
+    betweenness 0.0
+  ]
+  node [
+    id 80
+    label "80"
+    idx 80
+    row 873
+    column 12442
+    demarcated "True"
+    area 878.0
+    solidity 0.8841893252769386
+    eccentricity 0.896877026856058
+    diameter 33.43507619667515
+    perimeter 137.29646455628165
+    degree 8.0
+    strength 7.6036433324410755
+    betweenness 0.0001280535281657317
+  ]
+  node [
+    id 81
+    label "81"
+    idx 81
+    row 867
+    column 12718
+    demarcated "True"
+    area 362.0
+    solidity 0.8246013667425968
+    eccentricity 0.9378224855798478
+    diameter 21.468877828012552
+    perimeter 92.18376618407356
+    degree 13.0
+    strength 12.455706866793752
+    betweenness 8.641374453142035E-05
+  ]
+  node [
+    id 82
+    label "82"
+    idx 82
+    row 927
+    column 10944
+    demarcated "False"
+    area 8076.0
+    solidity 0.8931652289316523
+    eccentricity 0.8047280578842386
+    diameter 101.40356287271752
+    perimeter 385.01933598375615
+    degree 1.0
+    strength 0.7536297430466283
+    betweenness 0.0
+  ]
+  node [
+    id 83
+    label "83"
+    idx 83
+    row 902
+    column 12670
+    demarcated "True"
+    area 2980.0
+    solidity 0.8874329958308517
+    eccentricity 0.5755328549055915
+    diameter 61.597514911811054
+    perimeter 243.27922061357856
+    degree 11.0
+    strength 10.042042999436934
+    betweenness 0.0029197099901004772
+  ]
+  node [
+    id 84
+    label "84"
+    idx 84
+    row 980
+    column 4903
+    demarcated "False"
+    area 58433.0
+    solidity 0.8513834452814244
+    eccentricity 0.8915688745664886
+    diameter 272.762179045244
+    perimeter 1874.2854967367377
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 85
+    label "85"
+    idx 85
+    row 894
+    column 12516
+    demarcated "True"
+    area 2854.0
+    solidity 0.8394117647058823
+    eccentricity 0.9349542351948676
+    diameter 60.28122145970629
+    perimeter 258.9360748630709
+    degree 7.0
+    strength 6.510293266435263
+    betweenness 0.0004419189940544657
+  ]
+  node [
+    id 86
+    label "86"
+    idx 86
+    row 900
+    column 12769
+    demarcated "True"
+    area 4416.0
+    solidity 0.8341518700415564
+    eccentricity 0.8983010594112513
+    diameter 74.98417052652165
+    perimeter 339.8061325481598
+    degree 11.0
+    strength 9.607842700708073
+    betweenness 0.00041326365908031596
+  ]
+  node [
+    id 87
+    label "87"
+    idx 87
+    row 902
+    column 3104
+    demarcated "False"
+    area 5263.0
+    solidity 0.9218777369066387
+    eccentricity 0.9005842571822031
+    diameter 81.86000075703129
+    perimeter 325.86500705120545
+    degree 3.0
+    strength 2.5496712593116984
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 88
+    label "88"
+    idx 88
+    row 889
+    column 12621
+    demarcated "True"
+    area 1124.0
+    solidity 0.9615055603079555
+    eccentricity 0.771439281745072
+    diameter 37.83016320718592
+    perimeter 137.4386001800126
+    degree 5.0
+    strength 4.648614251664506
+    betweenness 0.0002614799316391165
+  ]
+  node [
+    id 89
+    label "89"
+    idx 89
+    row 882
+    column 11219
+    demarcated "False"
+    area 308.0
+    solidity 0.9685534591194969
+    eccentricity 0.7361272343590649
+    diameter 19.802974013476614
+    perimeter 65.4558441227157
+    degree 4.0
+    strength 3.6930053718012363
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 90
+    label "90"
+    idx 90
+    row 910
+    column 9928
+    demarcated "False"
+    area 3107.0
+    solidity 0.9670090258325552
+    eccentricity 0.791600279691233
+    diameter 62.8963851544121
+    perimeter 222.55129855222071
+    degree 3.0
+    strength 2.6512699552966317
+    betweenness 0.0
+  ]
+  node [
+    id 91
+    label "91"
+    idx 91
+    row 907
+    column 11891
+    demarcated "False"
+    area 1393.0
+    solidity 0.9830628087508821
+    eccentricity 0.7059979936927946
+    diameter 42.11439998166995
+    perimeter 142.66904755831212
+    degree 4.0
+    strength 3.786565560359552
+    betweenness 0.0025574886464428655
+  ]
+  node [
+    id 92
+    label "92"
+    idx 92
+    row 910
+    column 12149
+    demarcated "True"
+    area 3826.0
+    solidity 0.9787669480685597
+    eccentricity 0.7059565854068383
+    diameter 69.79551918394714
+    perimeter 238.30865786510145
+    degree 5.0
+    strength 4.546584971839137
+    betweenness 1.7909584358843596E-05
+  ]
+  node [
+    id 93
+    label "93"
+    idx 93
+    row 905
+    column 10985
+    demarcated "False"
+    area 1183.0
+    solidity 0.9858333333333333
+    eccentricity 0.8305955353657981
+    diameter 38.810338589372
+    perimeter 134.8111831820431
+    degree 1.0
+    strength 0.7536297430466283
+    betweenness 0.0
+  ]
+  node [
+    id 94
+    label "94"
+    idx 94
+    row 974
+    column 9853
+    demarcated "False"
+    area 7654.0
+    solidity 0.8063632532659082
+    eccentricity 0.8799900342377908
+    diameter 98.71866832267814
+    perimeter 444.7594513539338
+    degree 6.0
+    strength 4.660612346750103
+    betweenness 4.477396089710899E-05
+  ]
+  node [
+    id 95
+    label "95"
+    idx 95
+    row 968
+    column 11423
+    demarcated "False"
+    area 10892.0
+    solidity 0.8352760736196319
+    eccentricity 0.8600717147471981
+    diameter 117.76300404310088
+    perimeter 547.3452377915606
+    degree 5.0
+    strength 3.3701804696162596
+    betweenness 2.5073418102381034E-05
+  ]
+  node [
+    id 96
+    label "96"
+    idx 96
+    row 909
+    column 9756
+    demarcated "False"
+    area 732.0
+    solidity 0.9207547169811321
+    eccentricity 0.7617697236610325
+    diameter 30.52886088189566
+    perimeter 110.22539674441617
+    degree 6.0
+    strength 5.755593166156933
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 97
+    label "97"
+    idx 97
+    row 932
+    column 12223
+    demarcated "True"
+    area 2004.0
+    solidity 0.915068493150685
+    eccentricity 0.8868016634168013
+    diameter 50.51308788471822
+    perimeter 204.89444430272832
+    degree 3.0
+    strength 2.752267700041298
+    betweenness 0.0006863848205526808
+  ]
+  node [
+    id 98
+    label "98"
+    idx 98
+    row 943
+    column 12842
+    demarcated "True"
+    area 6805.0
+    solidity 0.8291702205434385
+    eccentricity 0.41233778712220687
+    diameter 93.08273256583512
+    perimeter 418.9015869776647
+    degree 6.0
+    strength 4.963079709413626
+    betweenness 0.00041102496103546054
+  ]
+  node [
+    id 99
+    label "99"
+    idx 99
+    row 916
+    column 9504
+    demarcated "False"
+    area 1307.0
+    solidity 0.9827067669172932
+    eccentricity 0.75328154247133
+    diameter 40.79367702192164
+    perimeter 138.71067811865476
+    degree 3.0
+    strength 2.7373365488843513
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 100
+    label "100"
+    idx 100
+    row 968
+    column 7047
+    demarcated "False"
+    area 25771.0
+    solidity 0.9084852116896394
+    eccentricity 0.9447326824176977
+    diameter 181.14264077618466
+    perimeter 784.097546470558
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 101
+    label "101"
+    idx 101
+    row 936
+    column 9565
+    demarcated "False"
+    area 5063.0
+    solidity 0.9908023483365949
+    eccentricity 0.5301523757074089
+    diameter 80.28954984924333
+    perimeter 264.40916292848976
+    degree 2.0
+    strength 1.8176675927809867
+    betweenness 0.0
+  ]
+  node [
+    id 102
+    label "102"
+    idx 102
+    row 964
+    column 8118
+    demarcated "False"
+    area 6627.0
+    solidity 0.8425937698664971
+    eccentricity 0.8223615852011679
+    diameter 91.85727223774894
+    perimeter 382.3330444827409
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 103
+    label "103"
+    idx 103
+    row 1057
+    column 6511
+    demarcated "False"
+    area 71995.0
+    solidity 0.5982682255960245
+    eccentricity 0.9431087114894379
+    diameter 302.7653894077195
+    perimeter 2793.1942263893384
+    degree 3.0
+    strength 0.18767050542353925
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 104
+    label "104"
+    idx 104
+    row 916
+    column 11255
+    demarcated "False"
+    area 1037.0
+    solidity 0.971883786316776
+    eccentricity 0.7292554294473242
+    diameter 36.33661249883324
+    perimeter 123.39696961966999
+    degree 7.0
+    strength 6.6758360109754715
+    betweenness 4.701265894196444E-05
+  ]
+  node [
+    id 105
+    label "105"
+    idx 105
+    row 917
+    column 12471
+    demarcated "True"
+    area 1109.0
+    solidity 0.9601731601731601
+    eccentricity 0.7731897872487552
+    diameter 37.57688990737918
+    perimeter 128.3259018078045
+    degree 9.0
+    strength 8.707861260739943
+    betweenness 0.0001732752286718118
+  ]
+  node [
+    id 106
+    label "106"
+    idx 106
+    row 916
+    column 11340
+    demarcated "False"
+    area 550.0
+    solidity 0.9803921568627451
+    eccentricity 0.8171328599387171
+    diameter 26.462837142006137
+    perimeter 90.66904755831214
+    degree 7.0
+    strength 6.544836368650573
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 107
+    label "107"
+    idx 107
+    row 926
+    column 12423
+    demarcated "True"
+    area 1607.0
+    solidity 0.9846813725490197
+    eccentricity 0.7324660486725953
+    diameter 45.23379210711176
+    perimeter 152.0243866176395
+    degree 8.0
+    strength 7.747413932348818
+    betweenness 0.0006738481115014902
+  ]
+  node [
+    id 108
+    label "108"
+    idx 108
+    row 985
+    column 10017
+    demarcated "False"
+    area 13631.0
+    solidity 0.7670793472144063
+    eccentricity 0.894736047640082
+    diameter 131.74038194223138
+    perimeter 619.9909447527599
+    degree 2.0
+    strength 1.3100447958197678
+    betweenness 0.0
+  ]
+  node [
+    id 109
+    label "109"
+    idx 109
+    row 945
+    column 11831
+    demarcated "False"
+    area 2829.0
+    solidity 0.9392430278884463
+    eccentricity 0.9108513636275882
+    diameter 60.01661996527108
+    perimeter 248.04267658086914
+    degree 5.0
+    strength 4.580935507304623
+    betweenness 0.0021401953308818095
+  ]
+  node [
+    id 110
+    label "110"
+    idx 110
+    row 922
+    column 3033
+    demarcated "False"
+    area 376.0
+    solidity 0.8487584650112867
+    eccentricity 0.9301662911277909
+    diameter 21.880083839428522
+    perimeter 92.2193000900063
+    degree 5.0
+    strength 4.401865557982612
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 111
+    label "111"
+    idx 111
+    row 953
+    column 11493
+    demarcated "False"
+    area 4130.0
+    solidity 0.9472477064220184
+    eccentricity 0.7536689017325552
+    diameter 72.51537298915467
+    perimeter 262.79393923934
+    degree 1.0
+    strength 0.7576918497164743
+    betweenness 0.0
+  ]
+  node [
+    id 112
+    label "112"
+    idx 112
+    row 924
+    column 9808
+    demarcated "False"
+    area 1397.0
+    solidity 0.8775125628140703
+    eccentricity 0.8279840683584477
+    diameter 42.17482239435066
+    perimeter 168.6812408671319
+    degree 6.0
+    strength 5.570611063448241
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 113
+    label "113"
+    idx 113
+    row 1026
+    column 5988
+    demarcated "False"
+    area 37282.0
+    solidity 0.641410752688172
+    eccentricity 0.8599680561107483
+    diameter 217.8736255420016
+    perimeter 1872.95454429505
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 114
+    label "114"
+    idx 114
+    row 923
+    column 12087
+    demarcated "True"
+    area 613.0
+    solidity 0.9653543307086614
+    eccentricity 0.6194708159843899
+    diameter 27.937355653723827
+    perimeter 94.08326112068524
+    degree 4.0
+    strength 3.7404335733820604
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 115
+    label "115"
+    idx 115
+    row 967
+    column 12613
+    demarcated "True"
+    area 6211.0
+    solidity 0.8022474812709894
+    eccentricity 0.9068867584917153
+    diameter 88.927446901112
+    perimeter 407.88939366884495
+    degree 6.0
+    strength 4.975517612054297
+    betweenness 0.0026215154105257315
+  ]
+  node [
+    id 116
+    label "116"
+    idx 116
+    row 929
+    column 12299
+    demarcated "True"
+    area 714.0
+    solidity 0.967479674796748
+    eccentricity 0.7981378846757123
+    diameter 30.15116971098976
+    perimeter 104.5685424949238
+    degree 3.0
+    strength 2.843147155290538
+    betweenness 0.0006357902447389477
+  ]
+  node [
+    id 117
+    label "117"
+    idx 117
+    row 934
+    column 9838
+    demarcated "False"
+    area 781.0
+    solidity 0.9738154613466334
+    eccentricity 0.7974834477576453
+    diameter 31.534109856442154
+    perimeter 113.15432893255071
+    degree 7.0
+    strength 6.53321358795669
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 118
+    label "118"
+    idx 118
+    row 930
+    column 12716
+    demarcated "True"
+    area 631.0
+    solidity 0.9737654320987654
+    eccentricity 0.6216831342995804
+    diameter 28.34456125481373
+    perimeter 95.74011537017762
+    degree 9.0
+    strength 8.669194170902314
+    betweenness 0.0
+  ]
+  node [
+    id 119
+    label "119"
+    idx 119
+    row 945
+    column 2966
+    demarcated "False"
+    area 4608.0
+    solidity 0.9121140142517815
+    eccentricity 0.9173999444665979
+    diameter 76.59691783707507
+    perimeter 305.76450198781714
+    degree 4.0
+    strength 3.5579585872303725
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 120
+    label "120"
+    idx 120
+    row 943
+    column 11224
+    demarcated "False"
+    area 1451.0
+    solidity 0.9343206696716033
+    eccentricity 0.7201928728311441
+    diameter 42.982212360588434
+    perimeter 155.58073580374355
+    degree 7.0
+    strength 6.611629374234079
+    betweenness 4.298300246122463E-05
+  ]
+  node [
+    id 121
+    label "121"
+    idx 121
+    row 936
+    column 9202
+    demarcated "False"
+    area 1349.0
+    solidity 0.9832361516034985
+    eccentricity 0.5465067926267089
+    diameter 41.44393979640129
+    perimeter 136.71067811865476
+    degree 2.0
+    strength 1.8549018253310137
+    betweenness 0.0
+  ]
+  node [
+    id 122
+    label "122"
+    idx 122
+    row 1062
+    column 11590
+    demarcated "False"
+    area 44724.0
+    solidity 0.9237823769983889
+    eccentricity 0.7865164920072012
+    diameter 238.6301854307946
+    perimeter 932.8742417671949
+    degree 1.0
+    strength 0.16090209655521537
+    betweenness 0.0
+  ]
+  node [
+    id 123
+    label "123"
+    idx 123
+    row 955
+    column 5824
+    demarcated "False"
+    area 8664.0
+    solidity 0.9490634242523825
+    eccentricity 0.9844887004597921
+    diameter 105.03022143928598
+    perimeter 543.4213562373095
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 124
+    label "124"
+    idx 124
+    row 985
+    column 7918
+    demarcated "False"
+    area 12280.0
+    solidity 0.9890463917525774
+    eccentricity 0.7895162710031847
+    diameter 125.04151954190175
+    perimeter 435.445742854949
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 125
+    label "125"
+    idx 125
+    row 984
+    column 5185
+    demarcated "False"
+    area 13125.0
+    solidity 0.9233853946813001
+    eccentricity 0.9161487228432349
+    diameter 129.27207364566027
+    perimeter 561.5290039756342
+    degree 1.0
+    strength 0.7661333308452687
+    betweenness 0.0
+  ]
+  node [
+    id 126
+    label "126"
+    idx 126
+    row 961
+    column 9764
+    demarcated "False"
+    area 1193.0
+    solidity 0.9072243346007605
+    eccentricity 0.8991986329642443
+    diameter 38.97402695217738
+    perimeter 155.0538238691624
+    degree 9.0
+    strength 8.548984415586098
+    betweenness 3.3580470672831744E-05
+  ]
+  node [
+    id 127
+    label "127"
+    idx 127
+    row 947
+    column 11343
+    demarcated "False"
+    area 661.0
+    solidity 0.9792592592592593
+    eccentricity 0.5113380052069186
+    diameter 29.010538413996088
+    perimeter 94.42640687119285
+    degree 7.0
+    strength 6.556420888889315
+    betweenness 0.0
+  ]
+  node [
+    id 128
+    label "128"
+    idx 128
+    row 957
+    column 9455
+    demarcated "False"
+    area 1607.0
+    solidity 0.9763061968408262
+    eccentricity 0.8039765975715208
+    diameter 45.23379210711176
+    perimeter 157.4386001800126
+    degree 1.0
+    strength 0.9877649713759721
+    betweenness 0.0
+  ]
+  node [
+    id 129
+    label "129"
+    idx 129
+    row 949
+    column 12463
+    demarcated "True"
+    area 977.0
+    solidity 0.83078231292517
+    eccentricity 0.8525108976585145
+    diameter 35.269746741453275
+    perimeter 150.36753236814715
+    degree 11.0
+    strength 10.66529397030681
+    betweenness 0.0008390640272118225
+  ]
+  node [
+    id 130
+    label "130"
+    idx 130
+    row 952
+    column 12520
+    demarcated "True"
+    area 876.0
+    solidity 0.8673267326732673
+    eccentricity 0.8340367627903911
+    diameter 33.396973533360814
+    perimeter 130.60407640085654
+    degree 8.0
+    strength 7.473980561458032
+    betweenness 0.000672504892674577
+  ]
+  node [
+    id 131
+    label "131"
+    idx 131
+    row 954
+    column 11262
+    demarcated "False"
+    area 761.0
+    solidity 0.9681933842239185
+    eccentricity 0.7080545403991971
+    diameter 31.127725479762553
+    perimeter 111.49747468305833
+    degree 7.0
+    strength 6.8703446249602145
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 132
+    label "132"
+    idx 132
+    row 946
+    column 11368
+    demarcated "False"
+    area 227.0
+    solidity 0.9826839826839827
+    eccentricity 0.7085869476745371
+    diameter 17.000746355818674
+    perimeter 58.8700576850888
+    degree 5.0
+    strength 4.526021342653594
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 133
+    label "133"
+    idx 133
+    row 958
+    column 11970
+    demarcated "False"
+    area 1367.0
+    solidity 0.9722617354196301
+    eccentricity 0.5772636253628457
+    diameter 41.719521301819455
+    perimeter 141.53910524340094
+    degree 3.0
+    strength 2.963315121860113
+    betweenness 0.003176712525649883
+  ]
+  node [
+    id 134
+    label "134"
+    idx 134
+    row 966
+    column 12334
+    demarcated "True"
+    area 2418.0
+    solidity 0.9504716981132075
+    eccentricity 0.7281850682426719
+    diameter 55.485973174935154
+    perimeter 195.3380951166243
+    degree 4.0
+    strength 3.788280702411325
+    betweenness 0.0009809974832556579
+  ]
+  node [
+    id 135
+    label "135"
+    idx 135
+    row 957
+    column 6790
+    demarcated "False"
+    area 2569.0
+    solidity 0.9301230992034757
+    eccentricity 0.9342146061378527
+    diameter 57.19224064875088
+    perimeter 237.48023074035524
+    degree 1.0
+    strength 0.9321972512821405
+    betweenness 0.0
+  ]
+  node [
+    id 136
+    label "136"
+    idx 136
+    row 963
+    column 12396
+    demarcated "True"
+    area 657.0
+    solidity 0.9125
+    eccentricity 0.8496133613728871
+    diameter 28.92262748940701
+    perimeter 116.91168824543142
+    degree 8.0
+    strength 7.779425706056618
+    betweenness 0.0002167059707420075
+  ]
+  node [
+    id 137
+    label "137"
+    idx 137
+    row 953
+    column 12765
+    demarcated "True"
+    area 974.0
+    solidity 0.9521016617790812
+    eccentricity 0.8697194620038875
+    diameter 35.21555503711461
+    perimeter 133.0538238691624
+    degree 8.0
+    strength 7.510014803974624
+    betweenness 0.00010387558928129286
+  ]
+  node [
+    id 138
+    label "138"
+    idx 138
+    row 956
+    column 10500
+    demarcated "False"
+    area 701.0
+    solidity 0.9309428950863213
+    eccentricity 0.7798185835692573
+    diameter 29.87542335866304
+    perimeter 109.15432893255071
+    degree 1.0
+    strength 0.680988078469401
+    betweenness 0.0
+  ]
+  node [
+    id 139
+    label "139"
+    idx 139
+    row 953
+    column 12731
+    demarcated "True"
+    area 205.0
+    solidity 0.9579439252336449
+    eccentricity 0.7327163307088628
+    diameter 16.15593100600236
+    perimeter 54.2842712474619
+    degree 7.0
+    strength 6.611269021358579
+    betweenness 0.00017014105140901415
+  ]
+  node [
+    id 140
+    label "140"
+    idx 140
+    row 973
+    column 12097
+    demarcated "True"
+    area 2287.0
+    solidity 0.9862009486847779
+    eccentricity 0.5684654344913003
+    diameter 53.9620129239942
+    perimeter 178.71067811865476
+    degree 6.0
+    strength 5.6229011221507434
+    betweenness 0.003570723381544442
+  ]
+  node [
+    id 141
+    label "141"
+    idx 141
+    row 969
+    column 6199
+    demarcated "False"
+    area 2588.0
+    solidity 0.9390420899854862
+    eccentricity 0.8675975297585459
+    diameter 57.403344343118206
+    perimeter 231.7228714274745
+    degree 1.0
+    strength 0.9507015528434608
+    betweenness 0.0
+  ]
+  node [
+    id 142
+    label "142"
+    idx 142
+    row 955
+    column 11146
+    demarcated "False"
+    area 183.0
+    solidity 0.9682539682539683
+    eccentricity 0.5360885702150576
+    diameter 15.26443044094783
+    perimeter 48.97056274847714
+    degree 3.0
+    strength 2.726952580235599
+    betweenness 0.0
+  ]
+  node [
+    id 143
+    label "143"
+    idx 143
+    row 965
+    column 9906
+    demarcated "False"
+    area 876.0
+    solidity 0.9348986125933831
+    eccentricity 0.9122397950094909
+    diameter 33.396973533360814
+    perimeter 125.19595949289332
+    degree 4.0
+    strength 3.634160956226979
+    betweenness 1.4775407096045967E-05
+  ]
+  node [
+    id 144
+    label "144"
+    idx 144
+    row 963
+    column 11770
+    demarcated "False"
+    area 394.0
+    solidity 0.9656862745098039
+    eccentricity 0.4177969852152803
+    diameter 22.397686948112614
+    perimeter 73.84062043356595
+    degree 4.0
+    strength 3.7539411285523445
+    betweenness 0.0
+  ]
+  node [
+    id 145
+    label "145"
+    idx 145
+    row 993
+    column 12181
+    demarcated "True"
+    area 5234.0
+    solidity 0.9690798000370302
+    eccentricity 0.6930568289500774
+    diameter 81.63415815174332
+    perimeter 283.1787155501902
+    degree 7.0
+    strength 6.083241545845509
+    betweenness 0.0034444608118145946
+  ]
+  node [
+    id 146
+    label "146"
+    idx 146
+    row 980
+    column 12569
+    demarcated "True"
+    area 2353.0
+    solidity 0.9836956521739131
+    eccentricity 0.6869235614197502
+    diameter 54.73511348998774
+    perimeter 185.6812408671319
+    degree 7.0
+    strength 6.514964334613431
+    betweenness 0.001847373626614717
+  ]
+  node [
+    id 147
+    label "147"
+    idx 147
+    row 971
+    column 10690
+    demarcated "False"
+    area 850.0
+    solidity 0.9736540664375716
+    eccentricity 0.827637323377977
+    diameter 32.897623212397704
+    perimeter 118.22539674441617
+    degree 1.0
+    strength 0.909078119089587
+    betweenness 0.0
+  ]
+  node [
+    id 148
+    label "148"
+    idx 148
+    row 969
+    column 3108
+    demarcated "False"
+    area 1857.0
+    solidity 0.9440772750381291
+    eccentricity 0.9290674637827007
+    diameter 48.62515639638805
+    perimeter 205.92388155425118
+    degree 2.0
+    strength 1.810599467320538
+    betweenness 0.0
+  ]
+  node [
+    id 149
+    label "149"
+    idx 149
+    row 985
+    column 9277
+    demarcated "False"
+    area 1731.0
+    solidity 0.9675796534376747
+    eccentricity 0.7863025659052613
+    diameter 46.946540361740894
+    perimeter 168.12489168102786
+    degree 4.0
+    strength 3.8144972062562528
+    betweenness 0.0
+  ]
+  node [
+    id 150
+    label "150"
+    idx 150
+    row 971
+    column 11160
+    demarcated "False"
+    area 306.0
+    solidity 0.9714285714285714
+    eccentricity 0.45658460727714284
+    diameter 19.738573927438622
+    perimeter 63.35533905932738
+    degree 3.0
+    strength 2.7357165411478945
+    betweenness 0.0
+  ]
+  node [
+    id 151
+    label "151"
+    idx 151
+    row 1014
+    column 9238
+    demarcated "False"
+    area 4730.0
+    solidity 0.8607825295723385
+    eccentricity 0.7848076243000808
+    diameter 77.60427208986191
+    perimeter 302.1076477383248
+    degree 4.0
+    strength 3.4751906195093927
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 152
+    label "152"
+    idx 152
+    row 992
+    column 12029
+    demarcated "True"
+    area 1870.0
+    solidity 0.8960229995208433
+    eccentricity 0.7742899577116765
+    diameter 48.7950606993654
+    perimeter 193.62236636408616
+    degree 3.0
+    strength 2.91233170540971
+    betweenness 0.0033813295269496707
+  ]
+  node [
+    id 153
+    label "153"
+    idx 153
+    row 979
+    column 12434
+    demarcated "True"
+    area 1314.0
+    solidity 0.9755011135857461
+    eccentricity 0.5972550402603147
+    diameter 40.90277205498429
+    perimeter 141.39696961967
+    degree 10.0
+    strength 9.727224874102525
+    betweenness 0.0006380289427838031
+  ]
+  node [
+    id 154
+    label "154"
+    idx 154
+    row 979
+    column 11336
+    demarcated "False"
+    area 603.0
+    solidity 0.9741518578352181
+    eccentricity 0.6881645347917982
+    diameter 27.70854462932514
+    perimeter 91.59797974644667
+    degree 7.0
+    strength 6.513513199657012
+    betweenness 3.581916871768719E-05
+  ]
+  node [
+    id 155
+    label "155"
+    idx 155
+    row 982
+    column 12759
+    demarcated "True"
+    area 1118.0
+    solidity 0.9278008298755187
+    eccentricity 0.926421661393538
+    diameter 37.72905791315113
+    perimeter 151.29646455628165
+    degree 7.0
+    strength 6.532733422446901
+    betweenness 0.0005843001897072723
+  ]
+  node [
+    id 156
+    label "156"
+    idx 156
+    row 993
+    column 11300
+    demarcated "False"
+    area 2085.0
+    solidity 0.9738439981317142
+    eccentricity 0.6254379151495383
+    diameter 51.523824108588975
+    perimeter 174.26702730475878
+    degree 9.0
+    strength 8.583206134260976
+    betweenness 0.00020775117856258572
+  ]
+  node [
+    id 157
+    label "157"
+    idx 157
+    row 980
+    column 11787
+    demarcated "False"
+    area 205.0
+    solidity 0.9715639810426541
+    eccentricity 0.38826831438890785
+    diameter 16.15593100600236
+    perimeter 54.11269837220809
+    degree 4.0
+    strength 3.732605559273781
+    betweenness 0.00021446727269715206
+  ]
+  node [
+    id 158
+    label "158"
+    idx 158
+    row 1006
+    column 12514
+    demarcated "True"
+    area 4415.0
+    solidity 0.9718247853841074
+    eccentricity 0.8324973131399167
+    diameter 74.97567999028581
+    perimeter 275.56349186104046
+    degree 10.0
+    strength 8.72418031084365
+    betweenness 0.0004822155588618638
+  ]
+  node [
+    id 159
+    label "159"
+    idx 159
+    row 1018
+    column 10102
+    demarcated "False"
+    area 5333.0
+    solidity 0.9553923324973128
+    eccentricity 0.6912999159318257
+    diameter 82.40258789669547
+    perimeter 293.94826817189073
+    degree 4.0
+    strength 3.2945137111549574
+    betweenness 2.4177938884438852E-05
+  ]
+  node [
+    id 160
+    label "160"
+    idx 160
+    row 989
+    column 12683
+    demarcated "True"
+    area 968.0
+    solidity 0.967032967032967
+    eccentricity 0.7750667293303414
+    diameter 35.10692067532608
+    perimeter 125.63961030678928
+    degree 8.0
+    strength 7.279304682339256
+    betweenness 0.002834191724786999
+  ]
+  node [
+    id 161
+    label "161"
+    idx 161
+    row 1056
+    column 10823
+    demarcated "False"
+    area 25602.0
+    solidity 0.9359508664180741
+    eccentricity 0.5721395001645871
+    diameter 180.54771896734016
+    perimeter 715.1686142824235
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 162
+    label "162"
+    idx 162
+    row 1014
+    column 12817
+    demarcated "True"
+    area 2729.0
+    solidity 0.8332824427480916
+    eccentricity 0.7966741479971795
+    diameter 58.94633760957723
+    perimeter 239.86500705120548
+    degree 6.0
+    strength 5.54738787099787
+    betweenness 0.00020282604286390372
+  ]
+  node [
+    id 163
+    label "163"
+    idx 163
+    row 1017
+    column 11750
+    demarcated "False"
+    area 3575.0
+    solidity 0.9425257052465067
+    eccentricity 0.6262034708936908
+    diameter 67.4672614860586
+    perimeter 241.7228714274745
+    degree 4.0
+    strength 3.578655408114929
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 164
+    label "164"
+    idx 164
+    row 1018
+    column 6306
+    demarcated "False"
+    area 5528.0
+    solidity 0.8766254360926102
+    eccentricity 0.9198538770726129
+    diameter 83.8955791641966
+    perimeter 381.3624817342638
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 165
+    label "165"
+    idx 165
+    row 998
+    column 9731
+    demarcated "False"
+    area 634.0
+    solidity 0.9505247376311844
+    eccentricity 0.825348082560787
+    diameter 28.41186145542198
+    perimeter 102.71067811865474
+    degree 6.0
+    strength 5.720588813898466
+    betweenness 1.7909584358843596E-05
+  ]
+  node [
+    id 166
+    label "166"
+    idx 166
+    row 1036
+    column 10532
+    demarcated "False"
+    area 10064.0
+    solidity 0.8867741651246805
+    eccentricity 0.7908654141327323
+    diameter 113.19842215426273
+    perimeter 435.144227664784
+    degree 2.0
+    strength 1.402776748916589
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 167
+    label "167"
+    idx 167
+    row 1019
+    column 6204
+    demarcated "False"
+    area 3820.0
+    solidity 0.9218146718146718
+    eccentricity 0.899748520235813
+    diameter 69.74077043515021
+    perimeter 285.4213562373095
+    degree 1.0
+    strength 0.9507015528434608
+    betweenness 0.0
+  ]
+  node [
+    id 168
+    label "168"
+    idx 168
+    row 1000
+    column 9683
+    demarcated "False"
+    area 819.0
+    solidity 0.975
+    eccentricity 0.6542893944986926
+    diameter 32.29215364663835
+    perimeter 109.63961030678928
+    degree 4.0
+    strength 3.767882574157089
+    betweenness 0.0
+  ]
+  node [
+    id 169
+    label "169"
+    idx 169
+    row 1002
+    column 11806
+    demarcated "False"
+    area 908.0
+    solidity 0.9763440860215054
+    eccentricity 0.3663905960334574
+    diameter 34.00149271163735
+    perimeter 114.46803743153545
+    degree 5.0
+    strength 4.731062769515743
+    betweenness 0.0012868036361829123
+  ]
+  node [
+    id 170
+    label "170"
+    idx 170
+    row 1016
+    column 3000
+    demarcated "False"
+    area 4266.0
+    solidity 0.9448504983388705
+    eccentricity 0.9368404842934903
+    diameter 73.69966009311172
+    perimeter 293.7228714274745
+    degree 2.0
+    strength 1.8385265577961412
+    betweenness 0.0
+  ]
+  node [
+    id 171
+    label "171"
+    idx 171
+    row 1040
+    column 9005
+    demarcated "False"
+    area 8801.0
+    solidity 0.9676745464540957
+    eccentricity 0.7033665399992939
+    diameter 105.85736267834262
+    perimeter 374.2914139223983
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 172
+    label "172"
+    idx 172
+    row 1082
+    column 5340
+    demarcated "False"
+    area 35521.0
+    solidity 0.7406843630752549
+    eccentricity 0.9772227163850329
+    diameter 212.6657985397222
+    perimeter 1733.9352083112935
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 173
+    label "173"
+    idx 173
+    row 1010
+    column 6750
+    demarcated "False"
+    area 858.0
+    solidity 0.9738933030646992
+    eccentricity 0.7946571142056265
+    diameter 33.05207299675423
+    perimeter 114.8111831820431
+    degree 1.0
+    strength 0.9321972512821405
+    betweenness 0.0
+  ]
+  node [
+    id 174
+    label "174"
+    idx 174
+    row 999
+    column 12131
+    demarcated "True"
+    area 136.0
+    solidity 0.951048951048951
+    eccentricity 0.6567416091575604
+    diameter 13.159049284959082
+    perimeter 42.8700576850888
+    degree 6.0
+    strength 5.462223051591503
+    betweenness 0.0001907370734216843
+  ]
+  node [
+    id 175
+    label "175"
+    idx 175
+    row 1009
+    column 2899
+    demarcated "False"
+    area 533.0
+    solidity 0.9726277372262774
+    eccentricity 0.5564816405993395
+    diameter 26.05065598682386
+    perimeter 88.32590180780451
+    degree 1.0
+    strength 0.8460155604333252
+    betweenness 0.0
+  ]
+  node [
+    id 176
+    label "176"
+    idx 176
+    row 1021
+    column 12861
+    demarcated "True"
+    area 1686.0
+    solidity 0.9813736903376019
+    eccentricity 0.6385669102337274
+    diameter 46.33229837190774
+    perimeter 156.16652224137044
+    degree 4.0
+    strength 3.612457838838922
+    betweenness 0.00022386980448554493
+  ]
+  node [
+    id 177
+    label "177"
+    idx 177
+    row 1032
+    column 9798
+    demarcated "False"
+    area 1559.0
+    solidity 0.9500304692260817
+    eccentricity 0.8442268461120886
+    diameter 44.55311942212485
+    perimeter 166.40916292848976
+    degree 5.0
+    strength 4.6401795020719225
+    betweenness 5.462423229447297E-05
+  ]
+  node [
+    id 178
+    label "178"
+    idx 178
+    row 1078
+    column 12693
+    demarcated "True"
+    area 12413.0
+    solidity 0.8567780231916069
+    eccentricity 0.4304404801197089
+    diameter 125.71683446856899
+    perimeter 567.1858582251266
+    degree 4.0
+    strength 2.5206701378290237
+    betweenness 0.0028780702064661657
+  ]
+  node [
+    id 179
+    label "179"
+    idx 179
+    row 1023
+    column 9318
+    demarcated "False"
+    area 1035.0
+    solidity 0.9610027855153204
+    eccentricity 0.8023056943607221
+    diameter 36.301555459799424
+    perimeter 133.53910524340094
+    degree 3.0
+    strength 2.8289413312598706
+    betweenness 0.0
+  ]
+  node [
+    id 180
+    label "180"
+    idx 180
+    row 1028
+    column 12351
+    demarcated "True"
+    area 1379.0
+    solidity 0.969760900140647
+    eccentricity 0.8071261687748097
+    diameter 41.90223540802793
+    perimeter 145.095454429505
+    degree 8.0
+    strength 7.7652862687322735
+    betweenness 0.0019145345679603804
+  ]
+  node [
+    id 181
+    label "181"
+    idx 181
+    row 1024
+    column 9704
+    demarcated "False"
+    area 451.0
+    solidity 0.9740820734341252
+    eccentricity 0.7778120737527944
+    diameter 23.96311821686732
+    perimeter 82.8111831820431
+    degree 5.0
+    strength 4.696681422086745
+    betweenness 6.760868095463458E-05
+  ]
+  node [
+    id 182
+    label "182"
+    idx 182
+    row 1167
+    column 10501
+    demarcated "False"
+    area 49984.0
+    solidity 0.6749395735717083
+    eccentricity 0.6969559247887114
+    diameter 252.27287885153723
+    perimeter 1798.9373003523467
+    degree 2.0
+    strength 0.2654479447570356
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 183
+    label "183"
+    idx 183
+    row 1032
+    column 12139
+    demarcated "True"
+    area 1440.0
+    solidity 0.8716707021791767
+    eccentricity 0.9055416509769174
+    diameter 42.81897878766651
+    perimeter 181.6812408671319
+    degree 6.0
+    strength 5.73342205342258
+    betweenness 0.001144870180139077
+  ]
+  node [
+    id 184
+    label "184"
+    idx 184
+    row 1048
+    column 9928
+    demarcated "False"
+    area 1660.0
+    solidity 0.9747504403992954
+    eccentricity 0.8156609066703815
+    diameter 45.97366250648702
+    perimeter 161.0538238691624
+    degree 1.0
+    strength 0.9683405738754414
+    betweenness 0.0
+  ]
+  node [
+    id 185
+    label "185"
+    idx 185
+    row 1061
+    column 9657
+    demarcated "False"
+    area 6085.0
+    solidity 0.8319660924254854
+    eccentricity 0.8080321774807354
+    diameter 88.02080793604127
+    perimeter 369.64675298172574
+    degree 4.0
+    strength 3.212790377732986
+    betweenness 0.00010118915162746632
+  ]
+  node [
+    id 186
+    label "186"
+    idx 186
+    row 1043
+    column 10033
+    demarcated "False"
+    area 1127.0
+    solidity 0.9648972602739726
+    eccentricity 0.5833524590732908
+    diameter 37.88061465864207
+    perimeter 132.36753236814715
+    degree 3.0
+    strength 2.4270302070695022
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 187
+    label "187"
+    idx 187
+    row 1051
+    column 5122
+    demarcated "False"
+    area 6633.0
+    solidity 0.9270440251572327
+    eccentricity 0.9636442966594695
+    diameter 91.89884602228874
+    perimeter 405.90663761154804
+    degree 3.0
+    strength 2.459868771292956
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 188
+    label "188"
+    idx 188
+    row 1164
+    column 9695
+    demarcated "False"
+    area 25090.0
+    solidity 0.7912580024598694
+    eccentricity 0.924545475424529
+    diameter 178.73326544716076
+    perimeter 999.1585130146568
+    degree 2.0
+    strength 0.7349855045018856
+    betweenness 4.029656480739809E-05
+  ]
+  node [
+    id 189
+    label "189"
+    idx 189
+    row 1076
+    column 12300
+    demarcated "True"
+    area 3002.0
+    solidity 0.8348164627363738
+    eccentricity 0.9344197446830432
+    diameter 61.82447018208048
+    perimeter 283.7056274847714
+    degree 7.0
+    strength 6.465983687355294
+    betweenness 0.0009568195443712191
+  ]
+  node [
+    id 190
+    label "190"
+    idx 190
+    row 1036
+    column 12464
+    demarcated "True"
+    area 645.0
+    solidity 0.9817351598173516
+    eccentricity 0.7833991293088537
+    diameter 28.65727667372076
+    perimeter 96.42640687119285
+    degree 12.0
+    strength 11.67493077082472
+    betweenness 9.044340101216015E-05
+  ]
+  node [
+    id 191
+    label "191"
+    idx 191
+    row 1044
+    column 12623
+    demarcated "True"
+    area 1514.0
+    solidity 0.9220462850182704
+    eccentricity 0.7384962104781666
+    diameter 43.9054059396908
+    perimeter 160.95331880577405
+    degree 8.0
+    strength 7.347089906882612
+    betweenness 0.00035595298913201646
+  ]
+  node [
+    id 192
+    label "192"
+    idx 192
+    row 1059
+    column 11225
+    demarcated "False"
+    area 3170.0
+    solidity 0.9774899784150478
+    eccentricity 0.7481683187598849
+    diameter 63.53085358162966
+    perimeter 221.9066376115481
+    degree 7.0
+    strength 6.5647173090025355
+    betweenness 0.00022745172135731366
+  ]
+  node [
+    id 193
+    label "193"
+    idx 193
+    row 1057
+    column 12414
+    demarcated "True"
+    area 1272.0
+    solidity 0.8040455120101138
+    eccentricity 0.7471530714106597
+    diameter 40.2437659880773
+    perimeter 166.2670273047588
+    degree 10.0
+    strength 9.791358781133905
+    betweenness 0.0028180730988640397
+  ]
+  node [
+    id 194
+    label "194"
+    idx 194
+    row 1040
+    column 12497
+    demarcated "True"
+    area 234.0
+    solidity 0.924901185770751
+    eccentricity 0.7160799103004258
+    diameter 17.26088217525478
+    perimeter 61.1126983722081
+    degree 13.0
+    strength 12.390472200701648
+    betweenness 0.0033741656932061333
+  ]
+  node [
+    id 195
+    label "195"
+    idx 195
+    row 1052
+    column 9526
+    demarcated "False"
+    area 1112.0
+    solidity 0.9814651368049426
+    eccentricity 0.8536503729483672
+    diameter 37.62768095093692
+    perimeter 133.19595949289334
+    degree 2.0
+    strength 1.8055738245772817
+    betweenness 0.0
+  ]
+  node [
+    id 196
+    label "196"
+    idx 196
+    row 1069
+    column 12868
+    demarcated "True"
+    area 2148.0
+    solidity 0.872815928484356
+    eccentricity 0.30726161996164736
+    diameter 52.296448656587856
+    perimeter 211.47413408594534
+    degree 4.0
+    strength 3.8130474093964177
+    betweenness 0.0
+  ]
+  node [
+    id 197
+    label "197"
+    idx 197
+    row 1056
+    column 10159
+    demarcated "False"
+    area 1804.0
+    solidity 0.9761904761904762
+    eccentricity 0.7762347084617942
+    diameter 47.92623643373464
+    perimeter 170.99494936611666
+    degree 4.0
+    strength 3.6465727603357556
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 198
+    label "198"
+    idx 198
+    row 1063
+    column 12224
+    demarcated "True"
+    area 1392.0
+    solidity 0.9686847599164927
+    eccentricity 0.8645322211536216
+    diameter 42.099280828433955
+    perimeter 152.71067811865476
+    degree 7.0
+    strength 6.627664637860857
+    betweenness 0.0034847573766219925
+  ]
+  node [
+    id 199
+    label "199"
+    idx 199
+    row 1103
+    column 9566
+    demarcated "False"
+    area 6372.0
+    solidity 0.7659574468085106
+    eccentricity 0.22001830457960586
+    diameter 90.07265056082483
+    perimeter 425.1614716074871
+    degree 5.0
+    strength 4.081999040835946
+    betweenness 0.00011327812106968574
+  ]
+  node [
+    id 200
+    label "200"
+    idx 200
+    row 1069
+    column 5746
+    demarcated "False"
+    area 7468.0
+    solidity 0.7886788467631217
+    eccentricity 0.9703829904601579
+    diameter 97.51180913141852
+    perimeter 506.0315292925759
+    degree 1.0
+    strength 0.9472358159682337
+    betweenness 0.0
+  ]
+  node [
+    id 201
+    label "201"
+    idx 201
+    row 1064
+    column 11300
+    demarcated "False"
+    area 2027.0
+    solidity 0.9285387081997252
+    eccentricity 0.6221976836940357
+    diameter 50.802131423574885
+    perimeter 182.40916292848976
+    degree 6.0
+    strength 5.742033233163874
+    betweenness 6.447450369183694E-05
+  ]
+  node [
+    id 202
+    label "202"
+    idx 202
+    row 1066
+    column 12328
+    demarcated "True"
+    area 609.0
+    solidity 0.6252566735112937
+    eccentricity 0.9783489008675228
+    diameter 27.846056861676377
+    perimeter 152.0243866176395
+    degree 6.0
+    strength 5.753427572116905
+    betweenness 0.0
+  ]
+  node [
+    id 203
+    label "203"
+    idx 203
+    row 1056
+    column 9288
+    demarcated "False"
+    area 1089.0
+    solidity 0.9749328558639212
+    eccentricity 0.8288586236807672
+    diameter 37.23651251415192
+    perimeter 131.63961030678928
+    degree 4.0
+    strength 3.4043741639014526
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 204
+    label "204"
+    idx 204
+    row 1100
+    column 6592
+    demarcated "False"
+    area 8042.0
+    solidity 0.9526178630656242
+    eccentricity 0.8579834176399147
+    diameter 101.1898829861967
+    perimeter 378.17366491630685
+    degree 3.0
+    strength 1.661413721655745
+    betweenness 0.0
+  ]
+  node [
+    id 205
+    label "205"
+    idx 205
+    row 1071
+    column 11172
+    demarcated "False"
+    area 1796.0
+    solidity 0.9089068825910931
+    eccentricity 0.8720011272556163
+    diameter 47.81985175995794
+    perimeter 179.82337649086284
+    degree 4.0
+    strength 3.740329389176511
+    betweenness 0.0
+  ]
+  node [
+    id 206
+    label "206"
+    idx 206
+    row 1067
+    column 12536
+    demarcated "True"
+    area 1189.0
+    solidity 0.9406645569620253
+    eccentricity 0.601208782314186
+    diameter 38.90863424344407
+    perimeter 136.71067811865476
+    degree 11.0
+    strength 10.66030509877654
+    betweenness 0.00010342784967232177
+  ]
+  node [
+    id 207
+    label "207"
+    idx 207
+    row 1065
+    column 12489
+    demarcated "True"
+    area 643.0
+    solidity 0.8201530612244898
+    eccentricity 0.7123544592645825
+    diameter 28.61281229213077
+    perimeter 118.81118318204308
+    degree 11.0
+    strength 10.624026373312347
+    betweenness 0.00011551681911454119
+  ]
+  node [
+    id 208
+    label "208"
+    idx 208
+    row 1068
+    column 12587
+    demarcated "True"
+    area 1487.0
+    solidity 0.969361147327249
+    eccentricity 0.7599427567648678
+    diameter 43.51215006203655
+    perimeter 148.95331880577402
+    degree 10.0
+    strength 9.647334194465643
+    betweenness 0.00044415769209932114
+  ]
+  node [
+    id 209
+    label "209"
+    idx 209
+    row 1073
+    column 12184
+    demarcated "True"
+    area 1451.0
+    solidity 0.9615639496355202
+    eccentricity 0.5452351877742312
+    diameter 42.982212360588434
+    perimeter 146.8528137423857
+    degree 8.0
+    strength 7.597772015840773
+    betweenness 0.00037968318840748424
+  ]
+  node [
+    id 210
+    label "210"
+    idx 210
+    row 1074
+    column 11036
+    demarcated "False"
+    area 1829.0
+    solidity 0.9656810982048575
+    eccentricity 0.7701845327384588
+    diameter 48.257176951419495
+    perimeter 169.92388155425118
+    degree 2.0
+    strength 1.8852029236932215
+    betweenness 0.0
+  ]
+  node [
+    id 211
+    label "211"
+    idx 211
+    row 1094
+    column 12805
+    demarcated "True"
+    area 5288.0
+    solidity 0.9478401147158989
+    eccentricity 0.5333869999070054
+    diameter 82.05419375363785
+    perimeter 294.492424049175
+    degree 5.0
+    strength 4.326628695222167
+    betweenness 0.0006138510038993642
+  ]
+  node [
+    id 212
+    label "212"
+    idx 212
+    row 1087
+    column 10562
+    demarcated "False"
+    area 2119.0
+    solidity 0.9388568896765618
+    eccentricity 0.944571954209448
+    diameter 51.9422236267741
+    perimeter 217.17871555019022
+    degree 2.0
+    strength 1.683476582196866
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 213
+    label "213"
+    idx 213
+    row 1087
+    column 4643
+    demarcated "False"
+    area 5997.0
+    solidity 0.9122299969577122
+    eccentricity 0.9059294734362341
+    diameter 87.38202074670035
+    perimeter 345.4213562373095
+    degree 1.0
+    strength 0.8621013216732173
+    betweenness 0.0
+  ]
+  node [
+    id 214
+    label "214"
+    idx 214
+    row 1096
+    column 11360
+    demarcated "False"
+    area 3892.0
+    solidity 0.96575682382134
+    eccentricity 0.7464677453353855
+    diameter 70.39494518862311
+    perimeter 256.45079348883235
+    degree 4.0
+    strength 3.6110231667993236
+    betweenness 2.1491501230612315E-05
+  ]
+  node [
+    id 215
+    label "215"
+    idx 215
+    row 1078
+    column 9827
+    demarcated "False"
+    area 515.0
+    solidity 0.960820895522388
+    eccentricity 0.8614469372886954
+    diameter 25.60699837034026
+    perimeter 92.91168824543142
+    degree 2.0
+    strength 1.8535175541613542
+    betweenness 1.7909584358843596E-05
+  ]
+  node [
+    id 216
+    label "216"
+    idx 216
+    row 1077
+    column 11480
+    demarcated "False"
+    area 548.0
+    solidity 0.9699115044247788
+    eccentricity 0.7770056169550758
+    diameter 26.414679072721462
+    perimeter 89.59797974644665
+    degree 2.0
+    strength 1.9629723229043348
+    betweenness 0.0
+  ]
+  node [
+    id 217
+    label "217"
+    idx 217
+    row 1120
+    column 9212
+    demarcated "False"
+    area 14729.0
+    solidity 0.9589192708333333
+    eccentricity 0.8725830293689545
+    diameter 136.94358420314626
+    perimeter 520.0142853498728
+    degree 3.0
+    strength 1.7922054449505884
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 218
+    label "218"
+    idx 218
+    row 1089
+    column 5041
+    demarcated "False"
+    area 3791.0
+    solidity 0.9435042309606769
+    eccentricity 0.9062228329070265
+    diameter 69.47554328028679
+    perimeter 280.45079348883235
+    degree 4.0
+    strength 3.6704513634871256
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 219
+    label "219"
+    idx 219
+    row 1087
+    column 11142
+    demarcated "False"
+    area 1126.0
+    solidity 0.9550466497031382
+    eccentricity 0.5230838474162308
+    diameter 37.86380497746883
+    perimeter 129.5035713374682
+    degree 5.0
+    strength 4.674969691907181
+    betweenness 0.0
+  ]
+  node [
+    id 220
+    label "220"
+    idx 220
+    row 1087
+    column 11430
+    demarcated "False"
+    area 934.0
+    solidity 0.9841938883034773
+    eccentricity 0.49017445069316523
+    diameter 34.484862400517734
+    perimeter 112.5685424949238
+    degree 3.0
+    strength 2.864293697789713
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 221
+    label "221"
+    idx 221
+    row 1087
+    column 8848
+    demarcated "False"
+    area 1278.0
+    solidity 0.9740853658536586
+    eccentricity 0.8793181764045146
+    diameter 40.3385688661799
+    perimeter 147.63961030678928
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 222
+    label "222"
+    idx 222
+    row 1179
+    column 3869
+    demarcated "False"
+    area 50057.0
+    solidity 0.7515501839201261
+    eccentricity 0.8373172397227773
+    diameter 252.45702979083003
+    perimeter 1785.6408357960652
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 223
+    label "223"
+    idx 223
+    row 1102
+    column 4557
+    demarcated "False"
+    area 2381.0
+    solidity 0.9674928890694839
+    eccentricity 0.7672504886663035
+    diameter 55.059816164008595
+    perimeter 194.55129855222071
+    degree 1.0
+    strength 0.8621013216732173
+    betweenness 0.0
+  ]
+  node [
+    id 224
+    label "224"
+    idx 224
+    row 1095
+    column 4976
+    demarcated "False"
+    area 1456.0
+    solidity 0.9423948220064725
+    eccentricity 0.8686290250482183
+    diameter 43.056204862184465
+    perimeter 163.92388155425118
+    degree 1.0
+    strength 0.9086305813028681
+    betweenness 0.0
+  ]
+  node [
+    id 225
+    label "225"
+    idx 225
+    row 1109
+    column 11270
+    demarcated "False"
+    area 2288.0
+    solidity 0.9152
+    eccentricity 0.7464285784402825
+    diameter 53.973809188846886
+    perimeter 200.65180361560903
+    degree 7.0
+    strength 6.622217339443038
+    betweenness 3.08940330190052E-05
+  ]
+  node [
+    id 226
+    label "226"
+    idx 226
+    row 1101
+    column 11794
+    demarcated "False"
+    area 1907.0
+    solidity 0.9814719505918682
+    eccentricity 0.6990966597001401
+    diameter 49.275428073330374
+    perimeter 169.3380951166243
+    degree 4.0
+    strength 3.5874977061280564
+    betweenness 0.0010830821141010665
+  ]
+  node [
+    id 227
+    label "227"
+    idx 227
+    row 1093
+    column 12422
+    demarcated "True"
+    area 1037.0
+    solidity 0.9727954971857411
+    eccentricity 0.5802590844037652
+    diameter 36.33661249883324
+    perimeter 122.12489168102785
+    degree 11.0
+    strength 10.73550218709092
+    betweenness 0.0009604014612429878
+  ]
+  node [
+    id 228
+    label "228"
+    idx 228
+    row 1114
+    column 11020
+    demarcated "False"
+    area 3838.0
+    solidity 0.9556772908366534
+    eccentricity 0.8347473831322247
+    diameter 69.90488804578372
+    perimeter 262.8772003600252
+    degree 2.0
+    strength 1.8088925085201164
+    betweenness 0.0
+  ]
+  node [
+    id 229
+    label "229"
+    idx 229
+    row 1087
+    column 11667
+    demarcated "False"
+    area 202.0
+    solidity 0.9805825242718447
+    eccentricity 0.5112899188575738
+    diameter 16.03728119216293
+    perimeter 51.35533905932738
+    degree 3.0
+    strength 1.813619882341142
+    betweenness 0.00021804918956892078
+  ]
+  node [
+    id 230
+    label "230"
+    idx 230
+    row 1144
+    column 11715
+    demarcated "False"
+    area 9034.0
+    solidity 0.9731767747495422
+    eccentricity 0.7914443720629957
+    diameter 107.24945709483784
+    perimeter 380.77669529663683
+    degree 3.0
+    strength 2.1698852898768988
+    betweenness 0.0006514611310529357
+  ]
+  node [
+    id 231
+    label "231"
+    idx 231
+    row 1107
+    column 12524
+    demarcated "True"
+    area 1088.0
+    solidity 0.8724939855653568
+    eccentricity 0.813457683985125
+    diameter 37.219411933450225
+    perimeter 143.63961030678928
+    degree 10.0
+    strength 9.744160359513433
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 232
+    label "232"
+    idx 232
+    row 1114
+    column 6522
+    demarcated "False"
+    area 2561.0
+    solidity 0.9789755351681957
+    eccentricity 0.8975266573911317
+    diameter 57.10312140388432
+    perimeter 219.86500705120545
+    degree 4.0
+    strength 2.7383727568030203
+    betweenness 0.0
+  ]
+  node [
+    id 233
+    label "233"
+    idx 233
+    row 1115
+    column 10311
+    demarcated "False"
+    area 2685.0
+    solidity 0.8899569108385814
+    eccentricity 0.6700800465526098
+    diameter 58.469207088979
+    perimeter 227.52186130069782
+    degree 3.0
+    strength 2.8459025918583185
+    betweenness 0.0
+  ]
+  node [
+    id 234
+    label "234"
+    idx 234
+    row 1116
+    column 12416
+    demarcated "True"
+    area 1137.0
+    solidity 0.5921875
+    eccentricity 0.9605730604846142
+    diameter 38.0483030155601
+    perimeter 223.1370849898476
+    degree 8.0
+    strength 7.803155748827294
+    betweenness 6.716094134566349E-05
+  ]
+  node [
+    id 235
+    label "235"
+    idx 235
+    row 1105
+    column 10210
+    demarcated "False"
+    area 1405.0
+    solidity 0.9750173490631506
+    eccentricity 0.5788417317780975
+    diameter 42.295408265589586
+    perimeter 144.8111831820431
+    degree 6.0
+    strength 5.64981135057564
+    betweenness 4.566944011505117E-05
+  ]
+  node [
+    id 236
+    label "236"
+    idx 236
+    row 1114
+    column 10111
+    demarcated "False"
+    area 2119.0
+    solidity 0.9666970802919708
+    eccentricity 0.7986565081384803
+    diameter 51.9422236267741
+    perimeter 189.82337649086287
+    degree 7.0
+    strength 6.57515708299572
+    betweenness 3.850560637151373E-05
+  ]
+  node [
+    id 237
+    label "237"
+    idx 237
+    row 1109
+    column 10037
+    demarcated "False"
+    area 1448.0
+    solidity 0.9890710382513661
+    eccentricity 0.5089856759335912
+    diameter 42.937755656025104
+    perimeter 141.39696961967
+    degree 2.0
+    strength 1.9597552961859108
+    betweenness 0.0
+  ]
+  node [
+    id 238
+    label "238"
+    idx 238
+    row 1137
+    column 5538
+    demarcated "False"
+    area 6990.0
+    solidity 0.8499513618677043
+    eccentricity 0.9910182185597748
+    diameter 94.33951673449884
+    perimeter 575.2447327281724
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 239
+    label "239"
+    idx 239
+    row 1112
+    column 12585
+    demarcated "True"
+    area 1783.0
+    solidity 0.9796703296703296
+    eccentricity 0.5373160137429899
+    diameter 47.64647005039088
+    perimeter 159.78174593052023
+    degree 9.0
+    strength 8.64922993866339
+    betweenness 0.00016342495727444782
+  ]
+  node [
+    id 240
+    label "240"
+    idx 240
+    row 1265
+    column 4356
+    demarcated "False"
+    area 77302.0
+    solidity 0.6967345356875682
+    eccentricity 0.4814453899095974
+    diameter 313.72593658656524
+    perimeter 2448.9099551418767
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 241
+    label "241"
+    idx 241
+    row 1128
+    column 11196
+    demarcated "False"
+    area 4775.0
+    solidity 0.9729013854930725
+    eccentricity 0.7551368308669973
+    diameter 77.97255174810172
+    perimeter 271.4802307403552
+    degree 7.0
+    strength 6.235326432217407
+    betweenness 6.536998290977913E-05
+  ]
+  node [
+    id 242
+    label "242"
+    idx 242
+    row 1142
+    column 4820
+    demarcated "False"
+    area 19801.0
+    solidity 0.8939906993543727
+    eccentricity 0.9732765109439772
+    diameter 158.78103232219192
+    perimeter 839.9137802864846
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 243
+    label "243"
+    idx 243
+    row 1119
+    column 10250
+    demarcated "False"
+    area 1458.0
+    solidity 0.9713524317121919
+    eccentricity 0.8295798314060407
+    diameter 43.08576628335473
+    perimeter 151.82337649086284
+    degree 6.0
+    strength 5.61413056292393
+    betweenness 2.2386980448554496E-05
+  ]
+  node [
+    id 244
+    label "244"
+    idx 244
+    row 1118
+    column 12271
+    demarcated "True"
+    area 2143.0
+    solidity 0.959265890778872
+    eccentricity 0.8551878370842213
+    diameter 52.23554675091909
+    perimeter 194.99494936611666
+    degree 10.0
+    strength 9.461953808548813
+    betweenness 0.004428144732724079
+  ]
+  node [
+    id 245
+    label "245"
+    idx 245
+    row 1152
+    column 10165
+    demarcated "False"
+    area 6925.0
+    solidity 0.866166353971232
+    eccentricity 0.5979000076955909
+    diameter 93.89986074159536
+    perimeter 373.7888886054567
+    degree 7.0
+    strength 5.602522931751331
+    betweenness 2.3282459666496674E-05
+  ]
+  node [
+    id 246
+    label "246"
+    idx 246
+    row 1138
+    column 12194
+    demarcated "True"
+    area 4590.0
+    solidity 0.8439051296194153
+    eccentricity 0.7252405520001921
+    diameter 76.44716809885372
+    perimeter 305.01933598375615
+    degree 10.0
+    strength 8.630386649935
+    betweenness 0.003521024284948651
+  ]
+  node [
+    id 247
+    label "247"
+    idx 247
+    row 1124
+    column 12501
+    demarcated "True"
+    area 1197.0
+    solidity 0.8104265402843602
+    eccentricity 0.9830598466131154
+    diameter 39.039310125154486
+    perimeter 218.90663761154806
+    degree 11.0
+    strength 10.750651686015555
+    betweenness 6.492224330080803E-05
+  ]
+  node [
+    id 248
+    label "248"
+    idx 248
+    row 1132
+    column 5908
+    demarcated "False"
+    area 5091.0
+    solidity 0.9578551269990593
+    eccentricity 0.8928178078357925
+    diameter 80.51125711505637
+    perimeter 312.048773235279
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 249
+    label "249"
+    idx 249
+    row 1118
+    column 9651
+    demarcated "False"
+    area 1069.0
+    solidity 0.9691749773345422
+    eccentricity 0.5328684070032393
+    diameter 36.89299490854448
+    perimeter 124.46803743153546
+    degree 4.0
+    strength 2.9778140063543583
+    betweenness 0.00013790379956309568
+  ]
+  node [
+    id 250
+    label "250"
+    idx 250
+    row 1118
+    column 9468
+    demarcated "False"
+    area 1105.0
+    solidity 0.9380305602716469
+    eccentricity 0.9312244425976358
+    diameter 37.50906153094682
+    perimeter 150.16652224137047
+    degree 3.0
+    strength 2.728479801683655
+    betweenness 0.0
+  ]
+  node [
+    id 251
+    label "251"
+    idx 251
+    row 1109
+    column 11301
+    demarcated "False"
+    area 293.0
+    solidity 0.973421926910299
+    eccentricity 0.6116833958450792
+    diameter 19.314740138231286
+    perimeter 62.8700576850888
+    degree 6.0
+    strength 5.175232773250285
+    betweenness 0.00026416636929294305
+  ]
+  node [
+    id 252
+    label "252"
+    idx 252
+    row 1140
+    column 5715
+    demarcated "False"
+    area 6147.0
+    solidity 0.866751269035533
+    eccentricity 0.960634316960354
+    diameter 88.46809301373601
+    perimeter 428.8183258569795
+    degree 2.0
+    strength 1.7769208393415479
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 253
+    label "253"
+    idx 253
+    row 1109
+    column 12332
+    demarcated "True"
+    area 199.0
+    solidity 0.9707317073170731
+    eccentricity 0.7907939990956059
+    diameter 15.91774699517169
+    perimeter 52.62741699796952
+    degree 10.0
+    strength 9.479937383756509
+    betweenness 0.004781411284202269
+  ]
+  node [
+    id 254
+    label "254"
+    idx 254
+    row 1114
+    column 12126
+    demarcated "True"
+    area 604.0
+    solidity 0.9805194805194806
+    eccentricity 0.5130438284122577
+    diameter 27.73151068766428
+    perimeter 89.84062043356595
+    degree 6.0
+    strength 5.7422730576138825
+    betweenness 0.0012671030933881844
+  ]
+  node [
+    id 255
+    label "255"
+    idx 255
+    row 1131
+    column 6119
+    demarcated "False"
+    area 3497.0
+    solidity 0.9817518248175182
+    eccentricity 0.9116099949905735
+    diameter 66.72719601436032
+    perimeter 249.92388155425118
+    degree 1.0
+    strength 0.8407206166864507
+    betweenness 0.0
+  ]
+  node [
+    id 256
+    label "256"
+    idx 256
+    row 1139
+    column 9871
+    demarcated "False"
+    area 3206.0
+    solidity 0.9798288508557457
+    eccentricity 0.8649073711366368
+    diameter 63.89057818192704
+    perimeter 233.27922061357856
+    degree 3.0
+    strength 2.7756586688823623
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 257
+    label "257"
+    idx 257
+    row 1155
+    column 4142
+    demarcated "False"
+    area 6234.0
+    solidity 0.8480478846415453
+    eccentricity 0.7828662289988209
+    diameter 89.09194869279156
+    perimeter 398.0904037956216
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 258
+    label "258"
+    idx 258
+    row 1122
+    column 5094
+    demarcated "False"
+    area 1311.0
+    solidity 0.9431654676258993
+    eccentricity 0.9726014088581277
+    diameter 40.85605271129112
+    perimeter 186.5685424949238
+    degree 3.0
+    strength 2.639518663181231
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 259
+    label "259"
+    idx 259
+    row 1137
+    column 12098
+    demarcated "True"
+    area 1008.0
+    solidity 0.9618320610687023
+    eccentricity 0.8839762080133824
+    diameter 35.82492792865108
+    perimeter 131.09545442950497
+    degree 5.0
+    strength 4.4085309520903495
+    betweenness 0.0
+  ]
+  node [
+    id 260
+    label "260"
+    idx 260
+    row 1161
+    column 9527
+    demarcated "False"
+    area 3054.0
+    solidity 0.8755733944954128
+    eccentricity 0.9159875014502811
+    diameter 62.35762639502234
+    perimeter 255.32085117392117
+    degree 4.0
+    strength 3.308939046213868
+    betweenness 9.31298386659867E-05
+  ]
+  node [
+    id 261
+    label "261"
+    idx 261
+    row 1141
+    column 10523
+    demarcated "False"
+    area 1167.0
+    solidity 0.9565573770491803
+    eccentricity 0.7539105829609051
+    diameter 38.54699143520717
+    perimeter 139.39696961967002
+    degree 3.0
+    strength 2.0642952277323157
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 262
+    label "262"
+    idx 262
+    row 1140
+    column 11143
+    demarcated "False"
+    area 219.0
+    solidity 0.9521739130434783
+    eccentricity 0.9322093824538642
+    diameter 16.698486766680407
+    perimeter 62.970562748477136
+    degree 5.0
+    strength 4.6241086341701285
+    betweenness 7.253381665331656E-05
+  ]
+  node [
+    id 263
+    label "263"
+    idx 263
+    row 1165
+    column 11654
+    demarcated "False"
+    area 1280.0
+    solidity 0.9711684370257967
+    eccentricity 0.9525475736063855
+    diameter 40.370120352322566
+    perimeter 169.53910524340094
+    degree 2.0
+    strength 1.6841964730566557
+    betweenness 0.0
+  ]
+  node [
+    id 264
+    label "264"
+    idx 264
+    row 1145
+    column 2853
+    demarcated "False"
+    area 1345.0
+    solidity 0.8996655518394648
+    eccentricity 0.7872467743837143
+    diameter 41.382450237616354
+    perimeter 153.78174593052023
+    degree 1.0
+    strength 0.9892252345268797
+    betweenness 0.0
+  ]
+  node [
+    id 265
+    label "265"
+    idx 265
+    row 1196
+    column 11349
+    demarcated "False"
+    area 10090.0
+    solidity 0.8549398407049653
+    eccentricity 0.6480829625082226
+    diameter 113.34454996327699
+    perimeter 494.8843430349616
+    degree 6.0
+    strength 4.2189385726968744
+    betweenness 0.0002655095881198563
+  ]
+  node [
+    id 266
+    label "266"
+    idx 266
+    row 1142
+    column 12626
+    demarcated "True"
+    area 629.0
+    solidity 0.9444444444444444
+    eccentricity 0.8840585134566044
+    diameter 28.299605538565682
+    perimeter 107.1543289325507
+    degree 8.0
+    strength 7.291214279920351
+    betweenness 0.0038169801664785412
+  ]
+  node [
+    id 267
+    label "267"
+    idx 267
+    row 1154
+    column 6517
+    demarcated "False"
+    area 2308.0
+    solidity 0.9001560062402496
+    eccentricity 0.906136494866919
+    diameter 54.20919543074547
+    perimeter 219.78174593052023
+    degree 4.0
+    strength 2.7203119229453336
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 268
+    label "268"
+    idx 268
+    row 1329
+    column 10901
+    demarcated "False"
+    area 117033.0
+    solidity 0.8127348106584074
+    eccentricity 0.5987174459128909
+    diameter 386.0194860871538
+    perimeter 2098.660171779821
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 269
+    label "269"
+    idx 269
+    row 1152
+    column 11062
+    demarcated "False"
+    area 944.0
+    solidity 0.9782383419689119
+    eccentricity 0.8738529087238671
+    diameter 34.668979365276876
+    perimeter 124.95331880577405
+    degree 3.0
+    strength 2.823048533123401
+    betweenness 4.9251356986819886E-05
+  ]
+  node [
+    id 270
+    label "270"
+    idx 270
+    row 1161
+    column 12467
+    demarcated "True"
+    area 2086.0
+    solidity 0.8861512319456245
+    eccentricity 0.8774483038024135
+    diameter 51.536178460548946
+    perimeter 195.92388155425118
+    degree 9.0
+    strength 8.607453335260063
+    betweenness 0.0006604159232323576
+  ]
+  node [
+    id 271
+    label "271"
+    idx 271
+    row 1147
+    column 12560
+    demarcated "True"
+    area 385.0
+    solidity 0.9697732997481109
+    eccentricity 0.7839005209262266
+    diameter 22.140398025397776
+    perimeter 76.84062043356595
+    degree 9.0
+    strength 8.476075323080087
+    betweenness 0.0005243030821051463
+  ]
+  node [
+    id 272
+    label "272"
+    idx 272
+    row 1175
+    column 10265
+    demarcated "False"
+    area 3282.0
+    solidity 0.9655781112091791
+    eccentricity 0.8915036808164453
+    diameter 64.64342337640237
+    perimeter 240.49242404917499
+    degree 6.0
+    strength 5.488323612592781
+    betweenness 6.62654621277213E-05
+  ]
+  node [
+    id 273
+    label "273"
+    idx 273
+    row 1167
+    column 11439
+    demarcated "False"
+    area 1073.0
+    solidity 0.9047217537942664
+    eccentricity 0.9131214481366665
+    diameter 36.961953837707625
+    perimeter 169.51576464628795
+    degree 5.0
+    strength 4.614428867915008
+    betweenness 5.6415190730357324E-05
+  ]
+  node [
+    id 274
+    label "274"
+    idx 274
+    row 1204
+    column 12041
+    demarcated "True"
+    area 13944.0
+    solidity 0.8301976661109788
+    eccentricity 0.7256454412245373
+    diameter 133.24433275673343
+    perimeter 719.5361466505707
+    degree 2.0
+    strength 1.1618847643101187
+    betweenness 0.0
+  ]
+  node [
+    id 275
+    label "275"
+    idx 275
+    row 1165
+    column 9274
+    demarcated "False"
+    area 2031.0
+    solidity 0.9676036207717961
+    eccentricity 0.8202559367033411
+    diameter 50.85223215707562
+    perimeter 181.86500705120545
+    degree 2.0
+    strength 1.5411641155882423
+    betweenness 0.0
+  ]
+  node [
+    id 276
+    label "276"
+    idx 276
+    row 1154
+    column 12719
+    demarcated "True"
+    area 1517.0
+    solidity 0.8493840985442329
+    eccentricity 0.8615199426028475
+    diameter 43.948883823861124
+    perimeter 192.23149339882605
+    degree 6.0
+    strength 5.492073149080632
+    betweenness 0.001853194241531341
+  ]
+  node [
+    id 277
+    label "277"
+    idx 277
+    row 1158
+    column 12138
+    demarcated "True"
+    area 958.0
+    solidity 0.897003745318352
+    eccentricity 0.9247687503938072
+    diameter 34.92511251028815
+    perimeter 137.6812408671319
+    degree 5.0
+    strength 4.802640781945169
+    betweenness 0.0
+  ]
+  node [
+    id 278
+    label "278"
+    idx 278
+    row 1159
+    column 12245
+    demarcated "True"
+    area 1274.0
+    solidity 0.9732620320855615
+    eccentricity 0.7181538319337659
+    diameter 40.27539174226115
+    perimeter 137.29646455628165
+    degree 8.0
+    strength 7.646902920352974
+    betweenness 0.0007942900663147135
+  ]
+  node [
+    id 279
+    label "279"
+    idx 279
+    row 1216
+    column 5738
+    demarcated "False"
+    area 10697.0
+    solidity 0.8408930115556953
+    eccentricity 0.8711767299215347
+    diameter 116.70408480439764
+    perimeter 527.5706345359769
+    degree 2.0
+    strength 1.5573322020757465
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 280
+    label "280"
+    idx 280
+    row 1181
+    column 6728
+    demarcated "False"
+    area 9713.0
+    solidity 0.9109923091352466
+    eccentricity 0.9902333841211421
+    diameter 111.20690490258524
+    perimeter 631.6467529817257
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 281
+    label "281"
+    idx 281
+    row 1161
+    column 5073
+    demarcated "False"
+    area 3015.0
+    solidity 0.8718912666281088
+    eccentricity 0.9520574081052244
+    diameter 61.95818934875773
+    perimeter 286.40916292848976
+    degree 2.0
+    strength 1.9011235713008645
+    betweenness 0.0
+  ]
+  node [
+    id 282
+    label "282"
+    idx 282
+    row 1166
+    column 12864
+    demarcated "True"
+    area 1563.0
+    solidity 0.9444108761329305
+    eccentricity 0.6287010546845488
+    diameter 44.610238829455504
+    perimeter 156.46803743153546
+    degree 7.0
+    strength 6.682562302072536
+    betweenness 0.00014461989369766204
+  ]
+  node [
+    id 283
+    label "283"
+    idx 283
+    row 1550
+    column 10061
+    demarcated "False"
+    area 177738.0
+    solidity 0.6718579307268652
+    eccentricity 0.6519867987884399
+    diameter 475.7132016269239
+    perimeter 4056.2076451874345
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 284
+    label "284"
+    idx 284
+    row 1157
+    column 9591
+    demarcated "False"
+    area 731.0
+    solidity 0.9580602883355177
+    eccentricity 0.8749860917871829
+    diameter 30.508000708034015
+    perimeter 115.63961030678928
+    degree 3.0
+    strength 2.6886639522663427
+    betweenness 0.0
+  ]
+  node [
+    id 285
+    label "285"
+    idx 285
+    row 1160
+    column 12288
+    demarcated "True"
+    area 424.0
+    solidity 0.902127659574468
+    eccentricity 0.8620894917992884
+    diameter 23.23474912642073
+    perimeter 88.32590180780453
+    degree 10.0
+    strength 9.567209532793697
+    betweenness 0.00030849259058108095
+  ]
+  node [
+    id 286
+    label "286"
+    idx 286
+    row 1228
+    column 9510
+    demarcated "False"
+    area 15340.0
+    solidity 0.898284241962874
+    eccentricity 0.8488346119064943
+    diameter 139.755123756653
+    perimeter 636.4406922210657
+    degree 2.0
+    strength 1.1593666687372692
+    betweenness 8.462278609553599E-05
+  ]
+  node [
+    id 287
+    label "287"
+    idx 287
+    row 1165
+    column 10335
+    demarcated "False"
+    area 632.0
+    solidity 0.9418777943368107
+    eccentricity 0.7411549677123161
+    diameter 28.367012395961314
+    perimeter 105.5685424949238
+    degree 4.0
+    strength 3.554305359339247
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 288
+    label "288"
+    idx 288
+    row 1162
+    column 11817
+    demarcated "False"
+    area 590.0
+    solidity 0.9800664451827242
+    eccentricity 0.6053443093145875
+    diameter 27.408234736913393
+    perimeter 89.01219330881975
+    degree 1.0
+    strength 0.9473913079244405
+    betweenness 0.0
+  ]
+  node [
+    id 289
+    label "289"
+    idx 289
+    row 1175
+    column 12406
+    demarcated "True"
+    area 2873.0
+    solidity 0.9755517826825127
+    eccentricity 0.6926549607580313
+    diameter 60.481544391856616
+    perimeter 211.4386001800126
+    degree 7.0
+    strength 6.475356059175575
+    betweenness 0.0021639255301572776
+  ]
+  node [
+    id 290
+    label "290"
+    idx 290
+    row 1185
+    column 12521
+    demarcated "True"
+    area 2694.0
+    solidity 0.7865693430656935
+    eccentricity 0.7707174582091442
+    diameter 58.567118193714535
+    perimeter 263.66399692442883
+    degree 9.0
+    strength 8.386007260924341
+    betweenness 0.00040117468963809654
+  ]
+  node [
+    id 291
+    label "291"
+    idx 291
+    row 1179
+    column 11238
+    demarcated "False"
+    area 2801.0
+    solidity 0.9862676056338028
+    eccentricity 0.7578974392249063
+    diameter 59.71887444353913
+    perimeter 205.86500705120545
+    degree 9.0
+    strength 8.39148351189828
+    betweenness 4.253526285225354E-05
+  ]
+  node [
+    id 292
+    label "292"
+    idx 292
+    row 1178
+    column 8978
+    demarcated "False"
+    area 3908.0
+    solidity 0.9524737996587862
+    eccentricity 0.9403083780915791
+    diameter 70.53949348290655
+    perimeter 298.69343417595167
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 293
+    label "293"
+    idx 293
+    row 1197
+    column 10117
+    demarcated "False"
+    area 1129.0
+    solidity 0.8338257016248154
+    eccentricity 0.9586523915871161
+    diameter 37.91421166272614
+    perimeter 177.43860018001263
+    degree 4.0
+    strength 3.7069720316451327
+    betweenness 0.0
+  ]
+  node [
+    id 294
+    label "294"
+    idx 294
+    row 1171
+    column 12102
+    demarcated "True"
+    area 406.0
+    solidity 0.9485981308411215
+    eccentricity 0.8415967586456349
+    diameter 22.736210219877808
+    perimeter 83.59797974644667
+    degree 6.0
+    strength 5.352415668458481
+    betweenness 0.001752900569121817
+  ]
+  node [
+    id 295
+    label "295"
+    idx 295
+    row 1208
+    column 12590
+    demarcated "True"
+    area 4707.0
+    solidity 0.8975972540045767
+    eccentricity 0.6398579356528842
+    diameter 77.41536370171241
+    perimeter 319.8061325481598
+    degree 6.0
+    strength 5.180257825528606
+    betweenness 0.004477396089710899
+  ]
+  node [
+    id 296
+    label "296"
+    idx 296
+    row 1199
+    column 6050
+    demarcated "False"
+    area 7725.0
+    solidity 0.9704773869346733
+    eccentricity 0.8106905192985913
+    diameter 99.1754782346883
+    perimeter 367.95436482630055
+    degree 1.0
+    strength 0.8407206166864507
+    betweenness 0.0
+  ]
+  node [
+    id 297
+    label "297"
+    idx 297
+    row 1181
+    column 11161
+    demarcated "False"
+    area 2168.0
+    solidity 0.7938484071768583
+    eccentricity 0.8684879655450253
+    diameter 52.53935032892806
+    perimeter 229.92388155425118
+    degree 6.0
+    strength 5.6336903258098125
+    betweenness 4.253526285225354E-05
+  ]
+  node [
+    id 298
+    label "298"
+    idx 298
+    row 1179
+    column 9787
+    demarcated "False"
+    area 315.0
+    solidity 0.9375
+    eccentricity 0.9527116559247315
+    diameter 20.026743534373637
+    perimeter 83.59797974644665
+    degree 3.0
+    strength 1.7677882221950592
+    betweenness 3.671464793562937E-05
+  ]
+  node [
+    id 299
+    label "299"
+    idx 299
+    row 1174
+    column 12790
+    demarcated "True"
+    area 640.0
+    solidity 0.974124809741248
+    eccentricity 0.7267467830914155
+    diameter 28.54598585844434
+    perimeter 95.59797974644667
+    degree 10.0
+    strength 9.62611462963456
+    betweenness 0.0018554329395761965
+  ]
+  node [
+    id 300
+    label "300"
+    idx 300
+    row 1184
+    column 12320
+    demarcated "True"
+    area 1271.0
+    solidity 0.9643399089529591
+    eccentricity 0.8125265419512436
+    diameter 40.22794378735249
+    perimeter 141.78174593052023
+    degree 10.0
+    strength 9.651917921483648
+    betweenness 0.0005731066994829951
+  ]
+  node [
+    id 301
+    label "301"
+    idx 301
+    row 1184
+    column 12746
+    demarcated "True"
+    area 1006.0
+    solidity 0.8293487221764221
+    eccentricity 0.6017855063924616
+    diameter 35.78936967876878
+    perimeter 149.4386001800126
+    degree 7.0
+    strength 6.873565317340342
+    betweenness 0.0005117663730539558
+  ]
+  node [
+    id 302
+    label "302"
+    idx 302
+    row 1183
+    column 2769
+    demarcated "False"
+    area 1081.0
+    solidity 0.9583333333333334
+    eccentricity 0.7577139930923693
+    diameter 37.09948716436268
+    perimeter 130.3259018078045
+    degree 1.0
+    strength 0.9892252345268797
+    betweenness 0.0
+  ]
+  node [
+    id 303
+    label "303"
+    idx 303
+    row 1207
+    column 10087
+    demarcated "False"
+    area 1785.0
+    solidity 0.8471760797342193
+    eccentricity 0.9066432457075537
+    diameter 47.6731852025042
+    perimeter 196.26702730475878
+    degree 3.0
+    strength 2.769666987532524
+    betweenness 0.0
+  ]
+  node [
+    id 304
+    label "304"
+    idx 304
+    row 1233
+    column 10307
+    demarcated "False"
+    area 6955.0
+    solidity 0.9768258426966292
+    eccentricity 0.8530931311458779
+    diameter 94.10303413616937
+    perimeter 350.8183258569795
+    degree 3.0
+    strength 2.4393996732706813
+    betweenness 0.00010074141201849523
+  ]
+  node [
+    id 305
+    label "305"
+    idx 305
+    row 1201
+    column 9910
+    demarcated "False"
+    area 3400.0
+    solidity 0.9872241579558653
+    eccentricity 0.7310162862347722
+    diameter 65.79524642479541
+    perimeter 221.96551211459382
+    degree 1.0
+    strength 0.9920708178185585
+    betweenness 0.0
+  ]
+  node [
+    id 306
+    label "306"
+    idx 306
+    row 1265
+    column 9804
+    demarcated "False"
+    area 16352.0
+    solidity 0.9121945777083565
+    eccentricity 0.8102855123006557
+    diameter 144.29141705420105
+    perimeter 587.2274887854693
+    degree 1.0
+    strength 0.5178457257898527
+    betweenness 0.0
+  ]
+  node [
+    id 307
+    label "307"
+    idx 307
+    row 1186
+    column 10474
+    demarcated "False"
+    area 367.0
+    solidity 0.9314720812182741
+    eccentricity 0.9438391792702848
+    diameter 21.616635097022034
+    perimeter 88.32590180780451
+    degree 2.0
+    strength 1.0982506472309188
+    betweenness 0.0
+  ]
+  node [
+    id 308
+    label "308"
+    idx 308
+    row 1188
+    column 12676
+    demarcated "True"
+    area 850.0
+    solidity 0.9497206703910615
+    eccentricity 0.7216539621481425
+    diameter 32.897623212397704
+    perimeter 113.05382386916237
+    degree 4.0
+    strength 3.8112097513318144
+    betweenness 0.0006241490149056993
+  ]
+  node [
+    id 309
+    label "309"
+    idx 309
+    row 1208
+    column 6213
+    demarcated "False"
+    area 7316.0
+    solidity 0.9524801458143471
+    eccentricity 0.950229902468491
+    diameter 96.51435390283899
+    perimeter 424.3919189857867
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 310
+    label "310"
+    idx 310
+    row 1201
+    column 9191
+    demarcated "False"
+    area 3351.0
+    solidity 0.9741279069767442
+    eccentricity 0.8749488718035185
+    diameter 65.31941299803245
+    perimeter 243.9655121145938
+    degree 2.0
+    strength 1.5742200039544874
+    betweenness 0.0
+  ]
+  node [
+    id 311
+    label "311"
+    idx 311
+    row 1282
+    column 12242
+    demarcated "True"
+    area 24555.0
+    solidity 0.733576315239148
+    eccentricity 0.8458876560536203
+    diameter 176.81741153226943
+    perimeter 1268.7869760331528
+    degree 5.0
+    strength 1.9074424114226107
+    betweenness 0.011877188607176101
+  ]
+  node [
+    id 312
+    label "312"
+    idx 312
+    row 1192
+    column 12831
+    demarcated "True"
+    area 565.0
+    solidity 0.9741379310344828
+    eccentricity 0.258588750215371
+    diameter 26.821266613927218
+    perimeter 87.84062043356595
+    degree 10.0
+    strength 9.783131627537891
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 313
+    label "313"
+    idx 313
+    row 1212
+    column 6509
+    demarcated "False"
+    area 5340.0
+    solidity 0.9308000697228517
+    eccentricity 0.8811956987490407
+    diameter 82.45665024050983
+    perimeter 328.97770542341357
+    degree 3.0
+    strength 2.6633343105934117
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 314
+    label "314"
+    idx 314
+    row 1189
+    column 12266
+    demarcated "True"
+    area 281.0
+    solidity 0.9243421052631579
+    eccentricity 0.9462395030309574
+    diameter 18.91508160359296
+    perimeter 77.8700576850888
+    degree 9.0
+    strength 8.034717206393587
+    betweenness 0.007742313318328086
+  ]
+  node [
+    id 315
+    label "315"
+    idx 315
+    row 1260
+    column 5954
+    demarcated "False"
+    area 9318.0
+    solidity 0.858722698368814
+    eccentricity 0.6865490862892261
+    diameter 108.92220195094407
+    perimeter 501.6295090390226
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 316
+    label "316"
+    idx 316
+    row 1200
+    column 10212
+    demarcated "False"
+    area 761.0
+    solidity 0.9756410256410256
+    eccentricity 0.7887526490547923
+    diameter 31.127725479762553
+    perimeter 107.49747468305833
+    degree 5.0
+    strength 4.608972586378199
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 317
+    label "317"
+    idx 317
+    row 1211
+    column 6415
+    demarcated "False"
+    area 2448.0
+    solidity 0.9807692307692307
+    eccentricity 0.9247913350408753
+    diameter 55.82911790017533
+    perimeter 222.16652224137047
+    degree 1.0
+    strength 0.8880980280232148
+    betweenness 0.0
+  ]
+  node [
+    id 318
+    label "318"
+    idx 318
+    row 1230
+    column 9378
+    demarcated "False"
+    area 6089.0
+    solidity 0.9878325762491889
+    eccentricity 0.7587513291338956
+    diameter 88.04973360489177
+    perimeter 306.14927829866735
+    degree 1.0
+    strength 0.8208800899511484
+    betweenness 0.0
+  ]
+  node [
+    id 319
+    label "319"
+    idx 319
+    row 1247
+    column 8835
+    demarcated "False"
+    area 16723.0
+    solidity 0.946620627193479
+    eccentricity 0.8665559667805781
+    diameter 145.9191039809597
+    perimeter 578.4579361637687
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 320
+    label "320"
+    idx 320
+    row 1207
+    column 12877
+    demarcated "True"
+    area 768.0
+    solidity 0.9846153846153847
+    eccentricity 0.5653471829362838
+    diameter 31.270560761786875
+    perimeter 107.11269837220807
+    degree 8.0
+    strength 7.825307275617903
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 321
+    label "321"
+    idx 321
+    row 1205
+    column 11266
+    demarcated "False"
+    area 482.0
+    solidity 0.9469548133595285
+    eccentricity 0.9121413230095872
+    diameter 24.77299861870477
+    perimeter 93.39696961966999
+    degree 8.0
+    strength 7.256702217941938
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 322
+    label "322"
+    idx 322
+    row 1213
+    column 12776
+    demarcated "True"
+    area 812.0
+    solidity 0.9042316258351893
+    eccentricity 0.8936648275072439
+    diameter 32.15385684991696
+    perimeter 126.3259018078045
+    degree 7.0
+    strength 6.855658549405448
+    betweenness 8.551826531347817E-05
+  ]
+  node [
+    id 323
+    label "323"
+    idx 323
+    row 1210
+    column 11292
+    demarcated "False"
+    area 513.0
+    solidity 0.9715909090909091
+    eccentricity 0.6635006624442058
+    diameter 25.557227675339483
+    perimeter 85.25483399593904
+    degree 7.0
+    strength 6.332401176657157
+    betweenness 0.0
+  ]
+  node [
+    id 324
+    label "324"
+    idx 324
+    row 1237
+    column 10665
+    demarcated "False"
+    area 3362.0
+    solidity 0.9616704805491991
+    eccentricity 0.793869610281704
+    diameter 65.42653398583495
+    perimeter 239.27922061357853
+    degree 1.0
+    strength 0.998359947324567
+    betweenness 0.0
+  ]
+  node [
+    id 325
+    label "325"
+    idx 325
+    row 1226
+    column 4037
+    demarcated "False"
+    area 2244.0
+    solidity 0.9765013054830287
+    eccentricity 0.7508857123956196
+    diameter 53.452310879752474
+    perimeter 188.8528137423857
+    degree 1.0
+    strength 0.7836852888046127
+    betweenness 0.0
+  ]
+  node [
+    id 326
+    label "326"
+    idx 326
+    row 1227
+    column 12809
+    demarcated "True"
+    area 1648.0
+    solidity 0.9711255156157925
+    eccentricity 0.797190106896568
+    diameter 45.80719124464573
+    perimeter 161.3380951166243
+    degree 11.0
+    strength 10.704604083339742
+    betweenness 7.119059782640329E-05
+  ]
+  node [
+    id 327
+    label "327"
+    idx 327
+    row 1214
+    column 12310
+    demarcated "True"
+    area 197.0
+    solidity 0.9380952380952381
+    eccentricity 0.8974625816637589
+    diameter 15.837556323903858
+    perimeter 60.526911934581186
+    degree 9.0
+    strength 8.20387656934527
+    betweenness 0.0009402531788392888
+  ]
+  node [
+    id 328
+    label "328"
+    idx 328
+    row 1220
+    column 12434
+    demarcated "True"
+    area 709.0
+    solidity 0.9328947368421052
+    eccentricity 0.8947150000874543
+    diameter 30.045412914740087
+    perimeter 114.22539674441617
+    degree 6.0
+    strength 5.744965236273238
+    betweenness 0.00043609837913784156
+  ]
+  node [
+    id 329
+    label "329"
+    idx 329
+    row 1253
+    column 5437
+    demarcated "False"
+    area 4883.0
+    solidity 0.8798198198198198
+    eccentricity 0.9568535868226268
+    diameter 78.84940517811026
+    perimeter 346.77669529663683
+    degree 1.0
+    strength 0.9217368926472007
+    betweenness 0.0
+  ]
+  node [
+    id 330
+    label "330"
+    idx 330
+    row 1233
+    column 11466
+    demarcated "False"
+    area 1254.0
+    solidity 0.8606726149622512
+    eccentricity 0.9158214896386225
+    diameter 39.958007821935944
+    perimeter 161.58073580374355
+    degree 7.0
+    strength 6.8248569540287845
+    betweenness 0.0
+  ]
+  node [
+    id 331
+    label "331"
+    idx 331
+    row 1240
+    column 5830
+    demarcated "False"
+    area 2949.0
+    solidity 0.9856283422459893
+    eccentricity 0.806725392859248
+    diameter 61.27628756235151
+    perimeter 216.20815280171308
+    degree 1.0
+    strength 0.7276471787024325
+    betweenness 0.0
+  ]
+  node [
+    id 332
+    label "332"
+    idx 332
+    row 1266
+    column 5512
+    demarcated "False"
+    area 6869.0
+    solidity 0.8015169194865811
+    eccentricity 0.9611345145782101
+    diameter 93.51942275691094
+    perimeter 468.13203435596427
+    degree 2.0
+    strength 1.75186463345855
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 333
+    label "333"
+    idx 333
+    row 1296
+    column 10146
+    demarcated "False"
+    area 9166.0
+    solidity 0.9095058543361778
+    eccentricity 0.9403169577880196
+    diameter 108.03015165703741
+    perimeter 452.03152929257595
+    degree 1.0
+    strength 0.7876184636939065
+    betweenness 0.0
+  ]
+  node [
+    id 334
+    label "334"
+    idx 334
+    row 1230
+    column 12316
+    demarcated "True"
+    area 369.0
+    solidity 0.9761904761904762
+    eccentricity 0.7551787050456443
+    diameter 21.675455981530703
+    perimeter 73.94112549695427
+    degree 8.0
+    strength 7.267073018308424
+    betweenness 0.0
+  ]
+  node [
+    id 335
+    label "335"
+    idx 335
+    row 1247
+    column 11204
+    demarcated "False"
+    area 1103.0
+    solidity 0.9795737122557726
+    eccentricity 0.6133297968855638
+    diameter 37.47510130530516
+    perimeter 126.5685424949238
+    degree 7.0
+    strength 6.765326861112172
+    betweenness 0.0
+  ]
+  node [
+    id 336
+    label "336"
+    idx 336
+    row 1257
+    column 4681
+    demarcated "False"
+    area 7253.0
+    solidity 0.8118423998209089
+    eccentricity 0.9894233746491274
+    diameter 96.09790017458309
+    perimeter 571.0609665440988
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 337
+    label "337"
+    idx 337
+    row 1241
+    column 12874
+    demarcated "True"
+    area 591.0
+    solidity 0.9768595041322314
+    eccentricity 0.7709460340111343
+    diameter 27.431452220735256
+    perimeter 93.94112549695427
+    degree 9.0
+    strength 8.770218323089601
+    betweenness 0.0002493909621968971
+  ]
+  node [
+    id 338
+    label "338"
+    idx 338
+    row 1238
+    column 11242
+    demarcated "False"
+    area 196.0
+    solidity 0.9751243781094527
+    eccentricity 0.736901651664858
+    diameter 15.797308339337176
+    perimeter 51.11269837220809
+    degree 8.0
+    strength 7.492912818657139
+    betweenness 5.2385534249617514E-05
+  ]
+  node [
+    id 339
+    label "339"
+    idx 339
+    row 1279
+    column 11305
+    demarcated "False"
+    area 4780.0
+    solidity 0.74246660453557
+    eccentricity 0.7589832282275818
+    diameter 78.01336439248136
+    perimeter 358.0904037956216
+    degree 10.0
+    strength 8.560097951359415
+    betweenness 9.984593280055304E-05
+  ]
+  node [
+    id 340
+    label "340"
+    idx 340
+    row 1243
+    column 12768
+    demarcated "True"
+    area 200.0
+    solidity 0.975609756097561
+    eccentricity 0.7024380156517711
+    diameter 15.957691216057308
+    perimeter 52.2842712474619
+    degree 8.0
+    strength 7.691100195094922
+    betweenness 0.0003143132054977051
+  ]
+  node [
+    id 341
+    label "341"
+    idx 341
+    row 1331
+    column 10225
+    demarcated "False"
+    area 14984.0
+    solidity 0.9215252152521525
+    eccentricity 0.7408050708629869
+    diameter 138.1239347047125
+    perimeter 524.541197284454
+    degree 2.0
+    strength 1.3901731953043632
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 342
+    label "342"
+    idx 342
+    row 1262
+    column 11435
+    demarcated "False"
+    area 2116.0
+    solidity 0.8360331884630581
+    eccentricity 0.4248530045167925
+    diameter 51.90544168639358
+    perimeter 212.10764773832474
+    degree 10.0
+    strength 9.552487324460603
+    betweenness 1.7461844749872505E-05
+  ]
+  node [
+    id 343
+    label "343"
+    idx 343
+    row 1261
+    column 12825
+    demarcated "True"
+    area 1611.0
+    solidity 0.9487632508833922
+    eccentricity 0.8788540623590284
+    diameter 45.29005306431366
+    perimeter 166.99494936611666
+    degree 11.0
+    strength 10.654309071891095
+    betweenness 0.0013029222621058715
+  ]
+  node [
+    id 344
+    label "344"
+    idx 344
+    row 1312
+    column 5067
+    demarcated "False"
+    area 14479.0
+    solidity 0.8806106313100596
+    eccentricity 0.9350216689285832
+    diameter 135.77641683378016
+    perimeter 673.6122650963196
+    degree 1.0
+    strength 0.6033959961768866
+    betweenness 0.0
+  ]
+  node [
+    id 345
+    label "345"
+    idx 345
+    row 1246
+    column 12308
+    demarcated "True"
+    area 126.0
+    solidity 0.9333333333333333
+    eccentricity 0.8492204487632152
+    diameter 12.666024736934256
+    perimeter 44.21320343559643
+    degree 8.0
+    strength 7.2289260601963505
+    betweenness 0.003681762804569272
+  ]
+  node [
+    id 346
+    label "346"
+    idx 346
+    row 1259
+    column 12138
+    demarcated "True"
+    area 619.0
+    solidity 0.9748031496062992
+    eccentricity 0.8099582902001158
+    diameter 28.07374713484229
+    perimeter 96.91168824543142
+    degree 2.0
+    strength 1.9743316235653536
+    betweenness 0.0015455971301682023
+  ]
+  node [
+    id 347
+    label "347"
+    idx 347
+    row 1273
+    column 10350
+    demarcated "False"
+    area 1755.0
+    solidity 0.9809949692565679
+    eccentricity 0.9032825643706504
+    diameter 47.27087264912941
+    perimeter 175.7228714274745
+    degree 2.0
+    strength 1.4113673925482617
+    betweenness 0.00010029367240952413
+  ]
+  node [
+    id 348
+    label "348"
+    idx 348
+    row 1302
+    column 12636
+    demarcated "True"
+    area 17232.0
+    solidity 0.7644397125365984
+    eccentricity 0.8605044482471963
+    diameter 148.12313740559347
+    perimeter 876.891485709898
+    degree 1.0
+    strength 0.6156513600917598
+    betweenness 0.0
+  ]
+  node [
+    id 349
+    label "349"
+    idx 349
+    row 1276
+    column 11240
+    demarcated "False"
+    area 1873.0
+    solidity 0.9624871531346352
+    eccentricity 0.4612182447565105
+    diameter 48.83418543693506
+    perimeter 172.22539674441617
+    degree 8.0
+    strength 7.595455676983428
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 350
+    label "350"
+    idx 350
+    row 1292
+    column 6152
+    demarcated "False"
+    area 13064.0
+    solidity 0.9821817908427938
+    eccentricity 0.9241423513918421
+    diameter 128.97132011583105
+    perimeter 501.747258045114
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 351
+    label "351"
+    idx 351
+    row 1259
+    column 12534
+    demarcated "True"
+    area 330.0
+    solidity 0.9734513274336283
+    eccentricity 0.6552831209634234
+    diameter 20.49802550887777
+    perimeter 66.52691193458118
+    degree 6.0
+    strength 5.549601985750741
+    betweenness 0.00460097222178692
+  ]
+  node [
+    id 352
+    label "352"
+    idx 352
+    row 1268
+    column 4986
+    demarcated "False"
+    area 2168.0
+    solidity 0.9426086956521739
+    eccentricity 0.9081048733323361
+    diameter 52.53935032892806
+    perimeter 206.02438661763952
+    degree 1.0
+    strength 0.6033959961768866
+    betweenness 0.0
+  ]
+  node [
+    id 353
+    label "353"
+    idx 353
+    row 1272
+    column 12344
+    demarcated "True"
+    area 1438.0
+    solidity 0.9631614199598124
+    eccentricity 0.7314334067138432
+    diameter 42.78923305376207
+    perimeter 150.46803743153546
+    degree 6.0
+    strength 5.764717404939336
+    betweenness 0.00010835298537100375
+  ]
+  node [
+    id 354
+    label "354"
+    idx 354
+    row 1267
+    column 12491
+    demarcated "True"
+    area 424.0
+    solidity 0.9592760180995475
+    eccentricity 0.8209050860591168
+    diameter 23.23474912642073
+    perimeter 81.84062043356595
+    degree 8.0
+    strength 7.711257630857266
+    betweenness 1.3879927878103786E-05
+  ]
+  node [
+    id 355
+    label "355"
+    idx 355
+    row 1280
+    column 12860
+    demarcated "True"
+    area 1457.0
+    solidity 0.933974358974359
+    eccentricity 0.9004718299851244
+    diameter 43.07098810892469
+    perimeter 170.61017305526644
+    degree 10.0
+    strength 9.718514878441681
+    betweenness 0.00020685569934464354
+  ]
+  node [
+    id 356
+    label "356"
+    idx 356
+    row 1309
+    column 4079
+    demarcated "False"
+    area 8184.0
+    solidity 0.8764189333904476
+    eccentricity 0.9375893707126857
+    diameter 102.07934381701605
+    perimeter 449.1614716074871
+    degree 1.0
+    strength 0.7836852888046127
+    betweenness 0.0
+  ]
+  node [
+    id 357
+    label "357"
+    idx 357
+    row 1319
+    column 4809
+    demarcated "False"
+    area 18375.0
+    solidity 0.6842556043792358
+    eccentricity 0.9566796094249064
+    diameter 152.9567802828911
+    perimeter 1187.7737367038064
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 358
+    label "358"
+    idx 358
+    row 1310
+    column 9603
+    demarcated "False"
+    area 3670.0
+    solidity 0.8933787731256085
+    eccentricity 0.8981447688147732
+    diameter 68.3578022553245
+    perimeter 272.8355697996826
+    degree 2.0
+    strength 1.7913484815708993
+    betweenness 4.163978363431136E-05
+  ]
+  node [
+    id 359
+    label "359"
+    idx 359
+    row 1279
+    column 11369
+    demarcated "False"
+    area 1600.0
+    solidity 0.9821976672805403
+    eccentricity 0.6059705988060983
+    diameter 45.1351666838205
+    perimeter 148.71067811865476
+    degree 11.0
+    strength 10.241128217459064
+    betweenness 0.0001813345416332914
+  ]
+  node [
+    id 360
+    label "360"
+    idx 360
+    row 1333
+    column 7845
+    demarcated "False"
+    area 28197.0
+    solidity 0.9694687983496648
+    eccentricity 0.9008864470117898
+    diameter 189.47700505047408
+    perimeter 745.5117600329311
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 361
+    label "361"
+    idx 361
+    row 1311
+    column 3935
+    demarcated "False"
+    area 7077.0
+    solidity 0.8073237508555784
+    eccentricity 0.8306883509966683
+    diameter 94.92479264181064
+    perimeter 429.6467529817257
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 362
+    label "362"
+    idx 362
+    row 1268
+    column 12391
+    demarcated "True"
+    area 332.0
+    solidity 0.8601036269430051
+    eccentricity 0.933451301923276
+    diameter 20.56004690782767
+    perimeter 83.35533905932736
+    degree 10.0
+    strength 9.692109884688357
+    betweenness 0.004957372950527907
+  ]
+  node [
+    id 363
+    label "363"
+    idx 363
+    row 1315
+    column 9410
+    demarcated "False"
+    area 10899.0
+    solidity 0.9653675819309123
+    eccentricity 0.7260615695600375
+    diameter 117.80083954738411
+    perimeter 415.9898987322333
+    degree 2.0
+    strength 1.4872449096240394
+    betweenness 1.4775407096045967E-05
+  ]
+  node [
+    id 364
+    label "364"
+    idx 364
+    row 1285
+    column 11489
+    demarcated "False"
+    area 1779.0
+    solidity 0.9726626571897211
+    eccentricity 0.7759685465546788
+    diameter 47.59299475851309
+    perimeter 164.8528137423857
+    degree 7.0
+    strength 6.7115582096603905
+    betweenness 0.0
+  ]
+  node [
+    id 365
+    label "365"
+    idx 365
+    row 1292
+    column 12097
+    demarcated "True"
+    area 1036.0
+    solidity 0.9709465791940018
+    eccentricity 0.6837726250883509
+    diameter 36.319088209172165
+    perimeter 124.95331880577403
+    degree 2.0
+    strength 1.9561146886146323
+    betweenness 0.0015769389027961785
+  ]
+  node [
+    id 366
+    label "366"
+    idx 366
+    row 1301
+    column 10645
+    demarcated "False"
+    area 3402.0
+    solidity 0.9184665226781857
+    eccentricity 0.8606639059763207
+    diameter 65.81459512288306
+    perimeter 253.86500705120545
+    degree 3.0
+    strength 2.888468598270115
+    betweenness 1.2984448660161608E-05
+  ]
+  node [
+    id 367
+    label "367"
+    idx 367
+    row 1279
+    column 11405
+    demarcated "False"
+    area 116.0
+    solidity 0.9586776859504132
+    eccentricity 0.6471682919249746
+    diameter 12.153015559492998
+    perimeter 40.62741699796952
+    degree 10.0
+    strength 9.357682673245087
+    betweenness 3.492368949974501E-05
+  ]
+  node [
+    id 368
+    label "368"
+    idx 368
+    row 1292
+    column 5652
+    demarcated "False"
+    area 1683.0
+    solidity 0.973395026026605
+    eccentricity 0.8771641780951301
+    diameter 46.291059112848984
+    perimeter 168.46803743153546
+    degree 3.0
+    strength 2.7709112092875943
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 369
+    label "369"
+    idx 369
+    row 1302
+    column 5238
+    demarcated "False"
+    area 3912.0
+    solidity 0.9485935984481086
+    eccentricity 0.9429701435116347
+    diameter 70.57558429799896
+    perimeter 297.03657992645924
+    degree 1.0
+    strength 0.9686187646524199
+    betweenness 0.0
+  ]
+  node [
+    id 370
+    label "370"
+    idx 370
+    row 1304
+    column 11414
+    demarcated "False"
+    area 1183.0
+    solidity 0.9728618421052632
+    eccentricity 0.7496849376543112
+    diameter 38.810338589372
+    perimeter 133.29646455628165
+    degree 11.0
+    strength 10.577900251450831
+    betweenness 0.0
+  ]
+  node [
+    id 371
+    label "371"
+    idx 371
+    row 1322
+    column 12465
+    demarcated "True"
+    area 2943.0
+    solidity 0.7769271383315733
+    eccentricity 0.9471097419594048
+    diameter 61.21391982348119
+    perimeter 298.2497833620557
+    degree 9.0
+    strength 8.31586890337838
+    betweenness 0.006524909321535693
+  ]
+  node [
+    id 372
+    label "372"
+    idx 372
+    row 1301
+    column 12497
+    demarcated "True"
+    area 1140.0
+    solidity 0.9290953545232273
+    eccentricity 0.7791299572996424
+    diameter 38.09846559899868
+    perimeter 136.91168824543144
+    degree 6.0
+    strength 5.806358133645279
+    betweenness 0.0
+  ]
+  node [
+    id 373
+    label "373"
+    idx 373
+    row 1295
+    column 12403
+    demarcated "True"
+    area 466.0
+    solidity 0.9628099173553719
+    eccentricity 0.7486481459542617
+    diameter 24.35835848013133
+    perimeter 83.66904755831214
+    degree 8.0
+    strength 7.772126628733588
+    betweenness 0.00022745172135731366
+  ]
+  node [
+    id 374
+    label "374"
+    idx 374
+    row 1327
+    column 4572
+    demarcated "False"
+    area 4456.0
+    solidity 0.7383595691797846
+    eccentricity 0.9538572826791871
+    diameter 75.32300718465696
+    perimeter 368.048773235279
+    degree 3.0
+    strength 2.641997423834582
+    betweenness 0.0
+  ]
+  node [
+    id 375
+    label "375"
+    idx 375
+    row 1348
+    column 10370
+    demarcated "False"
+    area 14061.0
+    solidity 0.8862905767412543
+    eccentricity 0.8920772513646926
+    diameter 133.8021720246765
+    perimeter 588.4406922210657
+    degree 3.0
+    strength 1.8221691564152898
+    betweenness 9.895045358261086E-05
+  ]
+  node [
+    id 376
+    label "376"
+    idx 376
+    row 1323
+    column 11928
+    demarcated "True"
+    area 3518.0
+    solidity 0.9718232044198895
+    eccentricity 0.8923703625359852
+    diameter 66.9272494457848
+    perimeter 261.0782104868019
+    degree 7.0
+    strength 6.324626998442252
+    betweenness 5.6415190730357324E-05
+  ]
+  node [
+    id 377
+    label "377"
+    idx 377
+    row 1296
+    column 12883
+    demarcated "True"
+    area 164.0
+    solidity 0.9939393939393939
+    eccentricity 0.6740055251452955
+    diameter 14.450303987687134
+    perimeter 48.142135623730944
+    degree 7.0
+    strength 6.750347005267708
+    betweenness 2.999855380106302E-05
+  ]
+  node [
+    id 378
+    label "378"
+    idx 378
+    row 1332
+    column 11851
+    demarcated "True"
+    area 4613.0
+    solidity 0.9767097183993224
+    eccentricity 0.4088276075020725
+    diameter 76.63846305780999
+    perimeter 260.79393923934
+    degree 5.0
+    strength 4.400359350536635
+    betweenness 0.0
+  ]
+  node [
+    id 379
+    label "379"
+    idx 379
+    row 1328
+    column 4210
+    demarcated "False"
+    area 2097.0
+    solidity 0.713265306122449
+    eccentricity 0.8454117683473192
+    diameter 51.67188137962113
+    perimeter 244.65180361560903
+    degree 1.0
+    strength 0.9621221009780971
+    betweenness 0.0
+  ]
+  node [
+    id 380
+    label "380"
+    idx 380
+    row 1313
+    column 9504
+    demarcated "False"
+    area 1007.0
+    solidity 0.972007722007722
+    eccentricity 0.4389788301735943
+    diameter 35.80715321759479
+    perimeter 119.05382386916237
+    degree 3.0
+    strength 2.118198994033183
+    betweenness 7.880217117891182E-05
+  ]
+  node [
+    id 381
+    label "381"
+    idx 381
+    row 1308
+    column 11459
+    demarcated "False"
+    area 658.0
+    solidity 0.9522431259044862
+    eccentricity 0.6622600856755239
+    diameter 28.944630252185586
+    perimeter 97.7401153701776
+    degree 11.0
+    strength 10.46845728381971
+    betweenness 0.0
+  ]
+  node [
+    id 382
+    label "382"
+    idx 382
+    row 1324
+    column 12819
+    demarcated "True"
+    area 1568.0
+    solidity 0.9316696375519905
+    eccentricity 0.8280956096135899
+    diameter 44.68153540496046
+    perimeter 164.95331880577402
+    degree 10.0
+    strength 9.666093335903293
+    betweenness 0.0007951855455326556
+  ]
+  node [
+    id 383
+    label "383"
+    idx 383
+    row 1321
+    column 5742
+    demarcated "False"
+    area 1129.0
+    solidity 0.9791847354726799
+    eccentricity 0.7289580586316053
+    diameter 37.91421166272614
+    perimeter 130.61017305526642
+    degree 1.0
+    strength 0.9775230795366744
+    betweenness 0.0
+  ]
+  node [
+    id 384
+    label "384"
+    idx 384
+    row 1311
+    column 11250
+    demarcated "False"
+    area 910.0
+    solidity 0.9118236472945892
+    eccentricity 0.781408766472033
+    diameter 34.03891869182977
+    perimeter 127.88225099390856
+    degree 6.0
+    strength 5.701525171373408
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 385
+    label "385"
+    idx 385
+    row 1320
+    column 5583
+    demarcated "False"
+    area 2332.0
+    solidity 0.9773679798826488
+    eccentricity 0.9209406949061042
+    diameter 54.49031673905373
+    perimeter 211.19595949289334
+    degree 3.0
+    strength 2.6456383026166863
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 386
+    label "386"
+    idx 386
+    row 2013
+    column 8155
+    demarcated "False"
+    area 726707.0
+    solidity 0.6591171706214525
+    eccentricity 0.9363011384760341
+    diameter 961.9106454530254
+    perimeter 10285.95457508702
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 387
+    label "387"
+    idx 387
+    row 1374
+    column 9901
+    demarcated "False"
+    area 14173.0
+    solidity 0.9321275896086814
+    eccentricity 0.45815694547371855
+    diameter 134.3340019039538
+    perimeter 500.2152954766495
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 388
+    label "388"
+    idx 388
+    row 1318
+    column 11373
+    demarcated "False"
+    area 1029.0
+    solidity 0.9449035812672176
+    eccentricity 0.8489892369923756
+    diameter 36.19618062078487
+    perimeter 129.1543289325507
+    degree 10.0
+    strength 9.5041237130056
+    betweenness 4.387848167916681E-05
+  ]
+  node [
+    id 389
+    label "389"
+    idx 389
+    row 1338
+    column 11292
+    demarcated "False"
+    area 1662.0
+    solidity 0.9437819420783645
+    eccentricity 0.715712613473348
+    diameter 46.00134914706133
+    perimeter 164.40916292848976
+    degree 6.0
+    strength 5.79687441500007
+    betweenness 0.0
+  ]
+  node [
+    id 390
+    label "390"
+    idx 390
+    row 1320
+    column 12030
+    demarcated "True"
+    area 371.0
+    solidity 0.978891820580475
+    eccentricity 0.3751821848963419
+    diameter 21.73411767467788
+    perimeter 70.18376618407356
+    degree 5.0
+    strength 4.881752670952787
+    betweenness 0.0017143949627503033
+  ]
+  node [
+    id 391
+    label "391"
+    idx 391
+    row 1508
+    column 9591
+    demarcated "False"
+    area 91463.0
+    solidity 0.8326626852627362
+    eccentricity 0.4084828769833862
+    diameter 341.2540233903656
+    perimeter 2207.1748904055826
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 392
+    label "392"
+    idx 392
+    row 1322
+    column 11439
+    demarcated "False"
+    area 285.0
+    solidity 0.9344262295081968
+    eccentricity 0.7840603033577347
+    diameter 19.04923279949934
+    perimeter 68.90559159102153
+    degree 11.0
+    strength 10.354345328866819
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 393
+    label "393"
+    idx 393
+    row 1331
+    column 12875
+    demarcated "True"
+    area 771.0
+    solidity 0.9542079207920792
+    eccentricity 0.7059181497346904
+    diameter 31.331576548121713
+    perimeter 114.76955262170047
+    degree 8.0
+    strength 7.76318264420456
+    betweenness 0.001329338899035166
+  ]
+  node [
+    id 394
+    label "394"
+    idx 394
+    row 1352
+    column 5620
+    demarcated "False"
+    area 6529.0
+    solidity 0.8207416719044626
+    eccentricity 0.9801193568934922
+    diameter 91.17555038263207
+    perimeter 453.7056274847714
+    degree 2.0
+    strength 1.6614590972609071
+    betweenness 0.0
+  ]
+  node [
+    id 395
+    label "395"
+    idx 395
+    row 1345
+    column 12535
+    demarcated "True"
+    area 1717.0
+    solidity 0.8521091811414392
+    eccentricity 0.9025010547775689
+    diameter 46.75630757780467
+    perimeter 202.06601717798213
+    degree 5.0
+    strength 4.787486071781346
+    betweenness 0.0
+  ]
+  node [
+    id 396
+    label "396"
+    idx 396
+    row 1399
+    column 9217
+    demarcated "False"
+    area 40333.0
+    solidity 0.9458736896414249
+    eccentricity 0.9065944386278921
+    diameter 226.6132620960285
+    perimeter 966.4062043356594
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 397
+    label "397"
+    idx 397
+    row 1333
+    column 9635
+    demarcated "False"
+    area 963.0
+    solidity 0.9385964912280702
+    eccentricity 0.9355304641536857
+    diameter 35.01613458935697
+    perimeter 143.095454429505
+    degree 2.0
+    strength 1.8915064404507427
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 398
+    label "398"
+    idx 398
+    row 1338
+    column 8209
+    demarcated "False"
+    area 3094.0
+    solidity 0.946177370030581
+    eccentricity 0.8693997130942077
+    diameter 62.76466483150048
+    perimeter 232.2670273047588
+    degree 1.0
+    strength 0.9825903603313748
+    betweenness 0.0
+  ]
+  node [
+    id 399
+    label "399"
+    idx 399
+    row 1354
+    column 10666
+    demarcated "False"
+    area 3191.0
+    solidity 0.6497658318061494
+    eccentricity 0.8209030821129152
+    diameter 63.74093964831319
+    perimeter 337.5046173579948
+    degree 4.0
+    strength 3.7397033015950774
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 400
+    label "400"
+    idx 400
+    row 1462
+    column 7164
+    demarcated "False"
+    area 97931.0
+    solidity 0.8676057585825028
+    eccentricity 0.8875830295469964
+    diameter 353.1141767976177
+    perimeter 1625.6164491784257
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 401
+    label "401"
+    idx 401
+    row 1334
+    column 12004
+    demarcated "True"
+    area 532.0
+    solidity 0.9833641404805915
+    eccentricity 0.3114810543612196
+    diameter 26.026206750102993
+    perimeter 83.25483399593904
+    degree 7.0
+    strength 6.74924483711543
+    betweenness 0.0
+  ]
+  node [
+    id 402
+    label "402"
+    idx 402
+    row 1349
+    column 11476
+    demarcated "False"
+    area 3257.0
+    solidity 0.9029664541169947
+    eccentricity 0.8740213716216658
+    diameter 64.39674834339405
+    perimeter 262.0071426749364
+    degree 10.0
+    strength 9.216133061403017
+    betweenness 1.1641229833248337E-05
+  ]
+  node [
+    id 403
+    label "403"
+    idx 403
+    row 1348
+    column 12764
+    demarcated "True"
+    area 2574.0
+    solidity 0.9366812227074236
+    eccentricity 0.8621066919199334
+    diameter 57.24786972585363
+    perimeter 213.48023074035524
+    degree 3.0
+    strength 2.915530686043918
+    betweenness 0.0
+  ]
+  node [
+    id 404
+    label "404"
+    idx 404
+    row 1350
+    column 9721
+    demarcated "False"
+    area 1045.0
+    solidity 0.9640221402214022
+    eccentricity 0.678438933291295
+    diameter 36.47650372840365
+    perimeter 123.29646455628165
+    degree 2.0
+    strength 1.9697614198454398
+    betweenness 1.4775407096045967E-05
+  ]
+  node [
+    id 405
+    label "405"
+    idx 405
+    row 1343
+    column 10641
+    demarcated "False"
+    area 800.0
+    solidity 0.9378663540445487
+    eccentricity 0.7947305712172882
+    diameter 31.915382432114615
+    perimeter 119.39696961966999
+    degree 4.0
+    strength 3.7423217786867697
+    betweenness 3.3580470672831744E-05
+  ]
+  node [
+    id 406
+    label "406"
+    idx 406
+    row 1344
+    column 12417
+    demarcated "True"
+    area 895.0
+    solidity 0.9531416400425985
+    eccentricity 0.8507320738980741
+    diameter 33.757212452126
+    perimeter 121.63961030678928
+    degree 8.0
+    strength 7.729703658082744
+    betweenness 0.0008363775895579959
+  ]
+  node [
+    id 407
+    label "407"
+    idx 407
+    row 1369
+    column 11389
+    demarcated "False"
+    area 4464.0
+    solidity 0.9635225555795381
+    eccentricity 0.7116142570389125
+    diameter 75.39059177177062
+    perimeter 272.2914139223983
+    degree 11.0
+    strength 9.619844305075857
+    betweenness 0.0001240238716849919
+  ]
+  node [
+    id 408
+    label "408"
+    idx 408
+    row 1366
+    column 11329
+    demarcated "False"
+    area 2051.0
+    solidity 0.7067539627842867
+    eccentricity 0.7797043501403969
+    diameter 51.101999043597296
+    perimeter 237.4213562373095
+    degree 6.0
+    strength 5.6788004176605975
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 409
+    label "409"
+    idx 409
+    row 1363
+    column 12203
+    demarcated "True"
+    area 4125.0
+    solidity 0.8680555555555556
+    eccentricity 0.9325184106013622
+    diameter 72.47146419131151
+    perimeter 306.5929291125633
+    degree 5.0
+    strength 3.999905744474303
+    betweenness 0.012003451176905948
+  ]
+  node [
+    id 410
+    label "410"
+    idx 410
+    row 1367
+    column 10449
+    demarcated "False"
+    area 1452.0
+    solidity 0.8864468864468864
+    eccentricity 0.6887005999748511
+    diameter 42.997021047456954
+    perimeter 167.4802307403552
+    degree 4.0
+    strength 3.5203021788546582
+    betweenness 9.357757827495779E-05
+  ]
+  node [
+    id 411
+    label "411"
+    idx 411
+    row 1489
+    column 8564
+    demarcated "False"
+    area 64069.0
+    solidity 0.9416787924217705
+    eccentricity 0.9395104307957614
+    diameter 285.6136978361457
+    perimeter 1311.7636354360397
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 412
+    label "412"
+    idx 412
+    row 1368
+    column 10551
+    demarcated "False"
+    area 1508.0
+    solidity 0.8798133022170361
+    eccentricity 0.831764526615243
+    diameter 43.818320751263684
+    perimeter 172.36753236814712
+    degree 4.0
+    strength 3.9000920309928384
+    betweenness 3.895334598048482E-05
+  ]
+  node [
+    id 413
+    label "413"
+    idx 413
+    row 1370
+    column 11964
+    demarcated "True"
+    area 1527.0
+    solidity 0.6928312159709619
+    eccentricity 0.933682095615201
+    diameter 44.09350048261754
+    perimeter 210.7523086789974
+    degree 11.0
+    strength 10.572513042199908
+    betweenness 0.001598878143635762
+  ]
+  node [
+    id 414
+    label "414"
+    idx 414
+    row 1364
+    column 5161
+    demarcated "False"
+    area 3135.0
+    solidity 0.9372197309417041
+    eccentricity 0.9696986417763109
+    diameter 63.1791577400707
+    perimeter 311.16652224137044
+    degree 2.0
+    strength 1.8423302461280957
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 415
+    label "415"
+    idx 415
+    row 1378
+    column 5395
+    demarcated "False"
+    area 10793.0
+    solidity 0.7472824205497473
+    eccentricity 0.9675568960285951
+    diameter 117.22659427931279
+    perimeter 672.0315292925759
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 416
+    label "416"
+    idx 416
+    row 1376
+    column 10510
+    demarcated "False"
+    area 1687.0
+    solidity 0.9520316027088036
+    eccentricity 0.8051151442159608
+    diameter 46.346036637108675
+    perimeter 169.29646455628165
+    degree 4.0
+    strength 3.9049612908275098
+    betweenness 3.581916871768719E-05
+  ]
+  node [
+    id 417
+    label "417"
+    idx 417
+    row 1362
+    column 12878
+    demarcated "True"
+    area 604.0
+    solidity 0.9773462783171522
+    eccentricity 0.6024790406701669
+    diameter 27.73151068766428
+    perimeter 96.07716446627535
+    degree 7.0
+    strength 6.717169890655598
+    betweenness 0.0005216166444513197
+  ]
+  node [
+    id 418
+    label "418"
+    idx 418
+    row 1377
+    column 11885
+    demarcated "True"
+    area 1892.0
+    solidity 0.8836992059785147
+    eccentricity 0.8196181436824704
+    diameter 49.08125119267976
+    perimeter 196.3086578651014
+    degree 9.0
+    strength 8.568921857561357
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 419
+    label "419"
+    idx 419
+    row 1383
+    column 11686
+    demarcated "False"
+    area 2246.0
+    solidity 0.9508890770533446
+    eccentricity 0.7523862008198118
+    diameter 53.4761256774944
+    perimeter 191.03657992645927
+    degree 1.0
+    strength 0.9676653002913078
+    betweenness 0.0
+  ]
+  node [
+    id 420
+    label "420"
+    idx 420
+    row 1371
+    column 12399
+    demarcated "True"
+    area 1215.0
+    solidity 0.9597156398104265
+    eccentricity 0.8397595395961196
+    diameter 39.33174350131485
+    perimeter 142.71067811865476
+    degree 6.0
+    strength 5.763767609066293
+    betweenness 0.0005986278571943472
+  ]
+  node [
+    id 421
+    label "421"
+    idx 421
+    row 1372
+    column 4533
+    demarcated "False"
+    area 989.0
+    solidity 0.9667644183773216
+    eccentricity 0.8779766684362461
+    diameter 35.485685983831225
+    perimeter 130.12489168102786
+    degree 3.0
+    strength 2.8197983552712547
+    betweenness 0.0
+  ]
+  node [
+    id 422
+    label "422"
+    idx 422
+    row 1389
+    column 8124
+    demarcated "False"
+    area 2666.0
+    solidity 0.9535050071530758
+    eccentricity 0.8630264556539544
+    diameter 58.261965520088175
+    perimeter 217.37972567696687
+    degree 1.0
+    strength 0.9825903603313748
+    betweenness 0.0
+  ]
+  node [
+    id 423
+    label "423"
+    idx 423
+    row 1394
+    column 12650
+    demarcated "True"
+    area 5411.0
+    solidity 0.9407162726008345
+    eccentricity 0.8528714826982303
+    diameter 83.00300703325131
+    perimeter 318.97770542341357
+    degree 3.0
+    strength 2.4598585853825945
+    betweenness 0.002520773998507236
+  ]
+  node [
+    id 424
+    label "424"
+    idx 424
+    row 1390
+    column 12730
+    demarcated "True"
+    area 2070.0
+    solidity 0.8497536945812808
+    eccentricity 0.8855234409265572
+    diameter 51.338152066487424
+    perimeter 209.23759005323595
+    degree 4.0
+    strength 3.6522894450971317
+    betweenness 0.002275412692791079
+  ]
+  node [
+    id 425
+    label "425"
+    idx 425
+    row 1411
+    column 11119
+    demarcated "False"
+    area 9279.0
+    solidity 0.7751232144348843
+    eccentricity 0.9361605191960268
+    diameter 108.69401885843386
+    perimeter 557.286363288515
+    degree 1.0
+    strength 0.7022145344831802
+    betweenness 0.0
+  ]
+  node [
+    id 426
+    label "426"
+    idx 426
+    row 1380
+    column 4208
+    demarcated "False"
+    area 1156.0
+    solidity 0.9821580288870009
+    eccentricity 0.7681383380540269
+    diameter 38.36489168124743
+    perimeter 129.9827560572969
+    degree 1.0
+    strength 0.9621221009780971
+    betweenness 0.0
+  ]
+  node [
+    id 427
+    label "427"
+    idx 427
+    row 1768
+    column 8638
+    demarcated "False"
+    area 217647.0
+    solidity 0.7091095689570912
+    eccentricity 0.9511770759781643
+    diameter 526.4188134869174
+    perimeter 3767.1294347006324
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 428
+    label "428"
+    idx 428
+    row 1522
+    column 8972
+    demarcated "False"
+    area 103133.0
+    solidity 0.9341418789174305
+    eccentricity 0.8524709108208466
+    diameter 362.37137575582807
+    perimeter 1825.6652224137044
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 429
+    label "429"
+    idx 429
+    row 1390
+    column 12817
+    demarcated "True"
+    area 3155.0
+    solidity 0.9543254688445251
+    eccentricity 0.9262204172201922
+    diameter 63.38036575817024
+    perimeter 251.58073580374355
+    degree 8.0
+    strength 7.504150220312127
+    betweenness 0.0019199074432680334
+  ]
+  node [
+    id 430
+    label "430"
+    idx 430
+    row 1393
+    column 11445
+    demarcated "False"
+    area 1833.0
+    solidity 0.9323499491353001
+    eccentricity 0.9072365538016747
+    diameter 48.30991705125929
+    perimeter 202.55129855222071
+    degree 9.0
+    strength 8.5401438253004
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 431
+    label "431"
+    idx 431
+    row 1391
+    column 11821
+    demarcated "True"
+    area 1448.0
+    solidity 0.8749244712990937
+    eccentricity 0.8561053683027914
+    diameter 42.937755656025104
+    perimeter 177.23759005323592
+    degree 5.0
+    strength 4.7289469369115755
+    betweenness 8.954792179421798E-05
+  ]
+  node [
+    id 432
+    label "432"
+    idx 432
+    row 1381
+    column 11919
+    demarcated "True"
+    area 273.0
+    solidity 0.9612676056338029
+    eccentricity 0.8163184286991658
+    diameter 18.643883600599406
+    perimeter 65.01219330881975
+    degree 12.0
+    strength 11.428477979248463
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 433
+    label "433"
+    idx 433
+    row 1396
+    column 12374
+    demarcated "True"
+    area 2369.0
+    solidity 0.9153786707882535
+    eccentricity 0.9373662710229695
+    diameter 54.9208929413716
+    perimeter 228.20815280171308
+    degree 7.0
+    strength 6.731703155351473
+    betweenness 8.104086922376727E-05
+  ]
+  node [
+    id 434
+    label "434"
+    idx 434
+    row 1411
+    column 4700
+    demarcated "False"
+    area 8749.0
+    solidity 0.8137090773809523
+    eccentricity 0.9938395388820366
+    diameter 105.54417452843117
+    perimeter 690.3452377915607
+    degree 1.0
+    strength 0.725887629472168
+    betweenness 0.0
+  ]
+  node [
+    id 435
+    label "435"
+    idx 435
+    row 1416
+    column 10266
+    demarcated "False"
+    area 2639.0
+    solidity 0.9561594202898551
+    eccentricity 0.8747568153874739
+    diameter 57.96618978815232
+    perimeter 222.6873375215418
+    degree 2.0
+    strength 1.587688574252581
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 436
+    label "436"
+    idx 436
+    row 1382
+    column 12278
+    demarcated "True"
+    area 818.0
+    solidity 0.9369988545246277
+    eccentricity 0.9542244042865858
+    diameter 32.27243324562564
+    perimeter 145.59797974644667
+    degree 5.0
+    strength 4.734176864306406
+    betweenness 5.5967451121386233E-05
+  ]
+  node [
+    id 437
+    label "437"
+    idx 437
+    row 1386
+    column 4605
+    demarcated "False"
+    area 942.0
+    solidity 0.9822732012513035
+    eccentricity 0.8117863045541822
+    diameter 34.63223427878316
+    perimeter 121.88225099390856
+    degree 4.0
+    strength 3.542175911655873
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 438
+    label "438"
+    idx 438
+    row 1402
+    column 12495
+    demarcated "True"
+    area 2536.0
+    solidity 0.7856257744733581
+    eccentricity 0.8164126821011416
+    diameter 56.82372291084396
+    perimeter 250.99494936611666
+    degree 5.0
+    strength 4.829114536523565
+    betweenness 0.004123681798623738
+  ]
+  node [
+    id 439
+    label "439"
+    idx 439
+    row 1390
+    column 12125
+    demarcated "True"
+    area 891.0
+    solidity 0.9642857142857143
+    eccentricity 0.7446702152230211
+    diameter 33.681692866586
+    perimeter 117.1543289325507
+    degree 5.0
+    strength 4.730576348179453
+    betweenness 0.007419493060259931
+  ]
+  node [
+    id 440
+    label "440"
+    idx 440
+    row 1415
+    column 10416
+    demarcated "False"
+    area 2513.0
+    solidity 0.8638707459608113
+    eccentricity 0.8123971709949054
+    diameter 56.56545744462308
+    perimeter 234.79393923933998
+    degree 2.0
+    strength 1.5799830677696618
+    betweenness 0.0
+  ]
+  node [
+    id 441
+    label "441"
+    idx 441
+    row 1405
+    column 5896
+    demarcated "False"
+    area 4372.0
+    solidity 0.883589329021827
+    eccentricity 0.9764749274807087
+    diameter 74.6096728955578
+    perimeter 368.0071426749364
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 442
+    label "442"
+    idx 442
+    row 1405
+    column 10648
+    demarcated "False"
+    area 1651.0
+    solidity 0.7809839167455062
+    eccentricity 0.879729759156408
+    diameter 45.84886572596702
+    perimeter 201.09545442950497
+    degree 5.0
+    strength 4.774654258039727
+    betweenness 2.5073418102381034E-05
+  ]
+  node [
+    id 443
+    label "443"
+    idx 443
+    row 1407
+    column 5032
+    demarcated "False"
+    area 3349.0
+    solidity 0.9829762254182566
+    eccentricity 0.8587287541836318
+    diameter 65.29991757512455
+    perimeter 238.45079348883235
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 444
+    label "444"
+    idx 444
+    row 1403
+    column 11638
+    demarcated "False"
+    area 1445.0
+    solidity 0.8163841807909604
+    eccentricity 0.8999723329249956
+    diameter 42.89325287434272
+    perimeter 185.82337649086284
+    degree 1.0
+    strength 0.9676653002913078
+    betweenness 0.0
+  ]
+  node [
+    id 445
+    label "445"
+    idx 445
+    row 1396
+    column 11977
+    demarcated "True"
+    area 356.0
+    solidity 0.9621621621621622
+    eccentricity 0.8574119344106076
+    diameter 21.290215544369623
+    perimeter 75.11269837220809
+    degree 14.0
+    strength 13.58231206754129
+    betweenness 0.00021446727269715206
+  ]
+  node [
+    id 446
+    label "446"
+    idx 446
+    row 1410
+    column 8345
+    demarcated "False"
+    area 985.0
+    solidity 0.9078341013824884
+    eccentricity 0.7546449923298888
+    diameter 35.413852537730705
+    perimeter 132.2609306503489
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 447
+    label "447"
+    idx 447
+    row 1421
+    column 7755
+    demarcated "False"
+    area 2838.0
+    solidity 0.9510723860589813
+    eccentricity 0.8688476239600536
+    diameter 60.11201067971684
+    perimeter 220.45079348883235
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 448
+    label "448"
+    idx 448
+    row 1415
+    column 4530
+    demarcated "False"
+    area 2128.0
+    solidity 0.9650793650793651
+    eccentricity 0.9380015071843238
+    diameter 52.05241350020599
+    perimeter 208.2670273047588
+    degree 4.0
+    strength 3.7660375332553415
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 449
+    label "449"
+    idx 449
+    row 1414
+    column 10516
+    demarcated "False"
+    area 871.0
+    solidity 0.8649453823237339
+    eccentricity 0.7336718335369443
+    diameter 33.30152614317138
+    perimeter 127.5035713374682
+    degree 4.0
+    strength 3.905029103848088
+    betweenness 4.477396089710899E-05
+  ]
+  node [
+    id 450
+    label "450"
+    idx 450
+    row 1421
+    column 5160
+    demarcated "False"
+    area 6425.0
+    solidity 0.926860934795153
+    eccentricity 0.9706809208009635
+    diameter 90.44647077096718
+    perimeter 420.45079348883235
+    degree 1.0
+    strength 0.8737114814756757
+    betweenness 0.0
+  ]
+  node [
+    id 451
+    label "451"
+    idx 451
+    row 1414
+    column 12278
+    demarcated "True"
+    area 2757.0
+    solidity 0.9279703803433188
+    eccentricity 0.9645836951400223
+    diameter 59.24796557549334
+    perimeter 267.33809511662423
+    degree 6.0
+    strength 5.692629549046799
+    betweenness 0.0025704730951030272
+  ]
+  node [
+    id 452
+    label "452"
+    idx 452
+    row 1414
+    column 12060
+    demarcated "True"
+    area 1310.0
+    solidity 0.9458483754512635
+    eccentricity 0.9365520229513723
+    diameter 40.84046772017998
+    perimeter 170.29646455628165
+    degree 8.0
+    strength 7.771524031326232
+    betweenness 0.0006765345491553168
+  ]
+  node [
+    id 453
+    label "453"
+    idx 453
+    row 1413
+    column 9742
+    demarcated "False"
+    area 381.0
+    solidity 0.9596977329974811
+    eccentricity 0.808347032469214
+    diameter 22.025082668269306
+    perimeter 77.59797974644667
+    degree 1.0
+    strength 0.9731206330412847
+    betweenness 0.0
+  ]
+  node [
+    id 454
+    label "454"
+    idx 454
+    row 1413
+    column 3950
+    demarcated "False"
+    area 1016.0
+    solidity 0.9694656488549618
+    eccentricity 0.9040508409103941
+    diameter 35.96680938658481
+    perimeter 138.5685424949238
+    degree 1.0
+    strength 0.6924853414286145
+    betweenness 0.0
+  ]
+  node [
+    id 455
+    label "455"
+    idx 455
+    row 1429
+    column 11775
+    demarcated "False"
+    area 2311.0
+    solidity 0.9255106127352823
+    eccentricity 0.3907887713516207
+    diameter 54.24441526906674
+    perimeter 204.4446968344225
+    degree 2.0
+    strength 1.885884970007218
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 456
+    label "456"
+    idx 456
+    row 1423
+    column 11480
+    demarcated "False"
+    area 2448.0
+    solidity 0.9503105590062112
+    eccentricity 0.8879075190762304
+    diameter 55.82911790017533
+    perimeter 220.17261889578035
+    degree 5.0
+    strength 4.779078206831606
+    betweenness 0.0
+  ]
+  node [
+    id 457
+    label "457"
+    idx 457
+    row 1427
+    column 12876
+    demarcated "True"
+    area 1041.0
+    solidity 0.9278074866310161
+    eccentricity 0.6535883599975014
+    diameter 36.40662530459675
+    perimeter 138.3259018078045
+    degree 6.0
+    strength 5.776330919082321
+    betweenness 0.0007768282215648409
+  ]
+  node [
+    id 458
+    label "458"
+    idx 458
+    row 1411
+    column 11894
+    demarcated "True"
+    area 215.0
+    solidity 0.8884297520661157
+    eccentricity 0.8853348565457085
+    diameter 16.545286401814263
+    perimeter 62.87005768508881
+    degree 13.0
+    strength 12.15785353199066
+    betweenness 0.008450637379720351
+  ]
+  node [
+    id 459
+    label "459"
+    idx 459
+    row 1425
+    column 11969
+    demarcated "True"
+    area 1518.0
+    solidity 0.9155609167671894
+    eccentricity 0.7664017115886326
+    diameter 43.963366896860585
+    perimeter 165.43860018001263
+    degree 15.0
+    strength 14.502399023856437
+    betweenness 0.00697533536816061
+  ]
+  node [
+    id 460
+    label "460"
+    idx 460
+    row 1453
+    column 6654
+    demarcated "False"
+    area 12255.0
+    solidity 0.9453830131913908
+    eccentricity 0.9180126580362928
+    diameter 124.91417301783422
+    perimeter 510.13203435596427
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 461
+    label "461"
+    idx 461
+    row 1429
+    column 11410
+    demarcated "False"
+    area 905.0
+    solidity 0.890748031496063
+    eccentricity 0.9344558463786222
+    diameter 33.94527637220416
+    perimeter 140.2670273047588
+    degree 4.0
+    strength 3.731202340828567
+    betweenness 0.0
+  ]
+  node [
+    id 462
+    label "462"
+    idx 462
+    row 1436
+    column 11535
+    demarcated "False"
+    area 2657.0
+    solidity 0.9267527031740496
+    eccentricity 0.9644311823636171
+    diameter 58.16354073095385
+    perimeter 266.35028842544403
+    degree 4.0
+    strength 3.7596265638080606
+    betweenness 2.5073418102381034E-05
+  ]
+  node [
+    id 463
+    label "463"
+    idx 463
+    row 1514
+    column 6872
+    demarcated "False"
+    area 26365.0
+    solidity 0.890528946835101
+    eccentricity 0.758894942762144
+    diameter 183.2183413224303
+    perimeter 839.8204178980325
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 464
+    label "464"
+    idx 464
+    row 1425
+    column 10553
+    demarcated "False"
+    area 560.0
+    solidity 0.9491525423728814
+    eccentricity 0.6764449268041738
+    diameter 26.702324712498182
+    perimeter 92.08326112068522
+    degree 4.0
+    strength 3.8601898289355687
+    betweenness 3.08940330190052E-05
+  ]
+  node [
+    id 465
+    label "465"
+    idx 465
+    row 1436
+    column 4362
+    demarcated "False"
+    area 958.0
+    solidity 0.9785495403472931
+    eccentricity 0.72909073434465
+    diameter 34.92511251028815
+    perimeter 118.46803743153546
+    degree 2.0
+    strength 1.8131365197864073
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 466
+    label "466"
+    idx 466
+    row 1439
+    column 10212
+    demarcated "False"
+    area 2274.0
+    solidity 0.9848419229103508
+    eccentricity 0.5540171622912817
+    diameter 53.80842614988623
+    perimeter 180.36753236814712
+    degree 1.0
+    strength 0.9851338426421243
+    betweenness 0.0
+  ]
+  node [
+    id 467
+    label "467"
+    idx 467
+    row 1441
+    column 12460
+    demarcated "True"
+    area 2792.0
+    solidity 0.9684356573014221
+    eccentricity 0.8880308312964239
+    diameter 59.62285475302717
+    perimeter 223.86500705120545
+    degree 6.0
+    strength 5.548227861919323
+    betweenness 0.0014914206374827003
+  ]
+  node [
+    id 468
+    label "468"
+    idx 468
+    row 1426
+    column 12362
+    demarcated "True"
+    area 833.0
+    solidity 0.8947368421052632
+    eccentricity 0.9638805829567589
+    diameter 32.56698544176895
+    perimeter 150.3259018078045
+    degree 7.0
+    strength 6.6988263447842655
+    betweenness 0.002286158443406385
+  ]
+  node [
+    id 469
+    label "469"
+    idx 469
+    row 1438
+    column 12818
+    demarcated "True"
+    area 2314.0
+    solidity 0.9121009065825778
+    eccentricity 0.8335480756430912
+    diameter 54.27961225466857
+    perimeter 211.9655121145938
+    degree 8.0
+    strength 7.533295474950992
+    betweenness 0.0006698184550207504
+  ]
+  node [
+    id 470
+    label "470"
+    idx 470
+    row 1449
+    column 4017
+    demarcated "False"
+    area 9971.0
+    solidity 0.9323048153342683
+    eccentricity 0.9671522153920852
+    diameter 112.67418293714984
+    perimeter 530.5340546095176
+    degree 1.0
+    strength 0.6924853414286145
+    betweenness 0.0
+  ]
+  node [
+    id 471
+    label "471"
+    idx 471
+    row 1433
+    column 12209
+    demarcated "True"
+    area 822.0
+    solidity 0.9832535885167464
+    eccentricity 0.49171056582311967
+    diameter 32.35124272377035
+    perimeter 105.63961030678928
+    degree 6.0
+    strength 5.404543675938882
+    betweenness 0.003337003305661533
+  ]
+  node [
+    id 472
+    label "472"
+    idx 472
+    row 1452
+    column 12734
+    demarcated "True"
+    area 6191.0
+    solidity 0.9016894844159627
+    eccentricity 0.8099251722591735
+    diameter 88.78415411240562
+    perimeter 364.7766952966369
+    degree 3.0
+    strength 2.560500758583898
+    betweenness 0.0003264021749399245
+  ]
+  node [
+    id 473
+    label "473"
+    idx 473
+    row 1435
+    column 10686
+    demarcated "False"
+    area 705.0
+    solidity 0.9764542936288089
+    eccentricity 0.719474188145821
+    diameter 29.96053869739811
+    perimeter 100.08326112068524
+    degree 3.0
+    strength 2.8546956576248075
+    betweenness 0.0
+  ]
+  node [
+    id 474
+    label "474"
+    idx 474
+    row 1427
+    column 11437
+    demarcated "False"
+    area 57.0
+    solidity 0.95
+    eccentricity 0.9882575194569923
+    diameter 8.51907589177983
+    perimeter 41.112698372208094
+    degree 6.0
+    strength 5.412375477944007
+    betweenness 6.17880660380104E-05
+  ]
+  node [
+    id 475
+    label "475"
+    idx 475
+    row 1439
+    column 11911
+    demarcated "True"
+    area 1378.0
+    solidity 0.8805111821086262
+    eccentricity 0.7589360913513692
+    diameter 41.88703967392604
+    perimeter 172.99494936611666
+    degree 10.0
+    strength 9.507879166940905
+    betweenness 0.00011103942302483029
+  ]
+  node [
+    id 476
+    label "476"
+    idx 476
+    row 1553
+    column 11031
+    demarcated "False"
+    area 32256.0
+    solidity 0.9264705882352942
+    eccentricity 0.8111324382245928
+    diameter 202.6563957909481
+    perimeter 823.9797974644666
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 477
+    label "477"
+    idx 477
+    row 1456
+    column 12602
+    demarcated "True"
+    area 4727.0
+    solidity 0.9033059430536977
+    eccentricity 0.9050278227289198
+    diameter 77.57965795208892
+    perimeter 309.37972567696687
+    degree 3.0
+    strength 2.722733626323388
+    betweenness 0.0026425591721473724
+  ]
+  node [
+    id 478
+    label "478"
+    idx 478
+    row 1439
+    column 4912
+    demarcated "False"
+    area 3024.0
+    solidity 0.9083808951637128
+    eccentricity 0.9744794179643638
+    diameter 62.050595349916925
+    perimeter 308.8528137423857
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 479
+    label "479"
+    idx 479
+    row 1508
+    column 11690
+    demarcated "False"
+    area 9418.0
+    solidity 0.6988202122134006
+    eccentricity 0.9071698682836591
+    diameter 109.50511418338307
+    perimeter 532.6417023478424
+    degree 2.0
+    strength 1.662501774386611
+    betweenness 0.0002171537103509786
+  ]
+  node [
+    id 480
+    label "480"
+    idx 480
+    row 1583
+    column 3707
+    demarcated "False"
+    area 34479.0
+    solidity 0.6253219195473176
+    eccentricity 0.9463628055450628
+    diameter 209.52333107060815
+    perimeter 1379.0235200658622
+    degree 1.0
+    strength 0.2531822189095729
+    betweenness 0.0
+  ]
+  node [
+    id 481
+    label "481"
+    idx 481
+    row 1439
+    column 12064
+    demarcated "True"
+    area 251.0
+    solidity 0.9766536964980544
+    eccentricity 0.9081002434316334
+    diameter 17.876888032555495
+    perimeter 66.04163056034261
+    degree 10.0
+    strength 9.613212430202468
+    betweenness 0.0075224731703232815
+  ]
+  node [
+    id 482
+    label "482"
+    idx 482
+    row 1597
+    column 10645
+    demarcated "False"
+    area 91366.0
+    solidity 0.7228837496340721
+    eccentricity 0.7661979597479666
+    diameter 341.07301893329657
+    perimeter 2187.998266896446
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 483
+    label "483"
+    idx 483
+    row 1460
+    column 10703
+    demarcated "False"
+    area 454.0
+    solidity 0.9098196392785571
+    eccentricity 0.7716851395835983
+    diameter 24.04268606686374
+    perimeter 91.49747468305833
+    degree 2.0
+    strength 1.9418210365149504
+    betweenness 0.0
+  ]
+  node [
+    id 484
+    label "484"
+    idx 484
+    row 1464
+    column 12339
+    demarcated "True"
+    area 2555.0
+    solidity 0.9815597387629658
+    eccentricity 0.7527157402336753
+    diameter 57.036190588067335
+    perimeter 200.89444430272832
+    degree 4.0
+    strength 3.904940600355159
+    betweenness 0.0027025562797494984
+  ]
+  node [
+    id 485
+    label "485"
+    idx 485
+    row 1572
+    column 5779
+    demarcated "False"
+    area 57414.0
+    solidity 0.735068559796177
+    eccentricity 0.9189656000866008
+    diameter 270.373399618795
+    perimeter 2228.6063479106588
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 486
+    label "486"
+    idx 486
+    row 1473
+    column 12150
+    demarcated "True"
+    area 3441.0
+    solidity 0.9627867935086738
+    eccentricity 0.6956422578809158
+    diameter 66.19076426083699
+    perimeter 232.93607486307093
+    degree 5.0
+    strength 4.445416373372906
+    betweenness 0.0012782965836124617
+  ]
+  node [
+    id 487
+    label "487"
+    idx 487
+    row 1489
+    column 11783
+    demarcated "False"
+    area 4325.0
+    solidity 0.9263225530092096
+    eccentricity 0.8123996791262594
+    diameter 74.20755373261929
+    perimeter 280.492424049175
+    degree 4.0
+    strength 3.5700653222454846
+    betweenness 0.0003908766786317615
+  ]
+  node [
+    id 488
+    label "488"
+    idx 488
+    row 1499
+    column 11871
+    demarcated "False"
+    area 7203.0
+    solidity 0.9792006525285482
+    eccentricity 0.6960979777977078
+    diameter 95.7660923329723
+    perimeter 336.63455967290594
+    degree 6.0
+    strength 4.7907195083443295
+    betweenness 0.008966881148864018
+  ]
+  node [
+    id 489
+    label "489"
+    idx 489
+    row 1455
+    column 11979
+    demarcated "True"
+    area 237.0
+    solidity 0.948
+    eccentricity 0.8482720030906673
+    diameter 17.371176474327626
+    perimeter 61.55634918610404
+    degree 13.0
+    strength 12.71313158795144
+    betweenness 0.00014461989369766204
+  ]
+  node [
+    id 490
+    label "490"
+    idx 490
+    row 1465
+    column 11113
+    demarcated "False"
+    area 664.0
+    solidity 0.9822485207100592
+    eccentricity 0.6411215983820415
+    diameter 29.076297180076903
+    perimeter 95.49747468305833
+    degree 1.0
+    strength 0.7022145344831802
+    betweenness 0.0
+  ]
+  node [
+    id 491
+    label "491"
+    idx 491
+    row 1472
+    column 12529
+    demarcated "True"
+    area 1396.0
+    solidity 0.9142108709888671
+    eccentricity 0.8708047980434996
+    diameter 42.15972490956609
+    perimeter 161.19595949289334
+    degree 5.0
+    strength 4.711565259754258
+    betweenness 0.007193832297338501
+  ]
+  node [
+    id 492
+    label "492"
+    idx 492
+    row 1468
+    column 11948
+    demarcated "True"
+    area 524.0
+    solidity 0.9357142857142857
+    eccentricity 0.7322841046643799
+    diameter 25.829779740470595
+    perimeter 93.9827560572969
+    degree 12.0
+    strength 11.550980802354989
+    betweenness 0.00020596022012670136
+  ]
+  node [
+    id 493
+    label "493"
+    idx 493
+    row 1507
+    column 12434
+    demarcated "True"
+    area 9115.0
+    solidity 0.7426871995437139
+    eccentricity 0.9303458762232222
+    diameter 107.7291903351223
+    perimeter 607.4579361637687
+    degree 3.0
+    strength 2.415309061983919
+    betweenness 0.00044102351483652353
+  ]
+  node [
+    id 494
+    label "494"
+    idx 494
+    row 1485
+    column 4202
+    demarcated "False"
+    area 4167.0
+    solidity 0.9272363150867824
+    eccentricity 0.9140245446085433
+    diameter 72.8394754436866
+    perimeter 295.1787155501902
+    degree 1.0
+    strength 0.9430471661315667
+    betweenness 0.0
+  ]
+  node [
+    id 495
+    label "495"
+    idx 495
+    row 1475
+    column 4536
+    demarcated "False"
+    area 886.0
+    solidity 0.9516648764769066
+    eccentricity 0.7929626790102152
+    diameter 33.5870545989873
+    perimeter 123.1543289325507
+    degree 2.0
+    strength 1.8730323398905093
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 496
+    label "496"
+    idx 496
+    row 1519
+    column 11295
+    demarcated "False"
+    area 11803.0
+    solidity 0.9719202898550725
+    eccentricity 0.5927390640656551
+    diameter 122.58893239811303
+    perimeter 425.5462479183374
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 497
+    label "497"
+    idx 497
+    row 1476
+    column 4305
+    demarcated "False"
+    area 993.0
+    solidity 0.9735294117647059
+    eccentricity 0.7855622923391561
+    diameter 35.55737431141417
+    perimeter 123.05382386916237
+    degree 1.0
+    strength 0.9985648067215009
+    betweenness 0.0
+  ]
+  node [
+    id 498
+    label "498"
+    idx 498
+    row 1500
+    column 4427
+    demarcated "False"
+    area 5956.0
+    solidity 0.8960433278170603
+    eccentricity 0.9782566433577674
+    diameter 87.08280386185685
+    perimeter 435.7056274847714
+    degree 1.0
+    strength 0.8145717130649064
+    betweenness 0.0
+  ]
+  node [
+    id 499
+    label "499"
+    idx 499
+    row 1488
+    column 4598
+    demarcated "False"
+    area 2846.0
+    solidity 0.9763293310463121
+    eccentricity 0.9093021932889435
+    diameter 60.196675525449685
+    perimeter 230.20815280171308
+    degree 1.0
+    strength 0.9227208271677768
+    betweenness 0.0
+  ]
+  node [
+    id 500
+    label "500"
+    idx 500
+    row 1481
+    column 12019
+    demarcated "True"
+    area 1072.0
+    solidity 0.8808545603944125
+    eccentricity 0.37754785930171664
+    diameter 36.94472617243352
+    perimeter 144.50966799187808
+    degree 12.0
+    strength 11.647757804784481
+    betweenness 3.671464793562937E-05
+  ]
+  node [
+    id 501
+    label "501"
+    idx 501
+    row 1482
+    column 12840
+    demarcated "True"
+    area 1748.0
+    solidity 0.7978092195344592
+    eccentricity 0.9549944525371077
+    diameter 47.17650606177894
+    perimeter 223.23759005323595
+    degree 7.0
+    strength 6.708691689750188
+    betweenness 0.00013924701839000895
+  ]
+  node [
+    id 502
+    label "502"
+    idx 502
+    row 1503
+    column 4756
+    demarcated "False"
+    area 12583.0
+    solidity 0.8650488106695999
+    eccentricity 0.9746082621804412
+    diameter 126.5747731240414
+    perimeter 618.2152954766495
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 503
+    label "503"
+    idx 503
+    row 1518
+    column 6146
+    demarcated "False"
+    area 15562.0
+    solidity 0.9226846910945097
+    eccentricity 0.9223066314465519
+    diameter 140.76275713116948
+    perimeter 581.2213921310594
+    degree 1.0
+    strength 0.6174730029912686
+    betweenness 0.0
+  ]
+  node [
+    id 504
+    label "504"
+    idx 504
+    row 1527
+    column 12232
+    demarcated "True"
+    area 9082.0
+    solidity 0.8719278033794163
+    eccentricity 0.8582364070376534
+    diameter 107.53400181005424
+    perimeter 443.2031021678297
+    degree 3.0
+    strength 2.2836372597309786
+    betweenness 0.0021540752587599133
+  ]
+  node [
+    id 505
+    label "505"
+    idx 505
+    row 1497
+    column 11933
+    demarcated "True"
+    area 519.0
+    solidity 0.9368231046931408
+    eccentricity 0.8944997356570483
+    diameter 25.70625067405882
+    perimeter 95.01219330881976
+    degree 10.0
+    strength 9.592319241443361
+    betweenness 0.0008251840993337186
+  ]
+  node [
+    id 506
+    label "506"
+    idx 506
+    row 1526
+    column 11573
+    demarcated "False"
+    area 5154.0
+    solidity 0.9026269702276708
+    eccentricity 0.7318279955107859
+    diameter 81.00787994735468
+    perimeter 311.1787155501902
+    degree 1.0
+    strength 0.9026103410447207
+    betweenness 0.0
+  ]
+  node [
+    id 507
+    label "507"
+    idx 507
+    row 1729
+    column 9427
+    demarcated "False"
+    area 104433.0
+    solidity 0.9044715623186649
+    eccentricity 0.9400300880192313
+    diameter 364.6480842885744
+    perimeter 1744.067242667258
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 508
+    label "508"
+    idx 508
+    row 1498
+    column 12882
+    demarcated "True"
+    area 241.0
+    solidity 0.9678714859437751
+    eccentricity 0.7125088617821953
+    diameter 17.517155313611116
+    perimeter 60.42031021678297
+    degree 6.0
+    strength 5.682280044624051
+    betweenness 0.0008233931408978343
+  ]
+  node [
+    id 509
+    label "509"
+    idx 509
+    row 1519
+    column 2650
+    demarcated "False"
+    area 2039.0
+    solidity 0.9746653919694073
+    eccentricity 0.8492644300299769
+    diameter 50.952285834052596
+    perimeter 183.23759005323592
+    degree 1.0
+    strength 0.9335753658487348
+    betweenness 0.0
+  ]
+  node [
+    id 510
+    label "510"
+    idx 510
+    row 1528
+    column 12654
+    demarcated "True"
+    area 7893.0
+    solidity 0.8810135059716486
+    eccentricity 0.9467698487229189
+    diameter 100.24809088753082
+    perimeter 457.26197667087547
+    degree 3.0
+    strength 2.4205131568394496
+    betweenness 0.00012984448660161607
+  ]
+  node [
+    id 511
+    label "511"
+    idx 511
+    row 1515
+    column 12763
+    demarcated "True"
+    area 2605.0
+    solidity 0.9434987323433539
+    eccentricity 0.8695153162887393
+    diameter 57.59157068560553
+    perimeter 219.33809511662426
+    degree 5.0
+    strength 4.663921045783703
+    betweenness 0.00014372441447971985
+  ]
+  node [
+    id 512
+    label "512"
+    idx 512
+    row 1527
+    column 10381
+    demarcated "False"
+    area 1529.0
+    solidity 0.9763729246487867
+    eccentricity 0.828866080473528
+    diameter 44.12236693447059
+    perimeter 154.95331880577402
+    degree 2.0
+    strength 1.9222503464091383
+    betweenness 0.0
+  ]
+  node [
+    id 513
+    label "513"
+    idx 513
+    row 1532
+    column 12101
+    demarcated "True"
+    area 2849.0
+    solidity 0.9001579778830964
+    eccentricity 0.4616028164835958
+    diameter 60.228394158822454
+    perimeter 259.37972567696687
+    degree 8.0
+    strength 7.447021404180463
+    betweenness 0.0018505078038775144
+  ]
+  node [
+    id 514
+    label "514"
+    idx 514
+    row 1515
+    column 5554
+    demarcated "False"
+    area 868.0
+    solidity 0.9165786694825766
+    eccentricity 0.9188443492453462
+    diameter 33.244126170349574
+    perimeter 129.9827560572969
+    degree 1.0
+    strength 0.9505455175885624
+    betweenness 0.0
+  ]
+  node [
+    id 515
+    label "515"
+    idx 515
+    row 1522
+    column 12828
+    demarcated "True"
+    area 1047.0
+    solidity 0.9785046728971962
+    eccentricity 0.7009783867755299
+    diameter 36.511392788247825
+    perimeter 123.88225099390857
+    degree 7.0
+    strength 6.565357128380876
+    betweenness 0.0006210148376429017
+  ]
+  node [
+    id 516
+    label "516"
+    idx 516
+    row 1543
+    column 10437
+    demarcated "False"
+    area 3075.0
+    solidity 0.9190077704722056
+    eccentricity 0.7303271249732048
+    diameter 62.57165172872317
+    perimeter 237.78784258493008
+    degree 3.0
+    strength 2.813271318531762
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 517
+    label "517"
+    idx 517
+    row 1522
+    column 11970
+    demarcated "True"
+    area 903.0
+    solidity 0.9772727272727273
+    eccentricity 0.7111570776474848
+    diameter 33.90774703361832
+    perimeter 113.9827560572969
+    degree 10.0
+    strength 9.770574994734401
+    betweenness 5.462423229447297E-05
+  ]
+  node [
+    id 518
+    label "518"
+    idx 518
+    row 1512
+    column 12010
+    demarcated "True"
+    area 149.0
+    solidity 0.9430379746835443
+    eccentricity 0.7042833812919065
+    diameter 13.773623058786647
+    perimeter 45.79898987322333
+    degree 11.0
+    strength 10.660876419993903
+    betweenness 0.0006044484721109714
+  ]
+  node [
+    id 519
+    label "519"
+    idx 519
+    row 1637
+    column 11576
+    demarcated "False"
+    area 25356.0
+    solidity 0.8964468799717165
+    eccentricity 0.8827819544517336
+    diameter 179.6782176456144
+    perimeter 732.7077195258245
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 520
+    label "520"
+    idx 520
+    row 1528
+    column 12884
+    demarcated "True"
+    area 220.0
+    solidity 0.9606986899563319
+    eccentricity 0.7886322270068331
+    diameter 16.73656774376801
+    perimeter 65.94112549695429
+    degree 4.0
+    strength 3.793713696490629
+    betweenness 1.0298011006335067E-05
+  ]
+  node [
+    id 521
+    label "521"
+    idx 521
+    row 1552
+    column 11823
+    demarcated "False"
+    area 3059.0
+    solidity 0.9426810477657935
+    eccentricity 0.8312506848139044
+    diameter 62.40865138219911
+    perimeter 227.6223663640862
+    degree 3.0
+    strength 2.735234457804455
+    betweenness 0.008377655823458063
+  ]
+  node [
+    id 522
+    label "522"
+    idx 522
+    row 1556
+    column 3975
+    demarcated "False"
+    area 11442.0
+    solidity 0.9047920291001107
+    eccentricity 0.9440971277941356
+    diameter 120.69965563687302
+    perimeter 509.1614716074871
+    degree 1.0
+    strength 0.8786010838438248
+    betweenness 0.0
+  ]
+  node [
+    id 523
+    label "523"
+    idx 523
+    row 1550
+    column 12332
+    demarcated "True"
+    area 2286.0
+    solidity 0.927007299270073
+    eccentricity 0.3788797726704432
+    diameter 53.95021407987722
+    perimeter 192.61017305526642
+    degree 3.0
+    strength 2.864231775730153
+    betweenness 0.0027316593543326192
+  ]
+  node [
+    id 524
+    label "524"
+    idx 524
+    row 1555
+    column 4203
+    demarcated "False"
+    area 5596.0
+    solidity 0.8885360431883137
+    eccentricity 0.9694141202491572
+    diameter 84.4100023240017
+    perimeter 413.4629867976521
+    degree 2.0
+    strength 1.6668824146313737
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 525
+    label "525"
+    idx 525
+    row 1537
+    column 12047
+    demarcated "True"
+    area 210.0
+    solidity 0.958904109589041
+    eccentricity 0.5229609963486702
+    diameter 16.351767622932517
+    perimeter 54.04163056034262
+    degree 10.0
+    strength 9.684305036117925
+    betweenness 0.00012939674699264498
+  ]
+  node [
+    id 526
+    label "526"
+    idx 526
+    row 1569
+    column 5987
+    demarcated "False"
+    area 3573.0
+    solidity 0.9507716870675892
+    eccentricity 0.710567595418988
+    diameter 67.44838688463007
+    perimeter 246.35028842544403
+    degree 2.0
+    strength 1.7996048597882317
+    betweenness 0.0
+  ]
+  node [
+    id 527
+    label "527"
+    idx 527
+    row 1554
+    column 5493
+    demarcated "False"
+    area 2104.0
+    solidity 0.7188247352237787
+    eccentricity 0.9326617880953569
+    diameter 51.758052534101225
+    perimeter 288.9421715174808
+    degree 1.0
+    strength 0.9505455175885624
+    betweenness 0.0
+  ]
+  node [
+    id 528
+    label "528"
+    idx 528
+    row 1550
+    column 6280
+    demarcated "False"
+    area 1249.0
+    solidity 0.9334828101644245
+    eccentricity 0.856639682904268
+    diameter 39.87826715611172
+    perimeter 146.0243866176395
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 529
+    label "529"
+    idx 529
+    row 1574
+    column 12786
+    demarcated "True"
+    area 4927.0
+    solidity 0.9331439393939394
+    eccentricity 0.6585512813812878
+    diameter 79.2038587248762
+    perimeter 287.32085117392114
+    degree 5.0
+    strength 4.494693968757144
+    betweenness 0.0012321794038884393
+  ]
+  node [
+    id 530
+    label "530"
+    idx 530
+    row 1575
+    column 11717
+    demarcated "False"
+    area 5489.0
+    solidity 0.9826351593268886
+    eccentricity 0.8239289301676623
+    diameter 83.59911399680806
+    perimeter 305.1198410471445
+    degree 3.0
+    strength 2.6715373183727777
+    betweenness 0.00017058879101798524
+  ]
+  node [
+    id 531
+    label "531"
+    idx 531
+    row 1576
+    column 12011
+    demarcated "True"
+    area 1935.0
+    solidity 0.9748110831234257
+    eccentricity 0.6816723780311256
+    diameter 49.63585920544279
+    perimeter 170.12489168102786
+    degree 13.0
+    strength 12.317964414716108
+    betweenness 0.0001285012677747028
+  ]
+  node [
+    id 532
+    label "532"
+    idx 532
+    row 1602
+    column 12418
+    demarcated "True"
+    area 10371.0
+    solidity 0.8433078549357619
+    eccentricity 0.4783278029814803
+    diameter 114.9119981483586
+    perimeter 551.7716446627536
+    degree 3.0
+    strength 2.4243520011438107
+    betweenness 0.0047505172511832635
+  ]
+  node [
+    id 533
+    label "533"
+    idx 533
+    row 1562
+    column 12571
+    demarcated "True"
+    area 1101.0
+    solidity 0.9259882253994953
+    eccentricity 0.7716963119939323
+    diameter 37.441110276718746
+    perimeter 138.71067811865476
+    degree 7.0
+    strength 6.625897018649398
+    betweenness 0.0027401664069030703
+  ]
+  node [
+    id 534
+    label "534"
+    idx 534
+    row 1584
+    column 12153
+    demarcated "True"
+    area 2957.0
+    solidity 0.9237738206810372
+    eccentricity 0.7374307179228947
+    diameter 61.35934593671836
+    perimeter 244.1492782986674
+    degree 6.0
+    strength 5.539104505548801
+    betweenness 0.00296179751334376
+  ]
+  node [
+    id 535
+    label "535"
+    idx 535
+    row 1583
+    column 12862
+    demarcated "True"
+    area 3095.0
+    solidity 0.9370269452013321
+    eccentricity 0.6911370928068356
+    diameter 62.77480697664732
+    perimeter 225.33809511662426
+    degree 6.0
+    strength 5.500680392535739
+    betweenness 0.0010329352778963043
+  ]
+  node [
+    id 536
+    label "536"
+    idx 536
+    row 1556
+    column 12484
+    demarcated "True"
+    area 216.0
+    solidity 0.9473684210526315
+    eccentricity 0.9415774006552922
+    diameter 16.583719174624104
+    perimeter 66.00609665440987
+    degree 5.0
+    strength 4.213173329862794
+    betweenness 0.004500678549377395
+  ]
+  node [
+    id 537
+    label "537"
+    idx 537
+    row 1569
+    column 5315
+    demarcated "False"
+    area 1691.0
+    solidity 0.9640820980615735
+    eccentricity 0.9502165118199588
+    diameter 46.40094902205299
+    perimeter 202.78174593052023
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 538
+    label "538"
+    idx 538
+    row 1649
+    column 11865
+    demarcated "False"
+    area 20195.0
+    solidity 0.947499296237215
+    eccentricity 0.6706744329160061
+    diameter 160.35296257296469
+    perimeter 579.1269837220809
+    degree 1.0
+    strength 0.46641659609273983
+    betweenness 0.0
+  ]
+  node [
+    id 539
+    label "539"
+    idx 539
+    row 1582
+    column 12638
+    demarcated "True"
+    area 2012.0
+    solidity 0.8809106830122592
+    eccentricity 0.9423219001631955
+    diameter 50.61381198849922
+    perimeter 220.8944443027283
+    degree 4.0
+    strength 3.693745322538529
+    betweenness 5.7758409557270596E-05
+  ]
+  node [
+    id 540
+    label "540"
+    idx 540
+    row 1573
+    column 3652
+    demarcated "False"
+    area 1004.0
+    solidity 0.9795121951219512
+    eccentricity 0.8100957803817387
+    diameter 35.75377606511099
+    perimeter 123.05382386916236
+    degree 1.0
+    strength 0.2531822189095729
+    betweenness 0.0
+  ]
+  node [
+    id 541
+    label "541"
+    idx 541
+    row 1603
+    column 4428
+    demarcated "False"
+    area 8289.0
+    solidity 0.7922202045302494
+    eccentricity 0.9633057241491141
+    diameter 102.73209131673396
+    perimeter 533.0731598529185
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 542
+    label "542"
+    idx 542
+    row 1600
+    column 10923
+    demarcated "False"
+    area 4245.0
+    solidity 0.9849187935034803
+    eccentricity 0.5088160624163232
+    diameter 73.51803770096673
+    perimeter 250.97770542341357
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 543
+    label "543"
+    idx 543
+    row 1576
+    column 12097
+    demarcated "True"
+    area 970.0
+    solidity 0.9116541353383458
+    eccentricity 0.5990101726217258
+    diameter 35.1431694414876
+    perimeter 130.08326112068522
+    degree 8.0
+    strength 7.679439082599448
+    betweenness 0.000333566008683462
+  ]
+  node [
+    id 544
+    label "544"
+    idx 544
+    row 1587
+    column 10409
+    demarcated "False"
+    area 1929.0
+    solidity 0.9678876066231812
+    eccentricity 0.7980290473398365
+    diameter 49.5588446374018
+    perimeter 175.92388155425118
+    degree 3.0
+    strength 2.8161672884946394
+    betweenness 0.0
+  ]
+  node [
+    id 545
+    label "545"
+    idx 545
+    row 1652
+    column 4192
+    demarcated "False"
+    area 13472.0
+    solidity 0.7089780023155458
+    eccentricity 0.9881565250798117
+    diameter 130.96977951677292
+    perimeter 773.6955262170047
+    degree 1.0
+    strength 0.723835248499807
+    betweenness 0.0
+  ]
+  node [
+    id 546
+    label "546"
+    idx 546
+    row 1599
+    column 6087
+    demarcated "False"
+    area 3813.0
+    solidity 0.9539654741055792
+    eccentricity 0.8193199817548878
+    diameter 69.67684252371927
+    perimeter 255.76450198781714
+    degree 2.0
+    strength 1.4317439382252635
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 547
+    label "547"
+    idx 547
+    row 1596
+    column 11798
+    demarcated "False"
+    area 1609.0
+    solidity 0.9409356725146198
+    eccentricity 0.6860617313445248
+    diameter 45.261931327318294
+    perimeter 170.57463914933368
+    degree 4.0
+    strength 3.1428092554996976
+    betweenness 0.008336911519041694
+  ]
+  node [
+    id 548
+    label "548"
+    idx 548
+    row 1583
+    column 11982
+    demarcated "True"
+    area 132.0
+    solidity 0.9496402877697842
+    eccentricity 0.8799803726860889
+    diameter 12.964089628857149
+    perimeter 47.384776310850235
+    degree 12.0
+    strength 11.72829524276094
+    betweenness 0.0007145924159178595
+  ]
+  node [
+    id 549
+    label "549"
+    idx 549
+    row 1623
+    column 2553
+    demarcated "False"
+    area 3911.0
+    solidity 0.9814303638644919
+    eccentricity 0.9046475556364987
+    diameter 70.56656332470232
+    perimeter 269.32085117392114
+    degree 1.0
+    strength 0.8645457458049746
+    betweenness 0.0
+  ]
+  node [
+    id 550
+    label "550"
+    idx 550
+    row 1611
+    column 5169
+    demarcated "False"
+    area 9119.0
+    solidity 0.9200887902330743
+    eccentricity 0.9795314583610791
+    diameter 107.75282552415945
+    perimeter 543.9898987322333
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 551
+    label "551"
+    idx 551
+    row 1608
+    column 7169
+    demarcated "False"
+    area 6182.0
+    solidity 0.9104565537555228
+    eccentricity 0.9415318684696642
+    diameter 88.71959685183865
+    perimeter 397.0609665440988
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 552
+    label "552"
+    idx 552
+    row 1625
+    column 10442
+    demarcated "False"
+    area 5089.0
+    solidity 0.9385835485060863
+    eccentricity 0.8290857551210312
+    diameter 80.49544113275759
+    perimeter 297.4629867976521
+    degree 2.0
+    strength 1.7990632344258133
+    betweenness 0.0
+  ]
+  node [
+    id 553
+    label "553"
+    idx 553
+    row 1632
+    column 8180
+    demarcated "False"
+    area 7675.0
+    solidity 0.9763388881821651
+    eccentricity 0.873383335666322
+    diameter 98.85400096021594
+    perimeter 359.889393668845
+    degree 1.0
+    strength 0.8104041693215135
+    betweenness 0.0
+  ]
+  node [
+    id 554
+    label "554"
+    idx 554
+    row 1597
+    column 12538
+    demarcated "True"
+    area 1651.0
+    solidity 0.9780805687203792
+    eccentricity 0.8159703626548355
+    diameter 45.84886572596702
+    perimeter 161.19595949289334
+    degree 5.0
+    strength 4.789662229958494
+    betweenness 0.0003241634768950691
+  ]
+  node [
+    id 555
+    label "555"
+    idx 555
+    row 1609
+    column 12298
+    demarcated "True"
+    area 3421.0
+    solidity 0.7593784683684794
+    eccentricity 0.9343131631283618
+    diameter 65.9981248410816
+    perimeter 325.4629867976521
+    degree 4.0
+    strength 3.6885462108843354
+    betweenness 3.53714291087161E-05
+  ]
+  node [
+    id 556
+    label "556"
+    idx 556
+    row 1598
+    column 2599
+    demarcated "False"
+    area 364.0
+    solidity 0.978494623655914
+    eccentricity 0.9028730611139523
+    diameter 21.528102431092233
+    perimeter 76.87005768508881
+    degree 2.0
+    strength 1.7981211116537095
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 557
+    label "557"
+    idx 557
+    row 1611
+    column 9188
+    demarcated "False"
+    area 1036.0
+    solidity 0.975517890772128
+    eccentricity 0.9474869359011334
+    diameter 36.319088209172165
+    perimeter 148.66904755831214
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 558
+    label "558"
+    idx 558
+    row 1605
+    column 12053
+    demarcated "True"
+    area 1044.0
+    solidity 0.9793621013133208
+    eccentricity 0.4454612224212602
+    diameter 36.45904667847899
+    perimeter 119.88225099390857
+    degree 14.0
+    strength 13.553610464475314
+    betweenness 0.0016978285972183728
+  ]
+  node [
+    id 559
+    label "559"
+    idx 559
+    row 1625
+    column 4038
+    demarcated "False"
+    area 8288.0
+    solidity 0.7738562091503268
+    eccentricity 0.9907726280754098
+    diameter 102.72589423687208
+    perimeter 631.3624817342638
+    degree 1.0
+    strength 0.8786010838438248
+    betweenness 0.0
+  ]
+  node [
+    id 560
+    label "560"
+    idx 560
+    row 1659
+    column 5393
+    demarcated "False"
+    area 13738.0
+    solidity 0.8641338533148823
+    eccentricity 0.9630033369106734
+    diameter 132.2564360081265
+    perimeter 716.541197284454
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 561
+    label "561"
+    idx 561
+    row 1660
+    column 6146
+    demarcated "False"
+    area 8820.0
+    solidity 0.8184095759487798
+    eccentricity 0.9297386261936545
+    diameter 105.97156592484673
+    perimeter 489.4284989122459
+    degree 2.0
+    strength 1.6904597605854081
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 562
+    label "562"
+    idx 562
+    row 1617
+    column 11979
+    demarcated "True"
+    area 696.0
+    solidity 0.9586776859504132
+    eccentricity 0.7958634223450901
+    diameter 29.768686956862464
+    perimeter 108.74011537017762
+    degree 10.0
+    strength 9.860699761336072
+    betweenness 4.969909659579098E-05
+  ]
+  node [
+    id 563
+    label "563"
+    idx 563
+    row 1616
+    column 12587
+    demarcated "True"
+    area 938.0
+    solidity 0.9770833333333333
+    eccentricity 0.46077977340334597
+    diameter 34.558626896356614
+    perimeter 113.7401153701776
+    degree 6.0
+    strength 5.766245089176403
+    betweenness 0.002236907086419565
+  ]
+  node [
+    id 564
+    label "564"
+    idx 564
+    row 1629
+    column 11713
+    demarcated "False"
+    area 4687.0
+    solidity 0.8014705882352942
+    eccentricity 0.8951540612619382
+    diameter 77.2507200366036
+    perimeter 332.73506473629425
+    degree 4.0
+    strength 3.6237435730084537
+    betweenness 0.008420638825919287
+  ]
+  node [
+    id 565
+    label "565"
+    idx 565
+    row 1718
+    column 6305
+    demarcated "False"
+    area 27205.0
+    solidity 0.7431841774572474
+    eccentricity 0.9633826707645834
+    diameter 186.11416339043114
+    perimeter 1011.0996385116111
+    degree 1.0
+    strength 0.41205366293858553
+    betweenness 0.0
+  ]
+  node [
+    id 566
+    label "566"
+    idx 566
+    row 1618
+    column 11244
+    demarcated "False"
+    area 1071.0
+    solidity 0.9834710743801653
+    eccentricity 0.5214783729849198
+    diameter 36.92749046999213
+    perimeter 120.71067811865476
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 567
+    label "567"
+    idx 567
+    row 1618
+    column 5944
+    demarcated "False"
+    area 941.0
+    solidity 0.9731127197518097
+    eccentricity 0.7110060981276904
+    diameter 34.61384710770804
+    perimeter 116.32590180780451
+    degree 2.0
+    strength 1.8927935323109728
+    betweenness 0.0
+  ]
+  node [
+    id 568
+    label "568"
+    idx 568
+    row 1615
+    column 12014
+    demarcated "True"
+    area 460.0
+    solidity 0.9643605870020965
+    eccentricity 0.7104945420605872
+    diameter 24.201036973199617
+    perimeter 82.52691193458118
+    degree 13.0
+    strength 12.633720177306333
+    betweenness 5.910162838418387E-05
+  ]
+  node [
+    id 569
+    label "569"
+    idx 569
+    row 1632
+    column 12726
+    demarcated "True"
+    area 2469.0
+    solidity 0.8783351120597652
+    eccentricity 0.6949652019738773
+    diameter 56.06806966492709
+    perimeter 229.58073580374355
+    degree 6.0
+    strength 5.732368711631566
+    betweenness 0.001459631125245753
+  ]
+  node [
+    id 570
+    label "570"
+    idx 570
+    row 1634
+    column 2433
+    demarcated "False"
+    area 1125.0
+    solidity 0.9525825571549534
+    eccentricity 0.8935155574472062
+    diameter 37.8469878303024
+    perimeter 146.8528137423857
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 571
+    label "571"
+    idx 571
+    row 1647
+    column 12180
+    demarcated "True"
+    area 4642.0
+    solidity 0.9638704318936877
+    eccentricity 0.5759213991082713
+    diameter 76.87898260682582
+    perimeter 273.6639969244288
+    degree 6.0
+    strength 5.404294296900177
+    betweenness 0.0012738191875227508
+  ]
+  node [
+    id 572
+    label "572"
+    idx 572
+    row 1644
+    column 12095
+    demarcated "True"
+    area 2703.0
+    solidity 0.9857768052516411
+    eccentricity 0.6524093770610222
+    diameter 58.664865885972546
+    perimeter 195.37972567696687
+    degree 9.0
+    strength 8.399794340853155
+    betweenness 0.0016082806754241549
+  ]
+  node [
+    id 573
+    label "573"
+    idx 573
+    row 1641
+    column 12660
+    demarcated "True"
+    area 2307.0
+    solidity 0.9564676616915423
+    eccentricity 0.8355130170566701
+    diameter 54.19745039855676
+    perimeter 195.09545442950497
+    degree 5.0
+    strength 4.775114001913129
+    betweenness 0.0021124354751256022
+  ]
+  node [
+    id 574
+    label "574"
+    idx 574
+    row 1634
+    column 12235
+    demarcated "True"
+    area 958.0
+    solidity 0.9755600814663951
+    eccentricity 0.5741071365305124
+    diameter 34.92511251028815
+    perimeter 116.56854249492379
+    degree 7.0
+    strength 6.551381698139361
+    betweenness 0.00027715081795310465
+  ]
+  node [
+    id 575
+    label "575"
+    idx 575
+    row 1652
+    column 7062
+    demarcated "False"
+    area 3595.0
+    solidity 0.972936400541272
+    eccentricity 0.7855119184319452
+    diameter 67.65571789082509
+    perimeter 237.52186130069785
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 576
+    label "576"
+    idx 576
+    row 1638
+    column 12036
+    demarcated "True"
+    area 820.0
+    solidity 0.9761904761904762
+    eccentricity 0.6208118896139535
+    diameter 32.31186201200472
+    perimeter 108.46803743153548
+    degree 12.0
+    strength 11.692965003568428
+    betweenness 0.0
+  ]
+  node [
+    id 577
+    label "577"
+    idx 577
+    row 1640
+    column 12825
+    demarcated "True"
+    area 2390.0
+    solidity 0.8603311735061195
+    eccentricity 0.9265887621304377
+    diameter 55.16377898510071
+    perimeter 241.23759005323595
+    degree 6.0
+    strength 5.714622191117874
+    betweenness 4.298300246122463E-05
+  ]
+  node [
+    id 578
+    label "578"
+    idx 578
+    row 1666
+    column 3833
+    demarcated "False"
+    area 6142.0
+    solidity 0.7967310935270463
+    eccentricity 0.9789959588334808
+    diameter 88.43210550339379
+    perimeter 490.4041122946064
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 579
+    label "579"
+    idx 579
+    row 1642
+    column 5974
+    demarcated "False"
+    area 1059.0
+    solidity 0.9662408759124088
+    eccentricity 0.8589547166136385
+    diameter 36.72003101679705
+    perimeter 131.49747468305833
+    degree 4.0
+    strength 3.806523093544689
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 580
+    label "580"
+    idx 580
+    row 1651
+    column 12882
+    demarcated "True"
+    area 636.0
+    solidity 0.8945147679324894
+    eccentricity 0.9600006364237181
+    diameter 28.456639830653998
+    perimeter 129.59797974644667
+    degree 5.0
+    strength 4.722008103071435
+    betweenness 0.0008260795785516609
+  ]
+  node [
+    id 581
+    label "581"
+    idx 581
+    row 1666
+    column 4811
+    demarcated "False"
+    area 11998.0
+    solidity 0.911217437533227
+    eccentricity 0.9741972222315516
+    diameter 123.59744357280405
+    perimeter 597.9898987322333
+    degree 1.0
+    strength 0.7085535381219896
+    betweenness 0.0
+  ]
+  node [
+    id 582
+    label "582"
+    idx 582
+    row 1675
+    column 6242
+    demarcated "False"
+    area 5599.0
+    solidity 0.9612017167381974
+    eccentricity 0.803152457524527
+    diameter 84.43262527585043
+    perimeter 310.63455967290594
+    degree 2.0
+    strength 1.288242488289999
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 583
+    label "583"
+    idx 583
+    row 1641
+    column 12320
+    demarcated "True"
+    area 273.0
+    solidity 0.9680851063829787
+    eccentricity 0.682839766962406
+    diameter 18.643883600599406
+    perimeter 60.04163056034261
+    degree 7.0
+    strength 6.274646892072029
+    betweenness 0.005244374039878376
+  ]
+  node [
+    id 584
+    label "584"
+    idx 584
+    row 1660
+    column 12283
+    demarcated "True"
+    area 2206.0
+    solidity 0.8841683366733467
+    eccentricity 0.8616993208943473
+    diameter 52.997796517268235
+    perimeter 216.50966799187808
+    degree 7.0
+    strength 6.513912561022081
+    betweenness 4.477396089710899E-05
+  ]
+  node [
+    id 585
+    label "585"
+    idx 585
+    row 1671
+    column 12507
+    demarcated "True"
+    area 3226.0
+    solidity 0.9110420785088958
+    eccentricity 0.49853322006240597
+    diameter 64.0895527470401
+    perimeter 236.93607486307093
+    degree 5.0
+    strength 4.652799894933923
+    betweenness 0.0028122524839474155
+  ]
+  node [
+    id 586
+    label "586"
+    idx 586
+    row 1647
+    column 12555
+    demarcated "True"
+    area 671.0
+    solidity 0.9217032967032966
+    eccentricity 0.8630856608023327
+    diameter 29.229158977248975
+    perimeter 110.91168824543144
+    degree 5.0
+    strength 4.816179601060579
+    betweenness 0.0013159067107660332
+  ]
+  node [
+    id 587
+    label "587"
+    idx 587
+    row 1649
+    column 11968
+    demarcated "True"
+    area 351.0
+    solidity 0.9777158774373259
+    eccentricity 0.7823754822732675
+    diameter 21.14017691983778
+    perimeter 72.04163056034261
+    degree 10.0
+    strength 9.724275357310065
+    betweenness 0.0001732752286718118
+  ]
+  node [
+    id 588
+    label "588"
+    idx 588
+    row 1706
+    column 9772
+    demarcated "False"
+    area 15995.0
+    solidity 0.8728989303645492
+    eccentricity 0.8291365753746792
+    diameter 142.70762599818877
+    perimeter 641.9493141924172
+    degree 1.0
+    strength 0.6264824080229399
+    betweenness 0.0
+  ]
+  node [
+    id 589
+    label "589"
+    idx 589
+    row 1684
+    column 12377
+    demarcated "True"
+    area 5397.0
+    solidity 0.8559873116574147
+    eccentricity 0.8995165147511194
+    diameter 82.8955597299136
+    perimeter 391.01933598375615
+    degree 4.0
+    strength 3.479734522745365
+    betweenness 0.004799768608170084
+  ]
+  node [
+    id 590
+    label "590"
+    idx 590
+    row 1667
+    column 11987
+    demarcated "True"
+    area 810.0
+    solidity 0.9121621621621622
+    eccentricity 0.9101410143659607
+    diameter 32.11423409074988
+    perimeter 132.8111831820431
+    degree 11.0
+    strength 10.772131287878482
+    betweenness 1.9700542794727955E-05
+  ]
+  node [
+    id 591
+    label "591"
+    idx 591
+    row 1664
+    column 12022
+    demarcated "True"
+    area 436.0
+    solidity 0.9775784753363229
+    eccentricity 0.5534016076123326
+    diameter 23.56124872549269
+    perimeter 77.59797974644667
+    degree 12.0
+    strength 11.646345895788274
+    betweenness 0.00013521736190926916
+  ]
+  node [
+    id 592
+    label "592"
+    idx 592
+    row 1682
+    column 11729
+    demarcated "False"
+    area 2742.0
+    solidity 0.9831480817497311
+    eccentricity 0.4917384680283374
+    diameter 59.08657065411578
+    perimeter 196.65180361560903
+    degree 3.0
+    strength 2.8136198763195215
+    betweenness 0.0
+  ]
+  node [
+    id 593
+    label "593"
+    idx 593
+    row 1681
+    column 12787
+    demarcated "True"
+    area 3004.0
+    solidity 0.9064574532287266
+    eccentricity 0.923966632249301
+    diameter 61.84506118021413
+    perimeter 286.9360748630709
+    degree 8.0
+    strength 7.554358945850371
+    betweenness 0.0004602763180222804
+  ]
+  node [
+    id 594
+    label "594"
+    idx 594
+    row 1670
+    column 12723
+    demarcated "True"
+    area 224.0
+    solidity 0.9739130434782609
+    eccentricity 0.8585262894266006
+    diameter 16.88803298257901
+    perimeter 57.79898987322333
+    degree 7.0
+    strength 6.500499254076748
+    betweenness 0.0013454575249581251
+  ]
+  node [
+    id 595
+    label "595"
+    idx 595
+    row 1706
+    column 10979
+    demarcated "False"
+    area 4381.0
+    solidity 0.9781201160973432
+    eccentricity 0.3628072407100495
+    diameter 74.68642745161097
+    perimeter 252.49242404917499
+    degree 2.0
+    strength 1.848075745995502
+    betweenness 0.0
+  ]
+  node [
+    id 596
+    label "596"
+    idx 596
+    row 1679
+    column 5078
+    demarcated "False"
+    area 670.0
+    solidity 0.9710144927536232
+    eccentricity 0.7985909357551931
+    diameter 29.20737055903114
+    perimeter 100.32590180780451
+    degree 1.0
+    strength 1.0
+    betweenness 0.0
+  ]
+  node [
+    id 597
+    label "597"
+    idx 597
+    row 1683
+    column 10732
+    demarcated "False"
+    area 319.0
+    solidity 0.9410029498525073
+    eccentricity 0.8224168669481292
+    diameter 20.153496341094687
+    perimeter 72.76955262170047
+    degree 5.0
+    strength 4.927318081680161
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 598
+    label "598"
+    idx 598
+    row 1743
+    column 9222
+    demarcated "False"
+    area 10025.0
+    solidity 0.8881899530433242
+    eccentricity 0.9347780401854359
+    diameter 112.97887606083717
+    perimeter 482.70057685088807
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 599
+    label "599"
+    idx 599
+    row 1704
+    column 12048
+    demarcated "True"
+    area 2978.0
+    solidity 0.8969879518072289
+    eccentricity 0.5261818446861686
+    diameter 61.576841135457045
+    perimeter 232.40916292848976
+    degree 12.0
+    strength 11.046665815590009
+    betweenness 0.0029049345830044313
+  ]
+  node [
+    id 600
+    label "600"
+    idx 600
+    row 1731
+    column 3651
+    demarcated "False"
+    area 4873.0
+    solidity 0.8678539626001781
+    eccentricity 0.8877482044320159
+    diameter 78.76862510857002
+    perimeter 351.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 601
+    label "601"
+    idx 601
+    row 1698
+    column 12242
+    demarcated "True"
+    area 1806.0
+    solidity 0.869942196531792
+    eccentricity 0.7127576012146805
+    diameter 47.95279572445911
+    perimeter 185.92388155425118
+    degree 10.0
+    strength 9.333363159940887
+    betweenness 0.005958070976578293
+  ]
+  node [
+    id 602
+    label "602"
+    idx 602
+    row 1721
+    column 4935
+    demarcated "False"
+    area 6854.0
+    solidity 0.861271676300578
+    eccentricity 0.9522667915189724
+    diameter 93.41725664787425
+    perimeter 438.41630560342617
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 603
+    label "603"
+    idx 603
+    row 1686
+    column 12212
+    demarcated "True"
+    area 426.0
+    solidity 0.902542372881356
+    eccentricity 0.9096701133158218
+    diameter 23.28948359361322
+    perimeter 91.84062043356595
+    degree 7.0
+    strength 6.4297458033754245
+    betweenness 0.0008162293071542969
+  ]
+  node [
+    id 604
+    label "604"
+    idx 604
+    row 1735
+    column 11179
+    demarcated "False"
+    area 11523.0
+    solidity 0.9387372708757638
+    eccentricity 0.839643279553446
+    diameter 121.12612960869872
+    perimeter 450.1147904132612
+    degree 2.0
+    strength 1.3058873292605373
+    betweenness 0.0
+  ]
+  node [
+    id 605
+    label "605"
+    idx 605
+    row 1710
+    column 5585
+    demarcated "False"
+    area 4113.0
+    solidity 0.9797522629823726
+    eccentricity 0.7497186096035956
+    diameter 72.36597437674507
+    perimeter 252.93607486307093
+    degree 1.0
+    strength 0.8892649726205295
+    betweenness 0.0
+  ]
+  node [
+    id 606
+    label "606"
+    idx 606
+    row 1692
+    column 12006
+    demarcated "True"
+    area 692.0
+    solidity 0.9760225669957687
+    eccentricity 0.6036090290950281
+    diameter 29.683021493047715
+    perimeter 97.7401153701776
+    degree 11.0
+    strength 10.819474632167214
+    betweenness 0.0009321938658778091
+  ]
+  node [
+    id 607
+    label "607"
+    idx 607
+    row 1712
+    column 12145
+    demarcated "True"
+    area 5723.0
+    solidity 0.9221720915243313
+    eccentricity 0.905376338550507
+    diameter 85.36246197550382
+    perimeter 354.6761902332485
+    degree 7.0
+    strength 6.096023941587486
+    betweenness 0.012596258419183671
+  ]
+  node [
+    id 608
+    label "608"
+    idx 608
+    row 1706
+    column 6044
+    demarcated "False"
+    area 3027.0
+    solidity 0.982154445165477
+    eccentricity 0.8072806518451986
+    diameter 62.081366785158146
+    perimeter 216.75230867899737
+    degree 3.0
+    strength 2.6867356253756896
+    betweenness 0.0
+  ]
+  node [
+    id 609
+    label "609"
+    idx 609
+    row 1725
+    column 11063
+    demarcated "False"
+    area 3561.0
+    solidity 0.9423127811590368
+    eccentricity 0.8268243117272728
+    diameter 67.3350281710932
+    perimeter 261.6223663640862
+    degree 3.0
+    strength 2.8083259822813975
+    betweenness 0.0
+  ]
+  node [
+    id 610
+    label "610"
+    idx 610
+    row 1735
+    column 3334
+    demarcated "False"
+    area 11133.0
+    solidity 0.8336203669037814
+    eccentricity 0.9647235074410974
+    diameter 119.05870758384944
+    perimeter 570.700576850888
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 611
+    label "611"
+    idx 611
+    row 1708
+    column 8307
+    demarcated "False"
+    area 2295.0
+    solidity 0.9745222929936306
+    eccentricity 0.8956651416049193
+    diameter 54.05631096520737
+    perimeter 203.4802307403552
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 612
+    label "612"
+    idx 612
+    row 1695
+    column 10175
+    demarcated "False"
+    area 570.0
+    solidity 0.9661016949152542
+    eccentricity 0.8076636295913159
+    diameter 26.939683377854365
+    perimeter 94.08326112068524
+    degree 1.0
+    strength 0.9923151055026596
+    betweenness 0.0
+  ]
+  node [
+    id 613
+    label "613"
+    idx 613
+    row 1718
+    column 5882
+    demarcated "False"
+    area 3993.0
+    solidity 0.9873887240356083
+    eccentricity 0.5274252149253139
+    diameter 71.30249295871431
+    perimeter 238.45079348883237
+    degree 2.0
+    strength 1.4874041463229197
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 614
+    label "614"
+    idx 614
+    row 1701
+    column 10683
+    demarcated "False"
+    area 608.0
+    solidity 0.9411764705882353
+    eccentricity 0.7293516020589067
+    diameter 27.823185353208192
+    perimeter 99.1543289325507
+    degree 5.0
+    strength 4.456748052064867
+    betweenness 0.0
+  ]
+  node [
+    id 615
+    label "615"
+    idx 615
+    row 1730
+    column 8183
+    demarcated "False"
+    area 12798.0
+    solidity 0.9356631086416143
+    eccentricity 0.9108814337824145
+    diameter 127.65155578182592
+    perimeter 515.5046173579947
+    degree 1.0
+    strength 0.8104041693215135
+    betweenness 0.0
+  ]
+  node [
+    id 616
+    label "616"
+    idx 616
+    row 1731
+    column 12321
+    demarcated "True"
+    area 4823.0
+    solidity 0.7178151510641464
+    eccentricity 0.8754168952574841
+    diameter 78.36347570301926
+    perimeter 489.445742854949
+    degree 8.0
+    strength 7.16628404848118
+    betweenness 0.007685450387988758
+  ]
+  node [
+    id 617
+    label "617"
+    idx 617
+    row 1718
+    column 12484
+    demarcated "True"
+    area 2956.0
+    solidity 0.8821247388839153
+    eccentricity 0.9770050218351793
+    diameter 61.34896978953388
+    perimeter 303.5218613006979
+    degree 2.0
+    strength 1.4509600759420027
+    betweenness 0.0027706127003131044
+  ]
+  node [
+    id 618
+    label "618"
+    idx 618
+    row 1702
+    column 12652
+    demarcated "True"
+    area 547.0
+    solidity 0.9715808170515098
+    eccentricity 0.8560284106687576
+    diameter 26.390567083147985
+    perimeter 96.08326112068524
+    degree 5.0
+    strength 4.749378775287011
+    betweenness 8.954792179421798E-05
+  ]
+  node [
+    id 619
+    label "619"
+    idx 619
+    row 1720
+    column 10717
+    demarcated "False"
+    area 579.0
+    solidity 0.9763912310286678
+    eccentricity 0.8705803118450333
+    diameter 27.151532118863187
+    perimeter 98.91168824543142
+    degree 7.0
+    strength 6.412918373844754
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 620
+    label "620"
+    idx 620
+    row 1708
+    column 10653
+    demarcated "False"
+    area 218.0
+    solidity 0.9646017699115044
+    eccentricity 0.6501288469878856
+    diameter 16.66031874701878
+    perimeter 54.04163056034261
+    degree 4.0
+    strength 3.4545388942346142
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 621
+    label "621"
+    idx 621
+    row 1719
+    column 5979
+    demarcated "False"
+    area 739.0
+    solidity 0.9775132275132276
+    eccentricity 0.36882497535109254
+    diameter 30.67448489476694
+    perimeter 103.05382386916237
+    degree 4.0
+    strength 3.5497499773104466
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 622
+    label "622"
+    idx 622
+    row 1733
+    column 9612
+    demarcated "False"
+    area 1430.0
+    solidity 0.9231762427372499
+    eccentricity 0.9216586585172821
+    diameter 42.67004275802032
+    perimeter 181.13708498984758
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 623
+    label "623"
+    idx 623
+    row 1714
+    column 11687
+    demarcated "False"
+    area 769.0
+    solidity 0.9709595959595959
+    eccentricity 0.70940130981349
+    diameter 31.29091257699814
+    perimeter 105.59797974644667
+    degree 4.0
+    strength 3.5010916269782744
+    betweenness 0.008435414233015333
+  ]
+  node [
+    id 624
+    label "624"
+    idx 624
+    row 1719
+    column 4776
+    demarcated "False"
+    area 3602.0
+    solidity 0.9343709468223087
+    eccentricity 0.9698266866823283
+    diameter 67.72155373391884
+    perimeter 312.99494936611666
+    degree 2.0
+    strength 1.6213697214013874
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 625
+    label "625"
+    idx 625
+    row 1754
+    column 11543
+    demarcated "False"
+    area 6805.0
+    solidity 0.9171159029649596
+    eccentricity 0.7081333746766698
+    diameter 93.08273256583512
+    perimeter 351.4041122946064
+    degree 1.0
+    strength 0.7723200765402097
+    betweenness 0.0
+  ]
+  node [
+    id 626
+    label "626"
+    idx 626
+    row 1717
+    column 12854
+    demarcated "True"
+    area 871.0
+    solidity 0.9775533108866442
+    eccentricity 0.6854205021620016
+    diameter 33.30152614317138
+    perimeter 110.5685424949238
+    degree 6.0
+    strength 5.7104245973318
+    betweenness 3.671464793562937E-05
+  ]
+  node [
+    id 627
+    label "627"
+    idx 627
+    row 1720
+    column 12594
+    demarcated "True"
+    area 1076.0
+    solidity 0.9835466179159049
+    eccentricity 0.7214936598934163
+    diameter 37.013588722725
+    perimeter 124.22539674441617
+    degree 5.0
+    strength 4.819367369488332
+    betweenness 0.002445106004591122
+  ]
+  node [
+    id 628
+    label "628"
+    idx 628
+    row 1723
+    column 12758
+    demarcated "True"
+    area 1165.0
+    solidity 0.967607973421927
+    eccentricity 0.48557152028490436
+    diameter 38.51394643004615
+    perimeter 129.29646455628165
+    degree 8.0
+    strength 7.5430881773140355
+    betweenness 0.0006411631200466007
+  ]
+  node [
+    id 629
+    label "629"
+    idx 629
+    row 1797
+    column 5435
+    demarcated "False"
+    area 16992.0
+    solidity 0.8626694420470122
+    eccentricity 0.6636593763654218
+    diameter 147.08802243602258
+    perimeter 659.7544007200504
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 630
+    label "630"
+    idx 630
+    row 1787
+    column 7201
+    demarcated "False"
+    area 18759.0
+    solidity 0.9190182245737801
+    eccentricity 0.6289748161999071
+    diameter 154.5467586838589
+    perimeter 620.5828278447966
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 631
+    label "631"
+    idx 631
+    row 1750
+    column 3970
+    demarcated "False"
+    area 5646.0
+    solidity 0.9042280589365791
+    eccentricity 0.9566264452609746
+    diameter 84.78626344859602
+    perimeter 381.0609665440988
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 632
+    label "632"
+    idx 632
+    row 1784
+    column 5810
+    demarcated "False"
+    area 15943.0
+    solidity 0.7700444358578052
+    eccentricity 0.8069936406553639
+    diameter 142.47546477100084
+    perimeter 725.2935059634515
+    degree 1.0
+    strength 0.6124010127661355
+    betweenness 0.0
+  ]
+  node [
+    id 633
+    label "633"
+    idx 633
+    row 1730
+    column 12883
+    demarcated "True"
+    area 382.0
+    solidity 0.8662131519274376
+    eccentricity 0.9083795378667232
+    diameter 22.05396803500069
+    perimeter 96.31980515339464
+    degree 4.0
+    strength 3.804139081905243
+    betweenness 0.0005054980185283604
+  ]
+  node [
+    id 634
+    label "634"
+    idx 634
+    row 1752
+    column 12735
+    demarcated "True"
+    area 2506.0
+    solidity 0.7346819114629141
+    eccentricity 0.9511976837426434
+    diameter 56.48662053182433
+    perimeter 279.4213562373095
+    degree 8.0
+    strength 7.617366055659021
+    betweenness 0.0006040007325020003
+  ]
+  node [
+    id 635
+    label "635"
+    idx 635
+    row 1764
+    column 5637
+    demarcated "False"
+    area 6973.0
+    solidity 0.9325932860773037
+    eccentricity 0.8160620511056083
+    diameter 94.22472788731359
+    perimeter 353.01933598375615
+    degree 1.0
+    strength 0.8892649726205295
+    betweenness 0.0
+  ]
+  node [
+    id 636
+    label "636"
+    idx 636
+    row 1742
+    column 10428
+    demarcated "False"
+    area 1049.0
+    solidity 0.9433453237410072
+    eccentricity 0.8038572259132307
+    diameter 36.54624854109086
+    perimeter 133.92388155425118
+    degree 9.0
+    strength 8.57916973303027
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 637
+    label "637"
+    idx 637
+    row 1743
+    column 11755
+    demarcated "False"
+    area 1952.0
+    solidity 0.9658584858980702
+    eccentricity 0.6142933389157439
+    diameter 49.853421059372025
+    perimeter 170.0243866176395
+    degree 4.0
+    strength 3.4638499229856756
+    betweenness 0.01102648335013103
+  ]
+  node [
+    id 638
+    label "638"
+    idx 638
+    row 1745
+    column 12668
+    demarcated "True"
+    area 2291.0
+    solidity 0.9215607401448109
+    eccentricity 0.7150954828464662
+    diameter 54.009182524717566
+    perimeter 203.09545442950497
+    degree 9.0
+    strength 8.546955084067752
+    betweenness 0.0019937844787482634
+  ]
+  node [
+    id 639
+    label "639"
+    idx 639
+    row 1783
+    column 10655
+    demarcated "False"
+    area 17639.0
+    solidity 0.8967463141840366
+    eccentricity 0.9046611654098284
+    diameter 149.86217778206594
+    perimeter 659.1269837220809
+    degree 4.0
+    strength 1.97436960249825
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 640
+    label "640"
+    idx 640
+    row 1742
+    column 10789
+    demarcated "False"
+    area 1464.0
+    solidity 0.9825503355704698
+    eccentricity 0.49833842058335953
+    diameter 43.17432910297829
+    perimeter 144.50966799187808
+    degree 5.0
+    strength 4.79625750023141
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 641
+    label "641"
+    idx 641
+    row 1730
+    column 5058
+    demarcated "False"
+    area 670.0
+    solidity 0.9598853868194842
+    eccentricity 0.8371360919905121
+    diameter 29.20737055903114
+    perimeter 104.42640687119285
+    degree 2.0
+    strength 1.9645334377560222
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 642
+    label "642"
+    idx 642
+    row 1748
+    column 11016
+    demarcated "False"
+    area 1298.0
+    solidity 0.9392185238784371
+    eccentricity 0.8410956473763286
+    diameter 40.65298179797198
+    perimeter 157.4386001800126
+    degree 3.0
+    strength 2.7722958984820005
+    betweenness 0.0002176014499599497
+  ]
+  node [
+    id 643
+    label "643"
+    idx 643
+    row 1818
+    column 11379
+    demarcated "False"
+    area 20599.0
+    solidity 0.9288451999819632
+    eccentricity 0.732843918113756
+    diameter 161.94894683819223
+    perimeter 610.1980515339465
+    degree 1.0
+    strength 0.434596054524653
+    betweenness 0.0
+  ]
+  node [
+    id 644
+    label "644"
+    idx 644
+    row 1741
+    column 2657
+    demarcated "False"
+    area 979.0
+    solidity 0.9588638589618022
+    eccentricity 0.8419325478288645
+    diameter 35.30582833323309
+    perimeter 124.12489168102783
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 645
+    label "645"
+    idx 645
+    row 1762
+    column 10345
+    demarcated "False"
+    area 3548.0
+    solidity 0.9790286975717439
+    eccentricity 0.682349177960084
+    diameter 67.21200714694032
+    perimeter 230.79393923933998
+    degree 3.0
+    strength 2.4786247054777517
+    betweenness 0.0006501179122260226
+  ]
+  node [
+    id 646
+    label "646"
+    idx 646
+    row 1814
+    column 12463
+    demarcated "True"
+    area 21775.0
+    solidity 0.8152682616346549
+    eccentricity 0.5086551526942662
+    diameter 166.5076307158569
+    perimeter 856.0863991822648
+    degree 2.0
+    strength 0.9412979101680738
+    betweenness 0.00285523548640864
+  ]
+  node [
+    id 647
+    label "647"
+    idx 647
+    row 1747
+    column 4671
+    demarcated "False"
+    area 2679.0
+    solidity 0.9622844827586207
+    eccentricity 0.9228843902872427
+    diameter 58.40384182864601
+    perimeter 232.40916292848974
+    degree 1.0
+    strength 0.9741594186114101
+    betweenness 0.0
+  ]
+  node [
+    id 648
+    label "648"
+    idx 648
+    row 1763
+    column 12080
+    demarcated "True"
+    area 3180.0
+    solidity 0.9408284023668639
+    eccentricity 0.6092550665314229
+    diameter 63.630981072570435
+    perimeter 228.10764773832472
+    degree 5.0
+    strength 4.5761328540150235
+    betweenness 0.009721322389980304
+  ]
+  node [
+    id 649
+    label "649"
+    idx 649
+    row 1747
+    column 12030
+    demarcated "True"
+    area 747.0
+    solidity 0.950381679389313
+    eccentricity 0.8426454359012399
+    diameter 30.8400703617415
+    perimeter 113.49747468305833
+    degree 8.0
+    strength 7.741687541886082
+    betweenness 0.00018178228124226249
+  ]
+  node [
+    id 650
+    label "650"
+    idx 650
+    row 1760
+    column 6132
+    demarcated "False"
+    area 2482.0
+    solidity 0.9833597464342314
+    eccentricity 0.7170430941270887
+    diameter 56.21548318775419
+    perimeter 191.23759005323595
+    degree 1.0
+    strength 0.8933247087129046
+    betweenness 0.0
+  ]
+  node [
+    id 651
+    label "651"
+    idx 651
+    row 1827
+    column 4901
+    demarcated "False"
+    area 33580.0
+    solidity 0.8018912981182539
+    eccentricity 0.8603953804305693
+    diameter 206.77375053958556
+    perimeter 1156.0163773909258
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 652
+    label "652"
+    idx 652
+    row 1757
+    column 10825
+    demarcated "False"
+    area 718.0
+    solidity 0.9373368146214099
+    eccentricity 0.5993185481882931
+    diameter 30.23550881198871
+    perimeter 114.63961030678928
+    degree 3.0
+    strength 2.937130356799315
+    betweenness 0.0
+  ]
+  node [
+    id 653
+    label "653"
+    idx 653
+    row 1778
+    column 11687
+    demarcated "False"
+    area 6988.0
+    solidity 0.9562123700054734
+    eccentricity 0.8904947356277668
+    diameter 94.32601941463086
+    perimeter 363.0782104868019
+    degree 3.0
+    strength 2.3546088851408666
+    betweenness 0.01885521041299054
+  ]
+  node [
+    id 654
+    label "654"
+    idx 654
+    row 1753
+    column 10749
+    demarcated "False"
+    area 325.0
+    solidity 0.9587020648967551
+    eccentricity 0.6704925501876813
+    diameter 20.342144725641095
+    perimeter 68.62741699796952
+    degree 7.0
+    strength 6.406848652509522
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 655
+    label "655"
+    idx 655
+    row 1812
+    column 9721
+    demarcated "False"
+    area 9753.0
+    solidity 0.9429565889973895
+    eccentricity 0.9413574122577599
+    diameter 111.43565533437689
+    perimeter 469.9137802864845
+    degree 1.0
+    strength 0.8093739223598312
+    betweenness 0.0
+  ]
+  node [
+    id 656
+    label "656"
+    idx 656
+    row 1800
+    column 9786
+    demarcated "False"
+    area 4599.0
+    solidity 0.8240458699157857
+    eccentricity 0.9654285542694305
+    diameter 76.52207959953135
+    perimeter 377.58787847867995
+    degree 3.0
+    strength 2.3730012626443617
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 657
+    label "657"
+    idx 657
+    row 1754
+    column 11926
+    demarcated "True"
+    area 359.0
+    solidity 0.9573333333333334
+    eccentricity 0.4359840220327157
+    diameter 21.37973331358283
+    perimeter 70.2842712474619
+    degree 5.0
+    strength 4.945557438881972
+    betweenness 0.0
+  ]
+  node [
+    id 658
+    label "658"
+    idx 658
+    row 1765
+    column 12829
+    demarcated "True"
+    area 3544.0
+    solidity 0.930916732335172
+    eccentricity 0.9545741882010919
+    diameter 67.1741091979746
+    perimeter 284.16652224137044
+    degree 7.0
+    strength 6.449973080700062
+    betweenness 0.00044908282779800317
+  ]
+  node [
+    id 659
+    label "659"
+    idx 659
+    row 1783
+    column 9882
+    demarcated "False"
+    area 3017.0
+    solidity 0.9853037230568256
+    eccentricity 0.8153199154115179
+    diameter 61.978735921814234
+    perimeter 216.30865786510142
+    degree 1.0
+    strength 0.937144932261591
+    betweenness 0.0
+  ]
+  node [
+    id 660
+    label "660"
+    idx 660
+    row 1788
+    column 5987
+    demarcated "False"
+    area 6875.0
+    solidity 0.9560561813377834
+    eccentricity 0.8376657368620619
+    diameter 93.56025796273889
+    perimeter 349.84776310850236
+    degree 5.0
+    strength 3.97992704507403
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 661
+    label "661"
+    idx 661
+    row 1785
+    column 11963
+    demarcated "True"
+    area 1327.0
+    solidity 0.9221681723419041
+    eccentricity 0.9542712763922334
+    diameter 41.104608936998304
+    perimeter 174.36753236814712
+    degree 6.0
+    strength 5.790531026927722
+    betweenness 0.0003277453937668378
+  ]
+  node [
+    id 662
+    label "662"
+    idx 662
+    row 1761
+    column 10248
+    demarcated "False"
+    area 758.0
+    solidity 0.9522613065326633
+    eccentricity 0.8479943254749768
+    diameter 31.066309322306914
+    perimeter 112.46803743153545
+    degree 4.0
+    strength 3.7872022357616517
+    betweenness 0.00043565063952887044
+  ]
+  node [
+    id 663
+    label "663"
+    idx 663
+    row 1774
+    column 12253
+    demarcated "True"
+    area 2141.0
+    solidity 0.9188841201716739
+    eccentricity 0.6413808760808989
+    diameter 52.2111660976652
+    perimeter 190.89444430272835
+    degree 10.0
+    strength 9.421078615354864
+    betweenness 0.0015769389027961785
+  ]
+  node [
+    id 664
+    label "664"
+    idx 664
+    row 1950
+    column 6673
+    demarcated "False"
+    area 185688.0
+    solidity 0.7336343917789709
+    eccentricity 0.8919082782329404
+    diameter 486.2358528356202
+    perimeter 3191.5171696043135
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 665
+    label "665"
+    idx 665
+    row 1806
+    column 11821
+    demarcated "False"
+    area 9627.0
+    solidity 0.9870808981851737
+    eccentricity 0.7614750747261545
+    diameter 110.71349103503788
+    perimeter 379.90663761154804
+    degree 3.0
+    strength 2.115037420854426
+    betweenness 0.011121851886841873
+  ]
+  node [
+    id 666
+    label "666"
+    idx 666
+    row 1805
+    column 5281
+    demarcated "False"
+    area 8403.0
+    solidity 0.9720069404279931
+    eccentricity 0.8305005697630532
+    diameter 103.43612470703633
+    perimeter 374.6345596729059
+    degree 1.0
+    strength 0.7332522867945986
+    betweenness 0.0
+  ]
+  node [
+    id 667
+    label "667"
+    idx 667
+    row 1786
+    column 11915
+    demarcated "True"
+    area 587.0
+    solidity 0.8433908045977011
+    eccentricity 0.9523881161851048
+    diameter 27.33846397952051
+    perimeter 131.71067811865476
+    degree 6.0
+    strength 5.6278000939165285
+    betweenness 0.010827239224138896
+  ]
+  node [
+    id 668
+    label "668"
+    idx 668
+    row 1773
+    column 12193
+    demarcated "True"
+    area 450.0
+    solidity 0.989010989010989
+    eccentricity 0.4398526516029965
+    diameter 23.936536824085962
+    perimeter 76.42640687119285
+    degree 7.0
+    strength 6.623183944640308
+    betweenness 0.006767136449989053
+  ]
+  node [
+    id 669
+    label "669"
+    idx 669
+    row 1785
+    column 4772
+    demarcated "False"
+    area 1379.0
+    solidity 0.9132450331125828
+    eccentricity 0.8891968475390114
+    diameter 41.90223540802793
+    perimeter 159.58073580374355
+    degree 2.0
+    strength 1.886016683561344
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 670
+    label "670"
+    idx 670
+    row 1788
+    column 4675
+    demarcated "False"
+    area 2041.0
+    solidity 0.9532928538066324
+    eccentricity 0.8768004905253732
+    diameter 50.97726856947582
+    perimeter 193.58073580374355
+    degree 2.0
+    strength 1.9473599188933566
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 671
+    label "671"
+    idx 671
+    row 1794
+    column 4447
+    demarcated "False"
+    area 2626.0
+    solidity 0.9831523773867465
+    eccentricity 0.8564440924971628
+    diameter 57.823239657377705
+    perimeter 207.86500705120545
+    degree 1.0
+    strength 0.9451003876880831
+    betweenness 0.0
+  ]
+  node [
+    id 672
+    label "672"
+    idx 672
+    row 1776
+    column 12015
+    demarcated "True"
+    area 282.0
+    solidity 0.9757785467128027
+    eccentricity 0.5579229965257467
+    diameter 18.948708441878455
+    perimeter 61.11269837220809
+    degree 8.0
+    strength 7.693266805086941
+    betweenness 0.0014453034577586782
+  ]
+  node [
+    id 673
+    label "673"
+    idx 673
+    row 1782
+    column 10795
+    demarcated "False"
+    area 307.0
+    solidity 0.959375
+    eccentricity 0.7660563863428571
+    diameter 19.77080019204319
+    perimeter 69.01219330881975
+    degree 4.0
+    strength 3.9250701985200527
+    betweenness 0.0
+  ]
+  node [
+    id 674
+    label "674"
+    idx 674
+    row 1789
+    column 12585
+    demarcated "True"
+    area 1311.0
+    solidity 0.9725519287833828
+    eccentricity 0.7527136884720929
+    diameter 40.85605271129112
+    perimeter 141.39696961967
+    degree 6.0
+    strength 5.847097612263438
+    betweenness 0.0004566944011505117
+  ]
+  node [
+    id 675
+    label "675"
+    idx 675
+    row 1804
+    column 10197
+    demarcated "False"
+    area 2996.0
+    solidity 0.8877037037037037
+    eccentricity 0.8518659534567565
+    diameter 61.762655998803574
+    perimeter 252.45079348883237
+    degree 2.0
+    strength 1.8329707203054753
+    betweenness 0.0
+  ]
+  node [
+    id 676
+    label "676"
+    idx 676
+    row 1790
+    column 11989
+    demarcated "True"
+    area 357.0
+    solidity 0.967479674796748
+    eccentricity 0.8207855835183241
+    diameter 21.320096563347295
+    perimeter 75.84062043356595
+    degree 8.0
+    strength 7.806484494690648
+    betweenness 0.010491434517410579
+  ]
+  node [
+    id 677
+    label "677"
+    idx 677
+    row 1801
+    column 12714
+    demarcated "True"
+    area 3478.0
+    solidity 0.8581297804095731
+    eccentricity 0.94297194656286
+    diameter 66.54567706912971
+    perimeter 308.97770542341357
+    degree 6.0
+    strength 5.573325548479653
+    betweenness 0.0008959269575511509
+  ]
+  node [
+    id 678
+    label "678"
+    idx 678
+    row 1846
+    column 10378
+    demarcated "False"
+    area 12794.0
+    solidity 0.7653744915051448
+    eccentricity 0.5548084809491355
+    diameter 127.63160555027768
+    perimeter 595.286363288515
+    degree 6.0
+    strength 3.8866122756517445
+    betweenness 0.0012769533647855483
+  ]
+  node [
+    id 679
+    label "679"
+    idx 679
+    row 1790
+    column 11939
+    demarcated "True"
+    area 431.0
+    solidity 0.9685393258426966
+    eccentricity 0.7708255336529763
+    diameter 23.42576026046658
+    perimeter 79.698484809835
+    degree 6.0
+    strength 5.9318294765774
+    betweenness 0.0009375667411854622
+  ]
+  node [
+    id 680
+    label "680"
+    idx 680
+    row 1790
+    column 12320
+    demarcated "True"
+    area 265.0
+    solidity 0.889261744966443
+    eccentricity 0.93527969643381
+    diameter 18.36868202552426
+    perimeter 79.18376618407358
+    degree 7.0
+    strength 6.406101832782267
+    betweenness 0.0003814741468433686
+  ]
+  node [
+    id 681
+    label "681"
+    idx 681
+    row 1789
+    column 11602
+    demarcated "False"
+    area 509.0
+    solidity 0.9531835205992509
+    eccentricity 0.8771993208697441
+    diameter 25.45739437315213
+    perimeter 95.25483399593904
+    degree 3.0
+    strength 2.44239899483885
+    betweenness 0.018785810773600017
+  ]
+  node [
+    id 682
+    label "682"
+    idx 682
+    row 1791
+    column 12211
+    demarcated "True"
+    area 361.0
+    solidity 0.9756756756756757
+    eccentricity 0.750395076348491
+    diameter 21.43920417481474
+    perimeter 74.42640687119285
+    degree 7.0
+    strength 6.7343131793363
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 683
+    label "683"
+    idx 683
+    row 1807
+    column 12288
+    demarcated "True"
+    area 2036.0
+    solidity 0.9681407513076558
+    eccentricity 0.4509466956630184
+    diameter 50.91478874630426
+    perimeter 179.3380951166243
+    degree 8.0
+    strength 7.462827571788529
+    betweenness 5.865388877521278E-05
+  ]
+  node [
+    id 684
+    label "684"
+    idx 684
+    row 1813
+    column 12366
+    demarcated "True"
+    area 3854.0
+    solidity 0.9104653909756674
+    eccentricity 0.5827498465373214
+    diameter 70.05044757465377
+    perimeter 262.1787155501902
+    degree 6.0
+    strength 5.17740027903844
+    betweenness 0.006699975508643389
+  ]
+  node [
+    id 685
+    label "685"
+    idx 685
+    row 1820
+    column 6083
+    demarcated "False"
+    area 5231.0
+    solidity 0.9614041536482264
+    eccentricity 0.8584541787412624
+    diameter 81.61075945308704
+    perimeter 301.8061325481598
+    degree 2.0
+    strength 1.7996837105634933
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 686
+    label "686"
+    idx 686
+    row 1811
+    column 10477
+    demarcated "False"
+    area 1760.0
+    solidity 0.9865470852017937
+    eccentricity 0.777643686999016
+    diameter 47.33816218162558
+    perimeter 161.58073580374355
+    degree 14.0
+    strength 12.990883901875378
+    betweenness 0.00021491501230612315
+  ]
+  node [
+    id 687
+    label "687"
+    idx 687
+    row 1817
+    column 12166
+    demarcated "True"
+    area 1631.0
+    solidity 0.843329886246122
+    eccentricity 0.9620004369663877
+    diameter 45.57031596843553
+    perimeter 220.38582233137677
+    degree 8.0
+    strength 7.626249368233494
+    betweenness 0.0008583168303975793
+  ]
+  node [
+    id 688
+    label "688"
+    idx 688
+    row 1801
+    column 4532
+    demarcated "False"
+    area 1250.0
+    solidity 0.9788566953797964
+    eccentricity 0.7528117990531353
+    diameter 39.89422804014327
+    perimeter 135.39696961967
+    degree 2.0
+    strength 1.931043061057183
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 689
+    label "689"
+    idx 689
+    row 1785
+    column 10475
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 11.0
+    strength 10.747257896615515
+    betweenness 3.731163408092415E-07
+  ]
+  node [
+    id 690
+    label "690"
+    idx 690
+    row 1811
+    column 11189
+    demarcated "False"
+    area 1812.0
+    solidity 0.9235474006116208
+    eccentricity 0.5374813118827132
+    diameter 48.03238548167387
+    perimeter 196.65180361560903
+    degree 4.0
+    strength 3.543334648971968
+    betweenness 2.775985575620757E-05
+  ]
+  node [
+    id 691
+    label "691"
+    idx 691
+    row 1786
+    column 10474
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 12.0
+    strength 11.747216862481586
+    betweenness 3.731163408092415E-07
+  ]
+  node [
+    id 692
+    label "692"
+    idx 692
+    row 1787
+    column 10473
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 12.0
+    strength 11.747216862481586
+    betweenness 3.731163408092415E-07
+  ]
+  node [
+    id 693
+    label "693"
+    idx 693
+    row 1788
+    column 10472
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 13.0
+    strength 12.747216862481586
+    betweenness 3.731163408092415E-07
+  ]
+  node [
+    id 694
+    label "694"
+    idx 694
+    row 1789
+    column 10471
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 13.0
+    strength 12.747216862481586
+    betweenness 3.731163408092415E-07
+  ]
+  node [
+    id 695
+    label "695"
+    idx 695
+    row 1790
+    column 10470
+    demarcated "False"
+    area 2.0
+    solidity 1.0
+    eccentricity 1.0
+    diameter 1.5957691216057308
+    perimeter 0.0
+    degree 14.0
+    strength 13.549274052995875
+    betweenness 0.0
+  ]
+  node [
+    id 696
+    label "696"
+    idx 696
+    row 1792
+    column 10469
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 14.0
+    strength 13.549415635392334
+    betweenness 8.208559497803316E-07
+  ]
+  node [
+    id 697
+    label "697"
+    idx 697
+    row 1814
+    column 11077
+    demarcated "False"
+    area 1795.0
+    solidity 0.985722130697419
+    eccentricity 0.35749355944705247
+    diameter 47.806537029988036
+    perimeter 156.61017305526642
+    degree 5.0
+    strength 4.643456818717032
+    betweenness 0.0016011168416806174
+  ]
+  node [
+    id 698
+    label "698"
+    idx 698
+    row 1810
+    column 5111
+    demarcated "False"
+    area 1550.0
+    solidity 0.9669369931378665
+    eccentricity 0.9265444140257969
+    diameter 44.424332232904774
+    perimeter 171.78174593052023
+    degree 4.0
+    strength 3.9180023710861542
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 699
+    label "699"
+    idx 699
+    row 1815
+    column 4282
+    demarcated "False"
+    area 2359.0
+    solidity 0.9719818706221672
+    eccentricity 0.8142291302501856
+    diameter 54.80485458451878
+    perimeter 201.09545442950497
+    degree 2.0
+    strength 1.7096404846886117
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 700
+    label "700"
+    idx 700
+    row 1808
+    column 10929
+    demarcated "False"
+    area 1104.0
+    solidity 0.9744042365401588
+    eccentricity 0.8084236170280469
+    diameter 37.492085263260826
+    perimeter 133.0538238691624
+    degree 6.0
+    strength 5.829045660886326
+    betweenness 0.0
+  ]
+  node [
+    id 701
+    label "701"
+    idx 701
+    row 1882
+    column 11674
+    demarcated "False"
+    area 24293.0
+    solidity 0.9068612811706734
+    eccentricity 0.8861971365028016
+    diameter 175.87156751519362
+    perimeter 733.4528855298854
+    degree 1.0
+    strength 0.3756665031585101
+    betweenness 0.0
+  ]
+  node [
+    id 702
+    label "702"
+    idx 702
+    row 1823
+    column 3237
+    demarcated "False"
+    area 2178.0
+    solidity 0.9535901926444834
+    eccentricity 0.8268983150314868
+    diameter 52.66038101298911
+    perimeter 189.48023074035524
+    degree 1.0
+    strength 0.8981029247107206
+    betweenness 0.0
+  ]
+  node [
+    id 703
+    label "703"
+    idx 703
+    row 1826
+    column 12868
+    demarcated "True"
+    area 1477.0
+    solidity 0.9717105263157895
+    eccentricity 0.7810261954837742
+    diameter 43.36559474484162
+    perimeter 152.8111831820431
+    degree 4.0
+    strength 3.7955696768216827
+    betweenness 0.0004168455759520847
+  ]
+  node [
+    id 704
+    label "704"
+    idx 704
+    row 1814
+    column 11230
+    demarcated "False"
+    area 439.0
+    solidity 0.9712389380530974
+    eccentricity 0.7863550754702109
+    diameter 23.642169108157916
+    perimeter 80.18376618407356
+    degree 5.0
+    strength 4.531917235139469
+    betweenness 0.0001902893338127132
+  ]
+  node [
+    id 705
+    label "705"
+    idx 705
+    row 1824
+    column 12662
+    demarcated "True"
+    area 1254.0
+    solidity 0.9240972733971997
+    eccentricity 0.599825644135453
+    diameter 39.958007821935944
+    perimeter 141.88225099390854
+    degree 7.0
+    strength 6.766810424972985
+    betweenness 7.9697650396854E-05
+  ]
+  node [
+    id 706
+    label "706"
+    idx 706
+    row 2173
+    column 10037
+    demarcated "False"
+    area 227256.0
+    solidity 0.6871178999691598
+    eccentricity 0.8189419424346673
+    diameter 537.9138648318466
+    perimeter 4277.326440214052
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 707
+    label "707"
+    idx 707
+    row 1840
+    column 10546
+    demarcated "False"
+    area 3704.0
+    solidity 0.890170632059601
+    eccentricity 0.8583714504136631
+    diameter 68.6737160324024
+    perimeter 279.1787155501902
+    degree 9.0
+    strength 7.870409159229316
+    betweenness 0.0
+  ]
+  node [
+    id 708
+    label "708"
+    idx 708
+    row 1903
+    column 3323
+    demarcated "False"
+    area 20547.0
+    solidity 0.946822727063269
+    eccentricity 0.9606451041782464
+    diameter 161.74440616501514
+    perimeter 740.5067093990478
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 709
+    label "709"
+    idx 709
+    row 1903
+    column 3578
+    demarcated "False"
+    area 17824.0
+    solidity 0.6414048724315377
+    eccentricity 0.9935865856018237
+    diameter 150.64601436931392
+    perimeter 1115.7859300126263
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 710
+    label "710"
+    idx 710
+    row 1867
+    column 12141
+    demarcated "True"
+    area 3270.0
+    solidity 0.8520062532569046
+    eccentricity 0.8992067877959075
+    diameter 64.52513704971096
+    perimeter 277.936074863071
+    degree 7.0
+    strength 6.448323917036321
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 711
+    label "711"
+    idx 711
+    row 1844
+    column 7680
+    demarcated "False"
+    area 7506.0
+    solidity 0.9563001656261945
+    eccentricity 0.950019227259207
+    diameter 97.75958276702151
+    perimeter 423.60512242138304
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 712
+    label "712"
+    idx 712
+    row 1861
+    column 11023
+    demarcated "False"
+    area 4629.0
+    solidity 0.9562073951662879
+    eccentricity 0.709497529223203
+    diameter 76.77125668229658
+    perimeter 273.27922061357856
+    degree 6.0
+    strength 5.291922288768226
+    betweenness 0.0009366712619675201
+  ]
+  node [
+    id 713
+    label "713"
+    idx 713
+    row 1826
+    column 12568
+    demarcated "True"
+    area 558.0
+    solidity 0.9704347826086956
+    eccentricity 0.7049685068693857
+    diameter 26.654599339742866
+    perimeter 89.84062043356595
+    degree 4.0
+    strength 3.8713474534125036
+    betweenness 0.0
+  ]
+  node [
+    id 714
+    label "714"
+    idx 714
+    row 1838
+    column 12824
+    demarcated "True"
+    area 1339.0
+    solidity 0.9752367079388201
+    eccentricity 0.6947176141779335
+    diameter 41.29004420438882
+    perimeter 138.8111831820431
+    degree 5.0
+    strength 4.810555417322686
+    betweenness 9.895045358261086E-05
+  ]
+  node [
+    id 715
+    label "715"
+    idx 715
+    row 1867
+    column 7355
+    demarcated "False"
+    area 13828.0
+    solidity 0.9713402641191345
+    eccentricity 0.8357575436149096
+    diameter 132.68894612814523
+    perimeter 480.9604614807105
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 716
+    label "716"
+    idx 716
+    row 1909
+    column 12213
+    demarcated "True"
+    area 4506.0
+    solidity 0.6294175164129069
+    eccentricity 0.8881087064029054
+    diameter 75.74442150136632
+    perimeter 419.6406563273158
+    degree 11.0
+    strength 9.594342900389783
+    betweenness 0.0017828991229228799
+  ]
+  node [
+    id 717
+    label "717"
+    idx 717
+    row 1902
+    column 9013
+    demarcated "False"
+    area 14228.0
+    solidity 0.9832757429163788
+    eccentricity 0.8528257798267058
+    diameter 134.59439900119133
+    perimeter 487.30360723121805
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 718
+    label "718"
+    idx 718
+    row 1828
+    column 12614
+    demarcated "True"
+    area 484.0
+    solidity 0.9565217391304348
+    eccentricity 0.35913618883068715
+    diameter 24.824341676101277
+    perimeter 83.66904755831214
+    degree 5.0
+    strength 4.791164601991112
+    betweenness 0.00043117324343915954
+  ]
+  node [
+    id 719
+    label "719"
+    idx 719
+    row 1831
+    column 5191
+    demarcated "False"
+    area 842.0
+    solidity 0.9745370370370371
+    eccentricity 0.7709578404774601
+    diameter 32.74244487919323
+    perimeter 110.91168824543142
+    degree 3.0
+    strength 2.6935180430156818
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 720
+    label "720"
+    idx 720
+    row 1870
+    column 11093
+    demarcated "False"
+    area 4337.0
+    solidity 0.912092534174553
+    eccentricity 0.8804214587145796
+    diameter 74.31042931861181
+    perimeter 297.36248173426384
+    degree 5.0
+    strength 4.601533123530039
+    betweenness 7.119059782640329E-05
+  ]
+  node [
+    id 721
+    label "721"
+    idx 721
+    row 1901
+    column 4413
+    demarcated "False"
+    area 24220.0
+    solidity 0.849973679592911
+    eccentricity 0.9487358667403353
+    diameter 175.60712335633096
+    perimeter 893.5777772109132
+    degree 1.0
+    strength 0.3879805777959571
+    betweenness 0.0
+  ]
+  node [
+    id 722
+    label "722"
+    idx 722
+    row 1856
+    column 4193
+    demarcated "False"
+    area 9106.0
+    solidity 0.9071528192867105
+    eccentricity 0.931611108826101
+    diameter 107.67599219119549
+    perimeter 454.7594513539338
+    degree 2.0
+    strength 1.496089314848295
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 723
+    label "723"
+    idx 723
+    row 1864
+    column 9111
+    demarcated "False"
+    area 7094.0
+    solidity 0.9641206849687415
+    eccentricity 0.7233522496746754
+    diameter 95.03873594672461
+    perimeter 351.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 724
+    label "724"
+    idx 724
+    row 1845
+    column 10105
+    demarcated "False"
+    area 2914.0
+    solidity 0.9841269841269841
+    eccentricity 0.6241194956901973
+    diameter 60.9115755284516
+    perimeter 202.36753236814712
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 725
+    label "725"
+    idx 725
+    row 1832
+    column 12261
+    demarcated "True"
+    area 226.0
+    solidity 0.9338842975206612
+    eccentricity 0.9084697144781543
+    diameter 16.96325844612841
+    perimeter 64.83452377915606
+    degree 10.0
+    strength 9.421372557787052
+    betweenness 0.0059974720621677495
+  ]
+  node [
+    id 726
+    label "726"
+    idx 726
+    row 1855
+    column 10960
+    demarcated "False"
+    area 1615.0
+    solidity 0.9728915662650602
+    eccentricity 0.8598962002284116
+    diameter 45.34624421875849
+    perimeter 165.03657992645927
+    degree 9.0
+    strength 8.532806073303133
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 727
+    label "727"
+    idx 727
+    row 1848
+    column 5963
+    demarcated "False"
+    area 2358.0
+    solidity 0.9776119402985075
+    eccentricity 0.8974746550016108
+    diameter 54.793237233124984
+    perimeter 213.82337649086287
+    degree 3.0
+    strength 2.657675309246212
+    betweenness 0.0
+  ]
+  node [
+    id 728
+    label "728"
+    idx 728
+    row 1846
+    column 12730
+    demarcated "True"
+    area 1188.0
+    solidity 0.9413629160063391
+    eccentricity 0.8752069507776401
+    diameter 38.89226888657144
+    perimeter 149.29646455628165
+    degree 7.0
+    strength 6.811029046301044
+    betweenness 0.00040923400259957617
+  ]
+  node [
+    id 729
+    label "729"
+    idx 729
+    row 1864
+    column 12299
+    demarcated "True"
+    area 3748.0
+    solidity 0.9114785992217899
+    eccentricity 0.8112438508195192
+    diameter 69.08040108212596
+    perimeter 262.69343417595167
+    degree 8.0
+    strength 7.362678157833035
+    betweenness 0.002690467310307279
+  ]
+  node [
+    id 730
+    label "730"
+    idx 730
+    row 1854
+    column 4595
+    demarcated "False"
+    area 905.0
+    solidity 0.9668803418803419
+    eccentricity 0.6511595705183438
+    diameter 33.94527637220416
+    perimeter 117.84062043356596
+    degree 2.0
+    strength 1.8283208715810804
+    betweenness 1.1641229833248337E-05
+  ]
+  node [
+    id 731
+    label "731"
+    idx 731
+    row 1854
+    column 10253
+    demarcated "False"
+    area 983.0
+    solidity 0.9397705544933078
+    eccentricity 0.8543547810240597
+    diameter 35.37788111906457
+    perimeter 130.4680374315355
+    degree 3.0
+    strength 2.648246545440032
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 732
+    label "732"
+    idx 732
+    row 1853
+    column 5921
+    demarcated "False"
+    area 301.0
+    solidity 0.940625
+    eccentricity 0.9340760740335045
+    diameter 19.576646877473273
+    perimeter 81.7401153701776
+    degree 3.0
+    strength 2.67038003287562
+    betweenness 0.0
+  ]
+  node [
+    id 733
+    label "733"
+    idx 733
+    row 1856
+    column 10899
+    demarcated "False"
+    area 466.0
+    solidity 0.9648033126293996
+    eccentricity 0.7064219256930343
+    diameter 24.35835848013133
+    perimeter 84.66904755831214
+    degree 9.0
+    strength 8.794264022077376
+    betweenness 0.0
+  ]
+  node [
+    id 734
+    label "734"
+    idx 734
+    row 1881
+    column 12842
+    demarcated "True"
+    area 3338.0
+    solidity 0.8982777179763186
+    eccentricity 0.9138756872281703
+    diameter 65.19258853831448
+    perimeter 270.97160876900364
+    degree 7.0
+    strength 6.452167143437016
+    betweenness 0.0005493765002075273
+  ]
+  node [
+    id 735
+    label "735"
+    idx 735
+    row 1862
+    column 11192
+    demarcated "False"
+    area 1445.0
+    solidity 0.9730639730639731
+    eccentricity 0.8015699137759571
+    diameter 42.89325287434272
+    perimeter 150.8528137423857
+    degree 7.0
+    strength 6.686181157232377
+    betweenness 5.104231542270425E-05
+  ]
+  node [
+    id 736
+    label "736"
+    idx 736
+    row 1877
+    column 11557
+    demarcated "False"
+    area 2981.0
+    solidity 0.9831794195250659
+    eccentricity 0.8635286329236178
+    diameter 61.60784919842211
+    perimeter 221.37972567696687
+    degree 3.0
+    strength 2.7069444713217794
+    betweenness 0.018496570986204695
+  ]
+  node [
+    id 737
+    label "737"
+    idx 737
+    row 1872
+    column 12621
+    demarcated "True"
+    area 2249.0
+    solidity 0.9410041841004184
+    eccentricity 0.911960236023798
+    diameter 53.5118280019416
+    perimeter 202.89444430272832
+    degree 6.0
+    strength 5.713170193792396
+    betweenness 0.0008247363597247476
+  ]
+  node [
+    id 738
+    label "738"
+    idx 738
+    row 1859
+    column 4354
+    demarcated "False"
+    area 1147.0
+    solidity 0.9463696369636964
+    eccentricity 0.9481780626825322
+    diameter 38.2152555638613
+    perimeter 162.5035713374682
+    degree 2.0
+    strength 1.3394626912037173
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 739
+    label "739"
+    idx 739
+    row 1862
+    column 5131
+    demarcated "False"
+    area 1114.0
+    solidity 0.9306599832915622
+    eccentricity 0.8151361963898476
+    diameter 37.66150359232848
+    perimeter 135.63961030678928
+    degree 4.0
+    strength 3.7437733643215245
+    betweenness 2.6864376538265393E-05
+  ]
+  node [
+    id 740
+    label "740"
+    idx 740
+    row 1991
+    column 5536
+    demarcated "False"
+    area 35065.0
+    solidity 0.6718333876190293
+    eccentricity 0.6105979282419348
+    diameter 211.29634316792726
+    perimeter 1549.2194795587557
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 741
+    label "741"
+    idx 741
+    row 1889
+    column 10474
+    demarcated "False"
+    area 5372.0
+    solidity 0.9882266372332598
+    eccentricity 0.7479134564659543
+    diameter 82.70334234066537
+    perimeter 282.73506473629425
+    degree 9.0
+    strength 7.591612731507368
+    betweenness 0.0006304173694312946
+  ]
+  node [
+    id 742
+    label "742"
+    idx 742
+    row 1857
+    column 12251
+    demarcated "True"
+    area 84.0
+    solidity 0.8936170212765957
+    eccentricity 0.9814834376003588
+    diameter 10.341765891652821
+    perimeter 51.17766952966369
+    degree 10.0
+    strength 9.351296499339316
+    betweenness 0.0011520340138826144
+  ]
+  node [
+    id 743
+    label "743"
+    idx 743
+    row 1895
+    column 8497
+    demarcated "False"
+    area 7135.0
+    solidity 0.9853611379643695
+    eccentricity 0.7213828559869332
+    diameter 95.31297997484596
+    perimeter 329.90663761154804
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 744
+    label "744"
+    idx 744
+    row 1864
+    column 11144
+    demarcated "False"
+    area 349.0
+    solidity 0.9381720430107527
+    eccentricity 0.942076305938077
+    diameter 21.079862454783044
+    perimeter 86.42640687119285
+    degree 7.0
+    strength 6.474592411195489
+    betweenness 0.011381988599654076
+  ]
+  node [
+    id 745
+    label "745"
+    idx 745
+    row 1880
+    column 3160
+    demarcated "False"
+    area 4797.0
+    solidity 0.962866318747491
+    eccentricity 0.8733445089572653
+    diameter 78.15196796047158
+    perimeter 293.8061325481598
+    degree 1.0
+    strength 0.8981029247107206
+    betweenness 0.0
+  ]
+  node [
+    id 746
+    label "746"
+    idx 746
+    row 1874
+    column 6098
+    demarcated "False"
+    area 2835.0
+    solidity 0.9830097087378641
+    eccentricity 0.8293112128979794
+    diameter 60.08023060312091
+    perimeter 211.09545442950497
+    degree 2.0
+    strength 1.77777891904965
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 747
+    label "747"
+    idx 747
+    row 1866
+    column 11892
+    demarcated "False"
+    area 765.0
+    solidity 0.9795134443021767
+    eccentricity 0.723502466219962
+    diameter 31.209425687160593
+    perimeter 104.32590180780451
+    degree 5.0
+    strength 4.469806483399015
+    betweenness 0.001136363127568626
+  ]
+  node [
+    id 748
+    label "748"
+    idx 748
+    row 1876
+    column 12762
+    demarcated "True"
+    area 1642.0
+    solidity 0.9557625145518044
+    eccentricity 0.4248961444782679
+    diameter 45.723728330650566
+    perimeter 156.71067811865476
+    degree 7.0
+    strength 6.779303021470625
+    betweenness 0.0008556303927437528
+  ]
+  node [
+    id 749
+    label "749"
+    idx 749
+    row 1881
+    column 10879
+    demarcated "False"
+    area 613.0
+    solidity 0.8455172413793104
+    eccentricity 0.9335118990895048
+    diameter 27.937355653723827
+    perimeter 125.15432893255071
+    degree 9.0
+    strength 8.793587602024564
+    betweenness 0.0
+  ]
+  node [
+    id 750
+    label "750"
+    idx 750
+    row 1866
+    column 10928
+    demarcated "False"
+    area 288.0
+    solidity 0.9442622950819672
+    eccentricity 0.8335509706754031
+    diameter 19.149229459268767
+    perimeter 69.49137802864844
+    degree 10.0
+    strength 9.612037905739504
+    betweenness 0.00014506763330663313
+  ]
+  node [
+    id 751
+    label "751"
+    idx 751
+    row 1888
+    column 4686
+    demarcated "False"
+    area 5085.0
+    solidity 0.9513564078578111
+    eccentricity 0.9289601108509512
+    diameter 80.46379984178166
+    perimeter 323.9066376115481
+    degree 2.0
+    strength 1.7273113309439236
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 752
+    label "752"
+    idx 752
+    row 1915
+    column 10329
+    demarcated "False"
+    area 8429.0
+    solidity 0.8199416342412451
+    eccentricity 0.8078943806276883
+    diameter 103.59602368128174
+    perimeter 474.4751801064719
+    degree 2.0
+    strength 1.572728218891812
+    betweenness 0.0002158104915240653
+  ]
+  node [
+    id 753
+    label "753"
+    idx 753
+    row 1902
+    column 12381
+    demarcated "True"
+    area 2610.0
+    solidity 0.8515497553017944
+    eccentricity 0.8993776838946935
+    diameter 57.64681441119513
+    perimeter 240.10764773832472
+    degree 8.0
+    strength 7.493228257641165
+    betweenness 0.006292532464479697
+  ]
+  node [
+    id 754
+    label "754"
+    idx 754
+    row 1884
+    column 5622
+    demarcated "False"
+    area 1804.0
+    solidity 0.9704142011834319
+    eccentricity 0.6726641310933238
+    diameter 47.92623643373464
+    perimeter 165.6812408671319
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 755
+    label "755"
+    idx 755
+    row 1864
+    column 5941
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 3.0
+    strength 2.6497931894349516
+    betweenness 0.0
+  ]
+  node [
+    id 756
+    label "756"
+    idx 756
+    row 1904
+    column 5735
+    demarcated "False"
+    area 9021.0
+    solidity 0.8604540251812285
+    eccentricity 0.910455023684942
+    diameter 107.17226289043217
+    perimeter 492.91883092036784
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 757
+    label "757"
+    idx 757
+    row 1884
+    column 11271
+    demarcated "False"
+    area 530.0
+    solidity 0.977859778597786
+    eccentricity 0.3844073715115072
+    diameter 25.977239243415305
+    perimeter 84.18376618407356
+    degree 5.0
+    strength 4.730831145700872
+    betweenness 0.0005628086884766599
+  ]
+  node [
+    id 758
+    label "758"
+    idx 758
+    row 1886
+    column 12099
+    demarcated "True"
+    area 485.0
+    solidity 0.958498023715415
+    eccentricity 0.5631734205175303
+    diameter 24.849973424463737
+    perimeter 83.15432893255071
+    degree 8.0
+    strength 7.662627048927679
+    betweenness 0.000438337077182697
+  ]
+  node [
+    id 759
+    label "759"
+    idx 759
+    row 1900
+    column 12179
+    demarcated "True"
+    area 978.0
+    solidity 0.8409286328460877
+    eccentricity 0.797005546977667
+    diameter 35.28779214899948
+    perimeter 143.1543289325507
+    degree 11.0
+    strength 10.536299167023701
+    betweenness 5.7758409557270596E-05
+  ]
+  node [
+    id 760
+    label "760"
+    idx 760
+    row 1875
+    column 10442
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 14.0
+    strength 13.140738668036414
+    betweenness 0.0007348899448578822
+  ]
+  node [
+    id 761
+    label "761"
+    idx 761
+    row 1885
+    column 10949
+    demarcated "False"
+    area 237.0
+    solidity 0.9595141700404858
+    eccentricity 0.7488764146813203
+    diameter 17.371176474327626
+    perimeter 59.11269837220809
+    degree 9.0
+    strength 8.685045856122551
+    betweenness 0.000204169261690817
+  ]
+  node [
+    id 762
+    label "762"
+    idx 762
+    row 1894
+    column 5063
+    demarcated "False"
+    area 1546.0
+    solidity 0.9778621125869703
+    eccentricity 0.9356349332313944
+    diameter 44.36697348434488
+    perimeter 175.1959594928933
+    degree 3.0
+    strength 2.7865732718807457
+    betweenness 0.0
+  ]
+  node [
+    id 763
+    label "763"
+    idx 763
+    row 1938
+    column 5266
+    demarcated "False"
+    area 14959.0
+    solidity 0.8489784335981839
+    eccentricity 0.818923025447952
+    diameter 138.00866041554528
+    perimeter 594.2569260369921
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 764
+    label "764"
+    idx 764
+    row 1877
+    column 10441
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 14.0
+    strength 13.140738668036413
+    betweenness 0.0007348899448578822
+  ]
+  node [
+    id 765
+    label "765"
+    idx 765
+    row 1916
+    column 6307
+    demarcated "False"
+    area 3552.0
+    solidity 0.9639077340569878
+    eccentricity 0.8225721193575123
+    diameter 67.24988373892774
+    perimeter 238.83556979968262
+    degree 1.0
+    strength 0.8835905634372737
+    betweenness 0.0
+  ]
+  node [
+    id 766
+    label "766"
+    idx 766
+    row 1879
+    column 10440
+    demarcated "False"
+    area 2.0
+    solidity 1.0
+    eccentricity 1.0
+    diameter 1.5957691216057308
+    perimeter 0.0
+    degree 13.0
+    strength 12.140621349380313
+    betweenness 0.0008430936836925623
+  ]
+  node [
+    id 767
+    label "767"
+    idx 767
+    row 1912
+    column 11199
+    demarcated "False"
+    area 2418.0
+    solidity 0.9668132746901239
+    eccentricity 0.8247763858763224
+    diameter 55.485973174935154
+    perimeter 197.03657992645927
+    degree 6.0
+    strength 5.604579741345369
+    betweenness 0.011454970155916363
+  ]
+  node [
+    id 768
+    label "768"
+    idx 768
+    row 1966
+    column 5887
+    demarcated "False"
+    area 27954.0
+    solidity 0.7661148870861653
+    eccentricity 0.8991323389909115
+    diameter 188.65878785131304
+    perimeter 1032.0041840821061
+    degree 1.0
+    strength 0.39887731557394307
+    betweenness 0.0
+  ]
+  node [
+    id 769
+    label "769"
+    idx 769
+    row 1915
+    column 11848
+    demarcated "False"
+    area 5675.0
+    solidity 0.8039382348774614
+    eccentricity 0.7743380749608357
+    diameter 85.00373177909337
+    perimeter 361.8061325481598
+    degree 4.0
+    strength 3.437829452307904
+    betweenness 0.0006501179122260226
+  ]
+  node [
+    id 770
+    label "770"
+    idx 770
+    row 1932
+    column 5110
+    demarcated "False"
+    area 6853.0
+    solidity 0.8325841331551452
+    eccentricity 0.8994528975155633
+    diameter 93.41044160087282
+    perimeter 388.5340546095176
+    degree 3.0
+    strength 2.4103940344163055
+    betweenness 3.447594989077392E-05
+  ]
+  node [
+    id 771
+    label "771"
+    idx 771
+    row 1882
+    column 10439
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 11.0
+    strength 10.140738668036414
+    betweenness 0.0006296711367496762
+  ]
+  node [
+    id 772
+    label "772"
+    idx 772
+    row 1894
+    column 10911
+    demarcated "False"
+    area 197.0
+    solidity 0.933649289099526
+    eccentricity 0.772692705818733
+    diameter 15.837556323903858
+    perimeter 54.526911934581186
+    degree 10.0
+    strength 9.67480909632691
+    betweenness 5.462423229447297E-05
+  ]
+  node [
+    id 773
+    label "773"
+    idx 773
+    row 1931
+    column 4723
+    demarcated "False"
+    area 8064.0
+    solidity 0.8226053249005406
+    eccentricity 0.9439531485569534
+    diameter 101.32819789547405
+    perimeter 453.6467529817257
+    degree 3.0
+    strength 2.4819798468621244
+    betweenness 1.9700542794727955E-05
+  ]
+  node [
+    id 774
+    label "774"
+    idx 774
+    row 1972
+    column 11478
+    demarcated "False"
+    area 10901.0
+    solidity 0.9122939158088543
+    eccentricity 0.6932649835440765
+    diameter 117.81164745965489
+    perimeter 474.07315985291854
+    degree 4.0
+    strength 2.6169212115494167
+    betweenness 0.01470242553978368
+  ]
+  node [
+    id 775
+    label "775"
+    idx 775
+    row 1925
+    column 7944
+    demarcated "False"
+    area 3286.0
+    solidity 0.9385889745786918
+    eccentricity 0.7949118145830205
+    diameter 64.68280408269067
+    perimeter 236.0071426749364
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 776
+    label "776"
+    idx 776
+    row 1916
+    column 10851
+    demarcated "False"
+    area 2451.0
+    solidity 0.9811849479583667
+    eccentricity 0.7319732601209338
+    diameter 55.86331644420947
+    perimeter 191.82337649086284
+    degree 8.0
+    strength 7.449012815354069
+    betweenness 0.006994140431737395
+  ]
+  node [
+    id 777
+    label "777"
+    idx 777
+    row 1937
+    column 12877
+    demarcated "True"
+    area 1682.0
+    solidity 0.9412423055400112
+    eccentricity 0.9368869101123334
+    diameter 46.27730452656619
+    perimeter 199.15432893255073
+    degree 3.0
+    strength 2.8667773103270187
+    betweenness 0.0
+  ]
+  node [
+    id 778
+    label "778"
+    idx 778
+    row 1934
+    column 12626
+    demarcated "True"
+    area 3816.0
+    solidity 0.9422222222222222
+    eccentricity 0.746524522388712
+    diameter 69.7042473792622
+    perimeter 276.9360748630709
+    degree 4.0
+    strength 3.652831921835965
+    betweenness 0.0019646814041651426
+  ]
+  node [
+    id 779
+    label "779"
+    idx 779
+    row 1984
+    column 9184
+    demarcated "False"
+    area 18519.0
+    solidity 0.934217827775816
+    eccentricity 0.7038632347770554
+    diameter 153.55495149603766
+    perimeter 559.1858582251266
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 780
+    label "780"
+    idx 780
+    row 1938
+    column 10516
+    demarcated "False"
+    area 4936.0
+    solidity 0.9614335800545384
+    eccentricity 0.8763725084516599
+    diameter 79.2761653513385
+    perimeter 296.04877323527904
+    degree 7.0
+    strength 6.236418170792182
+    betweenness 0.004590226471171613
+  ]
+  node [
+    id 781
+    label "781"
+    idx 781
+    row 1916
+    column 12036
+    demarcated "True"
+    area 1064.0
+    solidity 0.9551166965888689
+    eccentricity 0.617080129441609
+    diameter 36.80661456312185
+    perimeter 128.8111831820431
+    degree 3.0
+    strength 2.9159578681507594
+    betweenness 0.0
+  ]
+  node [
+    id 782
+    label "782"
+    idx 782
+    row 1923
+    column 12084
+    demarcated "True"
+    area 2239.0
+    solidity 0.8591711435149655
+    eccentricity 0.7857364022448539
+    diameter 53.392727413590976
+    perimeter 206.8528137423857
+    degree 7.0
+    strength 6.637466765837845
+    betweenness 3.671464793562937E-05
+  ]
+  node [
+    id 783
+    label "783"
+    idx 783
+    row 1908
+    column 11915
+    demarcated "False"
+    area 224.0
+    solidity 0.9739130434782609
+    eccentricity 0.7419662067704136
+    diameter 16.88803298257901
+    perimeter 56.18376618407356
+    degree 4.0
+    strength 3.5393379090366612
+    betweenness 0.0
+  ]
+  node [
+    id 784
+    label "784"
+    idx 784
+    row 1933
+    column 6075
+    demarcated "False"
+    area 6189.0
+    solidity 0.9786527514231499
+    eccentricity 0.8182560608495941
+    diameter 88.76981211180929
+    perimeter 318.14927829866735
+    degree 1.0
+    strength 0.8714199171990613
+    betweenness 0.0
+  ]
+  node [
+    id 785
+    label "785"
+    idx 785
+    row 2034
+    column 9593
+    demarcated "False"
+    area 50987.0
+    solidity 0.7783561811131805
+    eccentricity 0.5572319398021418
+    diameter 254.7914140378591
+    perimeter 1252.5554826343268
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 786
+    label "786"
+    idx 786
+    row 1933
+    column 11295
+    demarcated "False"
+    area 4304.0
+    solidity 0.9551708832667555
+    eccentricity 0.525916049681868
+    diameter 74.02717744545
+    perimeter 260.8355697996826
+    degree 6.0
+    strength 5.31593610436051
+    betweenness 0.012487457694203697
+  ]
+  node [
+    id 787
+    label "787"
+    idx 787
+    row 1909
+    column 11412
+    demarcated "False"
+    area 291.0
+    solidity 0.9765100671140939
+    eccentricity 0.8096625300631655
+    diameter 19.248706645328987
+    perimeter 63.94112549695428
+    degree 4.0
+    strength 3.0228447468330955
+    betweenness 0.01268983599745863
+  ]
+  node [
+    id 788
+    label "788"
+    idx 788
+    row 1923
+    column 10967
+    demarcated "False"
+    area 898.0
+    solidity 0.9492600422832981
+    eccentricity 0.8913528155403978
+    diameter 33.813741454801715
+    perimeter 129.74011537017762
+    degree 11.0
+    strength 10.264326370899429
+    betweenness 0.00021984014800480514
+  ]
+  node [
+    id 789
+    label "789"
+    idx 789
+    row 1931
+    column 12765
+    demarcated "True"
+    area 1618.0
+    solidity 0.8110275689223058
+    eccentricity 0.7507178037491072
+    diameter 45.38834193249951
+    perimeter 189.37972567696687
+    degree 7.0
+    strength 6.697639052337202
+    betweenness 0.000239092951190562
+  ]
+  node [
+    id 790
+    label "790"
+    idx 790
+    row 1942
+    column 11103
+    demarcated "False"
+    area 3729.0
+    solidity 0.9276119402985075
+    eccentricity 0.46809612490856406
+    diameter 68.90508154205627
+    perimeter 252.00714267493643
+    degree 4.0
+    strength 3.5211544651879856
+    betweenness 0.009198810266311041
+  ]
+  node [
+    id 791
+    label "791"
+    idx 791
+    row 1920
+    column 12295
+    demarcated "True"
+    area 1675.0
+    solidity 0.9801053247513165
+    eccentricity 0.7671225395338039
+    diameter 46.1809077155419
+    perimeter 157.88225099390857
+    degree 8.0
+    strength 7.523070122067207
+    betweenness 0.0033347646076166775
+  ]
+  node [
+    id 792
+    label "792"
+    idx 792
+    row 1963
+    column 12326
+    demarcated "True"
+    area 3907.0
+    solidity 0.7709155485398579
+    eccentricity 0.6624745846462571
+    diameter 70.5304678935301
+    perimeter 337.8122292025696
+    degree 6.0
+    strength 5.412217098614683
+    betweenness 0.0019485627782421832
+  ]
+  node [
+    id 793
+    label "793"
+    idx 793
+    row 1917
+    column 12441
+    demarcated "True"
+    area 680.0
+    solidity 0.9728183118741058
+    eccentricity 0.8051744993094437
+    diameter 29.42452872043851
+    perimeter 102.32590180780451
+    degree 7.0
+    strength 6.793411854374871
+    betweenness 0.0
+  ]
+  node [
+    id 794
+    label "794"
+    idx 794
+    row 1931
+    column 12498
+    demarcated "True"
+    area 2742.0
+    solidity 0.9207521826729349
+    eccentricity 0.7011630727113138
+    diameter 59.08657065411578
+    perimeter 234.89444430272835
+    degree 7.0
+    strength 6.467282263390065
+    betweenness 0.0008959269575511509
+  ]
+  node [
+    id 795
+    label "795"
+    idx 795
+    row 1938
+    column 12559
+    demarcated "True"
+    area 2007.0
+    solidity 0.9330543933054394
+    eccentricity 0.7978418604669522
+    diameter 50.550882942669475
+    perimeter 188.06601717798213
+    degree 4.0
+    strength 3.8444940799316223
+    betweenness 0.00045535118232359844
+  ]
+  node [
+    id 796
+    label "796"
+    idx 796
+    row 1931
+    column 11528
+    demarcated "False"
+    area 485.0
+    solidity 0.8948339483394834
+    eccentricity 0.9647120815794787
+    diameter 24.849973424463737
+    perimeter 117.29646455628165
+    degree 5.0
+    strength 4.4587342081820704
+    betweenness 0.014948234585108806
+  ]
+  node [
+    id 797
+    label "797"
+    idx 797
+    row 1958
+    column 4104
+    demarcated "False"
+    area 10999.0
+    solidity 0.8438051400076717
+    eccentricity 0.9106967227493501
+    diameter 118.3400259951892
+    perimeter 520.8599564173221
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 798
+    label "798"
+    idx 798
+    row 2002
+    column 9390
+    demarcated "False"
+    area 19502.0
+    solidity 0.9401272657153876
+    eccentricity 0.7968728538618062
+    diameter 157.57765578096772
+    perimeter 627.2274887854693
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 799
+    label "799"
+    idx 799
+    row 1984
+    column 11030
+    demarcated "False"
+    area 9405.0
+    solidity 0.7547548350854667
+    eccentricity 0.7981566510969704
+    diameter 109.42951118521093
+    perimeter 569.7127701597078
+    degree 4.0
+    strength 2.9629583980773826
+    betweenness 0.009021057641549519
+  ]
+  node [
+    id 800
+    label "800"
+    idx 800
+    row 1926
+    column 12714
+    demarcated "True"
+    area 1232.0
+    solidity 0.9580093312597201
+    eccentricity 0.7429862070997377
+    diameter 39.60594802695323
+    perimeter 137.19595949289334
+    degree 6.0
+    strength 5.698061182026702
+    betweenness 0.0015402242548605493
+  ]
+  node [
+    id 801
+    label "801"
+    idx 801
+    row 1943
+    column 4233
+    demarcated "False"
+    area 1700.0
+    solidity 0.96045197740113
+    eccentricity 0.9529402494837997
+    diameter 46.52426491681278
+    perimeter 208.69343417595164
+    degree 1.0
+    strength 0.7379309435674434
+    betweenness 0.0
+  ]
+  node [
+    id 802
+    label "802"
+    idx 802
+    row 1934
+    column 11234
+    demarcated "False"
+    area 789.0
+    solidity 0.9764851485148515
+    eccentricity 0.44758758419241546
+    diameter 31.695204697178458
+    perimeter 106.36753236814714
+    degree 6.0
+    strength 5.741020878514986
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 803
+    label "803"
+    idx 803
+    row 1998
+    column 4968
+    demarcated "False"
+    area 20120.0
+    solidity 0.8424402294519114
+    eccentricity 0.6539866132473975
+    diameter 160.0549269471936
+    perimeter 857.636651713959
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 804
+    label "804"
+    idx 804
+    row 1999
+    column 7764
+    demarcated "False"
+    area 23678.0
+    solidity 0.9770167113678564
+    eccentricity 0.7078664424256779
+    diameter 173.6311203103844
+    perimeter 622.8254685319159
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 805
+    label "805"
+    idx 805
+    row 1927
+    column 12137
+    demarcated "True"
+    area 309.0
+    solidity 0.9566563467492261
+    eccentricity 0.5874496847112185
+    diameter 19.83509564693766
+    perimeter 68.28427124746189
+    degree 10.0
+    strength 9.50450648808398
+    betweenness 6.984737899949002E-05
+  ]
+  node [
+    id 806
+    label "806"
+    idx 806
+    row 1996
+    column 2882
+    demarcated "False"
+    area 15086.0
+    solidity 0.8589648693275637
+    eccentricity 0.9882009299224843
+    diameter 138.59326019642754
+    perimeter 784.2640687119284
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 807
+    label "807"
+    idx 807
+    row 1936
+    column 4003
+    demarcated "False"
+    area 1125.0
+    solidity 0.9698275862068966
+    eccentricity 0.8034431543596917
+    diameter 37.8469878303024
+    perimeter 132.22539674441617
+    degree 1.0
+    strength 0.7418779892558108
+    betweenness 0.0
+  ]
+  node [
+    id 808
+    label "808"
+    idx 808
+    row 1973
+    column 10601
+    demarcated "False"
+    area 4927.0
+    solidity 0.9700728489860209
+    eccentricity 0.6686270014892991
+    diameter 79.2038587248762
+    perimeter 273.27922061357856
+    degree 3.0
+    strength 2.8736020171523875
+    betweenness 0.004986028285502057
+  ]
+  node [
+    id 809
+    label "809"
+    idx 809
+    row 1959
+    column 10793
+    demarcated "False"
+    area 1256.0
+    solidity 0.8567530695770805
+    eccentricity 0.8858683964143775
+    diameter 39.989859566987285
+    perimeter 166.50966799187808
+    degree 5.0
+    strength 4.758804204458798
+    betweenness 0.0054037693406720835
+  ]
+  node [
+    id 810
+    label "810"
+    idx 810
+    row 1940
+    column 10941
+    demarcated "False"
+    area 358.0
+    solidity 0.9445910290237467
+    eccentricity 0.8816651282140795
+    diameter 21.349935761383176
+    perimeter 79.84062043356595
+    degree 11.0
+    strength 10.326259554946601
+    betweenness 0.0074996384502657555
+  ]
+  node [
+    id 811
+    label "811"
+    idx 811
+    row 1967
+    column 10725
+    demarcated "False"
+    area 2480.0
+    solidity 0.9817893903404592
+    eccentricity 0.8004749847106518
+    diameter 56.19282935520513
+    perimeter 193.78174593052023
+    degree 3.0
+    strength 2.8665310956351853
+    betweenness 0.005378248182960732
+  ]
+  node [
+    id 812
+    label "812"
+    idx 812
+    row 1979
+    column 7382
+    demarcated "False"
+    area 9961.0
+    solidity 0.910012790060296
+    eccentricity 0.7141509901584362
+    diameter 112.61766781951647
+    perimeter 435.9898987322333
+    degree 2.0
+    strength 1.6802604499808207
+    betweenness 0.0
+  ]
+  node [
+    id 813
+    label "813"
+    idx 813
+    row 1944
+    column 11624
+    demarcated "False"
+    area 434.0
+    solidity 0.96875
+    eccentricity 0.774493965109731
+    diameter 23.507147049675353
+    perimeter 82.32590180780453
+    degree 5.0
+    strength 4.180478220602115
+    betweenness 0.00345072916634019
+  ]
+  node [
+    id 814
+    label "814"
+    idx 814
+    row 1983
+    column 2147
+    demarcated "False"
+    area 4083.0
+    solidity 0.8786313750806972
+    eccentricity 0.9580104225515998
+    diameter 72.10157460939165
+    perimeter 316.91883092036784
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 815
+    label "815"
+    idx 815
+    row 1954
+    column 11413
+    demarcated "False"
+    area 598.0
+    solidity 0.9739413680781759
+    eccentricity 0.749955976114488
+    diameter 27.59342761875783
+    perimeter 92.42640687119285
+    degree 4.0
+    strength 3.5524024711098416
+    betweenness 0.0006931009146872472
+  ]
+  node [
+    id 816
+    label "816"
+    idx 816
+    row 1964
+    column 11933
+    demarcated "False"
+    area 2033.0
+    solidity 0.9112505602868669
+    eccentricity 0.769221263171571
+    diameter 50.87726402280872
+    perimeter 192.16652224137047
+    degree 3.0
+    strength 2.687114674719573
+    betweenness 0.0
+  ]
+  node [
+    id 817
+    label "817"
+    idx 817
+    row 1979
+    column 10847
+    demarcated "False"
+    area 4559.0
+    solidity 0.9025935458325084
+    eccentricity 0.7686765177075295
+    diameter 76.18857581322548
+    perimeter 291.86500705120545
+    degree 7.0
+    strength 6.2449869351336975
+    betweenness 0.001266207614170242
+  ]
+  node [
+    id 818
+    label "818"
+    idx 818
+    row 1957
+    column 12096
+    demarcated "True"
+    area 1395.0
+    solidity 0.9011627906976745
+    eccentricity 0.8528354203492698
+    diameter 42.14462201640385
+    perimeter 162.36753236814715
+    degree 7.0
+    strength 6.786790152461724
+    betweenness 1.9700542794727955E-05
+  ]
+  node [
+    id 819
+    label "819"
+    idx 819
+    row 1964
+    column 12144
+    demarcated "True"
+    area 1143.0
+    solidity 0.9777587681779298
+    eccentricity 0.7360720589713181
+    diameter 38.14856222234714
+    perimeter 128.8111831820431
+    degree 11.0
+    strength 10.5608044640551
+    betweenness 4.8803617377848795E-05
+  ]
+  node [
+    id 820
+    label "820"
+    idx 820
+    row 1956
+    column 12794
+    demarcated "True"
+    area 839.0
+    solidity 0.966589861751152
+    eccentricity 0.8043566939463361
+    diameter 32.684063058818154
+    perimeter 114.46803743153546
+    degree 8.0
+    strength 7.494413311724176
+    betweenness 0.0013132202731122066
+  ]
+  node [
+    id 821
+    label "821"
+    idx 821
+    row 1981
+    column 12726
+    demarcated "True"
+    area 5225.0
+    solidity 0.9025738469511142
+    eccentricity 0.8872942772188487
+    diameter 81.56394191823507
+    perimeter 324.2497833620557
+    degree 5.0
+    strength 4.3981506631223075
+    betweenness 0.00023192911744702457
+  ]
+  node [
+    id 822
+    label "822"
+    idx 822
+    row 1981
+    column 11857
+    demarcated "False"
+    area 4669.0
+    solidity 0.9147727272727273
+    eccentricity 0.8165795463399431
+    diameter 77.1022401384582
+    perimeter 296.0071426749364
+    degree 4.0
+    strength 3.623763931165337
+    betweenness 0.00021804918956892078
+  ]
+  node [
+    id 823
+    label "823"
+    idx 823
+    row 1964
+    column 12846
+    demarcated "True"
+    area 851.0
+    solidity 0.9331140350877193
+    eccentricity 0.6868344337962204
+    diameter 32.91696906717907
+    perimeter 119.49747468305833
+    degree 5.0
+    strength 4.709363771984971
+    betweenness 0.0
+  ]
+  node [
+    id 824
+    label "824"
+    idx 824
+    row 1991
+    column 7259
+    demarcated "False"
+    area 7024.0
+    solidity 0.8619462510737513
+    eccentricity 0.8616039472921295
+    diameter 94.56867643263166
+    perimeter 421.9310242291876
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 825
+    label "825"
+    idx 825
+    row 1968
+    column 11350
+    demarcated "False"
+    area 1445.0
+    solidity 0.9770114942528736
+    eccentricity 0.6465668607558758
+    diameter 42.89325287434272
+    perimeter 145.53910524340097
+    degree 6.0
+    strength 5.4973360988146815
+    betweenness 0.013097279041622322
+  ]
+  node [
+    id 826
+    label "826"
+    idx 826
+    row 2050
+    column 4555
+    demarcated "False"
+    area 16304.0
+    solidity 0.7003737273937884
+    eccentricity 0.9213196766056768
+    diameter 144.07948340191288
+    perimeter 833.2518754031087
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 827
+    label "827"
+    idx 827
+    row 1961
+    column 12457
+    demarcated "True"
+    area 298.0
+    solidity 0.9706840390879479
+    eccentricity 0.3970567004404447
+    diameter 19.47884453275087
+    perimeter 63.94112549695428
+    degree 11.0
+    strength 10.646947793953746
+    betweenness 0.003905632609054817
+  ]
+  node [
+    id 828
+    label "828"
+    idx 828
+    row 1975
+    column 5124
+    demarcated "False"
+    area 1895.0
+    solidity 0.911934552454283
+    eccentricity 0.9156961017982133
+    diameter 49.120147976905905
+    perimeter 206.55129855222071
+    degree 2.0
+    strength 1.647128361703818
+    betweenness 3.581916871768719E-05
+  ]
+  node [
+    id 829
+    label "829"
+    idx 829
+    row 1979
+    column 4760
+    demarcated "False"
+    area 3289.0
+    solidity 0.9445720850086158
+    eccentricity 0.8752384159113648
+    diameter 64.7123238852844
+    perimeter 240.75230867899737
+    degree 5.0
+    strength 4.524549180078128
+    betweenness 1.8805063576785777E-05
+  ]
+  node [
+    id 830
+    label "830"
+    idx 830
+    row 1986
+    column 10903
+    demarcated "False"
+    area 2112.0
+    solidity 0.9608735213830755
+    eccentricity 0.5812634883101148
+    diameter 51.856358515428596
+    perimeter 180.50966799187808
+    degree 9.0
+    strength 8.494796746559246
+    betweenness 3.268499145488956E-05
+  ]
+  node [
+    id 831
+    label "831"
+    idx 831
+    row 1963
+    column 11614
+    demarcated "False"
+    area 210.0
+    solidity 0.9292035398230089
+    eccentricity 0.9501557996983104
+    diameter 16.351767622932517
+    perimeter 65.59797974644667
+    degree 3.0
+    strength 2.8865461551784177
+    betweenness 0.0
+  ]
+  node [
+    id 832
+    label "832"
+    idx 832
+    row 1972
+    column 12240
+    demarcated "True"
+    area 878.0
+    solidity 0.871031746031746
+    eccentricity 0.9471294211161017
+    diameter 33.43507619667515
+    perimeter 144.12489168102786
+    degree 9.0
+    strength 8.595499279769383
+    betweenness 0.0001862596773319734
+  ]
+  node [
+    id 833
+    label "833"
+    idx 833
+    row 1991
+    column 3919
+    demarcated "False"
+    area 8401.0
+    solidity 0.9751596053395241
+    eccentricity 0.942112108947919
+    diameter 103.42381454636113
+    perimeter 417.4629867976521
+    degree 1.0
+    strength 0.7418779892558108
+    betweenness 0.0
+  ]
+  node [
+    id 834
+    label "834"
+    idx 834
+    row 1985
+    column 7157
+    demarcated "False"
+    area 2105.0
+    solidity 0.9718374884579871
+    eccentricity 0.5718027058909458
+    diameter 51.770350990383655
+    perimeter 181.58073580374355
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 835
+    label "835"
+    idx 835
+    row 1988
+    column 7557
+    demarcated "False"
+    area 4658.0
+    solidity 0.9742731646099142
+    eccentricity 0.8593296376219614
+    diameter 77.01136149540785
+    perimeter 279.76450198781714
+    degree 1.0
+    strength 0.9232889594024511
+    betweenness 0.0
+  ]
+  node [
+    id 836
+    label "836"
+    idx 836
+    row 1999
+    column 10517
+    demarcated "False"
+    area 4636.0
+    solidity 0.9430431244914564
+    eccentricity 0.8698698530793085
+    diameter 76.82928171857533
+    perimeter 292.99494936611666
+    degree 2.0
+    strength 1.9758948063282862
+    betweenness 0.0
+  ]
+  node [
+    id 837
+    label "837"
+    idx 837
+    row 1990
+    column 3747
+    demarcated "False"
+    area 4312.0
+    solidity 0.9808917197452229
+    eccentricity 0.8783483813694248
+    diameter 74.09594399761718
+    perimeter 278.0071426749364
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 838
+    label "838"
+    idx 838
+    row 2010
+    column 10962
+    demarcated "False"
+    area 3210.0
+    solidity 0.8487572712850344
+    eccentricity 0.649208840399729
+    diameter 63.9304226374257
+    perimeter 254.350288425444
+    degree 6.0
+    strength 5.340404668998779
+    betweenness 0.0007813056176545519
+  ]
+  node [
+    id 839
+    label "839"
+    idx 839
+    row 2049
+    column 12572
+    demarcated "True"
+    area 16002.0
+    solidity 0.8212892629850134
+    eccentricity 0.7936973296503751
+    diameter 142.7388496340505
+    perimeter 641.6711395993651
+    degree 2.0
+    strength 1.0732720633301782
+    betweenness 0.0012339703623243238
+  ]
+  node [
+    id 840
+    label "840"
+    idx 840
+    row 1982
+    column 12550
+    demarcated "True"
+    area 901.0
+    solidity 0.9751082251082251
+    eccentricity 0.8194559751558244
+    diameter 33.87017611123954
+    perimeter 120.3259018078045
+    degree 5.0
+    strength 4.283809640742872
+    betweenness 0.0033486445354947813
+  ]
+  node [
+    id 841
+    label "841"
+    idx 841
+    row 2017
+    column 1977
+    demarcated "False"
+    area 4441.0
+    solidity 0.9552591955259195
+    eccentricity 0.9251967207272739
+    diameter 75.19612236125515
+    perimeter 296.6761902332486
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 842
+    label "842"
+    idx 842
+    row 1988
+    column 4856
+    demarcated "False"
+    area 1722.0
+    solidity 0.9750849377123443
+    eccentricity 0.8738551578190762
+    diameter 46.8243365786847
+    perimeter 174.61017305526642
+    degree 5.0
+    strength 4.850659715678466
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 843
+    label "843"
+    idx 843
+    row 1987
+    column 12419
+    demarcated "True"
+    area 837.0
+    solidity 0.9698725376593279
+    eccentricity 0.862145698090327
+    diameter 32.64508384034771
+    perimeter 115.9827560572969
+    degree 13.0
+    strength 12.551939699563942
+    betweenness 0.0034413266345517967
+  ]
+  node [
+    id 844
+    label "844"
+    idx 844
+    row 1996
+    column 10668
+    demarcated "False"
+    area 1973.0
+    solidity 0.9830592924763328
+    eccentricity 0.6640054297977968
+    diameter 50.12087012176141
+    perimeter 167.3380951166243
+    degree 2.0
+    strength 1.8652516214209955
+    betweenness 0.005182585973840365
+  ]
+  node [
+    id 845
+    label "845"
+    idx 845
+    row 1979
+    column 12447
+    demarcated "True"
+    area 257.0
+    solidity 0.969811320754717
+    eccentricity 0.8102697874828872
+    diameter 18.089294154193436
+    perimeter 62.04163056034261
+    degree 9.0
+    strength 8.752178406047598
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 846
+    label "846"
+    idx 846
+    row 2017
+    column 4426
+    demarcated "False"
+    area 5525.0
+    solidity 0.8414559853792263
+    eccentricity 0.5240866450348994
+    diameter 83.87281135541943
+    perimeter 348.04877323527904
+    degree 1.0
+    strength 0.8623136056468503
+    betweenness 0.0
+  ]
+  node [
+    id 847
+    label "847"
+    idx 847
+    row 2005
+    column 7471
+    demarcated "False"
+    area 2713.0
+    solidity 0.9168638053396417
+    eccentricity 0.7188722623389222
+    diameter 58.77328376793742
+    perimeter 228.30865786510142
+    degree 3.0
+    strength 2.458241128391691
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 848
+    label "848"
+    idx 848
+    row 1984
+    column 6261
+    demarcated "False"
+    area 536.0
+    solidity 0.9657657657657658
+    eccentricity 0.8176855787369421
+    diameter 26.123866405607867
+    perimeter 91.01219330881976
+    degree 2.0
+    strength 1.6188012452005909
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 849
+    label "849"
+    idx 849
+    row 2000
+    column 4367
+    demarcated "False"
+    area 1915.0
+    solidity 0.964735516372796
+    eccentricity 0.887437212492296
+    diameter 49.37867685720058
+    perimeter 183.09545442950497
+    degree 1.0
+    strength 0.8623136056468503
+    betweenness 0.0
+  ]
+  node [
+    id 850
+    label "850"
+    idx 850
+    row 2012
+    column 12302
+    demarcated "True"
+    area 1857.0
+    solidity 0.6684665226781857
+    eccentricity 0.816596285577421
+    diameter 48.62515639638805
+    perimeter 261.86500705120545
+    degree 8.0
+    strength 7.662375646584652
+    betweenness 0.0013015790432789583
+  ]
+  node [
+    id 851
+    label "851"
+    idx 851
+    row 1990
+    column 12202
+    demarcated "True"
+    area 162.0
+    solidity 0.9529411764705882
+    eccentricity 0.5725919517509548
+    diameter 14.361922094451577
+    perimeter 47.45584412271571
+    degree 9.0
+    strength 8.641854440092906
+    betweenness 0.0
+  ]
+  node [
+    id 852
+    label "852"
+    idx 852
+    row 2046
+    column 7057
+    demarcated "False"
+    area 17178.0
+    solidity 0.8972109056722031
+    eccentricity 0.9060391926183063
+    diameter 147.89086820848888
+    perimeter 652.2152954766495
+    degree 1.0
+    strength 0.6093428311761647
+    betweenness 0.0
+  ]
+  node [
+    id 853
+    label "853"
+    idx 853
+    row 2095
+    column 9025
+    demarcated "False"
+    area 27091.0
+    solidity 0.898958056809132
+    eccentricity 0.87460512959857
+    diameter 185.7238070534316
+    perimeter 813.5361466505707
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 854
+    label "854"
+    idx 854
+    row 2003
+    column 11238
+    demarcated "False"
+    area 879.0
+    solidity 0.8834170854271357
+    eccentricity 0.7014035236326722
+    diameter 33.454111254406506
+    perimeter 125.9827560572969
+    degree 7.0
+    strength 6.696584422477573
+    betweenness 0.0004114727006444316
+  ]
+  node [
+    id 855
+    label "855"
+    idx 855
+    row 1995
+    column 12379
+    demarcated "True"
+    area 443.0
+    solidity 0.9757709251101322
+    eccentricity 0.5675787010195747
+    diameter 23.74963406702674
+    perimeter 77.01219330881975
+    degree 13.0
+    strength 12.565436765318001
+    betweenness 0.0006447450369183695
+  ]
+  node [
+    id 856
+    label "856"
+    idx 856
+    row 2020
+    column 12822
+    demarcated "True"
+    area 4206.0
+    solidity 0.9633531836921667
+    eccentricity 0.35352002388194
+    diameter 73.17954307835008
+    perimeter 260.73506473629425
+    degree 5.0
+    strength 4.587157670898469
+    betweenness 0.0006689229758028083
+  ]
+  node [
+    id 857
+    label "857"
+    idx 857
+    row 1993
+    column 12183
+    demarcated "True"
+    area 100.0
+    solidity 0.9433962264150944
+    eccentricity 0.6834648220213753
+    diameter 11.283791670955125
+    perimeter 36.798989873223334
+    degree 10.0
+    strength 9.570677499531664
+    betweenness 0.0008086177338017883
+  ]
+  node [
+    id 858
+    label "858"
+    idx 858
+    row 2023
+    column 12688
+    demarcated "True"
+    area 2381.0
+    solidity 0.939250493096647
+    eccentricity 0.698541621852058
+    diameter 55.059816164008595
+    perimeter 203.92388155425118
+    degree 4.0
+    strength 3.7009085989191606
+    betweenness 0.0008095132130197305
+  ]
+  node [
+    id 859
+    label "859"
+    idx 859
+    row 2025
+    column 5191
+    demarcated "False"
+    area 6400.0
+    solidity 0.7492390540856942
+    eccentricity 0.8869757074013117
+    diameter 90.270333367641
+    perimeter 453.93102422918764
+    degree 3.0
+    strength 2.597924102379478
+    betweenness 3.626690832665828E-05
+  ]
+  node [
+    id 860
+    label "860"
+    idx 860
+    row 2063
+    column 7892
+    demarcated "False"
+    area 10557.0
+    solidity 0.9337519900937555
+    eccentricity 0.3878482032164402
+    diameter 115.93787074881578
+    perimeter 423.88939366884495
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 861
+    label "861"
+    idx 861
+    row 2005
+    column 11328
+    demarcated "False"
+    area 2006.0
+    solidity 0.9733139252789907
+    eccentricity 0.8981788333931489
+    diameter 50.53828773057845
+    perimeter 187.63961030678928
+    degree 6.0
+    strength 5.524580069256135
+    betweenness 0.0005856434085341856
+  ]
+  node [
+    id 862
+    label "862"
+    idx 862
+    row 2059
+    column 11377
+    demarcated "False"
+    area 9185.0
+    solidity 0.8749285578205372
+    eccentricity 0.8396989082924544
+    diameter 108.1420603576262
+    perimeter 444.9604614807105
+    degree 5.0
+    strength 3.6535113461585214
+    betweenness 0.0007754850027379276
+  ]
+  node [
+    id 863
+    label "863"
+    idx 863
+    row 2034
+    column 6232
+    demarcated "False"
+    area 8032.0
+    solidity 0.8664509169363538
+    eccentricity 0.8244318475540103
+    diameter 101.12695003466102
+    perimeter 403.6883835420683
+    degree 2.0
+    strength 1.493306833576463
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 864
+    label "864"
+    idx 864
+    row 2033
+    column 5697
+    demarcated "False"
+    area 4469.0
+    solidity 0.9310416666666667
+    eccentricity 0.5113099964092271
+    diameter 75.43280138919303
+    perimeter 275.0782104868019
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 865
+    label "865"
+    idx 865
+    row 2019
+    column 11568
+    demarcated "False"
+    area 2591.0
+    solidity 0.9803253878168747
+    eccentricity 0.8306353790292751
+    diameter 57.43660557874923
+    perimeter 207.23759005323592
+    degree 6.0
+    strength 5.61817507549457
+    betweenness 0.0031108948031311327
+  ]
+  node [
+    id 866
+    label "866"
+    idx 866
+    row 2011
+    column 10782
+    demarcated "False"
+    area 871.0
+    solidity 0.976457399103139
+    eccentricity 0.5982656400297914
+    diameter 33.30152614317138
+    perimeter 111.88225099390856
+    degree 6.0
+    strength 5.643963110585981
+    betweenness 0.00015760434235782364
+  ]
+  node [
+    id 867
+    label "867"
+    idx 867
+    row 2087
+    column 4291
+    demarcated "False"
+    area 43186.0
+    solidity 0.8108219743907477
+    eccentricity 0.967818100581884
+    diameter 234.49120021641056
+    perimeter 1263.7442994522837
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 868
+    label "868"
+    idx 868
+    row 2013
+    column 12454
+    demarcated "True"
+    area 669.0
+    solidity 0.9838235294117647
+    eccentricity 0.5858719906813937
+    diameter 29.185565874723483
+    perimeter 96.91168824543142
+    degree 12.0
+    strength 11.74213950133225
+    betweenness 0.0004750517251183264
+  ]
+  node [
+    id 869
+    label "869"
+    idx 869
+    row 2027
+    column 5347
+    demarcated "False"
+    area 3368.0
+    solidity 0.9790697674418605
+    eccentricity 0.7017540395806167
+    diameter 65.48488975838646
+    perimeter 222.3086578651014
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 870
+    label "870"
+    idx 870
+    row 2019
+    column 12158
+    demarcated "True"
+    area 818.0
+    solidity 0.9180695847362514
+    eccentricity 0.7267409753236962
+    diameter 32.27243324562564
+    perimeter 115.9827560572969
+    degree 8.0
+    strength 7.848408897605686
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 871
+    label "871"
+    idx 871
+    row 2019
+    column 4763
+    demarcated "False"
+    area 1852.0
+    solidity 0.9752501316482359
+    eccentricity 0.9133598120281257
+    diameter 48.559650295791066
+    perimeter 186.12489168102783
+    degree 6.0
+    strength 5.569417290970582
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 872
+    label "872"
+    idx 872
+    row 2044
+    column 10289
+    demarcated "False"
+    area 5632.0
+    solidity 0.9295263244759862
+    eccentricity 0.9125203805833401
+    diameter 84.68107885441964
+    perimeter 351.6051224213831
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 873
+    label "873"
+    idx 873
+    row 2025
+    column 4827
+    demarcated "False"
+    area 812.0
+    solidity 0.9376443418013857
+    eccentricity 0.6094921056963905
+    diameter 32.15385684991696
+    perimeter 118.56854249492379
+    degree 6.0
+    strength 5.762847877865289
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 874
+    label "874"
+    idx 874
+    row 2034
+    column 12403
+    demarcated "True"
+    area 1669.0
+    solidity 0.9748831775700935
+    eccentricity 0.4820372417491114
+    diameter 46.09812143854657
+    perimeter 154.12489168102783
+    degree 13.0
+    strength 12.446283963549373
+    betweenness 0.000597732377976405
+  ]
+  node [
+    id 875
+    label "875"
+    idx 875
+    row 2024
+    column 11197
+    demarcated "False"
+    area 317.0
+    solidity 0.9606060606060606
+    eccentricity 0.5216006490584548
+    diameter 20.090219901261573
+    perimeter 68.76955262170047
+    degree 4.0
+    strength 3.919829587346541
+    betweenness 0.00021312405387023878
+  ]
+  node [
+    id 876
+    label "876"
+    idx 876
+    row 2103
+    column 7524
+    demarcated "False"
+    area 20964.0
+    solidity 0.9556021515179142
+    eccentricity 0.7193505990766829
+    diameter 163.37745810186897
+    perimeter 579.2274887854692
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 877
+    label "877"
+    idx 877
+    row 2047
+    column 4677
+    demarcated "False"
+    area 3770.0
+    solidity 0.8508237418190024
+    eccentricity 0.8805554880939243
+    diameter 69.28284840890683
+    perimeter 282.1076477383248
+    degree 3.0
+    strength 2.6437629185534868
+    betweenness 0.0
+  ]
+  node [
+    id 878
+    label "878"
+    idx 878
+    row 2108
+    column 10520
+    demarcated "False"
+    area 62685.0
+    solidity 0.9130301794453507
+    eccentricity 0.9238549679153687
+    diameter 282.5119835718897
+    perimeter 1190.447834896002
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 879
+    label "879"
+    idx 879
+    row 2039
+    column 10899
+    demarcated "False"
+    area 1038.0
+    solidity 0.9326145552560647
+    eccentricity 0.8591598597395842
+    diameter 36.3541283410165
+    perimeter 136.22539674441617
+    degree 5.0
+    strength 4.623313764492735
+    betweenness 1.3879927878103786E-05
+  ]
+  node [
+    id 880
+    label "880"
+    idx 880
+    row 2063
+    column 11901
+    demarcated "False"
+    area 6347.0
+    solidity 0.9849472377405338
+    eccentricity 0.4172777646871249
+    diameter 89.89578071541554
+    perimeter 302.2914139223983
+    degree 1.0
+    strength 0.9334604451947477
+    betweenness 0.0
+  ]
+  node [
+    id 881
+    label "881"
+    idx 881
+    row 2022
+    column 12432
+    demarcated "True"
+    area 40.0
+    solidity 0.8695652173913043
+    eccentricity 0.8933835544690124
+    diameter 7.136496464611085
+    perimeter 24.44974746830583
+    degree 10.0
+    strength 9.75221039322661
+    betweenness 0.0
+  ]
+  node [
+    id 882
+    label "882"
+    idx 882
+    row 2179
+    column 7262
+    demarcated "False"
+    area 77518.0
+    solidity 0.8774066486321294
+    eccentricity 0.7059817359278805
+    diameter 314.1639429164021
+    perimeter 1709.7240969167506
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 883
+    label "883"
+    idx 883
+    row 2064
+    column 12864
+    demarcated "True"
+    area 3116.0
+    solidity 0.9416742218192807
+    eccentricity 0.7429516377251816
+    diameter 62.98741478577103
+    perimeter 244.7878425849301
+    degree 3.0
+    strength 2.836119437441121
+    betweenness 0.0
+  ]
+  node [
+    id 884
+    label "884"
+    idx 884
+    row 2106
+    column 6400
+    demarcated "False"
+    area 23182.0
+    solidity 0.9380488002266014
+    eccentricity 0.7635435164159146
+    diameter 171.8029077927686
+    perimeter 658.4823227814082
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 885
+    label "885"
+    idx 885
+    row 2033
+    column 11142
+    demarcated "False"
+    area 699.0
+    solidity 0.9471544715447154
+    eccentricity 0.9255427638341762
+    diameter 29.83277462405867
+    perimeter 117.7401153701776
+    degree 2.0
+    strength 1.867529953824409
+    betweenness 4.969909659579098E-05
+  ]
+  node [
+    id 886
+    label "886"
+    idx 886
+    row 2062
+    column 12748
+    demarcated "True"
+    area 4274.0
+    solidity 0.9491450144348212
+    eccentricity 0.7587119491565842
+    diameter 73.76873195465735
+    perimeter 265.76450198781714
+    degree 5.0
+    strength 4.651991367370364
+    betweenness 0.0006263877129505548
+  ]
+  node [
+    id 887
+    label "887"
+    idx 887
+    row 2058
+    column 5855
+    demarcated "False"
+    area 5556.0
+    solidity 0.9381965552178319
+    eccentricity 0.9022832921382572
+    diameter 84.1077815100872
+    perimeter 322.2497833620557
+    degree 1.0
+    strength 0.39887731557394307
+    betweenness 0.0
+  ]
+  node [
+    id 888
+    label "888"
+    idx 888
+    row 2086
+    column 8622
+    demarcated "False"
+    area 10782.0
+    solidity 0.9180858310626703
+    eccentricity 0.6813204491465977
+    diameter 117.16684160347809
+    perimeter 455.445742854949
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 889
+    label "889"
+    idx 889
+    row 2049
+    column 11307
+    demarcated "False"
+    area 1855.0
+    solidity 0.9856535600425079
+    eccentricity 0.6399553882631982
+    diameter 48.5989645515594
+    perimeter 163.4386001800126
+    degree 5.0
+    strength 4.638700021540258
+    betweenness 0.0001862596773319734
+  ]
+  node [
+    id 890
+    label "890"
+    idx 890
+    row 2075
+    column 7405
+    demarcated "False"
+    area 8389.0
+    solidity 0.9093766937669376
+    eccentricity 0.38931660964942644
+    diameter 103.34992279040793
+    perimeter 407.60512242138304
+    degree 2.0
+    strength 1.7297508557494492
+    betweenness 0.0
+  ]
+  node [
+    id 891
+    label "891"
+    idx 891
+    row 2057
+    column 10788
+    demarcated "False"
+    area 1209.0
+    solidity 0.979740680713128
+    eccentricity 0.810749290349654
+    diameter 39.23450789273152
+    perimeter 136.61017305526642
+    degree 6.0
+    strength 5.719745378719813
+    betweenness 0.0008095132130197305
+  ]
+  node [
+    id 892
+    label "892"
+    idx 892
+    row 2046
+    column 12453
+    demarcated "True"
+    area 723.0
+    solidity 0.9704697986577181
+    eccentricity 0.679404025272343
+    diameter 30.340603007249587
+    perimeter 103.15432893255071
+    degree 12.0
+    strength 11.801373184118656
+    betweenness 0.00011865099637733881
+  ]
+  node [
+    id 893
+    label "893"
+    idx 893
+    row 2051
+    column 11511
+    demarcated "False"
+    area 867.0
+    solidity 0.9633333333333334
+    eccentricity 0.7467292687797323
+    diameter 33.224970809398556
+    perimeter 115.9827560572969
+    degree 5.0
+    strength 4.538672874929386
+    betweenness 0.0008972701763780641
+  ]
+  node [
+    id 894
+    label "894"
+    idx 894
+    row 2054
+    column 4858
+    demarcated "False"
+    area 1729.0
+    solidity 0.9057097957045573
+    eccentricity 0.9131027763943285
+    diameter 46.91941147166166
+    perimeter 194.8528137423857
+    degree 4.0
+    strength 3.6625439401506097
+    betweenness 0.0
+  ]
+  node [
+    id 895
+    label "895"
+    idx 895
+    row 2068
+    column 10851
+    demarcated "False"
+    area 3400.0
+    solidity 0.9863649550333623
+    eccentricity 0.708029201026614
+    diameter 65.79524642479541
+    perimeter 222.55129855222071
+    degree 7.0
+    strength 6.393426885914549
+    betweenness 0.00021939240839583405
+  ]
+  node [
+    id 896
+    label "896"
+    idx 896
+    row 2057
+    column 5959
+    demarcated "False"
+    area 1111.0
+    solidity 0.945531914893617
+    eccentricity 0.9135795308848774
+    diameter 37.61075822422045
+    perimeter 152.36753236814712
+    degree 1.0
+    strength 0.7274381958276456
+    betweenness 0.0
+  ]
+  node [
+    id 897
+    label "897"
+    idx 897
+    row 2243
+    column 6732
+    demarcated "False"
+    area 93226.0
+    solidity 0.8695400744312723
+    eccentricity 0.7832573559138516
+    diameter 344.5272555219402
+    perimeter 1947.1626970967627
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 898
+    label "898"
+    idx 898
+    row 2063
+    column 7675
+    demarcated "False"
+    area 1419.0
+    solidity 0.9574898785425101
+    eccentricity 0.87436191119238
+    diameter 42.505610382385946
+    perimeter 163.19595949289334
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 899
+    label "899"
+    idx 899
+    row 2063
+    column 4745
+    demarcated "False"
+    area 1222.0
+    solidity 0.9831053901850362
+    eccentricity 0.679463249987013
+    diameter 39.44488209725527
+    perimeter 132.4680374315355
+    degree 5.0
+    strength 4.514643900706274
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 900
+    label "900"
+    idx 900
+    row 2068
+    column 12312
+    demarcated "True"
+    area 1139.0
+    solidity 0.898973954222573
+    eccentricity 0.8677862252825331
+    diameter 38.08175207961617
+    perimeter 147.6812408671319
+    degree 10.0
+    strength 9.761833950920938
+    betweenness 0.00039624955393941457
+  ]
+  node [
+    id 901
+    label "901"
+    idx 901
+    row 2061
+    column 10949
+    demarcated "False"
+    area 511.0
+    solidity 0.9605263157894737
+    eccentricity 0.6477898151360378
+    diameter 25.507359866510456
+    perimeter 88.18376618407358
+    degree 4.0
+    strength 3.6983881114432027
+    betweenness 0.00038684702215102164
+  ]
+  node [
+    id 902
+    label "902"
+    idx 902
+    row 2064
+    column 12374
+    demarcated "True"
+    area 270.0
+    solidity 0.8517350157728707
+    eccentricity 0.9638364567197842
+    diameter 18.5411616971131
+    perimeter 82.91168824543144
+    degree 15.0
+    strength 14.618723286959405
+    betweenness 0.0007114582386550618
+  ]
+  node [
+    id 903
+    label "903"
+    idx 903
+    row 2074
+    column 3997
+    demarcated "False"
+    area 3721.0
+    solidity 0.9659916926272066
+    eccentricity 0.9370376305117596
+    diameter 68.83112919282627
+    perimeter 276.6101730552664
+    degree 1.0
+    strength 0.9217747168743855
+    betweenness 0.0
+  ]
+  node [
+    id 904
+    label "904"
+    idx 904
+    row 2073
+    column 12237
+    demarcated "True"
+    area 1334.0
+    solidity 0.9666666666666667
+    eccentricity 0.35548896833756777
+    diameter 41.21288090726863
+    perimeter 141.98275605729688
+    degree 9.0
+    strength 8.767004453007456
+    betweenness 0.0002713302030364805
+  ]
+  node [
+    id 905
+    label "905"
+    idx 905
+    row 2076
+    column 12686
+    demarcated "True"
+    area 1129.0
+    solidity 0.9707652622527945
+    eccentricity 0.6948969551296065
+    diameter 37.91421166272614
+    perimeter 131.98275605729688
+    degree 3.0
+    strength 2.814061952606049
+    betweenness 0.0
+  ]
+  node [
+    id 906
+    label "906"
+    idx 906
+    row 2219
+    column 11136
+    demarcated "False"
+    area 87991.0
+    solidity 0.8665649005318101
+    eccentricity 0.808266797899818
+    diameter 334.7142374934053
+    perimeter 1585.4915574973977
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 907
+    label "907"
+    idx 907
+    row 2071
+    column 12191
+    demarcated "True"
+    area 443.0
+    solidity 0.9714912280701754
+    eccentricity 0.5866554382892574
+    diameter 23.74963406702674
+    perimeter 78.42640687119284
+    degree 5.0
+    strength 4.873698339147612
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 908
+    label "908"
+    idx 908
+    row 2081
+    column 12649
+    demarcated "True"
+    area 766.0
+    solidity 0.7219604147031102
+    eccentricity 0.8965080756791057
+    diameter 31.229817342839755
+    perimeter 143.78174593052023
+    degree 3.0
+    strength 2.4562410765295963
+    betweenness 0.0010562177375628011
+  ]
+  node [
+    id 909
+    label "909"
+    idx 909
+    row 2121
+    column 6034
+    demarcated "False"
+    area 8866.0
+    solidity 0.8956460248509951
+    eccentricity 0.9154517071283647
+    diameter 106.24754963584785
+    perimeter 452.6589462905455
+    degree 2.0
+    strength 1.5927647795415507
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 910
+    label "910"
+    idx 910
+    row 2083
+    column 12431
+    demarcated "True"
+    area 1235.0
+    solidity 0.8703312191684285
+    eccentricity 0.79209140061749
+    diameter 39.65414023463283
+    perimeter 168.16652224137044
+    degree 12.0
+    strength 11.627861707092427
+    betweenness 0.002987766410664083
+  ]
+  node [
+    id 911
+    label "911"
+    idx 911
+    row 2080
+    column 5221
+    demarcated "False"
+    area 1033.0
+    solidity 0.9828734538534729
+    eccentricity 0.6531251659631875
+    diameter 36.266464532835606
+    perimeter 121.59797974644667
+    degree 2.0
+    strength 1.6342997075726124
+    betweenness 0.0
+  ]
+  node [
+    id 912
+    label "912"
+    idx 912
+    row 2082
+    column 11684
+    demarcated "False"
+    area 851.0
+    solidity 0.9648526077097506
+    eccentricity 0.7290671626675551
+    diameter 32.91696906717907
+    perimeter 113.05382386916237
+    degree 2.0
+    strength 1.7117302202925564
+    betweenness 0.0
+  ]
+  node [
+    id 913
+    label "913"
+    idx 913
+    row 2075
+    column 4884
+    demarcated "False"
+    area 605.0
+    solidity 0.9557661927330173
+    eccentricity 0.7572330822892955
+    diameter 27.754457742221764
+    perimeter 95.84062043356595
+    degree 4.0
+    strength 3.612927195254562
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 914
+    label "914"
+    idx 914
+    row 2074
+    column 10768
+    demarcated "False"
+    area 287.0
+    solidity 0.9471947194719472
+    eccentricity 0.8924892398206016
+    diameter 19.115955360352558
+    perimeter 70.76955262170047
+    degree 4.0
+    strength 3.769623992725864
+    betweenness 5.551971151241514E-05
+  ]
+  node [
+    id 915
+    label "915"
+    idx 915
+    row 2108
+    column 12374
+    demarcated "True"
+    area 1988.0
+    solidity 0.8147540983606557
+    eccentricity 0.9601896542801679
+    diameter 50.31103472334378
+    perimeter 247.5512985522207
+    degree 13.0
+    strength 12.368625632703116
+    betweenness 0.00021536275191509424
+  ]
+  node [
+    id 916
+    label "916"
+    idx 916
+    row 2096
+    column 11619
+    demarcated "False"
+    area 2436.0
+    solidity 0.9744
+    eccentricity 0.7405274912419416
+    diameter 55.692113723352755
+    perimeter 190.55129855222071
+    degree 7.0
+    strength 6.468675475857137
+    betweenness 0.0028064318690307916
+  ]
+  node [
+    id 917
+    label "917"
+    idx 917
+    row 2082
+    column 11526
+    demarcated "False"
+    area 1428.0
+    solidity 0.9787525702535984
+    eccentricity 0.826304506925654
+    diameter 42.64019312669459
+    perimeter 153.9827560572969
+    degree 5.0
+    strength 4.872227985537099
+    betweenness 6.984737899949002E-05
+  ]
+  node [
+    id 918
+    label "918"
+    idx 918
+    row 2118
+    column 4727
+    demarcated "False"
+    area 8644.0
+    solidity 0.8521293375394322
+    eccentricity 0.7519869240177892
+    diameter 104.90892538145049
+    perimeter 509.18585822512665
+    degree 2.0
+    strength 1.5561736984010877
+    betweenness 0.0
+  ]
+  node [
+    id 919
+    label "919"
+    idx 919
+    row 2094
+    column 12789
+    demarcated "True"
+    area 1403.0
+    solidity 0.9783821478382148
+    eccentricity 0.7157451528793479
+    diameter 42.26529405154344
+    perimeter 143.29646455628165
+    degree 4.0
+    strength 3.5957410952063085
+    betweenness 0.0008672716225770011
+  ]
+  node [
+    id 920
+    label "920"
+    idx 920
+    row 2162
+    column 3008
+    demarcated "False"
+    area 36319.0
+    solidity 0.9688425320777869
+    eccentricity 0.6804730717899016
+    diameter 215.04136119648325
+    perimeter 769.7199128346442
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 921
+    label "921"
+    idx 921
+    row 2138
+    column 9185
+    demarcated "False"
+    area 15541.0
+    solidity 0.9501131014244666
+    eccentricity 0.5354187208827922
+    diameter 140.6677495545058
+    perimeter 573.2569260369921
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 922
+    label "922"
+    idx 922
+    row 2116
+    column 11788
+    demarcated "False"
+    area 6834.0
+    solidity 0.92065202748215
+    eccentricity 0.7596445522617151
+    diameter 93.28086110623177
+    perimeter 392.8355697996826
+    degree 1.0
+    strength 0.8145717130649064
+    betweenness 0.0
+  ]
+  node [
+    id 923
+    label "923"
+    idx 923
+    row 2089
+    column 5066
+    demarcated "False"
+    area 822.0
+    solidity 0.9797377830750894
+    eccentricity 0.8275629812043679
+    diameter 32.35124272377035
+    perimeter 112.71067811865476
+    degree 2.0
+    strength 1.6728631400898144
+    betweenness 0.0
+  ]
+  node [
+    id 924
+    label "924"
+    idx 924
+    row 2114
+    column 6129
+    demarcated "False"
+    area 5341.0
+    solidity 0.9861521418020679
+    eccentricity 0.7931760543902755
+    diameter 82.46437053922442
+    perimeter 288.0071426749364
+    degree 2.0
+    strength 1.711932525924436
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 925
+    label "925"
+    idx 925
+    row 2093
+    column 11252
+    demarcated "False"
+    area 875.0
+    solidity 0.9657836644591612
+    eccentricity 0.6329549653768886
+    diameter 33.37790589062273
+    perimeter 113.29646455628165
+    degree 3.0
+    strength 2.9377821024949196
+    betweenness 0.0
+  ]
+  node [
+    id 926
+    label "926"
+    idx 926
+    row 2122
+    column 7769
+    demarcated "False"
+    area 10675.0
+    solidity 0.9406943954881918
+    eccentricity 0.8437513551016949
+    diameter 116.5840132267193
+    perimeter 440.0731598529186
+    degree 1.0
+    strength 0.6933383499465535
+    betweenness 0.0
+  ]
+  node [
+    id 927
+    label "927"
+    idx 927
+    row 2096
+    column 8476
+    demarcated "False"
+    area 1721.0
+    solidity 0.9534626038781163
+    eccentricity 0.8793386622485376
+    diameter 46.810738687711556
+    perimeter 182.65180361560903
+    degree 1.0
+    strength 0.7505743607843567
+    betweenness 0.0
+  ]
+  node [
+    id 928
+    label "928"
+    idx 928
+    row 2085
+    column 12469
+    demarcated "True"
+    area 157.0
+    solidity 0.9401197604790419
+    eccentricity 0.8453524535227962
+    diameter 14.138550439257221
+    perimeter 51.21320343559643
+    degree 11.0
+    strength 10.727660606479875
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 929
+    label "929"
+    idx 929
+    row 2150
+    column 5394
+    demarcated "False"
+    area 28656.0
+    solidity 0.8430714916151809
+    eccentricity 0.841985613279136
+    diameter 191.01296394206028
+    perimeter 1125.874241767195
+    degree 1.0
+    strength 0.33446484386304043
+    betweenness 0.0
+  ]
+  node [
+    id 930
+    label "930"
+    idx 930
+    row 2165
+    column 9775
+    demarcated "False"
+    area 15381.0
+    solidity 0.9739741641337386
+    eccentricity 0.6698243918834289
+    diameter 139.9417644506869
+    perimeter 493.00209204105306
+    degree 1.0
+    strength 0.6402567266888446
+    betweenness 0.0
+  ]
+  node [
+    id 931
+    label "931"
+    idx 931
+    row 2108
+    column 2101
+    demarcated "False"
+    area 1842.0
+    solidity 0.9829242262540021
+    eccentricity 0.8176988950904488
+    diameter 48.42837227702548
+    perimeter 168.02438661763952
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 932
+    label "932"
+    idx 932
+    row 2104
+    column 11450
+    demarcated "False"
+    area 1490.0
+    solidity 0.9783322390019698
+    eccentricity 0.19752440920701492
+    diameter 43.55602049838107
+    perimeter 143.63961030678928
+    degree 6.0
+    strength 5.5747786353433
+    betweenness 0.0009317461262688381
+  ]
+  node [
+    id 933
+    label "933"
+    idx 933
+    row 2140
+    column 8517
+    demarcated "False"
+    area 8713.0
+    solidity 0.9878684807256236
+    eccentricity 0.7172270316163476
+    diameter 105.32680643253869
+    perimeter 361.74725804511405
+    degree 1.0
+    strength 0.7505743607843567
+    betweenness 0.0
+  ]
+  node [
+    id 934
+    label "934"
+    idx 934
+    row 2112
+    column 6193
+    demarcated "False"
+    area 1283.0
+    solidity 0.9719696969696969
+    eccentricity 0.729412246628622
+    diameter 40.41740139958547
+    perimeter 140.8111831820431
+    degree 2.0
+    strength 1.6047020940236767
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 935
+    label "935"
+    idx 935
+    row 2131
+    column 4872
+    demarcated "False"
+    area 8908.0
+    solidity 0.8204844800589481
+    eccentricity 0.9303860768619695
+    diameter 106.49891015639939
+    perimeter 495.4041122946064
+    degree 3.0
+    strength 2.219220757897538
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 936
+    label "936"
+    idx 936
+    row 2105
+    column 11409
+    demarcated "False"
+    area 884.0
+    solidity 0.9151138716356108
+    eccentricity 0.6518539336371418
+    diameter 33.549124542167775
+    perimeter 126.12489168102785
+    degree 3.0
+    strength 2.5800119422972165
+    betweenness 0.0001361128411272113
+  ]
+  node [
+    id 937
+    label "937"
+    idx 937
+    row 2110
+    column 12250
+    demarcated "True"
+    area 1685.0
+    solidity 0.9568427030096536
+    eccentricity 0.8815137926758873
+    diameter 46.318556031883695
+    perimeter 175.1959594928933
+    degree 6.0
+    strength 5.80760905543886
+    betweenness 3.178951223694738E-05
+  ]
+  node [
+    id 938
+    label "938"
+    idx 938
+    row 2118
+    column 5158
+    demarcated "False"
+    area 5516.0
+    solidity 0.9871152469577666
+    eccentricity 0.823252638895858
+    diameter 83.80447081605585
+    perimeter 292.0071426749364
+    degree 5.0
+    strength 4.415358175865588
+    betweenness 3.671464793562937E-05
+  ]
+  node [
+    id 939
+    label "939"
+    idx 939
+    row 2109
+    column 12299
+    demarcated "True"
+    area 851.0
+    solidity 0.9572553430821147
+    eccentricity 0.5596678767358112
+    diameter 32.91696906717907
+    perimeter 114.32590180780451
+    degree 10.0
+    strength 9.740911029727672
+    betweenness 0.00046161953684919365
+  ]
+  node [
+    id 940
+    label "940"
+    idx 940
+    row 2122
+    column 2689
+    demarcated "False"
+    area 3582.0
+    solidity 0.9546908315565032
+    eccentricity 0.8819506777060111
+    diameter 67.53328104898615
+    perimeter 258.79393923934
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 941
+    label "941"
+    idx 941
+    row 2133
+    column 4044
+    demarcated "False"
+    area 5706.0
+    solidity 0.9679389312977099
+    eccentricity 0.8751549831150788
+    diameter 85.23558436626594
+    perimeter 320.2914139223983
+    degree 1.0
+    strength 0.9217747168743855
+    betweenness 0.0
+  ]
+  node [
+    id 942
+    label "942"
+    idx 942
+    row 2131
+    column 12853
+    demarcated "True"
+    area 4424.0
+    solidity 0.9919282511210762
+    eccentricity 0.5537078345637966
+    diameter 75.05206023760013
+    perimeter 253.53910524340097
+    degree 3.0
+    strength 2.681621477847746
+    betweenness 0.0006514611310529357
+  ]
+  node [
+    id 943
+    label "943"
+    idx 943
+    row 2173
+    column 7627
+    demarcated "False"
+    area 16544.0
+    solidity 0.9798045602605863
+    eccentricity 0.6860269835976595
+    diameter 145.1360569538064
+    perimeter 508.98484809834997
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 944
+    label "944"
+    idx 944
+    row 2120
+    column 12468
+    demarcated "True"
+    area 841.0
+    solidity 0.8477822580645161
+    eccentricity 0.7456552674516771
+    diameter 32.722995845769866
+    perimeter 131.63961030678928
+    degree 9.0
+    strength 8.807829266700333
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 945
+    label "945"
+    idx 945
+    row 2132
+    column 7014
+    demarcated "False"
+    area 5106.0
+    solidity 0.916367552045944
+    eccentricity 0.7044132826779681
+    diameter 80.62977809356629
+    perimeter 303.7645019878171
+    degree 1.0
+    strength 0.6093428311761647
+    betweenness 0.0
+  ]
+  node [
+    id 946
+    label "946"
+    idx 946
+    row 2147
+    column 9681
+    demarcated "False"
+    area 4515.0
+    solidity 0.9367219917012448
+    eccentricity 0.7980540727632252
+    diameter 75.82002733103741
+    perimeter 279.86500705120545
+    degree 2.0
+    strength 1.5433116403053155
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 947
+    label "947"
+    idx 947
+    row 2154
+    column 11668
+    demarcated "False"
+    area 7072.0
+    solidity 0.9691654104426477
+    eccentricity 0.5706683783938685
+    diameter 94.89125386655543
+    perimeter 332.9604614807105
+    degree 6.0
+    strength 4.812722787829696
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 948
+    label "948"
+    idx 948
+    row 2129
+    column 11510
+    demarcated "False"
+    area 1051.0
+    solidity 0.9767657992565055
+    eccentricity 0.37841394801034656
+    diameter 36.581071082141044
+    perimeter 121.63961030678928
+    degree 7.0
+    strength 6.772272870919775
+    betweenness 0.0006657887985400106
+  ]
+  node [
+    id 949
+    label "949"
+    idx 949
+    row 2126
+    column 12439
+    demarcated "True"
+    area 444.0
+    solidity 0.9673202614379085
+    eccentricity 0.6446784623823171
+    diameter 23.77642441290137
+    perimeter 79.94112549695429
+    degree 11.0
+    strength 10.761587220244873
+    betweenness 0.00033535696711934634
+  ]
+  node [
+    id 950
+    label "950"
+    idx 950
+    row 2165
+    column 5077
+    demarcated "False"
+    area 4838.0
+    solidity 0.9231062774279718
+    eccentricity 0.6766882315943522
+    diameter 78.48524012468025
+    perimeter 289.9482681718907
+    degree 3.0
+    strength 2.6654640769267557
+    betweenness 0.0
+  ]
+  node [
+    id 951
+    label "951"
+    idx 951
+    row 2162
+    column 7954
+    demarcated "False"
+    area 8464.0
+    solidity 0.976915974145891
+    eccentricity 0.7871448465666528
+    diameter 103.81088337278716
+    perimeter 367.9898987322333
+    degree 4.0
+    strength 2.993864903347776
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 952
+    label "952"
+    idx 952
+    row 2216
+    column 9346
+    demarcated "False"
+    area 25951.0
+    solidity 0.8751854849588561
+    eccentricity 0.7212195116699378
+    diameter 181.77414399584504
+    perimeter 936.6904755831214
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 953
+    label "953"
+    idx 953
+    row 2143
+    column 10781
+    demarcated "False"
+    area 1528.0
+    solidity 0.9826366559485531
+    eccentricity 0.5681546417393784
+    diameter 44.10793607000138
+    perimeter 145.88225099390857
+    degree 4.0
+    strength 3.8942056093238575
+    betweenness 0.000652356610270878
+  ]
+  node [
+    id 954
+    label "954"
+    idx 954
+    row 2147
+    column 5679
+    demarcated "False"
+    area 2094.0
+    solidity 0.9812558575445174
+    eccentricity 0.6882121472911483
+    diameter 51.63490686227129
+    perimeter 173.53910524340094
+    degree 2.0
+    strength 1.8449620781078444
+    betweenness 0.0
+  ]
+  node [
+    id 955
+    label "955"
+    idx 955
+    row 2141
+    column 12284
+    demarcated "True"
+    area 924.0
+    solidity 0.9767441860465116
+    eccentricity 0.6513837346570148
+    diameter 34.29975713230766
+    perimeter 115.05382386916236
+    degree 8.0
+    strength 7.8135722590766274
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 956
+    label "956"
+    idx 956
+    row 2154
+    column 2452
+    demarcated "False"
+    area 1395.0
+    solidity 0.9755244755244755
+    eccentricity 0.8876945343178642
+    diameter 42.14462201640385
+    perimeter 153.92388155425118
+    degree 2.0
+    strength 1.9002956199276988
+    betweenness 0.0
+  ]
+  node [
+    id 957
+    label "957"
+    idx 957
+    row 2156
+    column 11447
+    demarcated "False"
+    area 3635.0
+    solidity 0.9832296456586421
+    eccentricity 0.7576113671467158
+    diameter 68.03106455959893
+    perimeter 235.82337649086284
+    degree 4.0
+    strength 3.60590112572314
+    betweenness 0.00011103942302483029
+  ]
+  node [
+    id 958
+    label "958"
+    idx 958
+    row 2161
+    column 5845
+    demarcated "False"
+    area 4256.0
+    solidity 0.881159420289855
+    eccentricity 0.9147985701202114
+    diameter 73.6132291262437
+    perimeter 305.07821048680194
+    degree 1.0
+    strength 0.7938158202047696
+    betweenness 0.0
+  ]
+  node [
+    id 959
+    label "959"
+    idx 959
+    row 2151
+    column 4158
+    demarcated "False"
+    area 855.0
+    solidity 0.95
+    eccentricity 0.803109968417831
+    diameter 32.99423905394037
+    perimeter 120.22539674441617
+    degree 1.0
+    strength 0.918678279081865
+    betweenness 0.0
+  ]
+  node [
+    id 960
+    label "960"
+    idx 960
+    row 2163
+    column 1877
+    demarcated "False"
+    area 1744.0
+    solidity 0.9858677218767665
+    eccentricity 0.7030056003475483
+    diameter 47.12249745098538
+    perimeter 157.88225099390854
+    degree 1.0
+    strength 0.9410370198183552
+    betweenness 0.0
+  ]
+  node [
+    id 961
+    label "961"
+    idx 961
+    row 2146
+    column 12423
+    demarcated "True"
+    area 113.0
+    solidity 0.9338842975206612
+    eccentricity 0.6732731101669459
+    diameter 11.994835078277376
+    perimeter 40.04163056034262
+    degree 10.0
+    strength 9.790308888740142
+    betweenness 0.0001020846308454085
+  ]
+  node [
+    id 962
+    label "962"
+    idx 962
+    row 2216
+    column 10276
+    demarcated "False"
+    area 15043.0
+    solidity 0.9379013654217844
+    eccentricity 0.8774850384459395
+    diameter 138.39560134430232
+    perimeter 584.1147904132611
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 963
+    label "963"
+    idx 963
+    row 2150
+    column 12442
+    demarcated "True"
+    area 210.0
+    solidity 0.7473309608540926
+    eccentricity 0.39700042703629124
+    diameter 16.351767622932517
+    perimeter 73.24873734152916
+    degree 9.0
+    strength 8.82057676706285
+    betweenness 0.002718227166063487
+  ]
+  node [
+    id 964
+    label "964"
+    idx 964
+    row 2186
+    column 2524
+    demarcated "False"
+    area 3754.0
+    solidity 0.9712807244501941
+    eccentricity 0.9461224503438842
+    diameter 69.13567278139269
+    perimeter 289.9898987322333
+    degree 2.0
+    strength 1.8222770170451184
+    betweenness 0.0
+  ]
+  node [
+    id 965
+    label "965"
+    idx 965
+    row 2176
+    column 7845
+    demarcated "False"
+    area 1750.0
+    solidity 0.9615384615384616
+    eccentricity 0.5674910951777715
+    diameter 47.20348719413148
+    perimeter 166.02438661763952
+    degree 4.0
+    strength 3.598811600594035
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 966
+    label "966"
+    idx 966
+    row 2174
+    column 7884
+    demarcated "False"
+    area 1172.0
+    solidity 0.9701986754966887
+    eccentricity 0.8682330988354122
+    diameter 38.62948027646257
+    perimeter 146.22539674441617
+    degree 4.0
+    strength 3.693161547220858
+    betweenness 0.0
+  ]
+  node [
+    id 967
+    label "967"
+    idx 967
+    row 2181
+    column 10854
+    demarcated "False"
+    area 2563.0
+    solidity 0.9657121326299924
+    eccentricity 0.8647393901399653
+    diameter 57.12541424931833
+    perimeter 209.17871555019022
+    degree 1.0
+    strength 0.9584180675570492
+    betweenness 0.0
+  ]
+  node [
+    id 968
+    label "968"
+    idx 968
+    row 2157
+    column 12339
+    demarcated "True"
+    area 156.0
+    solidity 0.9811320754716981
+    eccentricity 0.6104918737088276
+    diameter 14.093451279891855
+    perimeter 44.62741699796952
+    degree 8.0
+    strength 7.730955425779727
+    betweenness 1.2984448660161608E-05
+  ]
+  node [
+    id 969
+    label "969"
+    idx 969
+    row 2182
+    column 12712
+    demarcated "True"
+    area 3266.0
+    solidity 0.9387755102040817
+    eccentricity 0.8380221720836893
+    diameter 64.48566005791552
+    perimeter 242.69343417595167
+    degree 1.0
+    strength 0.9132657826465689
+    betweenness 0.0
+  ]
+  node [
+    id 970
+    label "970"
+    idx 970
+    row 2191
+    column 11870
+    demarcated "False"
+    area 3944.0
+    solidity 0.9633610161211529
+    eccentricity 0.5489945525947892
+    diameter 70.8636491047101
+    perimeter 245.27922061357856
+    degree 1.0
+    strength 0.9171339629701933
+    betweenness 0.0
+  ]
+  node [
+    id 971
+    label "971"
+    idx 971
+    row 2185
+    column 12322
+    demarcated "True"
+    area 1970.0
+    solidity 0.9227166276346604
+    eccentricity 0.8585574061748946
+    diameter 50.08275055473961
+    perimeter 191.86500705120545
+    degree 5.0
+    strength 4.787635504772905
+    betweenness 0.0
+  ]
+  node [
+    id 972
+    label "972"
+    idx 972
+    row 2217
+    column 3896
+    demarcated "False"
+    area 7354.0
+    solidity 0.8910699139706774
+    eccentricity 0.9351862827821115
+    diameter 96.76468163530734
+    perimeter 405.5290039756343
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 973
+    label "973"
+    idx 973
+    row 2183
+    column 5591
+    demarcated "False"
+    area 5405.0
+    solidity 0.9795215657847046
+    eccentricity 0.8328685157601535
+    diameter 82.95697522989586
+    perimeter 295.1787155501902
+    degree 2.0
+    strength 1.7214777234707024
+    betweenness 0.0
+  ]
+  node [
+    id 974
+    label "974"
+    idx 974
+    row 2183
+    column 10747
+    demarcated "False"
+    area 1566.0
+    solidity 0.9678615574783683
+    eccentricity 0.7777010798752867
+    diameter 44.653030435293694
+    perimeter 154.36753236814712
+    degree 2.0
+    strength 1.9036115115253711
+    betweenness 0.00021804918956892078
+  ]
+  node [
+    id 975
+    label "975"
+    idx 975
+    row 2183
+    column 11812
+    demarcated "False"
+    area 1836.0
+    solidity 0.8839672604718344
+    eccentricity 0.519986573361854
+    diameter 48.34943437242838
+    perimeter 183.92388155425118
+    degree 3.0
+    strength 2.681198625291163
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 976
+    label "976"
+    idx 976
+    row 2183
+    column 4937
+    demarcated "False"
+    area 2320.0
+    solidity 0.8579881656804734
+    eccentricity 0.9449729781120041
+    diameter 54.34993784527796
+    perimeter 236.20815280171308
+    degree 1.0
+    strength 0.7631211944597421
+    betweenness 0.0
+  ]
+  node [
+    id 977
+    label "977"
+    idx 977
+    row 2184
+    column 11617
+    demarcated "False"
+    area 977.0
+    solidity 0.9522417153996101
+    eccentricity 0.8806636307999157
+    diameter 35.269746741453275
+    perimeter 131.53910524340094
+    degree 7.0
+    strength 6.326726891143814
+    betweenness 0.0
+  ]
+  node [
+    id 978
+    label "978"
+    idx 978
+    row 2195
+    column 3790
+    demarcated "False"
+    area 5308.0
+    solidity 0.987167565557002
+    eccentricity 0.7714504559271388
+    diameter 82.20921787399661
+    perimeter 282.2081528017131
+    degree 1.0
+    strength 0.9394551182272594
+    betweenness 0.0
+  ]
+  node [
+    id 979
+    label "979"
+    idx 979
+    row 2205
+    column 10688
+    demarcated "False"
+    area 3994.0
+    solidity 0.9262523191094619
+    eccentricity 0.8200252047697829
+    diameter 71.31142083616228
+    perimeter 260.35028842544403
+    degree 1.0
+    strength 0.9051696254858362
+    betweenness 0.0
+  ]
+  node [
+    id 980
+    label "980"
+    idx 980
+    row 2197
+    column 8039
+    demarcated "False"
+    area 2660.0
+    solidity 0.9449378330373002
+    eccentricity 0.4064654678436809
+    diameter 58.196367489694175
+    perimeter 205.1370849898476
+    degree 1.0
+    strength 0.7880710723558954
+    betweenness 0.0
+  ]
+  node [
+    id 981
+    label "981"
+    idx 981
+    row 2199
+    column 5230
+    demarcated "False"
+    area 3116.0
+    solidity 0.9508696978944157
+    eccentricity 0.8734385245107362
+    diameter 62.98741478577103
+    perimeter 237.6639969244288
+    degree 1.0
+    strength 0.9985648067215009
+    betweenness 0.0
+  ]
+  node [
+    id 982
+    label "982"
+    idx 982
+    row 2196
+    column 4142
+    demarcated "False"
+    area 2922.0
+    solidity 0.974324774924975
+    eccentricity 0.7876248630594392
+    diameter 60.995130541020615
+    perimeter 217.72287142747453
+    degree 1.0
+    strength 0.918678279081865
+    betweenness 0.0
+  ]
+  node [
+    id 983
+    label "983"
+    idx 983
+    row 2169
+    column 11597
+    demarcated "False"
+    area 2.0
+    solidity 1.0
+    eccentricity 1.0
+    diameter 1.5957691216057308
+    perimeter 0.0
+    degree 8.0
+    strength 7.151043134287071
+    betweenness 0.0
+  ]
+  node [
+    id 984
+    label "984"
+    idx 984
+    row 2202
+    column 2794
+    demarcated "False"
+    area 3632.0
+    solidity 0.9662144187283852
+    eccentricity 0.848860766365881
+    diameter 68.0029854232747
+    perimeter 247.86500705120545
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 985
+    label "985"
+    idx 985
+    row 2172
+    column 11598
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 8.0
+    strength 7.150790729875495
+    betweenness 0.0023380962380470313
+  ]
+  node [
+    id 986
+    label "986"
+    idx 986
+    row 2186
+    column 5118
+    demarcated "False"
+    area 729.0
+    solidity 0.9655629139072848
+    eccentricity 0.7042913860780136
+    diameter 30.46623751157884
+    perimeter 102.66904755831213
+    degree 3.0
+    strength 2.512055607476001
+    betweenness 2.5073418102381034E-05
+  ]
+  node [
+    id 987
+    label "987"
+    idx 987
+    row 2202
+    column 4250
+    demarcated "False"
+    area 3283.0
+    solidity 0.8752332711276993
+    eccentricity 0.9304217012598457
+    diameter 64.65327080175867
+    perimeter 301.11374439273465
+    degree 1.0
+    strength 0.9007603099158528
+    betweenness 0.0
+  ]
+  node [
+    id 988
+    label "988"
+    idx 988
+    row 2190
+    column 11529
+    demarcated "False"
+    area 1000.0
+    solidity 0.931098696461825
+    eccentricity 0.7204270155940243
+    diameter 35.682482323055424
+    perimeter 127.88225099390856
+    degree 6.0
+    strength 5.771584852122733
+    betweenness 7.07428582174322E-05
+  ]
+  node [
+    id 989
+    label "989"
+    idx 989
+    row 2227
+    column 1968
+    demarcated "False"
+    area 7369.0
+    solidity 0.9880665057656208
+    eccentricity 0.8423687921662971
+    diameter 96.86331712858802
+    perimeter 341.4041122946064
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 990
+    label "990"
+    idx 990
+    row 2189
+    column 1845
+    demarcated "False"
+    area 263.0
+    solidity 0.9326241134751773
+    eccentricity 0.7867344657051778
+    diameter 18.29923496393627
+    perimeter 63.698484809834994
+    degree 1.0
+    strength 0.9410370198183552
+    betweenness 0.0
+  ]
+  node [
+    id 991
+    label "991"
+    idx 991
+    row 2192
+    column 12274
+    demarcated "True"
+    area 643.0
+    solidity 0.9772036474164134
+    eccentricity 0.6024984945484174
+    diameter 28.61281229213077
+    perimeter 93.35533905932738
+    degree 5.0
+    strength 4.865396200434798
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 992
+    label "992"
+    idx 992
+    row 2203
+    column 12488
+    demarcated "True"
+    area 857.0
+    solidity 0.894572025052192
+    eccentricity 0.7515902367126281
+    diameter 33.032806266468405
+    perimeter 123.7401153701776
+    degree 6.0
+    strength 5.873709672125649
+    betweenness 3.492368949974501E-05
+  ]
+  node [
+    id 993
+    label "993"
+    idx 993
+    row 2194
+    column 9002
+    demarcated "False"
+    area 699.0
+    solidity 0.9209486166007905
+    eccentricity 0.8950313684763747
+    diameter 29.83277462405867
+    perimeter 119.49747468305831
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 994
+    label "994"
+    idx 994
+    row 2296
+    column 12600
+    demarcated "False"
+    area 29620.0
+    solidity 0.8752437799184445
+    eccentricity 0.5510881698191895
+    diameter 194.19926703017066
+    perimeter 814.8498551495554
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 995
+    label "995"
+    idx 995
+    row 2203
+    column 2321
+    demarcated "False"
+    area 935.0
+    solidity 0.9689119170984456
+    eccentricity 0.8038969017299046
+    diameter 34.503318308930474
+    perimeter 120.22539674441617
+    degree 1.0
+    strength 0.999835873566808
+    betweenness 0.0
+  ]
+  node [
+    id 996
+    label "996"
+    idx 996
+    row 2213
+    column 11565
+    demarcated "False"
+    area 2061.0
+    solidity 0.9603914259086673
+    eccentricity 0.7180793454535318
+    diameter 51.226425814214004
+    perimeter 176.55129855222071
+    degree 5.0
+    strength 4.514024691004309
+    betweenness 0.0
+  ]
+  node [
+    id 997
+    label "997"
+    idx 997
+    row 2217
+    column 4790
+    demarcated "False"
+    area 8983.0
+    solidity 0.8380445937121
+    eccentricity 0.9609708165070998
+    diameter 106.94629881560168
+    perimeter 499.445742854949
+    degree 3.0
+    strength 2.1759013004842758
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 998
+    label "998"
+    idx 998
+    row 2213
+    column 9616
+    demarcated "False"
+    area 2030.0
+    solidity 0.9593572778827977
+    eccentricity 0.7273538685097283
+    diameter 50.83971160237222
+    perimeter 182.55129855222071
+    degree 2.0
+    strength 1.860176013664181
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 999
+    label "999"
+    idx 999
+    row 2216
+    column 2446
+    demarcated "False"
+    area 1577.0
+    solidity 0.9698646986469864
+    eccentricity 0.9193146290752101
+    diameter 44.809583372838354
+    perimeter 179.82337649086287
+    degree 2.0
+    strength 1.9071003037978211
+    betweenness 0.0
+  ]
+  node [
+    id 1000
+    label "1000"
+    idx 1000
+    row 2233
+    column 4485
+    demarcated "False"
+    area 19843.0
+    solidity 0.8185718410956644
+    eccentricity 0.9802597376469411
+    diameter 158.94933874093292
+    perimeter 916.7422074112307
+    degree 1.0
+    strength 0.5224560816374856
+    betweenness 0.0
+  ]
+  node [
+    id 1001
+    label "1001"
+    idx 1001
+    row 2198
+    column 12432
+    demarcated "True"
+    area 203.0
+    solidity 0.9666666666666667
+    eccentricity 0.6907315479156327
+    diameter 16.07692842495848
+    perimeter 53.11269837220809
+    degree 6.0
+    strength 5.933454958133606
+    betweenness 0.0
+  ]
+  node [
+    id 1002
+    label "1002"
+    idx 1002
+    row 2319
+    column 2757
+    demarcated "False"
+    area 44070.0
+    solidity 0.8295529411764706
+    eccentricity 0.8896625275621842
+    diameter 236.879012866228
+    perimeter 1317.75144212722
+    degree 1.0
+    strength 0.16964197179756277
+    betweenness 0.0
+  ]
+  node [
+    id 1003
+    label "1003"
+    idx 1003
+    row 2213
+    column 5665
+    demarcated "False"
+    area 1402.0
+    solidity 0.9859353023909986
+    eccentricity 0.5826782022317986
+    diameter 42.25022889545923
+    perimeter 137.63961030678928
+    degree 2.0
+    strength 1.820522004648169
+    betweenness 0.0
+  ]
+  node [
+    id 1004
+    label "1004"
+    idx 1004
+    row 2204
+    column 12840
+    demarcated "True"
+    area 477.0
+    solidity 0.9734693877551021
+    eccentricity 0.7899937465283658
+    diameter 24.64417299969047
+    perimeter 84.42640687119285
+    degree 3.0
+    strength 2.798902917965799
+    betweenness 0.0004352028999198994
+  ]
+  node [
+    id 1005
+    label "1005"
+    idx 1005
+    row 2231
+    column 5271
+    demarcated "False"
+    area 3151.0
+    solidity 0.9868462261196367
+    eccentricity 0.6640676718774826
+    diameter 63.34017528757319
+    perimeter 213.48023074035524
+    degree 2.0
+    strength 1.95110169356628
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1006
+    label "1006"
+    idx 1006
+    row 2220
+    column 7729
+    demarcated "False"
+    area 1069.0
+    solidity 0.9578853046594982
+    eccentricity 0.8596648264896543
+    diameter 36.89299490854448
+    perimeter 134.71067811865476
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1007
+    label "1007"
+    idx 1007
+    row 2410
+    column 7766
+    demarcated "False"
+    area 160078.0
+    solidity 0.7756806915700365
+    eccentricity 0.7455483092545035
+    diameter 451.46167040194604
+    perimeter 3476.8258274694144
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1008
+    label "1008"
+    idx 1008
+    row 2216
+    column 7913
+    demarcated "False"
+    area 704.0
+    solidity 0.9513513513513514
+    eccentricity 0.9279602957368173
+    diameter 29.93928254807644
+    perimeter 118.46803743153546
+    degree 5.0
+    strength 4.526887044798029
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 1009
+    label "1009"
+    idx 1009
+    row 2361
+    column 3854
+    demarcated "False"
+    area 34683.0
+    solidity 0.586386460851776
+    eccentricity 0.9561271801828325
+    diameter 210.14225450881995
+    perimeter 1353.4499269370551
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1010
+    label "1010"
+    idx 1010
+    row 2236
+    column 5355
+    demarcated "False"
+    area 1966.0
+    solidity 0.9613691931540342
+    eccentricity 0.8800497423334005
+    diameter 50.03187928660416
+    perimeter 188.65180361560903
+    degree 2.0
+    strength 1.2870017307078196
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1011
+    label "1011"
+    idx 1011
+    row 2252
+    column 5807
+    demarcated "False"
+    area 9883.0
+    solidity 0.9482824793705623
+    eccentricity 0.7934544085822659
+    diameter 112.17587272055259
+    perimeter 407.4629867976521
+    degree 1.0
+    strength 0.7938158202047696
+    betweenness 0.0
+  ]
+  node [
+    id 1012
+    label "1012"
+    idx 1012
+    row 2249
+    column 11653
+    demarcated "False"
+    area 8678.0
+    solidity 0.8608272988790795
+    eccentricity 0.8962605245518547
+    diameter 105.11504539889494
+    perimeter 459.2031021678297
+    degree 6.0
+    strength 4.5616896800822895
+    betweenness 0.0019302054542743685
+  ]
+  node [
+    id 1013
+    label "1013"
+    idx 1013
+    row 2232
+    column 11770
+    demarcated "False"
+    area 573.0
+    solidity 0.9662731871838112
+    eccentricity 0.7538175527004586
+    diameter 27.010484244701136
+    perimeter 91.1543289325507
+    degree 1.0
+    strength 0.9494929492560636
+    betweenness 0.0
+  ]
+  node [
+    id 1014
+    label "1014"
+    idx 1014
+    row 2240
+    column 9573
+    demarcated "False"
+    area 962.0
+    solidity 0.9717171717171718
+    eccentricity 0.8061306617331081
+    diameter 34.997949111844065
+    perimeter 123.19595949289332
+    degree 1.0
+    strength 0.95712110004771
+    betweenness 0.0
+  ]
+  node [
+    id 1015
+    label "1015"
+    idx 1015
+    row 2285
+    column 9044
+    demarcated "False"
+    area 19144.0
+    solidity 0.9732092928676732
+    eccentricity 0.6608060316785066
+    diameter 156.12462279989649
+    perimeter 550.4995667241114
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1016
+    label "1016"
+    idx 1016
+    row 2231
+    column 12865
+    demarcated "False"
+    area 709.0
+    solidity 0.844047619047619
+    eccentricity 0.9493328741492328
+    diameter 30.045412914740087
+    perimeter 131.01219330881975
+    degree 2.0
+    strength 1.9575949201577476
+    betweenness 0.0
+  ]
+  node [
+    id 1017
+    label "1017"
+    idx 1017
+    row 2307
+    column 6858
+    demarcated "False"
+    area 9576.0
+    solidity 0.901355421686747
+    eccentricity 0.9414057729729345
+    diameter 110.41984368936554
+    perimeter 499.20310216782974
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1018
+    label "1018"
+    idx 1018
+    row 2230
+    column 12498
+    demarcated "False"
+    area 213.0
+    solidity 0.9551569506726457
+    eccentricity 0.9283662168083195
+    diameter 16.46815177937675
+    perimeter 63.11269837220809
+    degree 5.0
+    strength 4.9156386504252
+    betweenness 0.0025574886464428655
+  ]
+  node [
+    id 1019
+    label "1019"
+    idx 1019
+    row 2242
+    column 7895
+    demarcated "False"
+    area 1031.0
+    solidity 0.8865004299226139
+    eccentricity 0.8867702075899617
+    diameter 36.23133961947795
+    perimeter 153.26093065034894
+    degree 5.0
+    strength 4.574711354763384
+    betweenness 0.0
+  ]
+  node [
+    id 1020
+    label "1020"
+    idx 1020
+    row 2252
+    column 10465
+    demarcated "False"
+    area 3533.0
+    solidity 0.9639836289222374
+    eccentricity 0.8161695051724108
+    diameter 67.06977942075946
+    perimeter 243.27922061357856
+    degree 2.0
+    strength 1.858979470039453
+    betweenness 0.0
+  ]
+  node [
+    id 1021
+    label "1021"
+    idx 1021
+    row 2301
+    column 9243
+    demarcated "False"
+    area 15837.0
+    solidity 0.9329052780395853
+    eccentricity 0.929142121355802
+    diameter 142.00103756652896
+    perimeter 580.239682094289
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1022
+    label "1022"
+    idx 1022
+    row 2265
+    column 3743
+    demarcated "False"
+    area 3786.0
+    solidity 0.9371287128712872
+    eccentricity 0.9324743704875288
+    diameter 69.42971205735572
+    perimeter 290.63455967290594
+    degree 1.0
+    strength 0.9394551182272594
+    betweenness 0.0
+  ]
+  node [
+    id 1023
+    label "1023"
+    idx 1023
+    row 2243
+    column 4277
+    demarcated "False"
+    area 736.0
+    solidity 0.9761273209549072
+    eccentricity 0.679880781483829
+    diameter 30.612159429303247
+    perimeter 104.08326112068522
+    degree 1.0
+    strength 0.9007603099158528
+    betweenness 0.0
+  ]
+  node [
+    id 1024
+    label "1024"
+    idx 1024
+    row 2261
+    column 5118
+    demarcated "False"
+    area 4817.0
+    solidity 0.9156053982132675
+    eccentricity 0.7404953170138743
+    diameter 78.31471692465777
+    perimeter 331.84776310850236
+    degree 2.0
+    strength 1.7492494694435259
+    betweenness 2.0148282403699046E-05
+  ]
+  node [
+    id 1025
+    label "1025"
+    idx 1025
+    row 2251
+    column 9456
+    demarcated "False"
+    area 777.0
+    solidity 0.9498777506112469
+    eccentricity 0.7841232979687457
+    diameter 31.453253031430968
+    perimeter 115.39696961966999
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1026
+    label "1026"
+    idx 1026
+    row 2241
+    column 4828
+    demarcated "False"
+    area 229.0
+    solidity 0.9462809917355371
+    eccentricity 0.9470175801765732
+    diameter 17.075475271404667
+    perimeter 67.21320343559643
+    degree 3.0
+    strength 2.0429134999041816
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1027
+    label "1027"
+    idx 1027
+    row 2267
+    column 7965
+    demarcated "False"
+    area 3987.0
+    solidity 0.9832305795314427
+    eccentricity 0.8326919874687685
+    diameter 71.24890220108023
+    perimeter 256.79393923934
+    degree 2.0
+    strength 1.759731217445081
+    betweenness 0.0
+  ]
+  node [
+    id 1028
+    label "1028"
+    idx 1028
+    row 2260
+    column 12737
+    demarcated "False"
+    area 1055.0
+    solidity 0.9804832713754646
+    eccentricity 0.7496581098147402
+    diameter 36.6506169074355
+    perimeter 123.88225099390857
+    degree 2.0
+    strength 1.8571646873712615
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1029
+    label "1029"
+    idx 1029
+    row 2267
+    column 4828
+    demarcated "False"
+    area 2224.0
+    solidity 0.9716033202271734
+    eccentricity 0.7791733393510081
+    diameter 53.21357672146274
+    perimeter 187.6812408671319
+    degree 3.0
+    strength 2.138589035809176
+    betweenness 0.0
+  ]
+  node [
+    id 1030
+    label "1030"
+    idx 1030
+    row 2270
+    column 3499
+    demarcated "False"
+    area 1563.0
+    solidity 0.9726197884256378
+    eccentricity 0.16887914114614716
+    diameter 44.610238829455504
+    perimeter 149.4386001800126
+    degree 2.0
+    strength 1.830504645468015
+    betweenness 0.0
+  ]
+  node [
+    id 1031
+    label "1031"
+    idx 1031
+    row 2318
+    column 4125
+    demarcated "False"
+    area 14765.0
+    solidity 0.8626431409207759
+    eccentricity 0.303475702849872
+    diameter 137.11083793053953
+    perimeter 549.144227664784
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1032
+    label "1032"
+    idx 1032
+    row 2268
+    column 10555
+    demarcated "False"
+    area 1155.0
+    solidity 0.9846547314578005
+    eccentricity 0.6698360825446203
+    diameter 38.34829427978659
+    perimeter 127.05382386916237
+    degree 2.0
+    strength 1.7704753826936765
+    betweenness 0.0
+  ]
+  node [
+    id 1033
+    label "1033"
+    idx 1033
+    row 2285
+    column 12877
+    demarcated "False"
+    area 1525.0
+    solidity 0.9725765306122449
+    eccentricity 0.9042524776297005
+    diameter 44.06461512053774
+    perimeter 176.91168824543144
+    degree 2.0
+    strength 1.9249767930240287
+    betweenness 0.0
+  ]
+  node [
+    id 1034
+    label "1034"
+    idx 1034
+    row 2269
+    column 4720
+    demarcated "False"
+    area 974.0
+    solidity 0.9808660624370594
+    eccentricity 0.8292157878597229
+    diameter 35.21555503711461
+    perimeter 121.63961030678928
+    degree 1.0
+    strength 0.7198955682417918
+    betweenness 0.0
+  ]
+  node [
+    id 1035
+    label "1035"
+    idx 1035
+    row 2286
+    column 8871
+    demarcated "False"
+    area 2664.0
+    solidity 0.9833887043189369
+    eccentricity 0.5750139336350624
+    diameter 58.24010771946145
+    perimeter 196.06601717798213
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1036
+    label "1036"
+    idx 1036
+    row 2289
+    column 9739
+    demarcated "False"
+    area 3737.0
+    solidity 0.9816128184922511
+    eccentricity 0.7281958373965324
+    diameter 68.97895460700533
+    perimeter 241.27922061357853
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1037
+    label "1037"
+    idx 1037
+    row 2344
+    column 3204
+    demarcated "False"
+    area 15868.0
+    solidity 0.8967504944899689
+    eccentricity 0.973473164435745
+    diameter 142.1399489793688
+    perimeter 712.6072144624362
+    degree 1.0
+    strength 0.7090770900455349
+    betweenness 0.0
+  ]
+  node [
+    id 1038
+    label "1038"
+    idx 1038
+    row 2327
+    column 4857
+    demarcated "False"
+    area 21179.0
+    solidity 0.8163666499633813
+    eccentricity 0.928550653862274
+    diameter 164.2130942341262
+    perimeter 831.0092347159895
+    degree 2.0
+    strength 0.8827037145934853
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1039
+    label "1039"
+    idx 1039
+    row 2321
+    column 3384
+    demarcated "False"
+    area 8691.0
+    solidity 0.90314870622467
+    eccentricity 0.9560403086655024
+    diameter 105.1937492596081
+    perimeter 480.54119728445403
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1040
+    label "1040"
+    idx 1040
+    row 2301
+    column 5502
+    demarcated "False"
+    area 16989.0
+    solidity 0.8228314040780743
+    eccentricity 0.9766065746237221
+    diameter 147.07503739760082
+    perimeter 742.2152954766494
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1041
+    label "1041"
+    idx 1041
+    row 2291
+    column 12777
+    demarcated "False"
+    area 2462.0
+    solidity 0.985983179815779
+    eccentricity 0.5747299764952069
+    diameter 55.98853238957037
+    perimeter 186.06601717798213
+    degree 1.0
+    strength 0.9438989047246926
+    betweenness 0.0
+  ]
+  node [
+    id 1042
+    label "1042"
+    idx 1042
+    row 2289
+    column 4459
+    demarcated "False"
+    area 4022.0
+    solidity 0.9785888077858881
+    eccentricity 0.8819097014003479
+    diameter 71.56094918965807
+    perimeter 263.7228714274745
+    degree 1.0
+    strength 0.5224560816374856
+    betweenness 0.0
+  ]
+  node [
+    id 1043
+    label "1043"
+    idx 1043
+    row 2292
+    column 2295
+    demarcated "False"
+    area 931.0
+    solidity 0.9667705088265836
+    eccentricity 0.9513947625598318
+    diameter 34.42943531556155
+    perimeter 145.92388155425118
+    degree 1.0
+    strength 0.999835873566808
+    betweenness 0.0
+  ]
+  node [
+    id 1044
+    label "1044"
+    idx 1044
+    row 2330
+    column 5209
+    demarcated "False"
+    area 11406.0
+    solidity 0.8883869460238336
+    eccentricity 0.7907150211529697
+    diameter 120.50962719737069
+    perimeter 523.7300141024109
+    degree 1.0
+    strength 0.7965567753351788
+    betweenness 0.0
+  ]
+  node [
+    id 1045
+    label "1045"
+    idx 1045
+    row 2342
+    column 4302
+    demarcated "False"
+    area 22222.0
+    solidity 0.8513523867902842
+    eccentricity 0.8141220901279304
+    diameter 168.20799375506738
+    perimeter 891.4183976444792
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1046
+    label "1046"
+    idx 1046
+    row 2306
+    column 10519
+    demarcated "False"
+    area 4733.0
+    solidity 0.9807293825113966
+    eccentricity 0.8017689175766434
+    diameter 77.62887842311987
+    perimeter 276.97770542341357
+    degree 2.0
+    strength 1.815397427313449
+    betweenness 0.0
+  ]
+  node [
+    id 1047
+    label "1047"
+    idx 1047
+    row 2319
+    column 11540
+    demarcated "False"
+    area 5090.0
+    solidity 0.9358337929766501
+    eccentricity 0.686322785702618
+    diameter 80.5033495123152
+    perimeter 294.5340546095176
+    degree 2.0
+    strength 1.832818251823478
+    betweenness 0.001294862949144392
+  ]
+  node [
+    id 1048
+    label "1048"
+    idx 1048
+    row 2321
+    column 1671
+    demarcated "False"
+    area 3694.0
+    solidity 0.9733860342555994
+    eccentricity 0.9209264503180722
+    diameter 68.58095127841032
+    perimeter 268.63455967290594
+    degree 3.0
+    strength 2.653195589818523
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1049
+    label "1049"
+    idx 1049
+    row 2307
+    column 7421
+    demarcated "False"
+    area 2999.0
+    solidity 0.9727538112228349
+    eccentricity 0.8718630504052474
+    diameter 61.79357081979284
+    perimeter 232.35028842544403
+    degree 1.0
+    strength 0.9721627372452017
+    betweenness 0.0
+  ]
+  node [
+    id 1050
+    label "1050"
+    idx 1050
+    row 2294
+    column 11675
+    demarcated "False"
+    area 1119.0
+    solidity 0.9781468531468531
+    eccentricity 0.8127266743989866
+    diameter 37.7459276023076
+    perimeter 131.25483399593904
+    degree 2.0
+    strength 1.7237155946611251
+    betweenness 0.0017193200984489852
+  ]
+  node [
+    id 1051
+    label "1051"
+    idx 1051
+    row 2314
+    column 4591
+    demarcated "False"
+    area 4707.0
+    solidity 0.7986087546657618
+    eccentricity 0.9774769158785064
+    diameter 77.41536370171241
+    perimeter 418.2914139223983
+    degree 2.0
+    strength 1.7359100818662563
+    betweenness 0.0
+  ]
+  node [
+    id 1052
+    label "1052"
+    idx 1052
+    row 2334
+    column 6975
+    demarcated "False"
+    area 8957.0
+    solidity 0.891066454436928
+    eccentricity 0.7787240571166117
+    diameter 106.79141633199202
+    perimeter 440.6589462905455
+    degree 2.0
+    strength 1.5209931757648363
+    betweenness 0.0
+  ]
+  node [
+    id 1053
+    label "1053"
+    idx 1053
+    row 2324
+    column 3577
+    demarcated "False"
+    area 5264.0
+    solidity 0.9536231884057971
+    eccentricity 0.8434988956915103
+    diameter 81.86777732103087
+    perimeter 307.6223663640862
+    degree 2.0
+    strength 1.693633256675291
+    betweenness 0.0
+  ]
+  node [
+    id 1054
+    label "1054"
+    idx 1054
+    row 2360
+    column 5289
+    demarcated "False"
+    area 5863.0
+    solidity 0.941696113074205
+    eccentricity 0.7676656963598698
+    diameter 86.40025145092032
+    perimeter 330.8183258569795
+    degree 1.0
+    strength 0.7965567753351788
+    betweenness 0.0
+  ]
+  node [
+    id 1055
+    label "1055"
+    idx 1055
+    row 2321
+    column 10908
+    demarcated "False"
+    area 4729.0
+    solidity 0.9314555840063029
+    eccentricity 0.9228940342463612
+    diameter 77.59606824480596
+    perimeter 318.73506473629425
+    degree 2.0
+    strength 1.8473265176155442
+    betweenness 0.0
+  ]
+  node [
+    id 1056
+    label "1056"
+    idx 1056
+    row 2319
+    column 12490
+    demarcated "False"
+    area 1400.0
+    solidity 0.9695290858725761
+    eccentricity 0.6922682045772096
+    diameter 42.22008245644752
+    perimeter 143.88225099390854
+    degree 4.0
+    strength 3.8882027805629855
+    betweenness 0.0006407153804376297
+  ]
+  node [
+    id 1057
+    label "1057"
+    idx 1057
+    row 2336
+    column 5057
+    demarcated "False"
+    area 2349.0
+    solidity 0.9475594997983058
+    eccentricity 0.8885770363379619
+    diameter 54.68857001771848
+    perimeter 211.52186130069782
+    degree 2.0
+    strength 1.8960002051224971
+    betweenness 1.4327667487074876E-05
+  ]
+  node [
+    id 1058
+    label "1058"
+    idx 1058
+    row 2315
+    column 12456
+    demarcated "False"
+    area 463.0
+    solidity 0.929718875502008
+    eccentricity 0.6805480605543499
+    diameter 24.279825147895533
+    perimeter 84.87005768508881
+    degree 5.0
+    strength 4.86837290947383
+    betweenness 0.001495002554354469
+  ]
+  node [
+    id 1059
+    label "1059"
+    idx 1059
+    row 2317
+    column 6250
+    demarcated "False"
+    area 924.0
+    solidity 0.9380710659898477
+    eccentricity 0.9209407592042236
+    diameter 34.29975713230766
+    perimeter 134.61017305526644
+    degree 1.0
+    strength 0.8009488558036069
+    betweenness 0.0
+  ]
+  node [
+    id 1060
+    label "1060"
+    idx 1060
+    row 2360
+    column 6261
+    demarcated "False"
+    area 6333.0
+    solidity 0.8069571865443425
+    eccentricity 0.8309727082308432
+    diameter 89.79658143163239
+    perimeter 414.7533546995239
+    degree 3.0
+    strength 2.5237412615219013
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1061
+    label "1061"
+    idx 1061
+    row 2317
+    column 10205
+    demarcated "False"
+    area 1132.0
+    solidity 0.9151172190784155
+    eccentricity 0.820725218632922
+    diameter 37.96455142155909
+    perimeter 143.88225099390857
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1062
+    label "1062"
+    idx 1062
+    row 2352
+    column 9150
+    demarcated "False"
+    area 5612.0
+    solidity 0.9859451862262825
+    eccentricity 0.6238399176328596
+    diameter 84.53058810308688
+    perimeter 286.63455967290594
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1063
+    label "1063"
+    idx 1063
+    row 2387
+    column 6342
+    demarcated "False"
+    area 12052.0
+    solidity 0.9061654135338346
+    eccentricity 0.8365440574873507
+    diameter 123.87527191957312
+    perimeter 490.80108191427644
+    degree 1.0
+    strength 0.7908246423340791
+    betweenness 0.0
+  ]
+  node [
+    id 1064
+    label "1064"
+    idx 1064
+    row 2367
+    column 11348
+    demarcated "False"
+    area 14586.0
+    solidity 0.9532710280373832
+    eccentricity 0.79686843677023
+    diameter 136.2771881112429
+    perimeter 498.94321753800733
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1065
+    label "1065"
+    idx 1065
+    row 2329
+    column 3502
+    demarcated "False"
+    area 856.0
+    solidity 0.9058201058201059
+    eccentricity 0.8124395358340298
+    diameter 33.01352829210018
+    perimeter 121.53910524340094
+    degree 3.0
+    strength 2.24803542740527
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1066
+    label "1066"
+    idx 1066
+    row 2353
+    column 6440
+    demarcated "False"
+    area 3493.0
+    solidity 0.9765166340508806
+    eccentricity 0.7348701362568424
+    diameter 66.68902255813863
+    perimeter 231.4802307403552
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1067
+    label "1067"
+    idx 1067
+    row 2336
+    column 1594
+    demarcated "False"
+    area 369.0
+    solidity 0.9736147757255936
+    eccentricity 0.8655553836955686
+    diameter 21.675455981530703
+    perimeter 76.18376618407356
+    degree 3.0
+    strength 2.793406006783027
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1068
+    label "1068"
+    idx 1068
+    row 2397
+    column 6547
+    demarcated "False"
+    area 15749.0
+    solidity 0.9786242465668303
+    eccentricity 0.7161689543641648
+    diameter 141.60596594082494
+    perimeter 491.77164466275354
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1069
+    label "1069"
+    idx 1069
+    row 2344
+    column 11599
+    demarcated "False"
+    area 884.0
+    solidity 0.9650655021834061
+    eccentricity 0.8299416972664677
+    diameter 33.549124542167775
+    perimeter 120.36753236814712
+    degree 2.0
+    strength 1.831883063701941
+    betweenness 0.0015075392634056597
+  ]
+  node [
+    id 1070
+    label "1070"
+    idx 1070
+    row 2344
+    column 12444
+    demarcated "False"
+    area 1085.0
+    solidity 0.9792418772563177
+    eccentricity 0.6922513537455423
+    diameter 37.1680629847407
+    perimeter 126.9116882454314
+    degree 4.0
+    strength 3.902983657776288
+    betweenness 0.0
+  ]
+  node [
+    id 1071
+    label "1071"
+    idx 1071
+    row 2343
+    column 10830
+    demarcated "False"
+    area 1727.0
+    solidity 0.9504678040726472
+    eccentricity 0.8970605791283941
+    diameter 46.89226688653073
+    perimeter 181.09545442950497
+    degree 3.0
+    strength 2.7007141566786004
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1072
+    label "1072"
+    idx 1072
+    row 2407
+    column 9346
+    demarcated "False"
+    area 32665.0
+    solidity 0.8412310069533866
+    eccentricity 0.9512589901588242
+    diameter 203.93717103258567
+    perimeter 979.7199128346442
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1073
+    label "1073"
+    idx 1073
+    row 2405
+    column 4497
+    demarcated "False"
+    area 14027.0
+    solidity 0.7139512393749682
+    eccentricity 0.3714529148430202
+    diameter 133.64030490087984
+    perimeter 756.4234482783626
+    degree 2.0
+    strength 1.174326500453649
+    betweenness 0.0
+  ]
+  node [
+    id 1074
+    label "1074"
+    idx 1074
+    row 2373
+    column 7188
+    demarcated "False"
+    area 13490.0
+    solidity 0.8160919540229885
+    eccentricity 0.9172318199107835
+    diameter 131.05724496752305
+    perimeter 737.2102448427661
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1075
+    label "1075"
+    idx 1075
+    row 2364
+    column 10435
+    demarcated "False"
+    area 3809.0
+    solidity 0.9829677419354839
+    eccentricity 0.8100391331403233
+    diameter 69.64028594065532
+    perimeter 244.93607486307096
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1076
+    label "1076"
+    idx 1076
+    row 2389
+    column 11927
+    demarcated "False"
+    area 14817.0
+    solidity 0.9320626533308172
+    eccentricity 0.902485786719347
+    diameter 137.35206709162009
+    perimeter 590.0142853498728
+    degree 1.0
+    strength 0.8468491603211961
+    betweenness 0.0
+  ]
+  node [
+    id 1077
+    label "1077"
+    idx 1077
+    row 2407
+    column 3226
+    demarcated "False"
+    area 7490.0
+    solidity 0.8524926018666059
+    eccentricity 0.9609612272992428
+    diameter 97.65533364884054
+    perimeter 484.683332908185
+    degree 1.0
+    strength 0.7090770900455349
+    betweenness 0.0
+  ]
+  node [
+    id 1078
+    label "1078"
+    idx 1078
+    row 2372
+    column 9800
+    demarcated "False"
+    area 4699.0
+    solidity 0.9869775257298887
+    eccentricity 0.34343111817644334
+    diameter 77.34954829028112
+    perimeter 256.8355697996826
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1079
+    label "1079"
+    idx 1079
+    row 2383
+    column 11495
+    demarcated "False"
+    area 4878.0
+    solidity 0.9538521705123191
+    eccentricity 0.9130955749349198
+    diameter 78.80902549339208
+    perimeter 311.4629867976521
+    degree 4.0
+    strength 3.4649415790374167
+    betweenness 0.001081291155665182
+  ]
+  node [
+    id 1080
+    label "1080"
+    idx 1080
+    row 2422
+    column 3483
+    demarcated "False"
+    area 20747.0
+    solidity 0.8600505741408614
+    eccentricity 0.8958830123044172
+    diameter 162.52969216306423
+    perimeter 736.5239533417509
+    degree 1.0
+    strength 0.44209667253496965
+    betweenness 0.0
+  ]
+  node [
+    id 1081
+    label "1081"
+    idx 1081
+    row 2363
+    column 1752
+    demarcated "False"
+    area 1340.0
+    solidity 0.9824046920821115
+    eccentricity 0.8642818932111014
+    diameter 41.30545956583848
+    perimeter 150.50966799187808
+    degree 1.0
+    strength 0.907922430353548
+    betweenness 0.0
+  ]
+  node [
+    id 1082
+    label "1082"
+    idx 1082
+    row 2359
+    column 1613
+    demarcated "False"
+    area 379.0
+    solidity 0.969309462915601
+    eccentricity 0.8465340835387016
+    diameter 21.967197988242077
+    perimeter 75.94112549695427
+    degree 3.0
+    strength 2.794142249905486
+    betweenness 0.0
+  ]
+  node [
+    id 1083
+    label "1083"
+    idx 1083
+    row 2358
+    column 4635
+    demarcated "False"
+    area 1114.0
+    solidity 0.9763365468886941
+    eccentricity 0.7268171653278963
+    diameter 37.66150359232848
+    perimeter 127.9827560572969
+    degree 4.0
+    strength 3.7999786673055165
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1084
+    label "1084"
+    idx 1084
+    row 2369
+    column 1853
+    demarcated "False"
+    area 1510.0
+    solidity 0.977979274611399
+    eccentricity 0.8496282527480895
+    diameter 43.847368365160705
+    perimeter 157.29646455628165
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1085
+    label "1085"
+    idx 1085
+    row 2360
+    column 7076
+    demarcated "False"
+    area 978.0
+    solidity 0.9157303370786517
+    eccentricity 0.8840867188700952
+    diameter 35.28779214899948
+    perimeter 148.95331880577402
+    degree 2.0
+    strength 1.8467180058813617
+    betweenness 0.0
+  ]
+  node [
+    id 1086
+    label "1086"
+    idx 1086
+    row 2364
+    column 4680
+    demarcated "False"
+    area 835.0
+    solidity 0.9630911188004614
+    eccentricity 0.6615288674193419
+    diameter 32.60605802383755
+    perimeter 111.11269837220809
+    degree 3.0
+    strength 2.9148832198418617
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1087
+    label "1087"
+    idx 1087
+    row 2370
+    column 4723
+    demarcated "False"
+    area 2109.0
+    solidity 0.9335989375830013
+    eccentricity 0.6909259729728037
+    diameter 51.819515627285234
+    perimeter 194.99494936611666
+    degree 2.0
+    strength 1.909056965182189
+    betweenness 0.0
+  ]
+  node [
+    id 1088
+    label "1088"
+    idx 1088
+    row 2372
+    column 10879
+    demarcated "False"
+    area 3816.0
+    solidity 0.9424549271425043
+    eccentricity 0.9408925800635608
+    diameter 69.7042473792622
+    perimeter 292.8944443027283
+    degree 3.0
+    strength 2.8602867561943217
+    betweenness 0.0
+  ]
+  node [
+    id 1089
+    label "1089"
+    idx 1089
+    row 2421
+    column 12812
+    demarcated "False"
+    area 9418.0
+    solidity 0.8678584592701806
+    eccentricity 0.9316304288277926
+    diameter 109.50511418338307
+    perimeter 505.57063453597686
+    degree 1.0
+    strength 0.6942208959598567
+    betweenness 0.0
+  ]
+  node [
+    id 1090
+    label "1090"
+    idx 1090
+    row 2370
+    column 7365
+    demarcated "False"
+    area 3687.0
+    solidity 0.9303557910673732
+    eccentricity 0.9541254278886564
+    diameter 68.51594122128473
+    perimeter 299.237590053236
+    degree 1.0
+    strength 0.9721627372452017
+    betweenness 0.0
+  ]
+  node [
+    id 1091
+    label "1091"
+    idx 1091
+    row 2385
+    column 11050
+    demarcated "False"
+    area 3956.0
+    solidity 0.9641725566658542
+    eccentricity 0.8272266651775877
+    diameter 70.97137196766245
+    perimeter 258.1076477383247
+    degree 1.0
+    strength 0.9796915635510259
+    betweenness 0.0
+  ]
+  node [
+    id 1092
+    label "1092"
+    idx 1092
+    row 2397
+    column 11183
+    demarcated "False"
+    area 9943.0
+    solidity 0.9749950970778584
+    eccentricity 0.7647625103370521
+    diameter 112.51586907321884
+    perimeter 397.84776310850236
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1093
+    label "1093"
+    idx 1093
+    row 2388
+    column 1563
+    demarcated "False"
+    area 2365.0
+    solidity 0.9829592684954281
+    eccentricity 0.763624817293827
+    diameter 54.87450704378728
+    perimeter 189.7228714274745
+    degree 4.0
+    strength 3.627690857824358
+    betweenness 8.954792179421798E-06
+  ]
+  node [
+    id 1094
+    label "1094"
+    idx 1094
+    row 2376
+    column 5634
+    demarcated "False"
+    area 1872.0
+    solidity 0.9790794979079498
+    eccentricity 0.7598638048575952
+    diameter 48.821147341538634
+    perimeter 166.0243866176395
+    degree 1.0
+    strength 0.9502335239030922
+    betweenness 0.0
+  ]
+  node [
+    id 1095
+    label "1095"
+    idx 1095
+    row 2384
+    column 6924
+    demarcated "False"
+    area 2240.0
+    solidity 0.9169054441260746
+    eccentricity 0.8449655783686696
+    diameter 53.404649424996364
+    perimeter 217.6223663640862
+    degree 3.0
+    strength 2.318374949692831
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1096
+    label "1096"
+    idx 1096
+    row 2429
+    column 12361
+    demarcated "False"
+    area 8304.0
+    solidity 0.6698935140367861
+    eccentricity 0.6698976672871007
+    diameter 102.82500269623527
+    perimeter 531.1858582251266
+    degree 3.0
+    strength 2.4953746281989253
+    betweenness 0.0002167059707420075
+  ]
+  node [
+    id 1097
+    label "1097"
+    idx 1097
+    row 2383
+    column 4598
+    demarcated "False"
+    area 1397.0
+    solidity 0.9789768745620182
+    eccentricity 0.6368011748805845
+    diameter 42.17482239435066
+    perimeter 140.95331880577405
+    degree 3.0
+    strength 2.838651223437042
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1098
+    label "1098"
+    idx 1098
+    row 2385
+    column 12490
+    demarcated "False"
+    area 1736.0
+    solidity 0.9819004524886877
+    eccentricity 0.6899919333548872
+    diameter 47.01429409935071
+    perimeter 157.6812408671319
+    degree 5.0
+    strength 4.776122360099098
+    betweenness 0.00021804918956892078
+  ]
+  node [
+    id 1099
+    label "1099"
+    idx 1099
+    row 2432
+    column 5523
+    demarcated "False"
+    area 9370.0
+    solidity 0.8491164476665156
+    eccentricity 0.8674045818362345
+    diameter 109.22570454873923
+    perimeter 459.38686835190333
+    degree 2.0
+    strength 1.4462492595485232
+    betweenness 0.0
+  ]
+  node [
+    id 1100
+    label "1100"
+    idx 1100
+    row 2392
+    column 12883
+    demarcated "False"
+    area 524.0
+    solidity 0.9757914338919925
+    eccentricity 0.9364355615140673
+    diameter 25.829779740470595
+    perimeter 107.49137802864844
+    degree 1.0
+    strength 0.6942208959598567
+    betweenness 0.0
+  ]
+  node [
+    id 1101
+    label "1101"
+    idx 1101
+    row 2428
+    column 11032
+    demarcated "False"
+    area 3456.0
+    solidity 0.8315688161693936
+    eccentricity 0.9387746853882123
+    diameter 66.33487669849642
+    perimeter 292.43354954612926
+    degree 2.0
+    strength 1.8489685981111423
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1102
+    label "1102"
+    idx 1102
+    row 2408
+    column 7061
+    demarcated "False"
+    area 3527.0
+    solidity 0.8839598997493734
+    eccentricity 0.29284659694164217
+    diameter 67.01280380853288
+    perimeter 266.3086578651014
+    degree 3.0
+    strength 2.804548859013651
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1103
+    label "1103"
+    idx 1103
+    row 2387
+    column 8805
+    demarcated "False"
+    area 256.0
+    solidity 0.973384030418251
+    eccentricity 0.6883590754994959
+    diameter 18.0540666735282
+    perimeter 59.59797974644667
+    degree 1.0
+    strength 0.795544132226144
+    betweenness 0.0
+  ]
+  node [
+    id 1104
+    label "1104"
+    idx 1104
+    row 2464
+    column 7302
+    demarcated "False"
+    area 40409.0
+    solidity 0.7804581273176762
+    eccentricity 0.9104468172906323
+    diameter 226.8266667814946
+    perimeter 1667.8174593052024
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1105
+    label "1105"
+    idx 1105
+    row 2456
+    column 12667
+    demarcated "False"
+    area 23680.0
+    solidity 0.8594345443327406
+    eccentricity 0.7101408964504059
+    diameter 173.63845317016808
+    perimeter 780.6660889654819
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1106
+    label "1106"
+    idx 1106
+    row 2392
+    column 12398
+    demarcated "False"
+    area 277.0
+    solidity 0.9584775086505191
+    eccentricity 0.5743650361928947
+    diameter 18.77997214831907
+    perimeter 63.11269837220809
+    degree 5.0
+    strength 4.471470932670753
+    betweenness 0.0012921765114905653
+  ]
+  node [
+    id 1107
+    label "1107"
+    idx 1107
+    row 2417
+    column 7006
+    demarcated "False"
+    area 2330.0
+    solidity 0.9696213066999584
+    eccentricity 0.6359010424169266
+    diameter 54.46694538188211
+    perimeter 190.99494936611666
+    degree 4.0
+    strength 3.6563141355622153
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1108
+    label "1108"
+    idx 1108
+    row 2404
+    column 2750
+    demarcated "False"
+    area 837.0
+    solidity 0.977803738317757
+    eccentricity 0.7991806886357908
+    diameter 32.64508384034771
+    perimeter 112.32590180780451
+    degree 1.0
+    strength 0.16964197179756277
+    betweenness 0.0
+  ]
+  node [
+    id 1109
+    label "1109"
+    idx 1109
+    row 2454
+    column 6874
+    demarcated "False"
+    area 16241.0
+    solidity 0.8779393480728688
+    eccentricity 0.8531547217075165
+    diameter 143.80084647193067
+    perimeter 798.6072144624361
+    degree 1.0
+    strength 0.5629690099185032
+    betweenness 0.0
+  ]
+  node [
+    id 1110
+    label "1110"
+    idx 1110
+    row 2426
+    column 6230
+    demarcated "False"
+    area 4616.0
+    solidity 0.8982292274761626
+    eccentricity 0.8083849398055057
+    diameter 76.66337938349386
+    perimeter 295.7645019878171
+    degree 1.0
+    strength 0.9319677633842156
+    betweenness 0.0
+  ]
+  node [
+    id 1111
+    label "1111"
+    idx 1111
+    row 2414
+    column 5019
+    demarcated "False"
+    area 2161.0
+    solidity 0.9831665150136488
+    eccentricity 0.7959698633202245
+    diameter 52.454462690725244
+    perimeter 183.58073580374355
+    degree 2.0
+    strength 1.9351301127091682
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 1112
+    label "1112"
+    idx 1112
+    row 2425
+    column 10863
+    demarcated "False"
+    area 4328.0
+    solidity 0.9585825027685493
+    eccentricity 0.771697588371466
+    diameter 74.23328599498869
+    perimeter 269.5218613006979
+    degree 2.0
+    strength 1.8779757980067155
+    betweenness 0.0
+  ]
+  node [
+    id 1113
+    label "1113"
+    idx 1113
+    row 2451
+    column 10326
+    demarcated "False"
+    area 10683.0
+    solidity 0.949346840842442
+    eccentricity 0.7844494837879095
+    diameter 116.62768992141507
+    perimeter 425.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1114
+    label "1114"
+    idx 1114
+    row 2455
+    column 10963
+    demarcated "False"
+    area 6870.0
+    solidity 0.9697910784867306
+    eccentricity 0.779600391161671
+    diameter 93.52622986269984
+    perimeter 342.8183258569795
+    degree 1.0
+    strength 0.8692770345601164
+    betweenness 0.0
+  ]
+  node [
+    id 1115
+    label "1115"
+    idx 1115
+    row 2453
+    column 4284
+    demarcated "False"
+    area 13291.0
+    solidity 0.894414535666218
+    eccentricity 0.9341582052858955
+    diameter 130.08699700229477
+    perimeter 594.0315292925759
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1116
+    label "1116"
+    idx 1116
+    row 2484
+    column 10506
+    demarcated "False"
+    area 12809.0
+    solidity 0.9021057820973308
+    eccentricity 0.6286682841953681
+    diameter 127.70640284853653
+    perimeter 505.4284989122459
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1117
+    label "1117"
+    idx 1117
+    row 2443
+    column 8883
+    demarcated "False"
+    area 5830.0
+    solidity 0.9677954847277557
+    eccentricity 0.675581049753544
+    diameter 86.15675565970436
+    perimeter 302.35028842544403
+    degree 2.0
+    strength 1.5575075634087558
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1118
+    label "1118"
+    idx 1118
+    row 2428
+    column 10213
+    demarcated "False"
+    area 1563.0
+    solidity 0.9654107473749228
+    eccentricity 0.8416958422815072
+    diameter 44.610238829455504
+    perimeter 158.50966799187808
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1119
+    label "1119"
+    idx 1119
+    row 2470
+    column 5369
+    demarcated "False"
+    area 14500.0
+    solidity 0.9330158934431504
+    eccentricity 0.8005926904895939
+    diameter 135.8748446131949
+    perimeter 507.00209204105306
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1120
+    label "1120"
+    idx 1120
+    row 2424
+    column 7966
+    demarcated "False"
+    area 1445.0
+    solidity 0.9730639730639731
+    eccentricity 0.8473152285685804
+    diameter 42.89325287434272
+    perimeter 155.29646455628168
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1121
+    label "1121"
+    idx 1121
+    row 2464
+    column 1587
+    demarcated "False"
+    area 5950.0
+    solidity 0.9887005649717514
+    eccentricity 0.6487327335145143
+    diameter 87.03892974511014
+    perimeter 293.22034611053283
+    degree 3.0
+    strength 2.486361569640492
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1122
+    label "1122"
+    idx 1122
+    row 2439
+    column 3600
+    demarcated "False"
+    area 1686.0
+    solidity 0.9579545454545455
+    eccentricity 0.6236835817118312
+    diameter 46.33229837190774
+    perimeter 161.6812408671319
+    degree 1.0
+    strength 0.803780404001252
+    betweenness 0.0
+  ]
+  node [
+    id 1123
+    label "1123"
+    idx 1123
+    row 2451
+    column 12035
+    demarcated "False"
+    area 3703.0
+    solidity 0.9731931668856767
+    eccentricity 0.6684860974246636
+    diameter 68.66444519658124
+    perimeter 237.17871555019025
+    degree 1.0
+    strength 0.748390757420237
+    betweenness 0.0
+  ]
+  node [
+    id 1124
+    label "1124"
+    idx 1124
+    row 2474
+    column 12292
+    demarcated "False"
+    area 6539.0
+    solidity 0.939376526361155
+    eccentricity 0.8174619568887327
+    diameter 91.24534718561395
+    perimeter 340.8772003600252
+    degree 2.0
+    strength 1.7799419975031145
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1125
+    label "1125"
+    idx 1125
+    row 2443
+    column 12489
+    demarcated "False"
+    area 3631.0
+    solidity 0.9800269905533063
+    eccentricity 0.87551613715282
+    diameter 67.99362313433059
+    perimeter 247.095454429505
+    degree 2.0
+    strength 1.9011051513070574
+    betweenness 0.0
+  ]
+  node [
+    id 1126
+    label "1126"
+    idx 1126
+    row 2459
+    column 6451
+    demarcated "False"
+    area 5074.0
+    solidity 0.9804830917874396
+    eccentricity 0.8034360756831926
+    diameter 80.37672206544762
+    perimeter 284.73506473629425
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1127
+    label "1127"
+    idx 1127
+    row 2775
+    column 12672
+    demarcated "False"
+    area 253332.0
+    solidity 0.8446877750806904
+    eccentricity 0.712634442118035
+    diameter 567.9368982086374
+    perimeter 2948.4246737676385
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1128
+    label "1128"
+    idx 1128
+    row 2439
+    column 5610
+    demarcated "False"
+    area 628.0
+    solidity 0.9661538461538461
+    eccentricity 0.5500551717398591
+    diameter 28.277100878514442
+    perimeter 97.91168824543142
+    degree 3.0
+    strength 2.5831015526197145
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1129
+    label "1129"
+    idx 1129
+    row 2428
+    column 11442
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 4.0
+    strength 3.755301459769612
+    betweenness 0.00010835298537100375
+  ]
+  node [
+    id 1130
+    label "1130"
+    idx 1130
+    row 2568
+    column 11755
+    demarcated "False"
+    area 64624.0
+    solidity 0.9545219561910108
+    eccentricity 0.8601620484800669
+    diameter 286.8480997653029
+    perimeter 1206.35447250755
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1131
+    label "1131"
+    idx 1131
+    row 2455
+    column 5024
+    demarcated "False"
+    area 3596.0
+    solidity 0.902157551430005
+    eccentricity 0.8993247567586838
+    diameter 67.66512693306387
+    perimeter 263.2375900532359
+    degree 1.0
+    strength 0.9428150072065088
+    betweenness 0.0
+  ]
+  node [
+    id 1132
+    label "1132"
+    idx 1132
+    row 2429
+    column 11441
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 4.0
+    strength 3.755301459769611
+    betweenness 0.00010835298537100375
+  ]
+  node [
+    id 1133
+    label "1133"
+    idx 1133
+    row 2446
+    column 11442
+    demarcated "False"
+    area 523.0
+    solidity 0.9509090909090909
+    eccentricity 0.7356092103867494
+    diameter 25.805121233904135
+    perimeter 93.32590180780451
+    degree 5.0
+    strength 4.491080905861835
+    betweenness 0.0002167059707420075
+  ]
+  node [
+    id 1134
+    label "1134"
+    idx 1134
+    row 2484
+    column 11354
+    demarcated "False"
+    area 8579.0
+    solidity 0.8972910783390858
+    eccentricity 0.8855652562058227
+    diameter 104.51374098310212
+    perimeter 459.38686835190333
+    degree 2.0
+    strength 1.4527242510107654
+    betweenness 0.0
+  ]
+  node [
+    id 1135
+    label "1135"
+    idx 1135
+    row 2511
+    column 3016
+    demarcated "False"
+    area 21766.0
+    solidity 0.875226185210503
+    eccentricity 0.9485380292064518
+    diameter 166.47321685696338
+    perimeter 775.1513703397204
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1136
+    label "1136"
+    idx 1136
+    row 2442
+    column 1522
+    demarcated "False"
+    area 370.0
+    solidity 0.9840425531914894
+    eccentricity 0.6142506399624422
+    diameter 21.70480664627101
+    perimeter 71.94112549695427
+    degree 3.0
+    strength 2.544355638046415
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1137
+    label "1137"
+    idx 1137
+    row 2459
+    column 5573
+    demarcated "False"
+    area 2284.0
+    solidity 0.9857574449719465
+    eccentricity 0.39774598919210497
+    diameter 53.926608647078034
+    perimeter 178.61017305526642
+    degree 2.0
+    strength 1.6819882813942546
+    betweenness 0.0
+  ]
+  node [
+    id 1138
+    label "1138"
+    idx 1138
+    row 2474
+    column 2499
+    demarcated "False"
+    area 5737.0
+    solidity 0.944828722002635
+    eccentricity 0.8325486587712757
+    diameter 85.46680799085472
+    perimeter 311.27922061357856
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1139
+    label "1139"
+    idx 1139
+    row 2470
+    column 3977
+    demarcated "False"
+    area 2226.0
+    solidity 0.9729020979020979
+    eccentricity 0.3718908025058156
+    diameter 53.23749831256604
+    perimeter 178.7523086789974
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1140
+    label "1140"
+    idx 1140
+    row 2485
+    column 11943
+    demarcated "False"
+    area 10766.0
+    solidity 0.9395235186316433
+    eccentricity 0.9292691884449603
+    diameter 117.0798741826227
+    perimeter 484.6173157302028
+    degree 3.0
+    strength 2.2613313508673714
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1141
+    label "1141"
+    idx 1141
+    row 2483
+    column 9190
+    demarcated "False"
+    area 7213.0
+    solidity 0.938948190575371
+    eccentricity 0.9493829237787762
+    diameter 95.83254580869031
+    perimeter 410.43354954612926
+    degree 1.0
+    strength 0.8385844003731934
+    betweenness 0.0
+  ]
+  node [
+    id 1142
+    label "1142"
+    idx 1142
+    row 2471
+    column 4455
+    demarcated "False"
+    area 1195.0
+    solidity 0.9529505582137161
+    eccentricity 0.8696017418316314
+    diameter 39.00668219624068
+    perimeter 148.88225099390854
+    degree 3.0
+    strength 2.4704145580386623
+    betweenness 0.0
+  ]
+  node [
+    id 1143
+    label "1143"
+    idx 1143
+    row 2472
+    column 5128
+    demarcated "False"
+    area 1488.0
+    solidity 0.914004914004914
+    eccentricity 0.8017538777774413
+    diameter 43.52677845379694
+    perimeter 158.5096679918781
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1144
+    label "1144"
+    idx 1144
+    row 2477
+    column 5960
+    demarcated "False"
+    area 4260.0
+    solidity 0.9523809523809523
+    eccentricity 0.6542543672260627
+    diameter 73.64781368494107
+    perimeter 261.3797256769669
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1145
+    label "1145"
+    idx 1145
+    row 2489
+    column 12406
+    demarcated "False"
+    area 4225.0
+    solidity 0.9395152323771403
+    eccentricity 0.8798691190051162
+    diameter 73.34464586120832
+    perimeter 275.6051224213831
+    degree 5.0
+    strength 4.482662646958889
+    betweenness 0.0006510133914439647
+  ]
+  node [
+    id 1146
+    label "1146"
+    idx 1146
+    row 2509
+    column 3811
+    demarcated "False"
+    area 24557.0
+    solidity 0.8327794357026587
+    eccentricity 0.9461080868699123
+    diameter 176.82461225763055
+    perimeter 862.5239533417509
+    degree 1.0
+    strength 0.3730090713424943
+    betweenness 0.0
+  ]
+  node [
+    id 1147
+    label "1147"
+    idx 1147
+    row 2513
+    column 2397
+    demarcated "False"
+    area 10254.0
+    solidity 0.8829759752002067
+    eccentricity 0.8203301884624875
+    diameter 114.26197220297905
+    perimeter 476.0731598529186
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1148
+    label "1148"
+    idx 1148
+    row 2477
+    column 1759
+    demarcated "False"
+    area 776.0
+    solidity 0.8362068965517241
+    eccentricity 0.940570709009335
+    diameter 31.433006326383836
+    perimeter 138.02438661763952
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1149
+    label "1149"
+    idx 1149
+    row 2491
+    column 4918
+    demarcated "False"
+    area 6738.0
+    solidity 0.9550673281360738
+    eccentricity 0.8944414709807319
+    diameter 92.62336666535894
+    perimeter 351.22034611053283
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1150
+    label "1150"
+    idx 1150
+    row 2494
+    column 8652
+    demarcated "False"
+    area 9044.0
+    solidity 0.9864746945898778
+    eccentricity 0.8243871816735056
+    diameter 107.30879946483797
+    perimeter 377.22034611053283
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1151
+    label "1151"
+    idx 1151
+    row 2479
+    column 4489
+    demarcated "False"
+    area 907.0
+    solidity 0.9398963730569948
+    eccentricity 0.8812936109381148
+    diameter 33.982764264767994
+    perimeter 125.35533905932738
+    degree 3.0
+    strength 2.453001344573728
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1152
+    label "1152"
+    idx 1152
+    row 2519
+    column 8844
+    demarcated "False"
+    area 12455.0
+    solidity 0.9412075870928739
+    eccentricity 0.8976347208152283
+    diameter 125.92933943158938
+    perimeter 501.28636328851496
+    degree 3.0
+    strength 1.9813302505215167
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1153
+    label "1153"
+    idx 1153
+    row 2492
+    column 7086
+    demarcated "False"
+    area 2323.0
+    solidity 0.9785172704296546
+    eccentricity 0.5665927835134357
+    diameter 54.38506653870879
+    perimeter 182.30865786510142
+    degree 2.0
+    strength 1.9106059519304464
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1154
+    label "1154"
+    idx 1154
+    row 2500
+    column 4403
+    demarcated "False"
+    area 3993.0
+    solidity 0.9548063127690101
+    eccentricity 0.38731231685142536
+    diameter 71.30249295871431
+    perimeter 249.27922061357856
+    degree 3.0
+    strength 2.644399781610453
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1155
+    label "1155"
+    idx 1155
+    row 2500
+    column 3560
+    demarcated "False"
+    area 7009.0
+    solidity 0.8898057636155897
+    eccentricity 0.9500679854328058
+    diameter 94.46764509105091
+    perimeter 441.26197667087547
+    degree 2.0
+    strength 1.6153493315926835
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1156
+    label "1156"
+    idx 1156
+    row 2501
+    column 9617
+    demarcated "False"
+    area 4437.0
+    solidity 0.9792540278084308
+    eccentricity 0.7881929437024147
+    diameter 75.1622502323468
+    perimeter 260.2081528017131
+    degree 1.0
+    strength 0.8721711734447298
+    betweenness 0.0
+  ]
+  node [
+    id 1157
+    label "1157"
+    idx 1157
+    row 2520
+    column 5866
+    demarcated "False"
+    area 8648.0
+    solidity 0.8751264926128314
+    eccentricity 0.824469300498601
+    diameter 104.9331958098565
+    perimeter 428.2325394193526
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1158
+    label "1158"
+    idx 1158
+    row 2494
+    column 9405
+    demarcated "False"
+    area 1899.0
+    solidity 0.9738461538461538
+    eccentricity 0.8865421180548686
+    diameter 49.17196249339733
+    perimeter 185.6223663640862
+    degree 1.0
+    strength 0.9251093343182742
+    betweenness 0.0
+  ]
+  node [
+    id 1159
+    label "1159"
+    idx 1159
+    row 2508
+    column 9348
+    demarcated "False"
+    area 3796.0
+    solidity 0.9826559668651307
+    eccentricity 0.7586044536903618
+    diameter 69.52134428946752
+    perimeter 241.37972567696687
+    degree 3.0
+    strength 2.7259556155605944
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1160
+    label "1160"
+    idx 1160
+    row 2516
+    column 6755
+    demarcated "False"
+    area 3720.0
+    solidity 0.8322147651006712
+    eccentricity 0.9085058938123448
+    diameter 68.82187956177022
+    perimeter 308.97770542341357
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1161
+    label "1161"
+    idx 1161
+    row 2502
+    column 11432
+    demarcated "False"
+    area 1050.0
+    solidity 0.967741935483871
+    eccentricity 0.7679296493515587
+    diameter 36.56366395715726
+    perimeter 130.71067811865478
+    degree 4.0
+    strength 3.6285577366435646
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1162
+    label "1162"
+    idx 1162
+    row 2512
+    column 7494
+    demarcated "False"
+    area 1448.0
+    solidity 0.9589403973509933
+    eccentricity 0.8774997577206209
+    diameter 42.937755656025104
+    perimeter 162.61017305526642
+    degree 1.0
+    strength 0.8871510131930525
+    betweenness 0.0
+  ]
+  node [
+    id 1163
+    label "1163"
+    idx 1163
+    row 2526
+    column 8995
+    demarcated "False"
+    area 2204.0
+    solidity 0.9704975781594012
+    eccentricity 0.759774129861759
+    diameter 52.97376668310739
+    perimeter 185.3380951166243
+    degree 1.0
+    strength 0.9298667550771289
+    betweenness 0.0
+  ]
+  node [
+    id 1164
+    label "1164"
+    idx 1164
+    row 2526
+    column 8099
+    demarcated "False"
+    area 1715.0
+    solidity 0.9689265536723164
+    eccentricity 0.5707806771952878
+    diameter 46.72906824687182
+    perimeter 161.23759005323595
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1165
+    label "1165"
+    idx 1165
+    row 2539
+    column 1508
+    demarcated "False"
+    area 4981.0
+    solidity 0.9859461599366588
+    eccentricity 0.6606861494713975
+    diameter 79.63671372128465
+    perimeter 268.0071426749364
+    degree 2.0
+    strength 1.7788586860476205
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1166
+    label "1166"
+    idx 1166
+    row 2536
+    column 9102
+    demarcated "False"
+    area 5128.0
+    solidity 0.9850172877449097
+    eccentricity 0.7980594889453408
+    diameter 80.8032943969608
+    perimeter 281.37972567696687
+    degree 1.0
+    strength 0.9354160216485412
+    betweenness 0.0
+  ]
+  node [
+    id 1167
+    label "1167"
+    idx 1167
+    row 2533
+    column 6330
+    demarcated "False"
+    area 4483.0
+    solidity 0.9857080035180299
+    eccentricity 0.8646056058901673
+    diameter 75.55086286104041
+    perimeter 269.7228714274745
+    degree 1.0
+    strength 0.9332306463243164
+    betweenness 0.0
+  ]
+  node [
+    id 1168
+    label "1168"
+    idx 1168
+    row 2534
+    column 1625
+    demarcated "False"
+    area 1345.0
+    solidity 0.9491884262526464
+    eccentricity 0.9367949127001134
+    diameter 41.382450237616354
+    perimeter 163.1370849898476
+    degree 1.0
+    strength 0.8278145991002225
+    betweenness 0.0
+  ]
+  node [
+    id 1169
+    label "1169"
+    idx 1169
+    row 2530
+    column 9544
+    demarcated "False"
+    area 1104.0
+    solidity 0.9752650176678446
+    eccentricity 0.8017619054763069
+    diameter 37.492085263260826
+    perimeter 129.78174593052023
+    degree 2.0
+    strength 1.7795349271304646
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1170
+    label "1170"
+    idx 1170
+    row 2609
+    column 3371
+    demarcated "False"
+    area 29081.0
+    solidity 0.7552133378346794
+    eccentricity 0.8876901767336963
+    diameter 192.42421677232642
+    perimeter 1297.910821693654
+    degree 1.0
+    strength 0.34130005483612996
+    betweenness 0.0
+  ]
+  node [
+    id 1171
+    label "1171"
+    idx 1171
+    row 2531
+    column 7177
+    demarcated "False"
+    area 1298.0
+    solidity 0.9096005606166784
+    eccentricity 0.8110466145915757
+    diameter 40.65298179797198
+    perimeter 150.8111831820431
+    degree 1.0
+    strength 0.9588114348832085
+    betweenness 0.0
+  ]
+  node [
+    id 1172
+    label "1172"
+    idx 1172
+    row 2549
+    column 12343
+    demarcated "False"
+    area 2573.0
+    solidity 0.9658408408408409
+    eccentricity 0.4682942855295198
+    diameter 57.236748235758235
+    perimeter 197.86500705120545
+    degree 4.0
+    strength 3.7207358007635882
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1173
+    label "1173"
+    idx 1173
+    row 2528
+    column 11249
+    demarcated "False"
+    area 392.0
+    solidity 0.9491525423728814
+    eccentricity 0.817782399205644
+    diameter 22.34076770248023
+    perimeter 79.84062043356595
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1174
+    label "1174"
+    idx 1174
+    row 2593
+    column 3975
+    demarcated "False"
+    area 14596.0
+    solidity 0.9494568399141352
+    eccentricity 0.7797230430359172
+    diameter 136.32389517232272
+    perimeter 526.9015869776647
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1175
+    label "1175"
+    idx 1175
+    row 2571
+    column 4112
+    demarcated "False"
+    area 8400.0
+    solidity 0.9395973154362416
+    eccentricity 0.7429054668750018
+    diameter 103.41765891652821
+    perimeter 415.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1176
+    label "1176"
+    idx 1176
+    row 2569
+    column 6956
+    demarcated "False"
+    area 12595.0
+    solidity 0.8858489238992826
+    eccentricity 0.9217407567990802
+    diameter 126.6351138742307
+    perimeter 522.6173157302028
+    degree 1.0
+    strength 0.6284134548022924
+    betweenness 0.0
+  ]
+  node [
+    id 1177
+    label "1177"
+    idx 1177
+    row 2550
+    column 7369
+    demarcated "False"
+    area 1308.0
+    solidity 0.9667405764966741
+    eccentricity 0.49835401819820396
+    diameter 40.809279882320794
+    perimeter 138.12489168102786
+    degree 1.0
+    strength 0.9519898214074437
+    betweenness 0.0
+  ]
+  node [
+    id 1178
+    label "1178"
+    idx 1178
+    row 2544
+    column 5518
+    demarcated "False"
+    area 1023.0
+    solidity 0.9291553133514986
+    eccentricity 0.9439830615006616
+    diameter 36.09049811604256
+    perimeter 153.29646455628165
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1179
+    label "1179"
+    idx 1179
+    row 2550
+    column 9214
+    demarcated "False"
+    area 2923.0
+    solidity 0.9621461487820935
+    eccentricity 0.9303316030029347
+    diameter 61.005566871072354
+    perimeter 238.8528137423857
+    degree 3.0
+    strength 2.727062898992577
+    betweenness 2.3730199275467765E-05
+  ]
+  node [
+    id 1180
+    label "1180"
+    idx 1180
+    row 2569
+    column 3416
+    demarcated "False"
+    area 2884.0
+    solidity 0.9518151815181518
+    eccentricity 0.866531191442207
+    diameter 60.59721814585394
+    perimeter 228.20815280171308
+    degree 1.0
+    strength 0.34130005483612996
+    betweenness 0.0
+  ]
+  node [
+    id 1181
+    label "1181"
+    idx 1181
+    row 2562
+    column 5001
+    demarcated "False"
+    area 1552.0
+    solidity 0.9730407523510972
+    eccentricity 0.740987177672286
+    diameter 44.45298385293132
+    perimeter 153.0538238691624
+    degree 2.0
+    strength 1.9357616524459265
+    betweenness 0.0
+  ]
+  node [
+    id 1182
+    label "1182"
+    idx 1182
+    row 2583
+    column 4259
+    demarcated "False"
+    area 8409.0
+    solidity 0.9696725092250923
+    eccentricity 0.8338715801207414
+    diameter 103.47304640184315
+    perimeter 368.6761902332486
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1183
+    label "1183"
+    idx 1183
+    row 2552
+    column 4386
+    demarcated "False"
+    area 650.0
+    solidity 0.9863429438543247
+    eccentricity 0.2494075305989178
+    diameter 28.76813695875796
+    perimeter 94.22539674441617
+    degree 1.0
+    strength 0.8718133516353842
+    betweenness 0.0
+  ]
+  node [
+    id 1184
+    label "1184"
+    idx 1184
+    row 2572
+    column 7479
+    demarcated "False"
+    area 4366.0
+    solidity 0.9317114810072556
+    eccentricity 0.8255443781409882
+    diameter 74.55845929412517
+    perimeter 283.1787155501902
+    degree 1.0
+    strength 0.8871510131930525
+    betweenness 0.0
+  ]
+  node [
+    id 1185
+    label "1185"
+    idx 1185
+    row 2591
+    column 8009
+    demarcated "False"
+    area 14509.0
+    solidity 0.9295278365045807
+    eccentricity 0.8004450664802926
+    diameter 135.9170061271307
+    perimeter 591.4051583151329
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1186
+    label "1186"
+    idx 1186
+    row 2552
+    column 11931
+    demarcated "False"
+    area 864.0
+    solidity 0.9740698985343855
+    eccentricity 0.8175038820000041
+    diameter 33.16743834924821
+    perimeter 116.08326112068522
+    degree 2.0
+    strength 1.4535806278106826
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1187
+    label "1187"
+    idx 1187
+    row 2567
+    column 7319
+    demarcated "False"
+    area 2507.0
+    solidity 0.9156318480642806
+    eccentricity 0.8002405875890002
+    diameter 56.49788968316474
+    perimeter 211.3380951166243
+    degree 1.0
+    strength 0.9519898214074437
+    betweenness 0.0
+  ]
+  node [
+    id 1188
+    label "1188"
+    idx 1188
+    row 2552
+    column 9293
+    demarcated "False"
+    area 676.0
+    solidity 0.9712643678160919
+    eccentricity 0.7839661108712559
+    diameter 29.33785834448333
+    perimeter 102.08326112068522
+    degree 4.0
+    strength 3.5647085995725067
+    betweenness 4.029656480739809E-05
+  ]
+  node [
+    id 1189
+    label "1189"
+    idx 1189
+    row 2585
+    column 12305
+    demarcated "False"
+    area 2596.0
+    solidity 0.9512641993404177
+    eccentricity 0.8293007994391859
+    diameter 57.49199820959855
+    perimeter 206.99494936611666
+    degree 2.0
+    strength 1.9355864834892538
+    betweenness 0.0
+  ]
+  node [
+    id 1190
+    label "1190"
+    idx 1190
+    row 2573
+    column 12388
+    demarcated "False"
+    area 998.0
+    solidity 0.94062205466541
+    eccentricity 0.8919305127031892
+    diameter 35.64678198162763
+    perimeter 135.78174593052023
+    degree 3.0
+    strength 2.749917129237666
+    betweenness 0.0002171537103509786
+  ]
+  node [
+    id 1191
+    label "1191"
+    idx 1191
+    row 2597
+    column 4747
+    demarcated "False"
+    area 7069.0
+    solidity 0.8121553308823529
+    eccentricity 0.9133032409530306
+    diameter 94.87112491023211
+    perimeter 413.50461735799473
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1192
+    label "1192"
+    idx 1192
+    row 2622
+    column 8676
+    demarcated "False"
+    area 21522.0
+    solidity 0.9723941625626892
+    eccentricity 0.818507238183393
+    diameter 165.53749267700707
+    perimeter 595.6711395993652
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1193
+    label "1193"
+    idx 1193
+    row 2592
+    column 9534
+    demarcated "False"
+    area 3473.0
+    solidity 0.984131482006234
+    eccentricity 0.7866077544152024
+    diameter 66.49782657249197
+    perimeter 231.03657992645927
+    degree 2.0
+    strength 1.7598612377361307
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 1194
+    label "1194"
+    idx 1194
+    row 2599
+    column 6315
+    demarcated "False"
+    area 6167.0
+    solidity 0.9565689467969598
+    eccentricity 0.8007458141999696
+    diameter 88.61189690093396
+    perimeter 320.2914139223983
+    degree 1.0
+    strength 0.9332306463243164
+    betweenness 0.0
+  ]
+  node [
+    id 1195
+    label "1195"
+    idx 1195
+    row 2578
+    column 8955
+    demarcated "False"
+    area 432.0
+    solidity 0.9536423841059603
+    eccentricity 0.7797104239458631
+    diameter 23.452920571340155
+    perimeter 80.2842712474619
+    degree 3.0
+    strength 2.9236821778265005
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1196
+    label "1196"
+    idx 1196
+    row 2738
+    column 7485
+    demarcated "False"
+    area 113352.0
+    solidity 0.7788748943538579
+    eccentricity 0.888988166654627
+    diameter 379.9003143915785
+    perimeter 2854.91204718293
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1197
+    label "1197"
+    idx 1197
+    row 2590
+    column 9766
+    demarcated "False"
+    area 2276.0
+    solidity 0.9840034587116299
+    eccentricity 0.6368146725194331
+    diameter 53.83208340587637
+    perimeter 184.89444430272835
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1198
+    label "1198"
+    idx 1198
+    row 2581
+    column 3518
+    demarcated "False"
+    area 1921.0
+    solidity 0.8629829290206649
+    eccentricity 0.9572814143870475
+    diameter 49.455971989601494
+    perimeter 219.09545442950497
+    degree 1.0
+    strength 0.8115689275914315
+    betweenness 0.0
+  ]
+  node [
+    id 1199
+    label "1199"
+    idx 1199
+    row 2571
+    column 5040
+    demarcated "False"
+    area 213.0
+    solidity 0.9551569506726457
+    eccentricity 0.8160824320036065
+    diameter 16.46815177937675
+    perimeter 56.2842712474619
+    degree 2.0
+    strength 1.8828741279232482
+    betweenness 0.0
+  ]
+  node [
+    id 1200
+    label "1200"
+    idx 1200
+    row 2600
+    column 5295
+    demarcated "False"
+    area 5177.0
+    solidity 0.9419577874818049
+    eccentricity 0.9374688378190704
+    diameter 81.18842973659447
+    perimeter 340.97770542341357
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1201
+    label "1201"
+    idx 1201
+    row 2608
+    column 11991
+    demarcated "False"
+    area 6686.0
+    solidity 0.9770568464123922
+    eccentricity 0.8244761651803266
+    diameter 92.26526755014206
+    perimeter 329.50461735799473
+    degree 1.0
+    strength 0.7874891946847443
+    betweenness 0.0
+  ]
+  node [
+    id 1202
+    label "1202"
+    idx 1202
+    row 2617
+    column 6169
+    demarcated "False"
+    area 12743.0
+    solidity 0.942041842241443
+    eccentricity 0.7492499178020515
+    diameter 127.37696620095872
+    perimeter 470.80108191427644
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1203
+    label "1203"
+    idx 1203
+    row 2583
+    column 9356
+    demarcated "False"
+    area 1791.0
+    solidity 0.8573480134035424
+    eccentricity 0.9752608603206935
+    diameter 47.75324098551507
+    perimeter 238.50966799187808
+    degree 3.0
+    strength 2.7322632277856407
+    betweenness 0.0
+  ]
+  node [
+    id 1204
+    label "1204"
+    idx 1204
+    row 2630
+    column 3679
+    demarcated "False"
+    area 17878.0
+    solidity 0.8978956355783235
+    eccentricity 0.858761228545029
+    diameter 150.87404210391938
+    perimeter 697.9137802864846
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1205
+    label "1205"
+    idx 1205
+    row 2585
+    column 3780
+    demarcated "False"
+    area 525.0
+    solidity 0.9668508287292817
+    eccentricity 0.5836474886844037
+    diameter 25.854414729132053
+    perimeter 87.25483399593904
+    degree 2.0
+    strength 1.2548609580224692
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1206
+    label "1206"
+    idx 1206
+    row 2596
+    column 9170
+    demarcated "False"
+    area 3501.0
+    solidity 0.914576802507837
+    eccentricity 0.9533500896466893
+    diameter 66.76534764470117
+    perimeter 292.208152801713
+    degree 2.0
+    strength 1.9119768718205623
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1207
+    label "1207"
+    idx 1207
+    row 2610
+    column 1544
+    demarcated "False"
+    area 3763.0
+    solidity 0.976895119418484
+    eccentricity 0.7693428862136059
+    diameter 69.21849757715358
+    perimeter 240.35028842544403
+    degree 1.0
+    strength 0.9512478779711947
+    betweenness 0.0
+  ]
+  node [
+    id 1208
+    label "1208"
+    idx 1208
+    row 2586
+    column 8891
+    demarcated "False"
+    area 321.0
+    solidity 0.816793893129771
+    eccentricity 0.7535927336400563
+    diameter 20.216574731145414
+    perimeter 84.91168824543142
+    degree 3.0
+    strength 2.5970728821752718
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1209
+    label "1209"
+    idx 1209
+    row 2597
+    column 10464
+    demarcated "False"
+    area 1247.0
+    solidity 0.9757433489827856
+    eccentricity 0.6779228972234422
+    diameter 39.846326208130506
+    perimeter 138.46803743153546
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1210
+    label "1210"
+    idx 1210
+    row 2606
+    column 3846
+    demarcated "False"
+    area 3589.0
+    solidity 0.9555378061767839
+    eccentricity 0.7477847586281476
+    diameter 67.5992361351406
+    perimeter 243.96551211459382
+    degree 2.0
+    strength 1.8750224728825433
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1211
+    label "1211"
+    idx 1211
+    row 2628
+    column 2336
+    demarcated "False"
+    area 14473.0
+    solidity 0.9285301854109194
+    eccentricity 0.9408563905292892
+    diameter 135.74828150275792
+    perimeter 559.0020920410531
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1212
+    label "1212"
+    idx 1212
+    row 2634
+    column 5389
+    demarcated "False"
+    area 6250.0
+    solidity 0.9129418638621093
+    eccentricity 0.9095725614574837
+    diameter 89.20620580763855
+    perimeter 359.74725804511405
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1213
+    label "1213"
+    idx 1213
+    row 2634
+    column 9626
+    demarcated "False"
+    area 9690.0
+    solidity 0.9448127925117005
+    eccentricity 0.5462043975400506
+    diameter 111.07516008758991
+    perimeter 400.6761902332485
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1214
+    label "1214"
+    idx 1214
+    row 2602
+    column 5030
+    demarcated "False"
+    area 1816.0
+    solidity 0.9695675387079552
+    eccentricity 0.8809676920100814
+    diameter 48.08537213372748
+    perimeter 177.92388155425118
+    degree 2.0
+    strength 1.9255629445310811
+    betweenness 0.0
+  ]
+  node [
+    id 1215
+    label "1215"
+    idx 1215
+    row 2594
+    column 8872
+    demarcated "False"
+    area 472.0
+    solidity 0.9076923076923077
+    eccentricity 0.8329502944142515
+    diameter 24.514670406003766
+    perimeter 95.7401153701776
+    degree 3.0
+    strength 2.603755111931124
+    betweenness 0.0
+  ]
+  node [
+    id 1216
+    label "1216"
+    idx 1216
+    row 2664
+    column 7154
+    demarcated "False"
+    area 30476.0
+    solidity 0.8594472645234067
+    eccentricity 0.8340304065003169
+    diameter 196.98540140159832
+    perimeter 1111.1585130146568
+    degree 1.0
+    strength 0.2924897058568475
+    betweenness 0.0
+  ]
+  node [
+    id 1217
+    label "1217"
+    idx 1217
+    row 2626
+    column 9335
+    demarcated "False"
+    area 5581.0
+    solidity 0.8533639143730887
+    eccentricity 0.8855524868029165
+    diameter 84.29679649409545
+    perimeter 387.4041122946064
+    degree 3.0
+    strength 2.5292004069029317
+    betweenness 4.298300246122463E-05
+  ]
+  node [
+    id 1218
+    label "1218"
+    idx 1218
+    row 2676
+    column 2126
+    demarcated "False"
+    area 9808.0
+    solidity 0.8892918668963641
+    eccentricity 0.9820542752628848
+    diameter 111.74942261489531
+    perimeter 593.4772721475249
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1219
+    label "1219"
+    idx 1219
+    row 2611
+    column 9864
+    demarcated "False"
+    area 2056.0
+    solidity 0.9832615973218556
+    eccentricity 0.5940804018652996
+    diameter 51.164250253233405
+    perimeter 170.2670273047588
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1220
+    label "1220"
+    idx 1220
+    row 2629
+    column 6413
+    demarcated "False"
+    area 7830.0
+    solidity 0.9573297469128256
+    eccentricity 0.8180090872620819
+    diameter 99.84721145468373
+    perimeter 367.84776310850236
+    degree 2.0
+    strength 1.5047170384846198
+    betweenness 0.0
+  ]
+  node [
+    id 1221
+    label "1221"
+    idx 1221
+    row 2713
+    column 10075
+    demarcated "False"
+    area 38138.0
+    solidity 0.8208075068870524
+    eccentricity 0.9318211701461492
+    diameter 220.36063567958237
+    perimeter 1006.9453095790604
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1222
+    label "1222"
+    idx 1222
+    row 2607
+    column 6903
+    demarcated "False"
+    area 1274.0
+    solidity 0.9688212927756654
+    eccentricity 0.887158552020745
+    diameter 40.27539174226115
+    perimeter 149.19595949289334
+    degree 2.0
+    strength 1.5060056238889485
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1223
+    label "1223"
+    idx 1223
+    row 2630
+    column 8315
+    demarcated "False"
+    area 2080.0
+    solidity 0.9779031499764927
+    eccentricity 0.6233554364136477
+    diameter 51.46200786064549
+    perimeter 175.48023074035524
+    degree 2.0
+    strength 1.8846611462583363
+    betweenness 0.0
+  ]
+  node [
+    id 1224
+    label "1224"
+    idx 1224
+    row 2671
+    column 9237
+    demarcated "False"
+    area 18381.0
+    solidity 0.9389079021300506
+    eccentricity 0.7185810489338929
+    diameter 152.98175078020589
+    perimeter 624.1391770309008
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1225
+    label "1225"
+    idx 1225
+    row 2640
+    column 9465
+    demarcated "False"
+    area 7362.0
+    solidity 0.9730372720063442
+    eccentricity 0.9093981354987657
+    diameter 96.81729973687692
+    perimeter 375.84776310850236
+    degree 3.0
+    strength 2.482624068321046
+    betweenness 2.2834720057525583E-05
+  ]
+  node [
+    id 1226
+    label "1226"
+    idx 1226
+    row 2626
+    column 5140
+    demarcated "False"
+    area 2126.0
+    solidity 0.9332748024582967
+    eccentricity 0.8116897024750702
+    diameter 52.02794702952401
+    perimeter 195.63961030678925
+    degree 1.0
+    strength 0.22246442883968456
+    betweenness 0.0
+  ]
+  node [
+    id 1227
+    label "1227"
+    idx 1227
+    row 2679
+    column 8125
+    demarcated "False"
+    area 17104.0
+    solidity 0.9663822814848296
+    eccentricity 0.7853506683062714
+    diameter 147.57197963417792
+    perimeter 542.8843430349616
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1228
+    label "1228"
+    idx 1228
+    row 2690
+    column 2924
+    demarcated "False"
+    area 10113.0
+    solidity 0.7897696212417025
+    eccentricity 0.9435349186311502
+    diameter 113.47366000930217
+    perimeter 630.9026329981913
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1229
+    label "1229"
+    idx 1229
+    row 2637
+    column 6602
+    demarcated "False"
+    area 595.0
+    solidity 0.9643435980551054
+    eccentricity 0.7448565406634758
+    diameter 27.524126309792685
+    perimeter 94.5685424949238
+    degree 2.0
+    strength 1.9766343715564785
+    betweenness 0.0
+  ]
+  node [
+    id 1230
+    label "1230"
+    idx 1230
+    row 2639
+    column 6501
+    demarcated "False"
+    area 593.0
+    solidity 0.9721311475409836
+    eccentricity 0.6326647912396222
+    diameter 27.47782833536798
+    perimeter 93.39696961966999
+    degree 4.0
+    strength 3.695137938576398
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1231
+    label "1231"
+    idx 1231
+    row 2658
+    column 5530
+    demarcated "False"
+    area 2768.0
+    solidity 0.9812123360510457
+    eccentricity 0.8414427543510153
+    diameter 59.36604298609543
+    perimeter 210.49242404917499
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1232
+    label "1232"
+    idx 1232
+    row 2711
+    column 5127
+    demarcated "False"
+    area 38753.0
+    solidity 0.7703761132315522
+    eccentricity 0.9071510215737709
+    diameter 222.13025925596395
+    perimeter 1563.592062560786
+    degree 1.0
+    strength 0.22246442883968456
+    betweenness 0.0
+  ]
+  node [
+    id 1233
+    label "1233"
+    idx 1233
+    row 2819
+    column 6607
+    demarcated "False"
+    area 81109.0
+    solidity 0.7863971301144076
+    eccentricity 0.8273154611704794
+    diameter 321.3583455177791
+    perimeter 2212.684558397461
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1234
+    label "1234"
+    idx 1234
+    row 2664
+    column 6871
+    demarcated "False"
+    area 4456.0
+    solidity 0.9776217639315489
+    eccentricity 0.8372148735165977
+    diameter 75.32300718465696
+    perimeter 267.27922061357856
+    degree 3.0
+    strength 2.789010581647918
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1235
+    label "1235"
+    idx 1235
+    row 2647
+    column 6540
+    demarcated "False"
+    area 602.0
+    solidity 0.9647435897435898
+    eccentricity 0.6513807304763333
+    diameter 27.685559519911603
+    perimeter 94.42640687119285
+    degree 3.0
+    strength 2.976545780941395
+    betweenness 0.0
+  ]
+  node [
+    id 1236
+    label "1236"
+    idx 1236
+    row 2668
+    column 3871
+    demarcated "False"
+    area 3422.0
+    solidity 0.9411441144114412
+    eccentricity 0.8412993256073998
+    diameter 66.0077701644566
+    perimeter 246.20815280171308
+    degree 1.0
+    strength 0.9931705862025684
+    betweenness 0.0
+  ]
+  node [
+    id 1237
+    label "1237"
+    idx 1237
+    row 2656
+    column 3120
+    demarcated "False"
+    area 597.0
+    solidity 0.9357366771159875
+    eccentricity 0.7652184657379991
+    diameter 27.570346537664197
+    perimeter 102.22539674441617
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1238
+    label "1238"
+    idx 1238
+    row 2728
+    column 6312
+    demarcated "False"
+    area 26024.0
+    solidity 0.8364618153767035
+    eccentricity 0.5552250962612177
+    diameter 182.02962921510297
+    perimeter 935.8620484583752
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1239
+    label "1239"
+    idx 1239
+    row 2667
+    column 8272
+    demarcated "False"
+    area 1248.0
+    solidity 0.9795918367346939
+    eccentricity 0.7797401419963677
+    diameter 39.86229988133503
+    perimeter 137.0538238691624
+    degree 3.0
+    strength 2.509102261105628
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1240
+    label "1240"
+    idx 1240
+    row 2694
+    column 6955
+    demarcated "False"
+    area 5149.0
+    solidity 0.8571666389212586
+    eccentricity 0.8785288291015908
+    diameter 80.96857671863421
+    perimeter 364.4629867976521
+    degree 4.0
+    strength 3.6703146022639586
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1241
+    label "1241"
+    idx 1241
+    row 2732
+    column 8336
+    demarcated "False"
+    area 14001.0
+    solidity 0.8828425499716249
+    eccentricity 0.3074673645714479
+    diameter 133.51639174961633
+    perimeter 761.8670990922585
+    degree 1.0
+    strength 0.5925505773241702
+    betweenness 0.0
+  ]
+  node [
+    id 1242
+    label "1242"
+    idx 1242
+    row 2762
+    column 3211
+    demarcated "False"
+    area 12107.0
+    solidity 0.863613667165989
+    eccentricity 0.9435932099778406
+    diameter 124.15760616292751
+    perimeter 559.6538956566621
+    degree 4.0
+    strength 2.8566466325642517
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 1243
+    label "1243"
+    idx 1243
+    row 2726
+    column 9837
+    demarcated "False"
+    area 11210.0
+    solidity 0.9763957843393433
+    eccentricity 0.5768806153038246
+    diameter 119.46972543904658
+    perimeter 412.5756851698602
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1244
+    label "1244"
+    idx 1244
+    row 2680
+    column 9387
+    demarcated "False"
+    area 1779.0
+    solidity 0.9174832387828777
+    eccentricity 0.9452884800241894
+    diameter 47.59299475851309
+    perimeter 205.92388155425118
+    degree 4.0
+    strength 3.426304849016807
+    betweenness 4.790813815990662E-05
+  ]
+  node [
+    id 1245
+    label "1245"
+    idx 1245
+    row 2699
+    column 4504
+    demarcated "False"
+    area 5296.0
+    solidity 0.9361852572034647
+    eccentricity 0.7915900687840466
+    diameter 82.11623852148503
+    perimeter 300.69343417595167
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1246
+    label "1246"
+    idx 1246
+    row 2767
+    column 6100
+    demarcated "False"
+    area 30732.0
+    solidity 0.8797664032978358
+    eccentricity 0.7502501444079698
+    diameter 197.81101508460296
+    perimeter 1077.2001435749996
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1247
+    label "1247"
+    idx 1247
+    row 2699
+    column 7955
+    demarcated "False"
+    area 4241.0
+    solidity 0.9426539230940209
+    eccentricity 0.9267453048664299
+    diameter 73.4833920639339
+    perimeter 298.49242404917504
+    degree 1.0
+    strength 0.8835543060637551
+    betweenness 0.0
+  ]
+  node [
+    id 1248
+    label "1248"
+    idx 1248
+    row 2736
+    column 9104
+    demarcated "False"
+    area 18086.0
+    solidity 0.9492468377683304
+    eccentricity 0.6843369094795998
+    diameter 151.74916937525606
+    perimeter 659.4112549695428
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1249
+    label "1249"
+    idx 1249
+    row 2670
+    column 8250
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 2.0
+    strength 1.8683425678248484
+    betweenness 0.0
+  ]
+  node [
+    id 1250
+    label "1250"
+    idx 1250
+    row 2686
+    column 6523
+    demarcated "False"
+    area 1164.0
+    solidity 0.9643744821872411
+    eccentricity 0.7774828933413647
+    diameter 38.497413290657974
+    perimeter 135.88225099390857
+    degree 4.0
+    strength 3.929693933277285
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1251
+    label "1251"
+    idx 1251
+    row 2735
+    column 3016
+    demarcated "False"
+    area 10810.0
+    solidity 0.9314147854557987
+    eccentricity 0.9283661160773871
+    diameter 117.31887946356763
+    perimeter 505.1858582251266
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1252
+    label "1252"
+    idx 1252
+    row 2885
+    column 3499
+    demarcated "False"
+    area 76818.0
+    solidity 0.5949211217211496
+    eccentricity 0.7819985826116057
+    diameter 312.74225065933405
+    perimeter 2637.4541110191612
+    degree 1.0
+    strength 0.04514230245276888
+    betweenness 0.0
+  ]
+  node [
+    id 1253
+    label "1253"
+    idx 1253
+    row 2820
+    column 5660
+    demarcated "False"
+    area 100433.0
+    solidity 0.8835255513622409
+    eccentricity 0.861872548579259
+    diameter 357.5965145193485
+    perimeter 1674.1677477306462
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1254
+    label "1254"
+    idx 1254
+    row 2702
+    column 4627
+    demarcated "False"
+    area 3245.0
+    solidity 0.9493856056173201
+    eccentricity 0.6994730625290717
+    diameter 64.27800807947928
+    perimeter 238.3086578651014
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1255
+    label "1255"
+    idx 1255
+    row 2691
+    column 8799
+    demarcated "False"
+    area 1241.0
+    solidity 0.9718089271730619
+    eccentricity 0.8899329511229249
+    diameter 39.75034936973935
+    perimeter 148.3259018078045
+    degree 1.0
+    strength 0.626045529684393
+    betweenness 0.0
+  ]
+  node [
+    id 1256
+    label "1256"
+    idx 1256
+    row 2705
+    column 10364
+    demarcated "False"
+    area 2441.0
+    solidity 0.9580062794348508
+    eccentricity 0.5230852733389924
+    diameter 55.74923971408518
+    perimeter 193.4386001800126
+    degree 1.0
+    strength 0.92461596201633
+    betweenness 0.0
+  ]
+  node [
+    id 1257
+    label "1257"
+    idx 1257
+    row 2723
+    column 2256
+    demarcated "False"
+    area 10133.0
+    solidity 0.8719559418294467
+    eccentricity 0.9748188482894097
+    diameter 113.58581032330316
+    perimeter 567.286363288515
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1258
+    label "1258"
+    idx 1258
+    row 2718
+    column 7019
+    demarcated "False"
+    area 2068.0
+    solidity 0.9395729213993639
+    eccentricity 0.9051850634792059
+    diameter 51.31334503335674
+    perimeter 199.3380951166243
+    degree 4.0
+    strength 3.597411505729432
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1259
+    label "1259"
+    idx 1259
+    row 2742
+    column 3295
+    demarcated "False"
+    area 5443.0
+    solidity 0.9014574362371647
+    eccentricity 0.6980412017928849
+    diameter 83.24808010995503
+    perimeter 331.3624817342638
+    degree 4.0
+    strength 3.234466242536613
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1260
+    label "1260"
+    idx 1260
+    row 2731
+    column 10311
+    demarcated "False"
+    area 4351.0
+    solidity 0.9649589709469949
+    eccentricity 0.7076496995548888
+    diameter 74.4302711209807
+    perimeter 262.79393923934
+    degree 1.0
+    strength 0.92461596201633
+    betweenness 0.0
+  ]
+  node [
+    id 1261
+    label "1261"
+    idx 1261
+    row 2725
+    column 9379
+    demarcated "False"
+    area 6527.0
+    solidity 0.9781207852540087
+    eccentricity 0.9281769363085977
+    diameter 91.16158460934302
+    perimeter 363.7056274847714
+    degree 3.0
+    strength 2.3412028636833506
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1262
+    label "1262"
+    idx 1262
+    row 2717
+    column 8915
+    demarcated "False"
+    area 3024.0
+    solidity 0.9859797848059993
+    eccentricity 0.5221894528548101
+    diameter 62.050595349916925
+    perimeter 205.7228714274745
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1263
+    label "1263"
+    idx 1263
+    row 2710
+    column 6460
+    demarcated "False"
+    area 1195.0
+    solidity 0.9637096774193549
+    eccentricity 0.5573050390870009
+    diameter 39.00668219624068
+    perimeter 134.36753236814712
+    degree 4.0
+    strength 3.731843160464335
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1264
+    label "1264"
+    idx 1264
+    row 2728
+    column 11211
+    demarcated "False"
+    area 6222.0
+    solidity 0.9292114695340502
+    eccentricity 0.5780269460991657
+    diameter 89.00615960337903
+    perimeter 325.66399692442883
+    degree 2.0
+    strength 1.8568832537378306
+    betweenness 0.0
+  ]
+  node [
+    id 1265
+    label "1265"
+    idx 1265
+    row 2714
+    column 2822
+    demarcated "False"
+    area 1491.0
+    solidity 0.9770642201834863
+    eccentricity 0.8637141969138051
+    diameter 43.57063416109671
+    perimeter 157.19595949289334
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1266
+    label "1266"
+    idx 1266
+    row 2715
+    column 7808
+    demarcated "False"
+    area 1275.0
+    solidity 0.9340659340659341
+    eccentricity 0.8588286349703266
+    diameter 40.29119531035698
+    perimeter 154.46803743153546
+    degree 3.0
+    strength 2.957459451229488
+    betweenness 0.0
+  ]
+  node [
+    id 1267
+    label "1267"
+    idx 1267
+    row 2725
+    column 9470
+    demarcated "False"
+    area 2964.0
+    solidity 0.9564375605033882
+    eccentricity 0.9194463925884672
+    diameter 61.43192989476256
+    perimeter 240.83556979968262
+    degree 5.0
+    strength 4.5117551680192705
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 1268
+    label "1268"
+    idx 1268
+    row 2736
+    column 3701
+    demarcated "False"
+    area 4940.0
+    solidity 0.9768637532133676
+    eccentricity 0.770547445319555
+    diameter 79.30828046926565
+    perimeter 277.7645019878171
+    degree 3.0
+    strength 2.5997105087032786
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1269
+    label "1269"
+    idx 1269
+    row 2740
+    column 3790
+    demarcated "False"
+    area 7080.0
+    solidity 0.9110796551280401
+    eccentricity 0.8122464865508834
+    diameter 94.9449102202164
+    perimeter 368.2497833620557
+    degree 2.0
+    strength 1.787708024611845
+    betweenness 0.0
+  ]
+  node [
+    id 1270
+    label "1270"
+    idx 1270
+    row 2768
+    column 11300
+    demarcated "False"
+    area 9781.0
+    solidity 0.9844992450931052
+    eccentricity 0.7115365499981963
+    diameter 111.59550164345616
+    perimeter 389.747258045114
+    degree 2.0
+    strength 1.7219867309413064
+    betweenness 0.0
+  ]
+  node [
+    id 1271
+    label "1271"
+    idx 1271
+    row 2758
+    column 12369
+    demarcated "False"
+    area 1936.0
+    solidity 0.9119170984455959
+    eccentricity 0.978672407944986
+    diameter 49.64868335220255
+    perimeter 250.75230867899737
+    degree 1.0
+    strength 0.9291801815929537
+    betweenness 0.0
+  ]
+  node [
+    id 1272
+    label "1272"
+    idx 1272
+    row 2718
+    column 12374
+    demarcated "False"
+    area 146.0
+    solidity 0.9605263157894737
+    eccentricity 0.8378356766628131
+    diameter 13.63425735166143
+    perimeter 47.21320343559642
+    degree 1.0
+    strength 0.9291801815929537
+    betweenness 0.0
+  ]
+  node [
+    id 1273
+    label "1273"
+    idx 1273
+    row 2760
+    column 6857
+    demarcated "False"
+    area 5978.0
+    solidity 0.9510022271714922
+    eccentricity 0.7998090255364415
+    diameter 87.24348685390103
+    perimeter 341.2031021678298
+    degree 2.0
+    strength 1.8434369281163545
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1274
+    label "1274"
+    idx 1274
+    row 2732
+    column 7883
+    demarcated "False"
+    area 1224.0
+    solidity 0.9540140296180826
+    eccentricity 0.9221770560574297
+    diameter 39.477147854877245
+    perimeter 159.58073580374358
+    degree 3.0
+    strength 2.868377857514721
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1275
+    label "1275"
+    idx 1275
+    row 2776
+    column 3125
+    demarcated "False"
+    area 7833.0
+    solidity 0.9165691551603089
+    eccentricity 0.8048747435464637
+    diameter 99.86633744115446
+    perimeter 412.13203435596427
+    degree 1.0
+    strength 0.8391351618071757
+    betweenness 0.0
+  ]
+  node [
+    id 1276
+    label "1276"
+    idx 1276
+    row 2742
+    column 7795
+    demarcated "False"
+    area 1545.0
+    solidity 0.8072100313479624
+    eccentricity 0.888616783869205
+    diameter 44.352622206762774
+    perimeter 197.6812408671319
+    degree 3.0
+    strength 2.9357701876808546
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1277
+    label "1277"
+    idx 1277
+    row 2767
+    column 8800
+    demarcated "False"
+    area 12654.0
+    solidity 0.9636737491432488
+    eccentricity 0.8146917171969565
+    diameter 126.93137200502778
+    perimeter 451.8599564173221
+    degree 3.0
+    strength 1.8700796896421088
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1278
+    label "1278"
+    idx 1278
+    row 2824
+    column 11091
+    demarcated "False"
+    area 34702.0
+    solidity 0.9604494755196369
+    eccentricity 0.4361452768143907
+    diameter 210.19980656841628
+    perimeter 744.8082245892128
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1279
+    label "1279"
+    idx 1279
+    row 2783
+    column 11564
+    demarcated "False"
+    area 19499.0
+    solidity 0.9845990708947687
+    eccentricity 0.7258487433749852
+    diameter 157.5655351997731
+    perimeter 544.2741699796952
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1280
+    label "1280"
+    idx 1280
+    row 2745
+    column 7242
+    demarcated "False"
+    area 2470.0
+    solidity 0.9481765834932822
+    eccentricity 0.8093383804342356
+    diameter 56.07942292406237
+    perimeter 214.30865786510142
+    degree 1.0
+    strength 0.9230237875078264
+    betweenness 0.0
+  ]
+  node [
+    id 1281
+    label "1281"
+    idx 1281
+    row 2755
+    column 6943
+    demarcated "False"
+    area 3518.0
+    solidity 0.9069347770043825
+    eccentricity 0.8848493141390718
+    diameter 66.9272494457848
+    perimeter 281.7645019878171
+    degree 4.0
+    strength 3.7243715521128062
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1282
+    label "1282"
+    idx 1282
+    row 2789
+    column 11420
+    demarcated "False"
+    area 11023.0
+    solidity 0.9669298245614035
+    eccentricity 0.6668451801938917
+    diameter 118.46906558935838
+    perimeter 416.8772003600252
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1283
+    label "1283"
+    idx 1283
+    row 2869
+    column 4650
+    demarcated "False"
+    area 106799.0
+    solidity 0.630008258612553
+    eccentricity 0.9673089961331814
+    diameter 368.7556238732782
+    perimeter 2894.5394641808994
+    degree 2.0
+    strength 0.02876451037911187
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1284
+    label "1284"
+    idx 1284
+    row 2805
+    column 8060
+    demarcated "False"
+    area 23729.0
+    solidity 0.8780388529139685
+    eccentricity 0.9228838998343798
+    diameter 173.81801160127415
+    perimeter 813.1686142824235
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1285
+    label "1285"
+    idx 1285
+    row 2793
+    column 4196
+    demarcated "False"
+    area 5951.0
+    solidity 0.7527194535795598
+    eccentricity 0.9033374842443554
+    diameter 87.04624363359372
+    perimeter 420.5756851698602
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1286
+    label "1286"
+    idx 1286
+    row 2749
+    column 6435
+    demarcated "False"
+    area 1094.0
+    solidity 0.9802867383512545
+    eccentricity 0.7526402715589631
+    diameter 37.32189788770486
+    perimeter 126.12489168102783
+    degree 1.0
+    strength 0.9958640441610729
+    betweenness 0.0
+  ]
+  node [
+    id 1287
+    label "1287"
+    idx 1287
+    row 2767
+    column 3641
+    demarcated "False"
+    area 1148.0
+    solidity 0.9082278481012658
+    eccentricity 0.673771444894159
+    diameter 38.231910720705116
+    perimeter 146.36753236814712
+    degree 2.0
+    strength 1.8231658215576072
+    betweenness 0.0
+  ]
+  node [
+    id 1288
+    label "1288"
+    idx 1288
+    row 2753
+    column 7196
+    demarcated "False"
+    area 518.0
+    solidity 0.9736842105263158
+    eccentricity 0.6467512263021151
+    diameter 25.68147355921802
+    perimeter 85.84062043356595
+    degree 3.0
+    strength 1.8260076117336657
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1289
+    label "1289"
+    idx 1289
+    row 2786
+    column 10813
+    demarcated "False"
+    area 7572.0
+    solidity 0.9548549810844893
+    eccentricity 0.8625119610504637
+    diameter 98.18844042317126
+    perimeter 358.14927829866735
+    degree 1.0
+    strength 0.7592480389630851
+    betweenness 0.0
+  ]
+  node [
+    id 1290
+    label "1290"
+    idx 1290
+    row 2790
+    column 7070
+    demarcated "False"
+    area 8291.0
+    solidity 0.914515773218619
+    eccentricity 0.9539714023158834
+    diameter 102.74448435511871
+    perimeter 448.9604614807105
+    degree 3.0
+    strength 2.501023557602317
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1291
+    label "1291"
+    idx 1291
+    row 2761
+    column 7741
+    demarcated "False"
+    area 547.0
+    solidity 0.9382504288164666
+    eccentricity 0.9310895694101782
+    diameter 26.390567083147985
+    perimeter 105.35533905932738
+    degree 4.0
+    strength 3.831290504033491
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1292
+    label "1292"
+    idx 1292
+    row 2838
+    column 11801
+    demarcated "False"
+    area 37132.0
+    solidity 0.9793485427930898
+    eccentricity 0.8500128117560201
+    diameter 217.4348885876093
+    perimeter 797.4528855298854
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1293
+    label "1293"
+    idx 1293
+    row 2791
+    column 2903
+    demarcated "False"
+    area 2630.0
+    solidity 0.9824430332461711
+    eccentricity 0.8967154965594172
+    diameter 57.8672619246278
+    perimeter 213.7645019878171
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1294
+    label "1294"
+    idx 1294
+    row 2900
+    column 2957
+    demarcated "False"
+    area 30909.0
+    solidity 0.7333444054284901
+    eccentricity 0.8860596043762473
+    diameter 198.3798404279506
+    perimeter 1055.0823945689078
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1295
+    label "1295"
+    idx 1295
+    row 2804
+    column 8685
+    demarcated "False"
+    area 5868.0
+    solidity 0.9518248175182482
+    eccentricity 0.408101481029399
+    diameter 86.43708491443898
+    perimeter 303.01933598375615
+    degree 1.0
+    strength 0.8454949772442558
+    betweenness 0.0
+  ]
+  node [
+    id 1296
+    label "1296"
+    idx 1296
+    row 2786
+    column 9574
+    demarcated "False"
+    area 2236.0
+    solidity 0.978984238178634
+    eccentricity 0.6648796149004613
+    diameter 53.356945396338276
+    perimeter 181.09545442950497
+    degree 3.0
+    strength 2.8405972545057745
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1297
+    label "1297"
+    idx 1297
+    row 2786
+    column 10921
+    demarcated "False"
+    area 2152.0
+    solidity 0.9663224068253256
+    eccentricity 0.7095675839549217
+    diameter 52.34511916377754
+    perimeter 179.19595949289334
+    degree 1.0
+    strength 0.9483637111070057
+    betweenness 0.0
+  ]
+  node [
+    id 1298
+    label "1298"
+    idx 1298
+    row 2788
+    column 6982
+    demarcated "False"
+    area 2085.0
+    solidity 0.9702187063750581
+    eccentricity 0.8227246197625904
+    diameter 51.523824108588975
+    perimeter 183.92388155425118
+    degree 4.0
+    strength 3.599224564727564
+    betweenness 0.0
+  ]
+  node [
+    id 1299
+    label "1299"
+    idx 1299
+    row 2814
+    column 9350
+    demarcated "False"
+    area 16866.0
+    solidity 0.9129587528418318
+    eccentricity 0.9204267634025998
+    diameter 146.54166015677336
+    perimeter 673.1025971044414
+    degree 1.0
+    strength 0.654253351231221
+    betweenness 0.0
+  ]
+  node [
+    id 1300
+    label "1300"
+    idx 1300
+    row 2823
+    column 11229
+    demarcated "False"
+    area 6045.0
+    solidity 0.9883911052975801
+    eccentricity 0.771828613239992
+    diameter 87.7310267118997
+    perimeter 312.770598642227
+    degree 2.0
+    strength 1.8506297222022403
+    betweenness 0.0
+  ]
+  node [
+    id 1301
+    label "1301"
+    idx 1301
+    row 2826
+    column 4054
+    demarcated "False"
+    area 13424.0
+    solidity 0.8804354955073129
+    eccentricity 0.8337794534675705
+    diameter 130.73625223527262
+    perimeter 589.9554108468271
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1302
+    label "1302"
+    idx 1302
+    row 2809
+    column 4992
+    demarcated "False"
+    area 6662.0
+    solidity 0.9018546094490321
+    eccentricity 0.8146353596293837
+    diameter 92.09952142669175
+    perimeter 356.2914139223983
+    degree 1.0
+    strength 0.8344309541535399
+    betweenness 0.0
+  ]
+  node [
+    id 1303
+    label "1303"
+    idx 1303
+    row 2785
+    column 7673
+    demarcated "False"
+    area 1137.0
+    solidity 0.9482902418682235
+    eccentricity 0.8682654239576215
+    diameter 38.0483030155601
+    perimeter 145.63961030678928
+    degree 2.0
+    strength 1.9235102756401217
+    betweenness 0.0
+  ]
+  node [
+    id 1304
+    label "1304"
+    idx 1304
+    row 2841
+    column 7208
+    demarcated "False"
+    area 12544.0
+    solidity 0.8670168648050871
+    eccentricity 0.9192931667411982
+    diameter 126.37846671469741
+    perimeter 570.6772362537752
+    degree 1.0
+    strength 0.6104941183689917
+    betweenness 0.0
+  ]
+  node [
+    id 1305
+    label "1305"
+    idx 1305
+    row 2869
+    column 7771
+    demarcated "False"
+    area 35576.0
+    solidity 0.8762345755030664
+    eccentricity 0.890352734692792
+    diameter 212.8303785729334
+    perimeter 1190.8569978244918
+    degree 1.0
+    strength 0.25686580110567847
+    betweenness 0.0
+  ]
+  node [
+    id 1306
+    label "1306"
+    idx 1306
+    row 2796
+    column 3341
+    demarcated "False"
+    area 838.0
+    solidity 0.9665513264129181
+    eccentricity 0.7571125779124162
+    diameter 32.66457926390705
+    perimeter 113.39696961966999
+    degree 6.0
+    strength 5.724532264350359
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1307
+    label "1307"
+    idx 1307
+    row 2835
+    column 7105
+    demarcated "False"
+    area 7072.0
+    solidity 0.8971203856399848
+    eccentricity 0.9530109869313484
+    diameter 94.89125386655543
+    perimeter 413.00209204105306
+    degree 1.0
+    strength 0.9512088443383702
+    betweenness 0.0
+  ]
+  node [
+    id 1308
+    label "1308"
+    idx 1308
+    row 2804
+    column 9528
+    demarcated "False"
+    area 1312.0
+    solidity 0.967551622418879
+    eccentricity 0.9172058358667701
+    diameter 40.87163175960233
+    perimeter 158.2670273047588
+    degree 3.0
+    strength 2.8881006818470056
+    betweenness 0.0
+  ]
+  node [
+    id 1309
+    label "1309"
+    idx 1309
+    row 2869
+    column 9001
+    demarcated "False"
+    area 13712.0
+    solidity 0.7813550629665508
+    eccentricity 0.5506534282148803
+    diameter 132.13122506587362
+    perimeter 663.3696244092002
+    degree 2.0
+    strength 1.292363139100226
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1310
+    label "1310"
+    idx 1310
+    row 2797
+    column 3704
+    demarcated "False"
+    area 337.0
+    solidity 0.8730569948186528
+    eccentricity 0.9254054832789906
+    diameter 20.71428798138497
+    perimeter 80.87005768508881
+    degree 3.0
+    strength 2.6649631018187687
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1311
+    label "1311"
+    idx 1311
+    row 2815
+    column 7703
+    demarcated "False"
+    area 2453.0
+    solidity 0.9695652173913043
+    eccentricity 0.9444500519778923
+    diameter 55.88610384733717
+    perimeter 233.6223663640862
+    degree 3.0
+    strength 2.129063726854381
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1312
+    label "1312"
+    idx 1312
+    row 2819
+    column 3792
+    demarcated "False"
+    area 3736.0
+    solidity 0.9623905203503349
+    eccentricity 0.84804919402555
+    diameter 68.96972480103547
+    perimeter 262.350288425444
+    degree 3.0
+    strength 2.621056629274405
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 1313
+    label "1313"
+    idx 1313
+    row 2806
+    column 3283
+    demarcated "False"
+    area 911.0
+    solidity 0.9816810344827587
+    eccentricity 0.7587995068831597
+    diameter 34.05761625912379
+    perimeter 115.63961030678928
+    degree 6.0
+    strength 5.3863658693808265
+    betweenness 0.0
+  ]
+  node [
+    id 1314
+    label "1314"
+    idx 1314
+    row 2814
+    column 5211
+    demarcated "False"
+    area 2207.0
+    solidity 0.9752540874944764
+    eccentricity 0.8248495002426041
+    diameter 53.00980734949434
+    perimeter 189.4802307403552
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1315
+    label "1315"
+    idx 1315
+    row 2821
+    column 5086
+    demarcated "False"
+    area 2251.0
+    solidity 0.9804006968641115
+    eccentricity 0.7337406144728355
+    diameter 53.53561632407767
+    perimeter 184.50966799187808
+    degree 1.0
+    strength 0.8344309541535399
+    betweenness 0.0
+  ]
+  node [
+    id 1316
+    label "1316"
+    idx 1316
+    row 2820
+    column 9498
+    demarcated "False"
+    area 1088.0
+    solidity 0.9411764705882353
+    eccentricity 0.9444540373576277
+    diameter 37.219411933450225
+    perimeter 154.75230867899737
+    degree 3.0
+    strength 2.870741374152601
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 1317
+    label "1317"
+    idx 1317
+    row 2816
+    column 3386
+    demarcated "False"
+    area 1291.0
+    solidity 0.978030303030303
+    eccentricity 0.8031991995949875
+    diameter 40.5432146265327
+    perimeter 143.19595949289334
+    degree 4.0
+    strength 3.917829016435345
+    betweenness 0.0
+  ]
+  node [
+    id 1318
+    label "1318"
+    idx 1318
+    row 2865
+    column 2752
+    demarcated "False"
+    area 11226.0
+    solidity 0.8780602268283144
+    eccentricity 0.9290985932722566
+    diameter 119.55495443182996
+    perimeter 523.3279938488575
+    degree 2.0
+    strength 1.4160589297336856
+    betweenness 0.0
+  ]
+  node [
+    id 1319
+    label "1319"
+    idx 1319
+    row 2824
+    column 6748
+    demarcated "False"
+    area 1914.0
+    solidity 0.9691139240506329
+    eccentricity 0.6116140708407113
+    diameter 49.36578256872974
+    perimeter 173.33809511662426
+    degree 2.0
+    strength 1.8812253812996813
+    betweenness 0.0
+  ]
+  node [
+    id 1320
+    label "1320"
+    idx 1320
+    row 2825
+    column 8940
+    demarcated "False"
+    area 1378.0
+    solidity 0.9821810406272273
+    eccentricity 0.749161045812668
+    diameter 41.88703967392604
+    perimeter 143.4386001800126
+    degree 1.0
+    strength 0.6028267770118825
+    betweenness 0.0
+  ]
+  node [
+    id 1321
+    label "1321"
+    idx 1321
+    row 2817
+    column 3318
+    demarcated "False"
+    area 476.0
+    solidity 0.9558232931726908
+    eccentricity 0.8315269862513569
+    diameter 24.61832697999475
+    perimeter 88.32590180780451
+    degree 6.0
+    strength 5.681371218870666
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 1322
+    label "1322"
+    idx 1322
+    row 2848
+    column 9160
+    demarcated "False"
+    area 7251.0
+    solidity 0.9462351559441472
+    eccentricity 0.9053672791731115
+    diameter 96.0846498608111
+    perimeter 382.73506473629425
+    degree 1.0
+    strength 0.8502266699490482
+    betweenness 0.0
+  ]
+  node [
+    id 1323
+    label "1323"
+    idx 1323
+    row 2828
+    column 3234
+    demarcated "False"
+    area 658.0
+    solidity 0.9577874818049491
+    eccentricity 0.8480983902275705
+    diameter 28.944630252185586
+    perimeter 103.49747468305833
+    degree 4.0
+    strength 3.5529185791580202
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 1324
+    label "1324"
+    idx 1324
+    row 2831
+    column 10868
+    demarcated "False"
+    area 860.0
+    solidity 0.9750566893424036
+    eccentricity 0.33975880464507335
+    diameter 33.090572803628525
+    perimeter 108.5685424949238
+    degree 3.0
+    strength 2.46012900861391
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1325
+    label "1325"
+    idx 1325
+    row 2832
+    column 8776
+    demarcated "False"
+    area 1778.0
+    solidity 0.9753154141524959
+    eccentricity 0.8852294306599164
+    diameter 47.579616544683496
+    perimeter 172.22539674441617
+    degree 4.0
+    strength 3.4157792402239946
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1326
+    label "1326"
+    idx 1326
+    row 2895
+    column 3980
+    demarcated "False"
+    area 10565.0
+    solidity 0.9315756987919936
+    eccentricity 0.7405088793026893
+    diameter 115.98179076961605
+    perimeter 512.3158005400378
+    degree 1.0
+    strength 0.758065043994121
+    betweenness 0.0
+  ]
+  node [
+    id 1327
+    label "1327"
+    idx 1327
+    row 2855
+    column 2633
+    demarcated "False"
+    area 3615.0
+    solidity 0.9715130341306101
+    eccentricity 0.6082100680823358
+    diameter 67.84365080254462
+    perimeter 236.24978336205567
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1328
+    label "1328"
+    idx 1328
+    row 2843
+    column 3417
+    demarcated "False"
+    area 1323.0
+    solidity 0.9821826280623608
+    eccentricity 0.5951409089168567
+    diameter 41.04261099984527
+    perimeter 135.53910524340097
+    degree 4.0
+    strength 2.9958488353109436
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 1329
+    label "1329"
+    idx 1329
+    row 3191
+    column 2004
+    demarcated "False"
+    area 178736.0
+    solidity 0.8109986841508235
+    eccentricity 0.9346641672483087
+    diameter 477.04689839447025
+    perimeter 3068.301007575886
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1330
+    label "1330"
+    idx 1330
+    row 2850
+    column 3322
+    demarcated "False"
+    area 2022.0
+    solidity 0.9596582819174181
+    eccentricity 0.7605773388741575
+    diameter 50.73943593945935
+    perimeter 177.92388155425118
+    degree 7.0
+    strength 6.706680974110571
+    betweenness 3.805786676254264E-05
+  ]
+  node [
+    id 1331
+    label "1331"
+    idx 1331
+    row 2875
+    column 8559
+    demarcated "False"
+    area 13847.0
+    solidity 0.7946628407460545
+    eccentricity 0.9420686812092031
+    diameter 132.78007371570402
+    perimeter 660.1564209736038
+    degree 1.0
+    strength 0.6139862421821156
+    betweenness 0.0
+  ]
+  node [
+    id 1332
+    label "1332"
+    idx 1332
+    row 2889
+    column 10707
+    demarcated "False"
+    area 15373.0
+    solidity 0.9779262086513995
+    eccentricity 0.7275459776341027
+    diameter 139.90536630599146
+    perimeter 495.1025971044414
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1333
+    label "1333"
+    idx 1333
+    row 2916
+    column 3860
+    demarcated "False"
+    area 12979.0
+    solidity 0.8601060304837641
+    eccentricity 0.8437197503159086
+    diameter 128.5510639828301
+    perimeter 571.8132752230962
+    degree 1.0
+    strength 0.6018628062624207
+    betweenness 0.0
+  ]
+  node [
+    id 1334
+    label "1334"
+    idx 1334
+    row 2915
+    column 1986
+    demarcated "False"
+    area 3923.0
+    solidity 0.8642872879488874
+    eccentricity 0.9944197310587009
+    diameter 70.67473900904088
+    perimeter 458.2813126546316
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1335
+    label "1335"
+    idx 1335
+    row 2862
+    column 9630
+    demarcated "False"
+    area 4167.0
+    solidity 0.8737680855525267
+    eccentricity 0.8690136203668949
+    diameter 72.8394754436866
+    perimeter 316.69343417595167
+    degree 1.0
+    strength 0.9238195317541763
+    betweenness 0.0
+  ]
+  node [
+    id 1336
+    label "1336"
+    idx 1336
+    row 2856
+    column 6785
+    demarcated "False"
+    area 1220.0
+    solidity 0.8525506638714185
+    eccentricity 0.7953346419018308
+    diameter 39.41258992475499
+    perimeter 160.99494936611666
+    degree 2.0
+    strength 1.8556952832858609
+    betweenness 0.0
+  ]
+  node [
+    id 1337
+    label "1337"
+    idx 1337
+    row 2877
+    column 6024
+    demarcated "False"
+    area 3250.0
+    solidity 0.8038585209003215
+    eccentricity 0.7916585767382456
+    diameter 64.32750982580687
+    perimeter 279.5218613006979
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1338
+    label "1338"
+    idx 1338
+    row 2882
+    column 2834
+    demarcated "False"
+    area 4875.0
+    solidity 0.8884636413340623
+    eccentricity 0.9390993283025417
+    diameter 78.78478774854901
+    perimeter 351.5462479183374
+    degree 2.0
+    strength 1.608234784618038
+    betweenness 0.0
+  ]
+  node [
+    id 1339
+    label "1339"
+    idx 1339
+    row 2854
+    column 8436
+    demarcated "False"
+    area 903.0
+    solidity 0.7859007832898173
+    eccentricity 0.6843493479052417
+    diameter 33.90774703361832
+    perimeter 138.40306627407986
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1340
+    label "1340"
+    idx 1340
+    row 2916
+    column 10521
+    demarcated "False"
+    area 12983.0
+    solidity 0.8542009342719916
+    eccentricity 0.6733239258282545
+    diameter 128.57087154288337
+    perimeter 545.9137802864846
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1341
+    label "1341"
+    idx 1341
+    row 2849
+    column 8839
+    demarcated "False"
+    area 369.0
+    solidity 0.9510309278350515
+    eccentricity 0.6872418321731159
+    diameter 21.675455981530703
+    perimeter 75.11269837220809
+    degree 4.0
+    strength 3.444122906607336
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1342
+    label "1342"
+    idx 1342
+    row 2944
+    column 8289
+    demarcated "False"
+    area 35256.0
+    solidity 0.8827019854285071
+    eccentricity 0.871276188520181
+    diameter 211.87103008477325
+    perimeter 978.3239892355008
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1343
+    label "1343"
+    idx 1343
+    row 2977
+    column 6257
+    demarcated "False"
+    area 76534.0
+    solidity 0.8382235364985489
+    eccentricity 0.8666055626082245
+    diameter 312.16360344659165
+    perimeter 1932.7190462828669
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1344
+    label "1344"
+    idx 1344
+    row 2953
+    column 8002
+    demarcated "False"
+    area 39949.0
+    solidity 0.8632768605756764
+    eccentricity 0.7956658886895023
+    diameter 225.53191918800545
+    perimeter 1075.986940139403
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1345
+    label "1345"
+    idx 1345
+    row 2924
+    column 3692
+    demarcated "False"
+    area 19829.0
+    solidity 0.8913913238930097
+    eccentricity 0.6660700100387243
+    diameter 158.89325640993562
+    perimeter 678.3401871576774
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1346
+    label "1346"
+    idx 1346
+    row 2864
+    column 3849
+    demarcated "False"
+    area 606.0
+    solidity 0.9711538461538461
+    eccentricity 0.8929868693205766
+    diameter 27.777385840094972
+    perimeter 102.66904755831214
+    degree 2.0
+    strength 1.4813295973097873
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1347
+    label "1347"
+    idx 1347
+    row 2922
+    column 9388
+    demarcated "False"
+    area 30201.0
+    solidity 0.9731271145480909
+    eccentricity 0.8967544339946162
+    diameter 196.09463911730646
+    perimeter 768.1564209736038
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1348
+    label "1348"
+    idx 1348
+    row 2917
+    column 3148
+    demarcated "False"
+    area 15154.0
+    solidity 0.8304926837288321
+    eccentricity 0.8607062552328584
+    diameter 138.90526289855492
+    perimeter 680.1980515339465
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1349
+    label "1349"
+    idx 1349
+    row 2887
+    column 9232
+    demarcated "False"
+    area 3297.0
+    solidity 0.9612244897959183
+    eccentricity 0.7762815847218558
+    diameter 64.79097760484736
+    perimeter 239.17871555019025
+    degree 1.0
+    strength 0.8502266699490482
+    betweenness 0.0
+  ]
+  node [
+    id 1350
+    label "1350"
+    idx 1350
+    row 2901
+    column 11582
+    demarcated "False"
+    area 3226.0
+    solidity 0.9491026772580171
+    eccentricity 0.6727031731278772
+    diameter 64.0895527470401
+    perimeter 226.40916292848974
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1351
+    label "1351"
+    idx 1351
+    row 2885
+    column 8827
+    demarcated "False"
+    area 1446.0
+    solidity 0.9783491204330176
+    eccentricity 0.7900641460312651
+    diameter 42.90809226343028
+    perimeter 149.63961030678928
+    degree 4.0
+    strength 3.687207866732603
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1352
+    label "1352"
+    idx 1352
+    row 2900
+    column 6788
+    demarcated "False"
+    area 4231.0
+    solidity 0.9209838920330866
+    eccentricity 0.8179490337847058
+    diameter 73.39670642320726
+    perimeter 269.89444430272835
+    degree 2.0
+    strength 1.7930738432615252
+    betweenness 0.0
+  ]
+  node [
+    id 1353
+    label "1353"
+    idx 1353
+    row 2922
+    column 10854
+    demarcated "False"
+    area 7789.0
+    solidity 0.953949785670545
+    eccentricity 0.8462129236766261
+    diameter 99.58545483122614
+    perimeter 372.5340546095176
+    degree 1.0
+    strength 0.752517258543819
+    betweenness 0.0
+  ]
+  node [
+    id 1354
+    label "1354"
+    idx 1354
+    row 2954
+    column 11968
+    demarcated "False"
+    area 29554.0
+    solidity 0.9359640233088422
+    eccentricity 0.8585327416990642
+    diameter 193.98278662062518
+    perimeter 731.1513703397204
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1355
+    label "1355"
+    idx 1355
+    row 2933
+    column 5103
+    demarcated "False"
+    area 2560.0
+    solidity 0.7710843373493976
+    eccentricity 0.9474754797719108
+    diameter 57.09197171688868
+    perimeter 265.8061325481598
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1356
+    label "1356"
+    idx 1356
+    row 2903
+    column 9964
+    demarcated "False"
+    area 2629.0
+    solidity 0.9068644360124181
+    eccentricity 0.9101136216579621
+    diameter 57.85625949807629
+    perimeter 235.96551211459382
+    degree 2.0
+    strength 1.8238385356427314
+    betweenness 0.0
+  ]
+  node [
+    id 1357
+    label "1357"
+    idx 1357
+    row 2934
+    column 8672
+    demarcated "False"
+    area 4893.0
+    solidity 0.9675697053589084
+    eccentricity 0.7093866901313721
+    diameter 78.93010257429766
+    perimeter 284.2081528017131
+    degree 3.0
+    strength 2.646896271279801
+    betweenness 0.0
+  ]
+  node [
+    id 1358
+    label "1358"
+    idx 1358
+    row 2916
+    column 8886
+    demarcated "False"
+    area 1890.0
+    solidity 0.9402985074626866
+    eccentricity 0.797101621402367
+    diameter 49.055302868797554
+    perimeter 180.40916292848976
+    degree 2.0
+    strength 1.9214391124568841
+    betweenness 0.0
+  ]
+  node [
+    id 1359
+    label "1359"
+    idx 1359
+    row 2947
+    column 9143
+    demarcated "False"
+    area 13921.0
+    solidity 0.9579548582438756
+    eccentricity 0.7768133837807125
+    diameter 133.1343971416035
+    perimeter 490.47518010647195
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1360
+    label "1360"
+    idx 1360
+    row 2921
+    column 8612
+    demarcated "False"
+    area 1960.0
+    solidity 0.8852755194218609
+    eccentricity 0.872066866549028
+    diameter 49.955475252277594
+    perimeter 197.58073580374355
+    degree 5.0
+    strength 4.407837751065424
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 1361
+    label "1361"
+    idx 1361
+    row 2927
+    column 11030
+    demarcated "False"
+    area 3285.0
+    solidity 0.9838274932614556
+    eccentricity 0.7181656340778487
+    diameter 64.67296115421814
+    perimeter 219.8233764908628
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1362
+    label "1362"
+    idx 1362
+    row 2925
+    column 12525
+    demarcated "False"
+    area 3366.0
+    solidity 0.955978415222948
+    eccentricity 0.5081120487786562
+    diameter 65.4654436140057
+    perimeter 228.89444430272832
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1363
+    label "1363"
+    idx 1363
+    row 2931
+    column 3312
+    demarcated "False"
+    area 2704.0
+    solidity 0.9511079845233907
+    eccentricity 0.8205410959137758
+    diameter 58.67571668896666
+    perimeter 213.3380951166243
+    degree 3.0
+    strength 2.9185690385714107
+    betweenness 2.9550814192091934E-05
+  ]
+  node [
+    id 1364
+    label "1364"
+    idx 1364
+    row 2942
+    column 4696
+    demarcated "False"
+    area 5560.0
+    solidity 0.946060915433044
+    eccentricity 0.8208532478232644
+    diameter 84.13805244196888
+    perimeter 309.7056274847714
+    degree 3.0
+    strength 1.7782613768408995
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1365
+    label "1365"
+    idx 1365
+    row 2939
+    column 8780
+    demarcated "False"
+    area 8069.0
+    solidity 0.9307878648056293
+    eccentricity 0.8623984949768173
+    diameter 101.35960677936762
+    perimeter 390.0071426749364
+    degree 1.0
+    strength 0.7620259680507733
+    betweenness 0.0
+  ]
+  node [
+    id 1366
+    label "1366"
+    idx 1366
+    row 2958
+    column 9755
+    demarcated "False"
+    area 9227.0
+    solidity 0.8310366567594344
+    eccentricity 0.8895890993722764
+    diameter 108.38902748558705
+    perimeter 509.8305191657993
+    degree 3.0
+    strength 2.1579710302982402
+    betweenness 0.0
+  ]
+  node [
+    id 1367
+    label "1367"
+    idx 1367
+    row 2939
+    column 10007
+    demarcated "False"
+    area 6095.0
+    solidity 0.9535356695869838
+    eccentricity 0.9294085954475034
+    diameter 88.093104299717
+    perimeter 348.8772003600252
+    degree 2.0
+    strength 1.7295962097018425
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1368
+    label "1368"
+    idx 1368
+    row 2942
+    column 9898
+    demarcated "False"
+    area 3715.0
+    solidity 0.9428934010152284
+    eccentricity 0.0875081117200319
+    diameter 68.77561274675152
+    perimeter 248.69343417595164
+    degree 4.0
+    strength 3.7214801634531893
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1369
+    label "1369"
+    idx 1369
+    row 3009
+    column 11303
+    demarcated "False"
+    area 42542.0
+    solidity 0.9359970077666058
+    eccentricity 0.8639916258490569
+    diameter 232.73623850213636
+    perimeter 992.1463197058371
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1370
+    label "1370"
+    idx 1370
+    row 2941
+    column 9841
+    demarcated "False"
+    area 1732.0
+    solidity 0.9824163357912649
+    eccentricity 0.5349074811617988
+    diameter 46.960098929637084
+    perimeter 159.88225099390854
+    degree 4.0
+    strength 3.592144442996187
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1371
+    label "1371"
+    idx 1371
+    row 2931
+    column 2750
+    demarcated "False"
+    area 558.0
+    solidity 0.9457627118644067
+    eccentricity 0.5910174605407771
+    diameter 26.654599339742866
+    perimeter 91.1543289325507
+    degree 2.0
+    strength 1.4831357651849855
+    betweenness 0.0
+  ]
+  node [
+    id 1372
+    label "1372"
+    idx 1372
+    row 2962
+    column 11784
+    demarcated "False"
+    area 10707.0
+    solidity 0.9330718954248366
+    eccentricity 0.7184530378025797
+    diameter 116.75862197490765
+    perimeter 439.78279195104676
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1373
+    label "1373"
+    idx 1373
+    row 2943
+    column 4073
+    demarcated "False"
+    area 1703.0
+    solidity 0.9408839779005524
+    eccentricity 0.5716572937748583
+    diameter 46.565297644103836
+    perimeter 162.02438661763952
+    degree 2.0
+    strength 1.9358468949865482
+    betweenness 0.0
+  ]
+  node [
+    id 1374
+    label "1374"
+    idx 1374
+    row 3026
+    column 10143
+    demarcated "False"
+    area 38499.0
+    solidity 0.8888144984416484
+    eccentricity 0.8448757491066246
+    diameter 221.40110485893928
+    perimeter 1006.5899705197329
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1375
+    label "1375"
+    idx 1375
+    row 3155
+    column 6689
+    demarcated "False"
+    area 124668.0
+    solidity 0.6295028327324507
+    eccentricity 0.776900602317043
+    diameter 398.41213280100203
+    perimeter 4029.08780414029
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1376
+    label "1376"
+    idx 1376
+    row 2964
+    column 9010
+    demarcated "False"
+    area 4653.0
+    solidity 0.9501735756585664
+    eccentricity 0.8559313421095217
+    diameter 76.97001755003511
+    perimeter 281.4802307403552
+    degree 1.0
+    strength 0.6895363620883436
+    betweenness 0.0
+  ]
+  node [
+    id 1377
+    label "1377"
+    idx 1377
+    row 2954
+    column 4611
+    demarcated "False"
+    area 1095.0
+    solidity 0.9785522788203753
+    eccentricity 0.8192336868322283
+    diameter 37.338951531678056
+    perimeter 130.2253967444162
+    degree 3.0
+    strength 1.7159644594897834
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1378
+    label "1378"
+    idx 1378
+    row 2969
+    column 7358
+    demarcated "False"
+    area 5756.0
+    solidity 0.9665827036104114
+    eccentricity 0.88525462164468
+    diameter 85.60821700920769
+    perimeter 324.8355697996826
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1379
+    label "1379"
+    idx 1379
+    row 3015
+    column 2527
+    demarcated "False"
+    area 8133.0
+    solidity 0.9480125888798229
+    eccentricity 0.85043872301149
+    diameter 101.76078428024756
+    perimeter 395.08535316173834
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1380
+    label "1380"
+    idx 1380
+    row 2977
+    column 7008
+    demarcated "False"
+    area 2416.0
+    solidity 0.9079293498684705
+    eccentricity 0.9002548392074082
+    diameter 55.46302137532856
+    perimeter 221.7228714274745
+    degree 1.0
+    strength 0.8153408723790382
+    betweenness 0.0
+  ]
+  node [
+    id 1381
+    label "1381"
+    idx 1381
+    row 2974
+    column 4945
+    demarcated "False"
+    area 1413.0
+    solidity 0.9698009608785175
+    eccentricity 0.754466041836412
+    diameter 42.41565131777166
+    perimeter 153.92388155425118
+    degree 3.0
+    strength 2.902745699502887
+    betweenness 0.0
+  ]
+  node [
+    id 1382
+    label "1382"
+    idx 1382
+    row 2989
+    column 3238
+    demarcated "False"
+    area 2097.0
+    solidity 0.9353256021409456
+    eccentricity 0.7482466491790387
+    diameter 51.67188137962113
+    perimeter 191.23759005323595
+    degree 3.0
+    strength 2.9059247269951185
+    betweenness 0.0
+  ]
+  node [
+    id 1383
+    label "1383"
+    idx 1383
+    row 2982
+    column 3947
+    demarcated "False"
+    area 3815.0
+    solidity 0.9334475165157817
+    eccentricity 0.8417776972967107
+    diameter 69.69511362473445
+    perimeter 258.4507934888324
+    degree 4.0
+    strength 3.5301346943924496
+    betweenness 9.044340101216015E-05
+  ]
+  node [
+    id 1384
+    label "1384"
+    idx 1384
+    row 2975
+    column 3050
+    demarcated "False"
+    area 547.0
+    solidity 0.9733096085409253
+    eccentricity 0.7560976676469892
+    diameter 26.390567083147985
+    perimeter 93.9827560572969
+    degree 2.0
+    strength 1.6263751682243848
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1385
+    label "1385"
+    idx 1385
+    row 2974
+    column 5010
+    demarcated "False"
+    area 1104.0
+    solidity 0.887459807073955
+    eccentricity 0.8130266411396313
+    diameter 37.492085263260826
+    perimeter 152.36753236814712
+    degree 3.0
+    strength 2.9337505290239836
+    betweenness 0.0
+  ]
+  node [
+    id 1386
+    label "1386"
+    idx 1386
+    row 2980
+    column 6616
+    demarcated "False"
+    area 1722.0
+    solidity 0.9328277356446371
+    eccentricity 0.8031327101408261
+    diameter 46.8243365786847
+    perimeter 172.61017305526642
+    degree 1.0
+    strength 0.9959457780289829
+    betweenness 0.0
+  ]
+  node [
+    id 1387
+    label "1387"
+    idx 1387
+    row 3022
+    column 2680
+    demarcated "False"
+    area 9429.0
+    solidity 0.9053288526164186
+    eccentricity 0.8627883867185804
+    diameter 109.56904520578725
+    perimeter 458.1147904132612
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1388
+    label "1388"
+    idx 1388
+    row 2976
+    column 4118
+    demarcated "False"
+    area 905.0
+    solidity 0.888125613346418
+    eccentricity 0.8941359107160707
+    diameter 33.94527637220416
+    perimeter 135.18986283848344
+    degree 3.0
+    strength 2.784776844059648
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1389
+    label "1389"
+    idx 1389
+    row 2985
+    column 9538
+    demarcated "False"
+    area 1969.0
+    solidity 0.968996062992126
+    eccentricity 0.8757724051746357
+    diameter 50.070037583204744
+    perimeter 184.2670273047588
+    degree 1.0
+    strength 0.9889005451553878
+    betweenness 0.0
+  ]
+  node [
+    id 1390
+    label "1390"
+    idx 1390
+    row 2995
+    column 4900
+    demarcated "False"
+    area 2855.0
+    solidity 0.8986465218759836
+    eccentricity 0.8700352998538319
+    diameter 60.29178136544723
+    perimeter 235.52186130069782
+    degree 2.0
+    strength 1.8594524107068249
+    betweenness 0.0
+  ]
+  node [
+    id 1391
+    label "1391"
+    idx 1391
+    row 3004
+    column 9641
+    demarcated "False"
+    area 4461.0
+    solidity 0.9423320659062104
+    eccentricity 0.4868532928923835
+    diameter 75.36525465400857
+    perimeter 268.3086578651014
+    degree 1.0
+    strength 0.9129285623665808
+    betweenness 0.0
+  ]
+  node [
+    id 1392
+    label "1392"
+    idx 1392
+    row 3045
+    column 1829
+    demarcated "False"
+    area 6571.0
+    solidity 0.9328506530380466
+    eccentricity 0.9541910592440587
+    diameter 91.46833904939324
+    perimeter 405.6295090390226
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1393
+    label "1393"
+    idx 1393
+    row 2990
+    column 3606
+    demarcated "False"
+    area 1382.0
+    solidity 0.9176626826029216
+    eccentricity 0.4817528081156978
+    diameter 41.9477895820983
+    perimeter 150.08326112068522
+    degree 1.0
+    strength 0.9746392320351357
+    betweenness 0.0
+  ]
+  node [
+    id 1394
+    label "1394"
+    idx 1394
+    row 3010
+    column 3802
+    demarcated "False"
+    area 8772.0
+    solidity 0.8359858953588106
+    eccentricity 0.8081672499207733
+    diameter 105.6828145273244
+    perimeter 454.3919189857867
+    degree 3.0
+    strength 2.3782474763407366
+    betweenness 2.8207595365178662E-05
+  ]
+  node [
+    id 1395
+    label "1395"
+    idx 1395
+    row 2991
+    column 3020
+    demarcated "False"
+    area 900.0
+    solidity 0.972972972972973
+    eccentricity 0.7629475921745692
+    diameter 33.851375012865375
+    perimeter 117.05382386916237
+    degree 1.0
+    strength 0.9856190614192931
+    betweenness 0.0
+  ]
+  node [
+    id 1396
+    label "1396"
+    idx 1396
+    row 3006
+    column 3300
+    demarcated "False"
+    area 3427.0
+    solidity 0.9658962795941376
+    eccentricity 0.698570874765285
+    diameter 66.05597565555597
+    perimeter 231.86500705120545
+    degree 4.0
+    strength 3.747851255718208
+    betweenness 2.1939240839583405E-05
+  ]
+  node [
+    id 1397
+    label "1397"
+    idx 1397
+    row 2992
+    column 8663
+    demarcated "False"
+    area 2428.0
+    solidity 0.9818034775576223
+    eccentricity 0.7830842065355669
+    diameter 55.60059005637418
+    perimeter 194.3086578651014
+    degree 6.0
+    strength 5.56350433158808
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1398
+    label "1398"
+    idx 1398
+    row 2992
+    column 11441
+    demarcated "False"
+    area 946.0
+    solidity 0.9653061224489796
+    eccentricity 0.8591441630601955
+    diameter 34.70568554746418
+    perimeter 126.5685424949238
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1399
+    label "1399"
+    idx 1399
+    row 3016
+    column 4726
+    demarcated "False"
+    area 7329.0
+    solidity 0.9172715894868586
+    eccentricity 0.8536090936450095
+    diameter 96.60006533830092
+    perimeter 397.43354954612926
+    degree 1.0
+    strength 0.9299812333029223
+    betweenness 0.0
+  ]
+  node [
+    id 1400
+    label "1400"
+    idx 1400
+    row 3022
+    column 12614
+    demarcated "False"
+    area 7773.0
+    solidity 0.7902602684017893
+    eccentricity 0.8179334680821141
+    diameter 99.48311907668767
+    perimeter 427.6883835420683
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1401
+    label "1401"
+    idx 1401
+    row 3109
+    column 11678
+    demarcated "False"
+    area 64036.0
+    solidity 0.9304177261169633
+    eccentricity 0.7307518744644252
+    diameter 285.5401328826841
+    perimeter 1345.6336931211288
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1402
+    label "1402"
+    idx 1402
+    row 3012
+    column 4164
+    demarcated "False"
+    area 4017.0
+    solidity 0.962386200287494
+    eccentricity 0.6965149754325575
+    diameter 71.51645440876631
+    perimeter 255.0782104868019
+    degree 6.0
+    strength 5.447348245387438
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1403
+    label "1403"
+    idx 1403
+    row 3017
+    column 4605
+    demarcated "False"
+    area 4480.0
+    solidity 0.8688906128782001
+    eccentricity 0.46437121543620485
+    diameter 75.52557951061037
+    perimeter 300.69343417595167
+    degree 1.0
+    strength 0.8703121024122799
+    betweenness 0.0
+  ]
+  node [
+    id 1404
+    label "1404"
+    idx 1404
+    row 3045
+    column 3112
+    demarcated "False"
+    area 11394.0
+    solidity 0.9432119205298013
+    eccentricity 0.4515660532175645
+    diameter 120.44621776009592
+    perimeter 493.3452377915607
+    degree 1.0
+    strength 0.6407561068050917
+    betweenness 0.0
+  ]
+  node [
+    id 1405
+    label "1405"
+    idx 1405
+    row 3004
+    column 9962
+    demarcated "False"
+    area 2481.0
+    solidity 0.9837430610626486
+    eccentricity 0.8374245117098749
+    diameter 56.2041574128457
+    perimeter 201.92388155425118
+    degree 3.0
+    strength 2.550484344703051
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1406
+    label "1406"
+    idx 1406
+    row 3016
+    column 4087
+    demarcated "False"
+    area 2494.0
+    solidity 0.984214680347277
+    eccentricity 0.6893169165578436
+    diameter 56.35121493428066
+    perimeter 191.33809511662426
+    degree 7.0
+    strength 6.626724785420034
+    betweenness 2.2386980448554496E-05
+  ]
+  node [
+    id 1407
+    label "1407"
+    idx 1407
+    row 3086
+    column 12122
+    demarcated "False"
+    area 44679.0
+    solidity 0.9355487153715686
+    eccentricity 0.8014481463639505
+    diameter 238.5101038095081
+    perimeter 943.6021638285529
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1408
+    label "1408"
+    idx 1408
+    row 3002
+    column 9841
+    demarcated "False"
+    area 946.0
+    solidity 0.9742533470648815
+    eccentricity 0.8219728891427818
+    diameter 34.70568554746418
+    perimeter 120.91168824543142
+    degree 5.0
+    strength 4.511660317300947
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1409
+    label "1409"
+    idx 1409
+    row 3031
+    column 5652
+    demarcated "False"
+    area 7750.0
+    solidity 0.9838771105750921
+    eccentricity 0.821245562911421
+    diameter 99.3358267278101
+    perimeter 357.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1410
+    label "1410"
+    idx 1410
+    row 3083
+    column 7542
+    demarcated "False"
+    area 52213.0
+    solidity 0.8522066984396423
+    eccentricity 0.8847853288989078
+    diameter 257.8364915004411
+    perimeter 1442.9352083112935
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1411
+    label "1411"
+    idx 1411
+    row 3010
+    column 8580
+    demarcated "False"
+    area 971.0
+    solidity 0.9671314741035857
+    eccentricity 0.710947093509485
+    diameter 35.16127981086358
+    perimeter 119.9827560572969
+    degree 5.0
+    strength 4.785136071892693
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1412
+    label "1412"
+    idx 1412
+    row 3071
+    column 10446
+    demarcated "False"
+    area 33911.0
+    solidity 0.9024883566200932
+    eccentricity 0.9206507575801004
+    diameter 207.79034193512004
+    perimeter 867.3940110268397
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1413
+    label "1413"
+    idx 1413
+    row 3008
+    column 4970
+    demarcated "False"
+    area 741.0
+    solidity 0.9548969072164949
+    eccentricity 0.8464322259036495
+    diameter 30.71596494738128
+    perimeter 109.9827560572969
+    degree 4.0
+    strength 3.821849017422779
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1414
+    label "1414"
+    idx 1414
+    row 3019
+    column 8631
+    demarcated "False"
+    area 1118.0
+    solidity 0.9239669421487603
+    eccentricity 0.8662190949260988
+    diameter 37.72905791315113
+    perimeter 144.19595949289334
+    degree 5.0
+    strength 4.7462895630906345
+    betweenness 0.0
+  ]
+  node [
+    id 1415
+    label "1415"
+    idx 1415
+    row 3028
+    column 3976
+    demarcated "False"
+    area 2430.0
+    solidity 0.9842041312272175
+    eccentricity 0.7513851355966
+    diameter 55.6234850913393
+    perimeter 191.09545442950497
+    degree 4.0
+    strength 3.809284025399888
+    betweenness 0.0
+  ]
+  node [
+    id 1416
+    label "1416"
+    idx 1416
+    row 3045
+    column 7047
+    demarcated "False"
+    area 7391.0
+    solidity 0.9353328271323715
+    eccentricity 0.6950527266975864
+    diameter 97.00780110453792
+    perimeter 356.2914139223983
+    degree 1.0
+    strength 0.8153408723790382
+    betweenness 0.0
+  ]
+  node [
+    id 1417
+    label "1417"
+    idx 1417
+    row 3024
+    column 9565
+    demarcated "False"
+    area 2241.0
+    solidity 0.9581017528858486
+    eccentricity 0.7801304582466423
+    diameter 53.41656877553537
+    perimeter 194.06601717798213
+    degree 3.0
+    strength 2.804587615100572
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1418
+    label "1418"
+    idx 1418
+    row 3017
+    column 9800
+    demarcated "False"
+    area 909.0
+    solidity 0.9701173959445037
+    eccentricity 0.7225461070548683
+    diameter 34.02021084832166
+    perimeter 118.46803743153546
+    degree 5.0
+    strength 4.5211541696116075
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 1419
+    label "1419"
+    idx 1419
+    row 3033
+    column 8506
+    demarcated "False"
+    area 3514.0
+    solidity 0.98046875
+    eccentricity 0.7871622716501168
+    diameter 66.88919015954194
+    perimeter 238.20815280171306
+    degree 2.0
+    strength 1.7910493599761925
+    betweenness 0.0
+  ]
+  node [
+    id 1420
+    label "1420"
+    idx 1420
+    row 3043
+    column 3873
+    demarcated "False"
+    area 5002.0
+    solidity 0.9608144448713023
+    eccentricity 0.8194595035520686
+    diameter 79.80441217605255
+    perimeter 290.8355697996826
+    degree 3.0
+    strength 2.726639649353082
+    betweenness 6.716094134566349E-05
+  ]
+  node [
+    id 1421
+    label "1421"
+    idx 1421
+    row 3040
+    column 5930
+    demarcated "False"
+    area 2927.0
+    solidity 0.9277337559429477
+    eccentricity 0.8770513067404737
+    diameter 61.047294349871244
+    perimeter 235.4213562373095
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1422
+    label "1422"
+    idx 1422
+    row 3024
+    column 4220
+    demarcated "False"
+    area 657.0
+    solidity 0.9521739130434783
+    eccentricity 0.8752457476055475
+    diameter 28.92262748940701
+    perimeter 109.29646455628166
+    degree 4.0
+    strength 3.7197506254440533
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1423
+    label "1423"
+    idx 1423
+    row 3090
+    column 5795
+    demarcated "False"
+    area 23859.0
+    solidity 0.9029291553133515
+    eccentricity 0.8672688409117167
+    diameter 174.29349470888536
+    perimeter 698.8843430349616
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1424
+    label "1424"
+    idx 1424
+    row 3060
+    column 12870
+    demarcated "False"
+    area 3577.0
+    solidity 0.9197737207508357
+    eccentricity 0.9005118430232268
+    diameter 67.48613080861635
+    perimeter 302.44469683442253
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1425
+    label "1425"
+    idx 1425
+    row 3031
+    column 3711
+    demarcated "False"
+    area 1288.0
+    solidity 0.9259525521207764
+    eccentricity 0.5735465430992124
+    diameter 40.49608047229867
+    perimeter 154.5685424949238
+    degree 2.0
+    strength 1.2797351434787518
+    betweenness 1.4327667487074876E-05
+  ]
+  node [
+    id 1426
+    label "1426"
+    idx 1426
+    row 3041
+    column 5048
+    demarcated "False"
+    area 2070.0
+    solidity 0.9265890778871978
+    eccentricity 0.9139562948991065
+    diameter 51.338152066487424
+    perimeter 203.3797256769669
+    degree 2.0
+    strength 1.9080604992655963
+    betweenness 0.0
+  ]
+  node [
+    id 1427
+    label "1427"
+    idx 1427
+    row 3067
+    column 6942
+    demarcated "False"
+    area 7460.0
+    solidity 0.9699648940319855
+    eccentricity 0.3720487791393397
+    diameter 97.45956599392547
+    perimeter 344.43354954612926
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1428
+    label "1428"
+    idx 1428
+    row 3030
+    column 3342
+    demarcated "False"
+    area 827.0
+    solidity 0.9571759259259259
+    eccentricity 0.6914893045185824
+    diameter 32.44948541188257
+    perimeter 112.81118318204308
+    degree 3.0
+    strength 2.675647319761608
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 1429
+    label "1429"
+    idx 1429
+    row 3044
+    column 4034
+    demarcated "False"
+    area 1635.0
+    solidity 0.9808038392321535
+    eccentricity 0.6905314602550557
+    diameter 45.626161964841955
+    perimeter 156.61017305526642
+    degree 5.0
+    strength 4.699050221216496
+    betweenness 7.611573352508528E-06
+  ]
+  node [
+    id 1430
+    label "1430"
+    idx 1430
+    row 3024
+    column 9373
+    demarcated "False"
+    area 865.0
+    solidity 0.9402173913043478
+    eccentricity 0.9620431311864889
+    diameter 33.186626918021
+    perimeter 148.08326112068522
+    degree 1.0
+    strength 0.8668548037776582
+    betweenness 0.0
+  ]
+  node [
+    id 1431
+    label "1431"
+    idx 1431
+    row 3058
+    column 8735
+    demarcated "False"
+    area 6149.0
+    solidity 0.9476036369240253
+    eccentricity 0.8101742741928011
+    diameter 88.48248391956747
+    perimeter 319.50461735799473
+    degree 1.0
+    strength 0.8583948002744629
+    betweenness 0.0
+  ]
+  node [
+    id 1432
+    label "1432"
+    idx 1432
+    row 3066
+    column 10931
+    demarcated "False"
+    area 11532.0
+    solidity 0.9739864864864864
+    eccentricity 0.7754017668567625
+    diameter 121.17342295192414
+    perimeter 425.84776310850236
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1433
+    label "1433"
+    idx 1433
+    row 3092
+    column 4481
+    demarcated "False"
+    area 10001.0
+    solidity 0.8778967696629213
+    eccentricity 0.5930635194857672
+    diameter 112.84355846434639
+    perimeter 512.5584412271571
+    degree 3.0
+    strength 2.2745073128578306
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 1434
+    label "1434"
+    idx 1434
+    row 3060
+    column 4405
+    demarcated "False"
+    area 2235.0
+    solidity 0.9277708592777086
+    eccentricity 0.8536257803743135
+    diameter 53.34501272361915
+    perimeter 203.09545442950497
+    degree 3.0
+    strength 2.520141106688289
+    betweenness 0.0
+  ]
+  node [
+    id 1435
+    label "1435"
+    idx 1435
+    row 3140
+    column 7232
+    demarcated "False"
+    area 29451.0
+    solidity 0.8947320452059788
+    eccentricity 0.52447906010972
+    diameter 193.64446243565882
+    perimeter 870.1219330881976
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1436
+    label "1436"
+    idx 1436
+    row 3051
+    column 3581
+    demarcated "False"
+    area 2008.0
+    solidity 0.982868330885952
+    eccentricity 0.8018203283533393
+    diameter 50.56347501733051
+    perimeter 175.4386001800126
+    degree 1.0
+    strength 0.9746392320351357
+    betweenness 0.0
+  ]
+  node [
+    id 1437
+    label "1437"
+    idx 1437
+    row 3135
+    column 9034
+    demarcated "False"
+    area 35558.0
+    solidity 0.8236738475793375
+    eccentricity 0.7976494253960587
+    diameter 212.77653003020072
+    perimeter 1418.7920266670362
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1438
+    label "1438"
+    idx 1438
+    row 3053
+    column 9854
+    demarcated "False"
+    area 2443.0
+    solidity 0.9584150647312671
+    eccentricity 0.7563112750240424
+    diameter 55.77207372680348
+    perimeter 198.89444430272832
+    degree 3.0
+    strength 2.6159513339689444
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 1439
+    label "1439"
+    idx 1439
+    row 3044
+    column 8587
+    demarcated "False"
+    area 678.0
+    solidity 0.8921052631578947
+    eccentricity 0.8099428782483149
+    diameter 29.381225490616288
+    perimeter 115.19595949289332
+    degree 4.0
+    strength 3.791003151731631
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1440
+    label "1440"
+    idx 1440
+    row 3060
+    column 6592
+    demarcated "False"
+    area 1821.0
+    solidity 0.9827307069616837
+    eccentricity 0.7682473927747276
+    diameter 48.15152345422449
+    perimeter 166.40916292848976
+    degree 2.0
+    strength 1.8682601213154986
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1441
+    label "1441"
+    idx 1441
+    row 3166
+    column 11262
+    demarcated "False"
+    area 46940.0
+    solidity 0.8274135834023726
+    eccentricity 0.9563253404003155
+    diameter 244.4705794770989
+    perimeter 1232.8397538817887
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1442
+    label "1442"
+    idx 1442
+    row 3083
+    column 4106
+    demarcated "False"
+    area 5040.0
+    solidity 0.9547262739155143
+    eccentricity 0.5815443574326562
+    diameter 80.10697413749455
+    perimeter 278.8355697996826
+    degree 7.0
+    strength 6.220912812877126
+    betweenness 7.745895235199855E-05
+  ]
+  node [
+    id 1443
+    label "1443"
+    idx 1443
+    row 3061
+    column 3261
+    demarcated "False"
+    area 1695.0
+    solidity 0.9719036697247706
+    eccentricity 0.6353138429957748
+    diameter 46.45579649867281
+    perimeter 159.53910524340094
+    degree 5.0
+    strength 4.61032440907034
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1444
+    label "1444"
+    idx 1444
+    row 3099
+    column 7747
+    demarcated "False"
+    area 5979.0
+    solidity 0.8978825649496921
+    eccentricity 0.7806443417536624
+    diameter 87.25078359517202
+    perimeter 353.1614716074871
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1445
+    label "1445"
+    idx 1445
+    row 3096
+    column 9932
+    demarcated "False"
+    area 9895.0
+    solidity 0.9837939948299861
+    eccentricity 0.5794042420318002
+    diameter 112.24395438131373
+    perimeter 383.60512242138304
+    degree 2.0
+    strength 1.4742280678787993
+    betweenness 3.581916871768719E-06
+  ]
+  node [
+    id 1446
+    label "1446"
+    idx 1446
+    row 3121
+    column 5135
+    demarcated "False"
+    area 17734.0
+    solidity 0.9066462167689161
+    eccentricity 0.4998983320306265
+    diameter 150.26519918575084
+    perimeter 604.1147904132611
+    degree 1.0
+    strength 0.5458396467057487
+    betweenness 0.0
+  ]
+  node [
+    id 1447
+    label "1447"
+    idx 1447
+    row 3131
+    column 11902
+    demarcated "False"
+    area 19513.0
+    solidity 0.9801587301587301
+    eccentricity 0.7938042170669973
+    diameter 157.62208993798183
+    perimeter 569.286363288515
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1448
+    label "1448"
+    idx 1448
+    row 3074
+    column 4246
+    demarcated "False"
+    area 2964.0
+    solidity 0.9397590361445783
+    eccentricity 0.8583970568161058
+    diameter 61.43192989476256
+    perimeter 229.37972567696687
+    degree 4.0
+    strength 3.6450304621747014
+    betweenness 9.671175553775541E-05
+  ]
+  node [
+    id 1449
+    label "1449"
+    idx 1449
+    row 3074
+    column 2921
+    demarcated "False"
+    area 4353.0
+    solidity 0.8811740890688259
+    eccentricity 0.9179973287962562
+    diameter 74.44737563025417
+    perimeter 319.66399692442883
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1450
+    label "1450"
+    idx 1450
+    row 3074
+    column 9740
+    demarcated "False"
+    area 3313.0
+    solidity 0.9781517567168586
+    eccentricity 0.5264902070123818
+    diameter 64.94799928949
+    perimeter 226.45079348883235
+    degree 2.0
+    strength 1.7821424801538046
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1451
+    label "1451"
+    idx 1451
+    row 3067
+    column 8143
+    demarcated "False"
+    area 1997.0
+    solidity 0.983743842364532
+    eccentricity 0.8106391394268702
+    diameter 50.42478924929801
+    perimeter 175.68124086713192
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1452
+    label "1452"
+    idx 1452
+    row 3093
+    column 3355
+    demarcated "False"
+    area 5907.0
+    solidity 0.8890728476821192
+    eccentricity 0.6741039968669733
+    diameter 86.7238490309938
+    perimeter 328.63455967290594
+    degree 3.0
+    strength 2.599411574163299
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1453
+    label "1453"
+    idx 1453
+    row 3116
+    column 3660
+    demarcated "False"
+    area 16117.0
+    solidity 0.835120990724908
+    eccentricity 0.7615850430368194
+    diameter 143.25083504991034
+    perimeter 753.0092347159895
+    degree 2.0
+    strength 1.1278560618518814
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1454
+    label "1454"
+    idx 1454
+    row 3083
+    column 4194
+    demarcated "False"
+    area 1767.0
+    solidity 0.978405315614618
+    eccentricity 0.79364611547901
+    diameter 47.43220715449612
+    perimeter 166.36753236814712
+    degree 6.0
+    strength 5.491118610492231
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1455
+    label "1455"
+    idx 1455
+    row 3179
+    column 5402
+    demarcated "False"
+    area 23031.0
+    solidity 0.7493899066150392
+    eccentricity 0.8967817842432915
+    diameter 171.24245955602115
+    perimeter 895.0092347159894
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1456
+    label "1456"
+    idx 1456
+    row 3116
+    column 4980
+    demarcated "False"
+    area 6007.0
+    solidity 0.9865330924618164
+    eccentricity 0.8386278551607925
+    diameter 87.45484517866419
+    perimeter 313.0782104868019
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1457
+    label "1457"
+    idx 1457
+    row 3086
+    column 5249
+    demarcated "False"
+    area 3057.0
+    solidity 0.9714013346043852
+    eccentricity 0.6495532425890986
+    diameter 62.38824639509747
+    perimeter 215.58073580374355
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1458
+    label "1458"
+    idx 1458
+    row 3083
+    column 4157
+    demarcated "False"
+    area 1065.0
+    solidity 0.9350307287093942
+    eccentricity 0.9229227443319361
+    diameter 36.823906842470535
+    perimeter 147.9827560572969
+    degree 8.0
+    strength 7.352265833874074
+    betweenness 9.31298386659867E-05
+  ]
+  node [
+    id 1459
+    label "1459"
+    idx 1459
+    row 3071
+    column 3980
+    demarcated "False"
+    area 557.0
+    solidity 0.9737762237762237
+    eccentricity 0.39894676791609934
+    diameter 26.63070457981699
+    perimeter 88.42640687119285
+    degree 5.0
+    strength 4.622768051695159
+    betweenness 9.357757827495779E-05
+  ]
+  node [
+    id 1460
+    label "1460"
+    idx 1460
+    row 3099
+    column 9249
+    demarcated "False"
+    area 5242.0
+    solidity 0.8818977119784657
+    eccentricity 0.7033376861891434
+    diameter 81.69652191802123
+    perimeter 337.9066376115481
+    degree 1.0
+    strength 0.9639399263403056
+    betweenness 0.0
+  ]
+  node [
+    id 1461
+    label "1461"
+    idx 1461
+    row 3121
+    column 6170
+    demarcated "False"
+    area 8610.0
+    solidity 0.830840490205539
+    eccentricity 0.7648389932846357
+    diameter 104.70239959126893
+    perimeter 464.3158005400378
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1462
+    label "1462"
+    idx 1462
+    row 3214
+    column 8236
+    demarcated "False"
+    area 196688.0
+    solidity 0.7855046186655591
+    eccentricity 0.9585292910668085
+    diameter 500.4307540258389
+    perimeter 4337.66348931015
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1463
+    label "1463"
+    idx 1463
+    row 3139
+    column 3903
+    demarcated "False"
+    area 13627.0
+    solidity 0.9398579212359474
+    eccentricity 0.8677103497993469
+    diameter 131.72105099833536
+    perimeter 513.3868683519033
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1464
+    label "1464"
+    idx 1464
+    row 3102
+    column 9337
+    demarcated "False"
+    area 4347.0
+    solidity 0.927063339731286
+    eccentricity 0.7179953692239843
+    diameter 74.39605030486331
+    perimeter 273.5218613006979
+    degree 3.0
+    strength 2.807515886049531
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 1465
+    label "1465"
+    idx 1465
+    row 3100
+    column 4035
+    demarcated "False"
+    area 3157.0
+    solidity 0.9834890965732087
+    eccentricity 0.4795191077964726
+    diameter 63.400451439472484
+    perimeter 214.16652224137044
+    degree 9.0
+    strength 8.349063200671951
+    betweenness 0.00010118915162746632
+  ]
+  node [
+    id 1466
+    label "1466"
+    idx 1466
+    row 3100
+    column 10831
+    demarcated "False"
+    area 3908.0
+    solidity 0.9826502388735228
+    eccentricity 0.636078565140535
+    diameter 70.53949348290655
+    perimeter 244.14927829866735
+    degree 1.0
+    strength 0.8460502773737177
+    betweenness 0.0
+  ]
+  node [
+    id 1467
+    label "1467"
+    idx 1467
+    row 3116
+    column 4323
+    demarcated "False"
+    area 6689.0
+    solidity 0.7542850699142986
+    eccentricity 0.8313776797189996
+    diameter 92.28596488488108
+    perimeter 456.74220741123065
+    degree 4.0
+    strength 3.4212012743415054
+    betweenness 9.31298386659867E-05
+  ]
+  node [
+    id 1468
+    label "1468"
+    idx 1468
+    row 3097
+    column 3800
+    demarcated "False"
+    area 2904.0
+    solidity 0.9565217391304348
+    eccentricity 0.8460640734973303
+    diameter 60.806970306955044
+    perimeter 218.7523086789974
+    degree 3.0
+    strength 2.6997055309185076
+    betweenness 1.4327667487074876E-05
+  ]
+  node [
+    id 1469
+    label "1469"
+    idx 1469
+    row 3113
+    column 3283
+    demarcated "False"
+    area 4562.0
+    solidity 0.9464730290456431
+    eccentricity 0.7464683225954578
+    diameter 76.21363921951118
+    perimeter 276.0071426749364
+    degree 2.0
+    strength 1.8353129725482795
+    betweenness 0.0
+  ]
+  node [
+    id 1470
+    label "1470"
+    idx 1470
+    row 3120
+    column 6556
+    demarcated "False"
+    area 5150.0
+    solidity 0.9601043997017151
+    eccentricity 0.5558968970413556
+    diameter 80.9764388904951
+    perimeter 283.7056274847714
+    degree 1.0
+    strength 0.8723143432865157
+    betweenness 0.0
+  ]
+  node [
+    id 1471
+    label "1471"
+    idx 1471
+    row 3119
+    column 9596
+    demarcated "False"
+    area 4734.0
+    solidity 0.9738736885414524
+    eccentricity 0.9028050012043602
+    diameter 77.63707880115184
+    perimeter 294.24978336205567
+    degree 2.0
+    strength 1.8193281257003373
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1472
+    label "1472"
+    idx 1472
+    row 3140
+    column 8820
+    demarcated "False"
+    area 9768.0
+    solidity 0.9636937647987371
+    eccentricity 0.7511181336575203
+    diameter 111.52131577852312
+    perimeter 398.75945135393374
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1473
+    label "1473"
+    idx 1473
+    row 3113
+    column 2814
+    demarcated "False"
+    area 1251.0
+    solidity 0.9750584567420109
+    eccentricity 0.8441570100094554
+    diameter 39.91018254109706
+    perimeter 141.05382386916236
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1474
+    label "1474"
+    idx 1474
+    row 3113
+    column 4406
+    demarcated "False"
+    area 1242.0
+    solidity 0.9849325931800159
+    eccentricity 0.45786691857927986
+    diameter 39.76636159571394
+    perimeter 129.63961030678928
+    degree 3.0
+    strength 2.4578495403680956
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 1475
+    label "1475"
+    idx 1475
+    row 3139
+    column 4566
+    demarcated "False"
+    area 6021.0
+    solidity 0.8570818505338078
+    eccentricity 0.815725051418948
+    diameter 87.55669762417045
+    perimeter 367.50461735799473
+    degree 1.0
+    strength 0.8493200388790147
+    betweenness 0.0
+  ]
+  node [
+    id 1476
+    label "1476"
+    idx 1476
+    row 3146
+    column 10761
+    demarcated "False"
+    area 7982.0
+    solidity 0.9329125759700795
+    eccentricity 0.7804962914717604
+    diameter 100.81169597857219
+    perimeter 371.6467529817257
+    degree 1.0
+    strength 0.8460502773737177
+    betweenness 0.0
+  ]
+  node [
+    id 1477
+    label "1477"
+    idx 1477
+    row 3155
+    column 9608
+    demarcated "False"
+    area 2611.0
+    solidity 0.6945996275605214
+    eccentricity 0.9794407439220575
+    diameter 57.65785680463253
+    perimeter 329.1848122046001
+    degree 1.0
+    strength 0.9165696181217341
+    betweenness 0.0
+  ]
+  node [
+    id 1478
+    label "1478"
+    idx 1478
+    row 3152
+    column 7012
+    demarcated "False"
+    area 5008.0
+    solidity 0.8392827216356629
+    eccentricity 0.7899681320000598
+    diameter 79.85226133325027
+    perimeter 328.6761902332486
+    degree 3.0
+    strength 2.705569222900729
+    betweenness 0.0
+  ]
+  node [
+    id 1479
+    label "1479"
+    idx 1479
+    row 3165
+    column 4173
+    demarcated "False"
+    area 6430.0
+    solidity 0.8833630993268307
+    eccentricity 0.7094871044482265
+    diameter 90.48165710599633
+    perimeter 375.1614716074871
+    degree 3.0
+    strength 2.4237218705207324
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1480
+    label "1480"
+    idx 1480
+    row 3146
+    column 4006
+    demarcated "False"
+    area 1391.0
+    solidity 0.9679888656924147
+    eccentricity 0.7286094169433144
+    diameter 42.084156243491584
+    perimeter 147.4386001800126
+    degree 6.0
+    strength 5.810542681300771
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 1481
+    label "1481"
+    idx 1481
+    row 3244
+    column 11062
+    demarcated "False"
+    area 58259.0
+    solidity 0.8343692713107241
+    eccentricity 0.8846229048528373
+    diameter 272.35576483108605
+    perimeter 1316.5971131946694
+    degree 1.0
+    strength 0.10597722047268741
+    betweenness 0.0
+  ]
+  node [
+    id 1482
+    label "1482"
+    idx 1482
+    row 3214
+    column 2893
+    demarcated "False"
+    area 10069.0
+    solidity 0.7999523317708747
+    eccentricity 0.9883428423668547
+    diameter 113.2265383023713
+    perimeter 658.891485709898
+    degree 4.0
+    strength 2.87094251339993
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1483
+    label "1483"
+    idx 1483
+    row 3208
+    column 5875
+    demarcated "False"
+    area 17601.0
+    solidity 0.8976896006528281
+    eccentricity 0.8720263186166564
+    diameter 149.700665418974
+    perimeter 680.4823227814084
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1484
+    label "1484"
+    idx 1484
+    row 3161
+    column 9729
+    demarcated "False"
+    area 6537.0
+    solidity 0.9545852803738317
+    eccentricity 0.8559783333643505
+    diameter 91.23139209687507
+    perimeter 334.2497833620557
+    degree 1.0
+    strength 0.8760809688285134
+    betweenness 0.0
+  ]
+  node [
+    id 1485
+    label "1485"
+    idx 1485
+    row 3166
+    column 3745
+    demarcated "False"
+    area 2997.0
+    solidity 0.9084571082146105
+    eccentricity 0.8295386419372174
+    diameter 61.77296265819928
+    perimeter 232.89444430272832
+    degree 2.0
+    strength 1.5798847414017865
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1486
+    label "1486"
+    idx 1486
+    row 3156
+    column 3129
+    demarcated "False"
+    area 2795.0
+    solidity 0.9851956291857596
+    eccentricity 0.80438603313716
+    diameter 59.65487848897842
+    perimeter 212.65180361560903
+    degree 2.0
+    strength 1.7310224925338482
+    betweenness 0.0
+  ]
+  node [
+    id 1487
+    label "1487"
+    idx 1487
+    row 3153
+    column 3540
+    demarcated "False"
+    area 1751.0
+    solidity 0.969545957918051
+    eccentricity 0.7757851845099465
+    diameter 47.21697197863571
+    perimeter 165.19595949289334
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1488
+    label "1488"
+    idx 1488
+    row 3205
+    column 5269
+    demarcated "False"
+    area 8733.0
+    solidity 0.808760881644749
+    eccentricity 0.7509707517829866
+    diameter 105.44762180425018
+    perimeter 469.2031021678298
+    degree 1.0
+    strength 0.7200137415290381
+    betweenness 0.0
+  ]
+  node [
+    id 1489
+    label "1489"
+    idx 1489
+    row 3146
+    column 4096
+    demarcated "False"
+    area 854.0
+    solidity 0.976
+    eccentricity 0.8427214169052571
+    diameter 32.97493853222215
+    perimeter 115.49747468305833
+    degree 8.0
+    strength 7.474325163036154
+    betweenness 3.850560637151373E-05
+  ]
+  node [
+    id 1490
+    label "1490"
+    idx 1490
+    row 3167
+    column 7094
+    demarcated "False"
+    area 2016.0
+    solidity 0.9134571816946081
+    eccentricity 0.6389041600571544
+    diameter 50.664098947737024
+    perimeter 190.61017305526642
+    degree 3.0
+    strength 2.8271543014640272
+    betweenness 0.0
+  ]
+  node [
+    id 1491
+    label "1491"
+    idx 1491
+    row 3187
+    column 2730
+    demarcated "False"
+    area 5344.0
+    solidity 0.845034788108792
+    eccentricity 0.9526328800386167
+    diameter 82.48752709994832
+    perimeter 410.6173157302028
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1492
+    label "1492"
+    idx 1492
+    row 3201
+    column 5755
+    demarcated "False"
+    area 6931.0
+    solidity 0.8811339944063056
+    eccentricity 0.9388479792731393
+    diameter 93.94053057418513
+    perimeter 420.1736649163069
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1493
+    label "1493"
+    idx 1493
+    row 3180
+    column 4307
+    demarcated "False"
+    area 4928.0
+    solidity 0.9361702127659575
+    eccentricity 0.9455745025214864
+    diameter 79.21189605390646
+    perimeter 326.69343417595167
+    degree 2.0
+    strength 1.762016883957304
+    betweenness 2.9550814192091934E-05
+  ]
+  node [
+    id 1494
+    label "1494"
+    idx 1494
+    row 3179
+    column 9339
+    demarcated "False"
+    area 3773.0
+    solidity 0.9840897235263433
+    eccentricity 0.7987059402559996
+    diameter 69.31040904716815
+    perimeter 245.6223663640862
+    degree 2.0
+    strength 1.909836924035957
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1495
+    label "1495"
+    idx 1495
+    row 3159
+    column 3086
+    demarcated "False"
+    area 93.0
+    solidity 0.9117647058823529
+    eccentricity 0.8916457664962696
+    diameter 10.881694613449236
+    perimeter 41.834523779156065
+    degree 3.0
+    strength 2.6165269349844023
+    betweenness 0.0
+  ]
+  node [
+    id 1496
+    label "1496"
+    idx 1496
+    row 3168
+    column 4053
+    demarcated "False"
+    area 745.0
+    solidity 0.9612903225806452
+    eccentricity 0.710786987272135
+    diameter 30.798757455905527
+    perimeter 104.91168824543144
+    degree 6.0
+    strength 5.58230978572154
+    betweenness 0.0
+  ]
+  node [
+    id 1497
+    label "1497"
+    idx 1497
+    row 3229
+    column 2597
+    demarcated "False"
+    area 8684.0
+    solidity 0.9477245443631999
+    eccentricity 0.8042201917685035
+    diameter 105.15137757766254
+    perimeter 395.0609665440988
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1498
+    label "1498"
+    idx 1498
+    row 3229
+    column 2434
+    demarcated "False"
+    area 13282.0
+    solidity 0.7975740106887648
+    eccentricity 0.8664916081596102
+    diameter 130.04294534180787
+    perimeter 715.2518754031088
+    degree 1.0
+    strength 0.6183350958948546
+    betweenness 0.0
+  ]
+  node [
+    id 1499
+    label "1499"
+    idx 1499
+    row 3188
+    column 6303
+    demarcated "False"
+    area 1341.0
+    solidity 0.9654427645788337
+    eccentricity 0.7961818355387098
+    diameter 41.32086917635994
+    perimeter 147.05382386916236
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1500
+    label "1500"
+    idx 1500
+    row 3177
+    column 4015
+    demarcated "False"
+    area 473.0
+    solidity 0.9633401221995926
+    eccentricity 0.7596127676369898
+    diameter 24.54062559633988
+    perimeter 83.11269837220809
+    degree 6.0
+    strength 5.531325447273051
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 1501
+    label "1501"
+    idx 1501
+    row 3215
+    column 4380
+    demarcated "False"
+    area 9418.0
+    solidity 0.6955173177756443
+    eccentricity 0.9757462559952411
+    diameter 109.50511418338307
+    perimeter 613.3279938488575
+    degree 2.0
+    strength 1.655478603182246
+    betweenness 1.5223146705017056E-05
+  ]
+  node [
+    id 1502
+    label "1502"
+    idx 1502
+    row 3206
+    column 7075
+    demarcated "False"
+    area 2685.0
+    solidity 0.8777378228179143
+    eccentricity 0.840755408627174
+    diameter 58.469207088979
+    perimeter 227.3797256769669
+    degree 4.0
+    strength 3.807066229370969
+    betweenness 0.0
+  ]
+  node [
+    id 1503
+    label "1503"
+    idx 1503
+    row 3217
+    column 7678
+    demarcated "False"
+    area 5917.0
+    solidity 0.8917859834212509
+    eccentricity 0.5269469474116262
+    diameter 86.79722568261015
+    perimeter 357.3624817342638
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1504
+    label "1504"
+    idx 1504
+    row 3231
+    column 6947
+    demarcated "False"
+    area 6866.0
+    solidity 0.9610862262038073
+    eccentricity 0.8363091934267533
+    diameter 93.49899846603506
+    perimeter 337.74725804511405
+    degree 2.0
+    strength 1.6649825532557343
+    betweenness 0.0
+  ]
+  node [
+    id 1505
+    label "1505"
+    idx 1505
+    row 3202
+    column 4061
+    demarcated "False"
+    area 1415.0
+    solidity 0.9758620689655172
+    eccentricity 0.7990058922525247
+    diameter 42.445658856946196
+    perimeter 148.12489168102786
+    degree 5.0
+    strength 4.677386438311038
+    betweenness 0.0
+  ]
+  node [
+    id 1506
+    label "1506"
+    idx 1506
+    row 3240
+    column 3108
+    demarcated "False"
+    area 7161.0
+    solidity 0.9150268336314848
+    eccentricity 0.9618103717036336
+    diameter 95.48648270749374
+    perimeter 449.7300141024109
+    degree 4.0
+    strength 3.336902153387257
+    betweenness 3.3580470672831744E-05
+  ]
+  node [
+    id 1507
+    label "1507"
+    idx 1507
+    row 3250
+    column 6181
+    demarcated "False"
+    area 11705.0
+    solidity 0.9250039513197408
+    eccentricity 0.7984693752031501
+    diameter 122.07894524087715
+    perimeter 467.48737341529164
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1508
+    label "1508"
+    idx 1508
+    row 3219
+    column 9220
+    demarcated "False"
+    area 2847.0
+    solidity 0.9760027425437093
+    eccentricity 0.777033861785944
+    diameter 60.207250259923086
+    perimeter 208.06601717798213
+    degree 3.0
+    strength 2.8344216343077155
+    betweenness 0.0
+  ]
+  node [
+    id 1509
+    label "1509"
+    idx 1509
+    row 3243
+    column 3306
+    demarcated "False"
+    area 6745.0
+    solidity 0.9090296495956873
+    eccentricity 0.8787090126064666
+    diameter 92.67146664016208
+    perimeter 358.8183258569795
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1510
+    label "1510"
+    idx 1510
+    row 3213
+    column 5149
+    demarcated "False"
+    area 2980.0
+    solidity 0.8959711365003007
+    eccentricity 0.9605454482372325
+    diameter 61.597514911811054
+    perimeter 271.4802307403552
+    degree 1.0
+    strength 0.5458396467057487
+    betweenness 0.0
+  ]
+  node [
+    id 1511
+    label "1511"
+    idx 1511
+    row 3285
+    column 8790
+    demarcated "False"
+    area 35112.0
+    solidity 0.8920278441136121
+    eccentricity 0.9201051213375896
+    diameter 211.4379031648324
+    perimeter 937.5189027078676
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1512
+    label "1512"
+    idx 1512
+    row 3247
+    column 2965
+    demarcated "False"
+    area 4466.0
+    solidity 0.8987723888106259
+    eccentricity 0.9228638953482597
+    diameter 75.40747845397854
+    perimeter 299.01933598375615
+    degree 5.0
+    strength 4.316227517987425
+    betweenness 3.0446293410034112E-05
+  ]
+  node [
+    id 1513
+    label "1513"
+    idx 1513
+    row 3238
+    column 7042
+    demarcated "False"
+    area 2764.0
+    solidity 0.9198003327787022
+    eccentricity 0.7670303649452657
+    diameter 59.323132938576244
+    perimeter 227.48023074035524
+    degree 7.0
+    strength 6.503070334797155
+    betweenness 8.954792179421798E-06
+  ]
+  node [
+    id 1514
+    label "1514"
+    idx 1514
+    row 3233
+    column 9280
+    demarcated "False"
+    area 2086.0
+    solidity 0.953382084095064
+    eccentricity 0.8106631602460739
+    diameter 51.536178460548946
+    perimeter 189.4802307403552
+    degree 4.0
+    strength 3.826701075685423
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1515
+    label "1515"
+    idx 1515
+    row 3360
+    column 6050
+    demarcated "False"
+    area 49645.0
+    solidity 0.7508886031914089
+    eccentricity 0.843539493996388
+    diameter 251.41594459854204
+    perimeter 1493.2733034279179
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1516
+    label "1516"
+    idx 1516
+    row 3231
+    column 6809
+    demarcated "False"
+    area 1316.0
+    solidity 0.9755374351371386
+    eccentricity 0.8072680128151111
+    diameter 40.933888660515436
+    perimeter 141.0538238691624
+    degree 1.0
+    strength 0.9814620326602401
+    betweenness 0.0
+  ]
+  node [
+    id 1517
+    label "1517"
+    idx 1517
+    row 3259
+    column 4022
+    demarcated "False"
+    area 7906.0
+    solidity 0.9177016831108532
+    eccentricity 0.8972313431266498
+    diameter 100.33061267966121
+    perimeter 394.8183258569795
+    degree 3.0
+    strength 2.2486657811420923
+    betweenness 0.0
+  ]
+  node [
+    id 1518
+    label "1518"
+    idx 1518
+    row 3300
+    column 9112
+    demarcated "False"
+    area 12990.0
+    solidity 0.9045961002785515
+    eccentricity 0.8989732792162731
+    diameter 128.60552743218219
+    perimeter 525.5706345359769
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1519
+    label "1519"
+    idx 1519
+    row 3240
+    column 3029
+    demarcated "False"
+    area 754.0
+    solidity 0.9792207792207792
+    eccentricity 0.8289716945799028
+    diameter 30.984231743425763
+    perimeter 108.91168824543144
+    degree 4.0
+    strength 3.5579622161968762
+    betweenness 1.7014105140901414E-05
+  ]
+  node [
+    id 1520
+    label "1520"
+    idx 1520
+    row 3258
+    column 7245
+    demarcated "False"
+    area 4540.0
+    solidity 0.950188363331938
+    eccentricity 0.7134673407756961
+    diameter 76.02964903968477
+    perimeter 283.86500705120545
+    degree 1.0
+    strength 0.901166991147024
+    betweenness 0.0
+  ]
+  node [
+    id 1521
+    label "1521"
+    idx 1521
+    row 3246
+    column 6484
+    demarcated "False"
+    area 1864.0
+    solidity 0.9774514944939696
+    eccentricity 0.7862668426601882
+    diameter 48.71671696026266
+    perimeter 167.53910524340094
+    degree 2.0
+    strength 1.734119285839415
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1522
+    label "1522"
+    idx 1522
+    row 3271
+    column 7162
+    demarcated "False"
+    area 7076.0
+    solidity 0.9457364341085271
+    eccentricity 0.670503142693741
+    diameter 94.91808583481871
+    perimeter 340.04877323527904
+    degree 2.0
+    strength 1.6764082547600325
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1523
+    label "1523"
+    idx 1523
+    row 3262
+    column 9018
+    demarcated "False"
+    area 5213.0
+    solidity 0.9675204157386785
+    eccentricity 0.8729774949103067
+    diameter 81.47022613632788
+    perimeter 308.1076477383248
+    degree 1.0
+    strength 0.8782045862201922
+    betweenness 0.0
+  ]
+  node [
+    id 1524
+    label "1524"
+    idx 1524
+    row 3268
+    column 3541
+    demarcated "False"
+    area 9275.0
+    solidity 0.9658440070811205
+    eccentricity 0.9036666279515726
+    diameter 108.67058837338939
+    perimeter 411.22034611053283
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1525
+    label "1525"
+    idx 1525
+    row 3260
+    column 4380
+    demarcated "False"
+    area 4693.0
+    solidity 0.9401041666666666
+    eccentricity 0.9190297671437049
+    diameter 77.30014995743616
+    perimeter 303.66399692442883
+    degree 1.0
+    strength 0.8237482967038985
+    betweenness 0.0
+  ]
+  node [
+    id 1526
+    label "1526"
+    idx 1526
+    row 3249
+    column 6761
+    demarcated "False"
+    area 860.0
+    solidity 0.9534368070953437
+    eccentricity 0.860168978647269
+    diameter 33.090572803628525
+    perimeter 122.5685424949238
+    degree 1.0
+    strength 0.9814620326602401
+    betweenness 0.0
+  ]
+  node [
+    id 1527
+    label "1527"
+    idx 1527
+    row 3320
+    column 11556
+    demarcated "False"
+    area 10510.0
+    solidity 0.9109031027907784
+    eccentricity 0.896846493288388
+    diameter 115.67950386808616
+    perimeter 460.5756851698602
+    degree 2.0
+    strength 1.6538219004383312
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1528
+    label "1528"
+    idx 1528
+    row 3257
+    column 9686
+    demarcated "False"
+    area 1273.0
+    solidity 0.972498090145149
+    eccentricity 0.8284472662145674
+    diameter 40.25958197060499
+    perimeter 142.95331880577402
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1529
+    label "1529"
+    idx 1529
+    row 3280
+    column 11673
+    demarcated "False"
+    area 9076.0
+    solidity 0.9735063820658586
+    eccentricity 0.8251451273872479
+    diameter 107.49847491018808
+    perimeter 394.6761902332486
+    degree 1.0
+    strength 0.9302102320373479
+    betweenness 0.0
+  ]
+  node [
+    id 1530
+    label "1530"
+    idx 1530
+    row 3304
+    column 1498
+    demarcated "False"
+    area 3170.0
+    solidity 0.9293462327763119
+    eccentricity 0.9785743376982371
+    diameter 63.53085358162966
+    perimeter 322.3746750430835
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1531
+    label "1531"
+    idx 1531
+    row 3291
+    column 2903
+    demarcated "False"
+    area 2563.0
+    solidity 0.7974486621032981
+    eccentricity 0.8008322439923352
+    diameter 57.12541424931833
+    perimeter 239.82337649086284
+    degree 7.0
+    strength 6.329272535875131
+    betweenness 2.5968897320323215E-05
+  ]
+  node [
+    id 1532
+    label "1532"
+    idx 1532
+    row 3276
+    column 6999
+    demarcated "False"
+    area 2027.0
+    solidity 0.9675417661097852
+    eccentricity 0.5255381731366943
+    diameter 50.802131423574885
+    perimeter 173.23759005323592
+    degree 5.0
+    strength 4.576808446401937
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1533
+    label "1533"
+    idx 1533
+    row 3279
+    column 6416
+    demarcated "False"
+    area 3796.0
+    solidity 0.9818934299017071
+    eccentricity 0.7575587891660587
+    diameter 69.52134428946752
+    perimeter 240.93607486307093
+    degree 3.0
+    strength 2.788007122899115
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 1534
+    label "1534"
+    idx 1534
+    row 3294
+    column 11492
+    demarcated "False"
+    area 4354.0
+    solidity 0.9824007220216606
+    eccentricity 0.7291969766018834
+    diameter 74.45592641138043
+    perimeter 254.93607486307096
+    degree 1.0
+    strength 0.7767697447408513
+    betweenness 0.0
+  ]
+  node [
+    id 1535
+    label "1535"
+    idx 1535
+    row 3272
+    column 9230
+    demarcated "False"
+    area 1423.0
+    solidity 0.9746575342465753
+    eccentricity 0.8256856973026659
+    diameter 42.56547746893175
+    perimeter 149.63961030678928
+    degree 3.0
+    strength 2.893803990448826
+    betweenness 0.0
+  ]
+  node [
+    id 1536
+    label "1536"
+    idx 1536
+    row 3284
+    column 4930
+    demarcated "False"
+    area 2586.0
+    solidity 0.9359391965255157
+    eccentricity 0.9256529741422388
+    diameter 57.381159474910675
+    perimeter 232.79393923933998
+    degree 2.0
+    strength 1.4710546742411763
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1537
+    label "1537"
+    idx 1537
+    row 3304
+    column 4150
+    demarcated "False"
+    area 8315.0
+    solidity 0.9526810265811182
+    eccentricity 0.6555672252095474
+    diameter 102.89308438604063
+    perimeter 391.60512242138304
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1538
+    label "1538"
+    idx 1538
+    row 3299
+    column 7928
+    demarcated "False"
+    area 8409.0
+    solidity 0.8940038273442483
+    eccentricity 0.9352995848058209
+    diameter 103.47304640184315
+    perimeter 493.3452377915607
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1539
+    label "1539"
+    idx 1539
+    row 3281
+    column 2504
+    demarcated "False"
+    area 1567.0
+    solidity 0.9714817110973342
+    eccentricity 0.7979862300263356
+    diameter 44.66728519397614
+    perimeter 156.75230867899737
+    degree 1.0
+    strength 0.6183350958948546
+    betweenness 0.0
+  ]
+  node [
+    id 1540
+    label "1540"
+    idx 1540
+    row 3304
+    column 7506
+    demarcated "False"
+    area 6085.0
+    solidity 0.9387534711508794
+    eccentricity 0.6132058388869224
+    diameter 88.02080793604127
+    perimeter 320.14927829866735
+    degree 6.0
+    strength 4.967400325229681
+    betweenness 0.0
+  ]
+  node [
+    id 1541
+    label "1541"
+    idx 1541
+    row 3272
+    column 8360
+    demarcated "False"
+    area 545.0
+    solidity 0.956140350877193
+    eccentricity 0.8856859152102332
+    diameter 26.34227689249097
+    perimeter 100.32590180780453
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1542
+    label "1542"
+    idx 1542
+    row 3318
+    column 4667
+    demarcated "False"
+    area 16407.0
+    solidity 0.8465507455755636
+    eccentricity 0.9784482727470689
+    diameter 144.5338756502081
+    perimeter 762.2569260369921
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1543
+    label "1543"
+    idx 1543
+    row 3274
+    column 2869
+    demarcated "False"
+    area 244.0
+    solidity 0.9348659003831418
+    eccentricity 0.7942526841996781
+    diameter 17.625846048215095
+    perimeter 62.97056274847714
+    degree 6.0
+    strength 5.352158416310519
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 1544
+    label "1544"
+    idx 1544
+    row 3309
+    column 6522
+    demarcated "False"
+    area 6989.0
+    solidity 0.9804994388327721
+    eccentricity 0.7464072507796832
+    diameter 94.33276831596777
+    perimeter 325.9066376115481
+    degree 1.0
+    strength 0.8103376622196309
+    betweenness 0.0
+  ]
+  node [
+    id 1545
+    label "1545"
+    idx 1545
+    row 3348
+    column 5006
+    demarcated "False"
+    area 12968.0
+    solidity 0.9252943275062433
+    eccentricity 0.8281808696415728
+    diameter 128.4965774490729
+    perimeter 503.9726547895302
+    degree 2.0
+    strength 1.2807402593561459
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1546
+    label "1546"
+    idx 1546
+    row 3328
+    column 3092
+    demarcated "False"
+    area 6765.0
+    solidity 0.7726130653266332
+    eccentricity 0.9473247606728931
+    diameter 92.8087577771267
+    perimeter 449.3452377915607
+    degree 3.0
+    strength 2.6288711612864373
+    betweenness 3.178951223694738E-05
+  ]
+  node [
+    id 1547
+    label "1547"
+    idx 1547
+    row 3385
+    column 11856
+    demarcated "False"
+    area 49162.0
+    solidity 0.9417466429132425
+    eccentricity 0.7865077073393566
+    diameter 250.18993284756698
+    perimeter 1044.2295808265224
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1548
+    label "1548"
+    idx 1548
+    row 3365
+    column 2290
+    demarcated "False"
+    area 10324.0
+    solidity 0.8872464764523892
+    eccentricity 0.95663345961102
+    diameter 114.65131948584727
+    perimeter 515.5290039756343
+    degree 1.0
+    strength 0.7561388501059861
+    betweenness 0.0
+  ]
+  node [
+    id 1549
+    label "1549"
+    idx 1549
+    row 3314
+    column 5368
+    demarcated "False"
+    area 7620.0
+    solidity 0.8690693430656934
+    eccentricity 0.8152562714457463
+    diameter 98.49916411260524
+    perimeter 425.71782079359116
+    degree 1.0
+    strength 0.9794503835247762
+    betweenness 0.0
+  ]
+  node [
+    id 1550
+    label "1550"
+    idx 1550
+    row 3290
+    column 5242
+    demarcated "False"
+    area 728.0
+    solidity 0.9553805774278216
+    eccentricity 0.6738579663692696
+    diameter 30.445334430207833
+    perimeter 102.66904755831214
+    degree 2.0
+    strength 1.4894867863475323
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1551
+    label "1551"
+    idx 1551
+    row 3294
+    column 9257
+    demarcated "False"
+    area 866.0
+    solidity 0.946448087431694
+    eccentricity 0.9119358884148793
+    diameter 33.20580439833751
+    perimeter 129.88225099390857
+    degree 3.0
+    strength 2.850498590648073
+    betweenness 0.0
+  ]
+  node [
+    id 1552
+    label "1552"
+    idx 1552
+    row 3301
+    column 6335
+    demarcated "False"
+    area 1679.0
+    solidity 0.9312257348863006
+    eccentricity 0.6863676749546176
+    diameter 46.23601621690972
+    perimeter 171.03657992645927
+    degree 4.0
+    strength 3.823206321846791
+    betweenness 0.0
+  ]
+  node [
+    id 1553
+    label "1553"
+    idx 1553
+    row 3291
+    column 2866
+    demarcated "False"
+    area 427.0
+    solidity 0.9573991031390134
+    eccentricity 0.5047603317076816
+    diameter 23.31680264534386
+    perimeter 83.94112549695427
+    degree 5.0
+    strength 4.537753659620162
+    betweenness 0.0
+  ]
+  node [
+    id 1554
+    label "1554"
+    idx 1554
+    row 3299
+    column 10558
+    demarcated "False"
+    area 1405.0
+    solidity 0.9729916897506925
+    eccentricity 0.8697269819821611
+    diameter 42.295408265589586
+    perimeter 156.12489168102786
+    degree 4.0
+    strength 3.8806731733188826
+    betweenness 0.0
+  ]
+  node [
+    id 1555
+    label "1555"
+    idx 1555
+    row 3326
+    column 11369
+    demarcated "False"
+    area 8640.0
+    solidity 0.9900309384668271
+    eccentricity 0.6872717773846735
+    diameter 104.88464933683959
+    perimeter 353.4629867976521
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1556
+    label "1556"
+    idx 1556
+    row 3296
+    column 7071
+    demarcated "False"
+    area 872.0
+    solidity 0.95092693565976
+    eccentricity 0.8868159778250972
+    diameter 33.32063749403756
+    perimeter 127.63961030678927
+    degree 6.0
+    strength 5.378205682252053
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 1557
+    label "1557"
+    idx 1557
+    row 3332
+    column 529
+    demarcated "False"
+    area 3079.0
+    solidity 0.9296497584541062
+    eccentricity 0.9117717167765429
+    diameter 62.61233551177887
+    perimeter 243.37972567696687
+    degree 1.0
+    strength 0.9096751790495017
+    betweenness 0.0
+  ]
+  node [
+    id 1558
+    label "1558"
+    idx 1558
+    row 3302
+    column 5834
+    demarcated "False"
+    area 1158.0
+    solidity 0.9747474747474747
+    eccentricity 0.7706730379168589
+    diameter 38.39806496170502
+    perimeter 133.6812408671319
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1559
+    label "1559"
+    idx 1559
+    row 3327
+    column 5143
+    demarcated "False"
+    area 6934.0
+    solidity 0.9317387798978769
+    eccentricity 0.7046825772356928
+    diameter 93.9608588891865
+    perimeter 341.4629867976521
+    degree 1.0
+    strength 0.8534775489625551
+    betweenness 0.0
+  ]
+  node [
+    id 1560
+    label "1560"
+    idx 1560
+    row 3298
+    column 10502
+    demarcated "False"
+    area 648.0
+    solidity 0.9671641791044776
+    eccentricity 0.7889381195467259
+    diameter 28.723844188903154
+    perimeter 98.08326112068524
+    degree 5.0
+    strength 4.809341872493887
+    betweenness 0.0
+  ]
+  node [
+    id 1561
+    label "1561"
+    idx 1561
+    row 3318
+    column 2838
+    demarcated "False"
+    area 1462.0
+    solidity 0.9825268817204301
+    eccentricity 0.7505006919776019
+    diameter 43.14482836218969
+    perimeter 147.82337649086284
+    degree 4.0
+    strength 3.8263119542029145
+    betweenness 0.0
+  ]
+  node [
+    id 1562
+    label "1562"
+    idx 1562
+    row 3537
+    column 2783
+    demarcated "False"
+    area 107646.0
+    solidity 0.6947951359306018
+    eccentricity 0.2835753830439376
+    diameter 370.21499703896563
+    perimeter 2508.384089227822
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1563
+    label "1563"
+    idx 1563
+    row 3317
+    column 2981
+    demarcated "False"
+    area 1820.0
+    solidity 0.9604221635883905
+    eccentricity 0.7050830762729227
+    diameter 48.13830046250071
+    perimeter 166.36753236814712
+    degree 4.0
+    strength 3.8054190874470577
+    betweenness 5.6862930339328415E-05
+  ]
+  node [
+    id 1564
+    label "1564"
+    idx 1564
+    row 3313
+    column 10433
+    demarcated "False"
+    area 1335.0
+    solidity 0.9801762114537445
+    eccentricity 0.8112304957413986
+    diameter 41.228325120254915
+    perimeter 142.22539674441617
+    degree 3.0
+    strength 2.8075936158700063
+    betweenness 0.0
+  ]
+  node [
+    id 1565
+    label "1565"
+    idx 1565
+    row 3337
+    column 7053
+    demarcated "False"
+    area 5771.0
+    solidity 0.9350291639662994
+    eccentricity 0.7519110657253425
+    diameter 85.71969092726958
+    perimeter 316.048773235279
+    degree 4.0
+    strength 3.3958775199924878
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1566
+    label "1566"
+    idx 1566
+    row 3353
+    column 3239
+    demarcated "False"
+    area 7449.0
+    solidity 0.9088579795021962
+    eccentricity 0.863260300892722
+    diameter 97.38768591938216
+    perimeter 457.00209204105306
+    degree 4.0
+    strength 3.1825955553052374
+    betweenness 4.343074207019572E-05
+  ]
+  node [
+    id 1567
+    label "1567"
+    idx 1567
+    row 3330
+    column 11088
+    demarcated "False"
+    area 3561.0
+    solidity 0.8909181886414811
+    eccentricity 0.839134705139632
+    diameter 67.3350281710932
+    perimeter 272.208152801713
+    degree 3.0
+    strength 1.887360177267781
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1568
+    label "1568"
+    idx 1568
+    row 3336
+    column 9926
+    demarcated "False"
+    area 4248.0
+    solidity 0.9396151293961513
+    eccentricity 0.8883930378901354
+    diameter 73.54401121801129
+    perimeter 294.1787155501902
+    degree 4.0
+    strength 3.6853978290933735
+    betweenness 2.5521157711352124E-05
+  ]
+  node [
+    id 1569
+    label "1569"
+    idx 1569
+    row 3380
+    column 5493
+    demarcated "False"
+    area 12605.0
+    solidity 0.7996574256169511
+    eccentricity 0.7678213566687082
+    diameter 126.68537587814438
+    perimeter 612.6000717874997
+    degree 2.0
+    strength 1.2215902662785756
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1570
+    label "1570"
+    idx 1570
+    row 3326
+    column 7675
+    demarcated "False"
+    area 1769.0
+    solidity 0.9800554016620499
+    eccentricity 0.8139400357398545
+    diameter 47.459042917409356
+    perimeter 165.92388155425118
+    degree 1.0
+    strength 0.961332811763427
+    betweenness 0.0
+  ]
+  node [
+    id 1571
+    label "1571"
+    idx 1571
+    row 3361
+    column 11635
+    demarcated "False"
+    area 7313.0
+    solidity 0.9649030215067951
+    eccentricity 0.5452313813554975
+    diameter 96.49456352897941
+    perimeter 338.048773235279
+    degree 3.0
+    strength 2.5864264195213664
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1572
+    label "1572"
+    idx 1572
+    row 3339
+    column 6366
+    demarcated "False"
+    area 2480.0
+    solidity 0.9810126582278481
+    eccentricity 0.5501319979199221
+    diameter 56.19282935520513
+    perimeter 188.55129855222071
+    degree 5.0
+    strength 4.751972553148331
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 1573
+    label "1573"
+    idx 1573
+    row 3326
+    column 5513
+    demarcated "False"
+    area 616.0
+    solidity 0.9716088328075709
+    eccentricity 0.3596834273421784
+    diameter 28.00563442518059
+    perimeter 95.74011537017762
+    degree 1.0
+    strength 0.6114217320079489
+    betweenness 0.0
+  ]
+  node [
+    id 1574
+    label "1574"
+    idx 1574
+    row 3332
+    column 8076
+    demarcated "False"
+    area 2105.0
+    solidity 0.9533514492753623
+    eccentricity 0.7672376892698111
+    diameter 51.770350990383655
+    perimeter 184.22539674441617
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1575
+    label "1575"
+    idx 1575
+    row 3327
+    column 8990
+    demarcated "False"
+    area 2048.0
+    solidity 0.981312889314806
+    eccentricity 0.8360761650301965
+    diameter 51.064611891383386
+    perimeter 181.53910524340097
+    degree 1.0
+    strength 0.8782045862201922
+    betweenness 0.0
+  ]
+  node [
+    id 1576
+    label "1576"
+    idx 1576
+    row 3330
+    column 6306
+    demarcated "False"
+    area 1071.0
+    solidity 0.9727520435967303
+    eccentricity 0.5410034804260649
+    diameter 36.92749046999213
+    perimeter 124.95331880577405
+    degree 4.0
+    strength 3.8892134336454927
+    betweenness 0.0
+  ]
+  node [
+    id 1577
+    label "1577"
+    idx 1577
+    row 3339
+    column 10088
+    demarcated "False"
+    area 3587.0
+    solidity 0.9676288103587807
+    eccentricity 0.8501881396732385
+    diameter 67.58039839306238
+    perimeter 258.40916292848976
+    degree 4.0
+    strength 3.653410872424715
+    betweenness 2.3730199275467765E-05
+  ]
+  node [
+    id 1578
+    label "1578"
+    idx 1578
+    row 3386
+    column 8889
+    demarcated "False"
+    area 21028.0
+    solidity 0.9335819570236192
+    eccentricity 0.8339903958473912
+    diameter 163.62665170042135
+    perimeter 799.8498551495554
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1579
+    label "1579"
+    idx 1579
+    row 3347
+    column 10493
+    demarcated "False"
+    area 3054.0
+    solidity 0.8888242142025611
+    eccentricity 0.5958099411138554
+    diameter 62.35762639502234
+    perimeter 257.1787155501902
+    degree 6.0
+    strength 5.589340140958769
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 1580
+    label "1580"
+    idx 1580
+    row 3346
+    column 11158
+    demarcated "False"
+    area 1299.0
+    solidity 0.9744936234058514
+    eccentricity 0.6787535854582002
+    diameter 40.66863863729614
+    perimeter 141.39696961967
+    degree 2.0
+    strength 1.8660064562297765
+    betweenness 0.0
+  ]
+  node [
+    id 1581
+    label "1581"
+    idx 1581
+    row 3339
+    column 10021
+    demarcated "False"
+    area 1374.0
+    solidity 0.9443298969072165
+    eccentricity 0.8147736723324659
+    diameter 41.82620153045354
+    perimeter 158.19595949289334
+    degree 4.0
+    strength 3.7468150706458716
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 1582
+    label "1582"
+    idx 1582
+    row 3341
+    column 10583
+    demarcated "False"
+    area 1004.0
+    solidity 0.899641577060932
+    eccentricity 0.902205398983032
+    diameter 35.75377606511099
+    perimeter 142.81118318204307
+    degree 4.0
+    strength 3.879103075169366
+    betweenness 0.0
+  ]
+  node [
+    id 1583
+    label "1583"
+    idx 1583
+    row 3376
+    column 4282
+    demarcated "False"
+    area 11348.0
+    solidity 0.947878382893418
+    eccentricity 0.5217279452317634
+    diameter 120.20283837603264
+    perimeter 442.9015869776647
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1584
+    label "1584"
+    idx 1584
+    row 3378
+    column 4903
+    demarcated "False"
+    area 7483.0
+    solidity 0.9455395501642658
+    eccentricity 0.593428468843129
+    diameter 97.60968964838082
+    perimeter 350.14927829866735
+    degree 2.0
+    strength 1.5844025157232522
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1585
+    label "1585"
+    idx 1585
+    row 3365
+    column 5293
+    demarcated "False"
+    area 7114.0
+    solidity 0.9151016207872396
+    eccentricity 0.8846075357534188
+    diameter 95.17261224347027
+    perimeter 372.2914139223983
+    degree 2.0
+    strength 1.7489234283432704
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1586
+    label "1586"
+    idx 1586
+    row 3350
+    column 10309
+    demarcated "False"
+    area 3598.0
+    solidity 0.8786324786324786
+    eccentricity 0.7629305885178546
+    diameter 67.68394109356454
+    perimeter 312.5340546095176
+    degree 1.0
+    strength 0.9475079436418389
+    betweenness 0.0
+  ]
+  node [
+    id 1587
+    label "1587"
+    idx 1587
+    row 3356
+    column 3112
+    demarcated "False"
+    area 2406.0
+    solidity 0.8974263334576651
+    eccentricity 0.9298620116289982
+    diameter 55.34811961243852
+    perimeter 238.20815280171308
+    degree 3.0
+    strength 2.7528173273112193
+    betweenness 1.5670886313988145E-05
+  ]
+  node [
+    id 1588
+    label "1588"
+    idx 1588
+    row 3350
+    column 10544
+    demarcated "False"
+    area 1234.0
+    solidity 0.9588189588189588
+    eccentricity 0.6744843155475697
+    diameter 39.63808267566925
+    perimeter 137.68124086713192
+    degree 4.0
+    strength 3.887891271136496
+    betweenness 0.0
+  ]
+  node [
+    id 1589
+    label "1589"
+    idx 1589
+    row 3338
+    column 2870
+    demarcated "False"
+    area 488.0
+    solidity 0.9606299212598425
+    eccentricity 0.7607272362346214
+    diameter 24.926710529686012
+    perimeter 86.66904755831214
+    degree 4.0
+    strength 3.866734287216114
+    betweenness 0.0
+  ]
+  node [
+    id 1590
+    label "1590"
+    idx 1590
+    row 3344
+    column 10229
+    demarcated "False"
+    area 2284.0
+    solidity 0.9426330994634751
+    eccentricity 0.9119467220496501
+    diameter 53.926608647078034
+    perimeter 214.50966799187805
+    degree 3.0
+    strength 2.5656100616702404
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1591
+    label "1591"
+    idx 1591
+    row 3346
+    column 10702
+    demarcated "False"
+    area 2716.0
+    solidity 0.97
+    eccentricity 0.9386900767183414
+    diameter 58.80577015481306
+    perimeter 234.0243866176395
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1592
+    label "1592"
+    idx 1592
+    row 3431
+    column 6847
+    demarcated "False"
+    area 33898.0
+    solidity 0.872176195131992
+    eccentricity 0.5223872182487872
+    diameter 207.75050923507396
+    perimeter 869.636651713959
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1593
+    label "1593"
+    idx 1593
+    row 3506
+    column 2294
+    demarcated "False"
+    area 41153.0
+    solidity 0.5697415237225014
+    eccentricity 0.9489515123874251
+    diameter 228.90527950330494
+    perimeter 1782.0155108391486
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1594
+    label "1594"
+    idx 1594
+    row 3459
+    column 10348
+    demarcated "False"
+    area 19637.0
+    solidity 0.7388163587794876
+    eccentricity 0.8106774714337062
+    diameter 158.12212033730256
+    perimeter 863.6194077712559
+    degree 1.0
+    strength 0.49203398599289155
+    betweenness 0.0
+  ]
+  node [
+    id 1595
+    label "1595"
+    idx 1595
+    row 3382
+    column 3000
+    demarcated "False"
+    area 2284.0
+    solidity 0.8535127055306427
+    eccentricity 0.9367070391323304
+    diameter 53.926608647078034
+    perimeter 254.2497833620557
+    degree 2.0
+    strength 1.953182957960927
+    betweenness 5.954936799315495E-05
+  ]
+  node [
+    id 1596
+    label "1596"
+    idx 1596
+    row 3398
+    column 6462
+    demarcated "False"
+    area 13775.0
+    solidity 0.9330759330759331
+    eccentricity 0.6529842739884776
+    diameter 132.4344167077685
+    perimeter 541.9970414071697
+    degree 1.0
+    strength 0.5777600746953726
+    betweenness 0.0
+  ]
+  node [
+    id 1597
+    label "1597"
+    idx 1597
+    row 3362
+    column 7638
+    demarcated "False"
+    area 808.0
+    solidity 0.6505636070853462
+    eccentricity 0.9321416743942142
+    diameter 32.07456238432586
+    perimeter 162.2020561473032
+    degree 1.0
+    strength 0.961332811763427
+    betweenness 0.0
+  ]
+  node [
+    id 1598
+    label "1598"
+    idx 1598
+    row 3389
+    column 2203
+    demarcated "False"
+    area 3512.0
+    solidity 0.9281183932346723
+    eccentricity 0.9709099349584207
+    diameter 66.8701523933503
+    perimeter 306.71782079359116
+    degree 1.0
+    strength 0.7561388501059861
+    betweenness 0.0
+  ]
+  node [
+    id 1599
+    label "1599"
+    idx 1599
+    row 3479
+    column 7502
+    demarcated "False"
+    area 45313.0
+    solidity 0.744777370523167
+    eccentricity 0.9486437722221047
+    diameter 240.19638525711505
+    perimeter 1509.4570696119915
+    degree 6.0
+    strength 0.984743433378479
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 1600
+    label "1600"
+    idx 1600
+    row 3364
+    column 9984
+    demarcated "False"
+    area 1656.0
+    solidity 0.9462857142857143
+    eccentricity 0.865132105369545
+    diameter 45.91823914395487
+    perimeter 177.92388155425118
+    degree 3.0
+    strength 2.882477118288769
+    betweenness 0.0
+  ]
+  node [
+    id 1601
+    label "1601"
+    idx 1601
+    row 3384
+    column 3285
+    demarcated "False"
+    area 2331.0
+    solidity 0.9529844644317252
+    eccentricity 0.792369085807929
+    diameter 54.47863231375825
+    perimeter 201.48023074035524
+    degree 5.0
+    strength 4.51508049428787
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 1602
+    label "1602"
+    idx 1602
+    row 3470
+    column 3548
+    demarcated "False"
+    area 37906.0
+    solidity 0.9159357255044098
+    eccentricity 0.6739797151926576
+    diameter 219.6893674776526
+    perimeter 1074.305699272271
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1603
+    label "1603"
+    idx 1603
+    row 3373
+    column 7016
+    demarcated "False"
+    area 1420.0
+    solidity 0.9256844850065189
+    eccentricity 0.7945015401644061
+    diameter 42.52058505622813
+    perimeter 168.61017305526644
+    degree 4.0
+    strength 3.464713014475659
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1604
+    label "1604"
+    idx 1604
+    row 3376
+    column 7445
+    demarcated "False"
+    area 2877.0
+    solidity 0.9842627437564146
+    eccentricity 0.6774807051689596
+    diameter 60.52363315435602
+    perimeter 205.23759005323592
+    degree 7.0
+    strength 6.2844764231065176
+    betweenness 0.0
+  ]
+  node [
+    id 1605
+    label "1605"
+    idx 1605
+    row 3356
+    column 11080
+    demarcated "False"
+    area 168.0
+    solidity 0.9180327868852459
+    eccentricity 0.46907728386961844
+    diameter 14.625465582862905
+    perimeter 52.04163056034262
+    degree 2.0
+    strength 1.8246763862627517
+    betweenness 0.0
+  ]
+  node [
+    id 1606
+    label "1606"
+    idx 1606
+    row 3386
+    column 10430
+    demarcated "False"
+    area 3808.0
+    solidity 0.9706856997196024
+    eccentricity 0.6605671626343795
+    diameter 69.63114379608811
+    perimeter 250.24978336205572
+    degree 2.0
+    strength 1.873033088048536
+    betweenness 0.0
+  ]
+  node [
+    id 1607
+    label "1607"
+    idx 1607
+    row 3374
+    column 8633
+    demarcated "False"
+    area 3083.0
+    solidity 0.9308574879227053
+    eccentricity 0.9357900931477579
+    diameter 62.65299287678528
+    perimeter 259.82337649086287
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1608
+    label "1608"
+    idx 1608
+    row 3387
+    column 7535
+    demarcated "False"
+    area 5434.0
+    solidity 0.931117203564085
+    eccentricity 0.3992811985178282
+    diameter 83.17922628932584
+    perimeter 306.2497833620557
+    degree 8.0
+    strength 6.1271513895278895
+    betweenness 0.0
+  ]
+  node [
+    id 1609
+    label "1609"
+    idx 1609
+    row 3371
+    column 3415
+    demarcated "False"
+    area 983.0
+    solidity 0.9713438735177866
+    eccentricity 0.791305266490032
+    diameter 35.37788111906457
+    perimeter 122.81118318204308
+    degree 3.0
+    strength 2.822239509410361
+    betweenness 0.0
+  ]
+  node [
+    id 1610
+    label "1610"
+    idx 1610
+    row 3369
+    column 3325
+    demarcated "False"
+    area 596.0
+    solidity 0.9770491803278688
+    eccentricity 0.761241651369796
+    diameter 27.547246117573295
+    perimeter 96.18376618407356
+    degree 4.0
+    strength 3.508701454985394
+    betweenness 2.6864376538265393E-05
+  ]
+  node [
+    id 1611
+    label "1611"
+    idx 1611
+    row 3373
+    column 10165
+    demarcated "False"
+    area 1174.0
+    solidity 0.952922077922078
+    eccentricity 0.7999402698601462
+    diameter 38.66242653428625
+    perimeter 137.29646455628165
+    degree 4.0
+    strength 3.4655299330370095
+    betweenness 1.7461844749872505E-05
+  ]
+  node [
+    id 1612
+    label "1612"
+    idx 1612
+    row 3399
+    column 3370
+    demarcated "False"
+    area 4894.0
+    solidity 0.9199248120300751
+    eccentricity 0.5922110757560174
+    diameter 78.93816777664583
+    perimeter 290.9360748630709
+    degree 4.0
+    strength 3.453794886710993
+    betweenness 1.3879927878103786E-05
+  ]
+  node [
+    id 1613
+    label "1613"
+    idx 1613
+    row 3373
+    column 3651
+    demarcated "False"
+    area 870.0
+    solidity 0.9477124183006536
+    eccentricity 0.9169670583949826
+    diameter 33.282403818227905
+    perimeter 132.5035713374682
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1614
+    label "1614"
+    idx 1614
+    row 3376
+    column 6334
+    demarcated "False"
+    area 770.0
+    solidity 0.9661229611041405
+    eccentricity 0.8844789052795551
+    diameter 31.311251163856024
+    perimeter 116.08326112068522
+    degree 5.0
+    strength 4.738347614671321
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 1615
+    label "1615"
+    idx 1615
+    row 3437
+    column 10621
+    demarcated "False"
+    area 29585.0
+    solidity 0.8902028043569838
+    eccentricity 0.9337336825475038
+    diameter 194.08449688470688
+    perimeter 878.6072144624361
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1616
+    label "1616"
+    idx 1616
+    row 3434
+    column 10227
+    demarcated "False"
+    area 12313.0
+    solidity 0.7894973070017953
+    eccentricity 0.7433064913795597
+    diameter 125.20941863264144
+    perimeter 547.9726547895302
+    degree 2.0
+    strength 1.2957534111292794
+    betweenness 0.0
+  ]
+  node [
+    id 1617
+    label "1617"
+    idx 1617
+    row 3478
+    column 4229
+    demarcated "False"
+    area 14181.0
+    solidity 0.7812362274129573
+    eccentricity 0.8969686736993302
+    diameter 134.3719092068329
+    perimeter 623.9970414071697
+    degree 1.0
+    strength 0.9800534449478641
+    betweenness 0.0
+  ]
+  node [
+    id 1618
+    label "1618"
+    idx 1618
+    row 3389
+    column 8771
+    demarcated "False"
+    area 759.0
+    solidity 0.9463840399002493
+    eccentricity 0.6136655889324459
+    diameter 31.086794856562303
+    perimeter 106.91168824543142
+    degree 1.0
+    strength 0.9049096575287817
+    betweenness 0.0
+  ]
+  node [
+    id 1619
+    label "1619"
+    idx 1619
+    row 3408
+    column 5096
+    demarcated "False"
+    area 3073.0
+    solidity 0.9189593301435407
+    eccentricity 0.8145267081539642
+    diameter 62.551299914319564
+    perimeter 233.9655121145938
+    degree 2.0
+    strength 1.7954804499171726
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1620
+    label "1620"
+    idx 1620
+    row 3393
+    column 7225
+    demarcated "False"
+    area 1366.0
+    solidity 0.7336197636949516
+    eccentricity 0.83880808162277
+    diameter 41.70425899243664
+    perimeter 213.23759005323595
+    degree 4.0
+    strength 3.633120560633569
+    betweenness 0.0
+  ]
+  node [
+    id 1621
+    label "1621"
+    idx 1621
+    row 3387
+    column 10123
+    demarcated "False"
+    area 462.0
+    solidity 0.9352226720647774
+    eccentricity 0.8763289868865987
+    diameter 24.253590861306396
+    perimeter 90.08326112068524
+    degree 3.0
+    strength 2.772098357321215
+    betweenness 0.0
+  ]
+  node [
+    id 1622
+    label "1622"
+    idx 1622
+    row 3438
+    column 6658
+    demarcated "False"
+    area 14730.0
+    solidity 0.9285759314127214
+    eccentricity 0.7388678272791356
+    diameter 136.948232898234
+    perimeter 556.58787847868
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1623
+    label "1623"
+    idx 1623
+    row 3386
+    column 10824
+    demarcated "False"
+    area 502.0
+    solidity 0.9766536964980544
+    eccentricity 0.8244031549036517
+    diameter 25.281737508665255
+    perimeter 87.01219330881975
+    degree 1.0
+    strength 0.9854572952782563
+    betweenness 0.0
+  ]
+  node [
+    id 1624
+    label "1624"
+    idx 1624
+    row 3408
+    column 3867
+    demarcated "False"
+    area 2307.0
+    solidity 0.9800339847068819
+    eccentricity 0.5529369694704357
+    diameter 54.19745039855676
+    perimeter 182.99494936611663
+    degree 1.0
+    strength 0.7859396204632906
+    betweenness 0.0
+  ]
+  node [
+    id 1625
+    label "1625"
+    idx 1625
+    row 3415
+    column 5381
+    demarcated "False"
+    area 3728.0
+    solidity 0.9495669893020886
+    eccentricity 0.6043801886293454
+    diameter 68.89584183949484
+    perimeter 246.10764773832474
+    degree 2.0
+    strength 1.8389357092878407
+    betweenness 0.0
+  ]
+  node [
+    id 1626
+    label "1626"
+    idx 1626
+    row 3408
+    column 3441
+    demarcated "False"
+    area 1320.0
+    solidity 0.9698750918442322
+    eccentricity 0.8087105347498647
+    diameter 40.99605101775554
+    perimeter 146.36753236814712
+    degree 2.0
+    strength 1.8498547992405472
+    betweenness 0.0
+  ]
+  node [
+    id 1627
+    label "1627"
+    idx 1627
+    row 3411
+    column 9887
+    demarcated "False"
+    area 4399.0
+    solidity 0.9585966441490521
+    eccentricity 0.7677574586603713
+    diameter 74.83970040887377
+    perimeter 271.62236636408613
+    degree 5.0
+    strength 4.610094967365072
+    betweenness 1.1641229833248337E-05
+  ]
+  node [
+    id 1628
+    label "1628"
+    idx 1628
+    row 3411
+    column 508
+    demarcated "False"
+    area 772.0
+    solidity 0.9323671497584541
+    eccentricity 0.9627957129801578
+    diameter 31.35188875547286
+    perimeter 137.42640687119285
+    degree 1.0
+    strength 0.9096751790495017
+    betweenness 0.0
+  ]
+  node [
+    id 1629
+    label "1629"
+    idx 1629
+    row 3455
+    column 4475
+    demarcated "False"
+    area 11289.0
+    solidity 0.896094618193364
+    eccentricity 0.8636132498684651
+    diameter 119.88995462721326
+    perimeter 499.91378028648455
+    degree 1.0
+    strength 0.7872953309507779
+    betweenness 0.0
+  ]
+  node [
+    id 1630
+    label "1630"
+    idx 1630
+    row 3422
+    column 6252
+    demarcated "False"
+    area 3754.0
+    solidity 0.9266847691927919
+    eccentricity 0.622432374984305
+    diameter 69.13567278139269
+    perimeter 251.27922061357856
+    degree 3.0
+    strength 2.6990940128337293
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1631
+    label "1631"
+    idx 1631
+    row 3403
+    column 6310
+    demarcated "False"
+    area 1506.0
+    solidity 0.9798308392973325
+    eccentricity 0.7526392951721206
+    diameter 43.78925386862803
+    perimeter 149.0538238691624
+    degree 5.0
+    strength 4.814930136529985
+    betweenness 1.1193490224277248E-05
+  ]
+  node [
+    id 1632
+    label "1632"
+    idx 1632
+    row 3387
+    column 7491
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 8.0
+    strength 6.556341770292118
+    betweenness 6.716094134566348E-07
+  ]
+  node [
+    id 1633
+    label "1633"
+    idx 1633
+    row 3407
+    column 9803
+    demarcated "False"
+    area 2720.0
+    solidity 0.9780654440848615
+    eccentricity 0.8384636068670541
+    diameter 58.84905744087702
+    perimeter 211.33809511662426
+    degree 2.0
+    strength 1.8641287308788053
+    betweenness 0.0
+  ]
+  node [
+    id 1634
+    label "1634"
+    idx 1634
+    row 3394
+    column 7494
+    demarcated "False"
+    area 26.0
+    solidity 0.7878787878787878
+    eccentricity 0.9869446751525022
+    diameter 5.753627391751592
+    perimeter 22.86396103067893
+    degree 8.0
+    strength 6.55802442795584
+    betweenness 0.0
+  ]
+  node [
+    id 1635
+    label "1635"
+    idx 1635
+    row 3408
+    column 3159
+    demarcated "False"
+    area 1141.0
+    solidity 0.9844693701466781
+    eccentricity 0.6548233377084443
+    diameter 38.11517178949638
+    perimeter 125.78174593052023
+    degree 5.0
+    strength 4.608514963956576
+    betweenness 4.5221700506080076E-05
+  ]
+  node [
+    id 1636
+    label "1636"
+    idx 1636
+    row 3420
+    column 3082
+    demarcated "False"
+    area 1593.0
+    solidity 0.9725274725274725
+    eccentricity 0.8635128261273192
+    diameter 45.03632528041241
+    perimeter 162.50966799187808
+    degree 5.0
+    strength 4.703630978561349
+    betweenness 8.283182765965162E-05
+  ]
+  node [
+    id 1637
+    label "1637"
+    idx 1637
+    row 3463
+    column 5266
+    demarcated "False"
+    area 14997.0
+    solidity 0.8184348395546824
+    eccentricity 0.7190417768053806
+    diameter 138.18383933149792
+    perimeter 690.4234482783626
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1638
+    label "1638"
+    idx 1638
+    row 3620
+    column 8328
+    demarcated "False"
+    area 147146.0
+    solidity 0.6735172148630958
+    eccentricity 0.8290854691886737
+    diameter 432.8418949796799
+    perimeter 3981.2888142670668
+    degree 1.0
+    strength 0.0024849371023990927
+    betweenness 0.0
+  ]
+  node [
+    id 1639
+    label "1639"
+    idx 1639
+    row 3419
+    column 11670
+    demarcated "False"
+    area 1232.0
+    solidity 0.9647611589663273
+    eccentricity 0.7134985861650882
+    diameter 39.60594802695323
+    perimeter 140.46803743153546
+    degree 1.0
+    strength 0.7791640317865385
+    betweenness 0.0
+  ]
+  node [
+    id 1640
+    label "1640"
+    idx 1640
+    row 3410
+    column 7178
+    demarcated "False"
+    area 997.0
+    solidity 0.9595765158806545
+    eccentricity 0.7973427485925245
+    diameter 35.6289183964509
+    perimeter 123.49747468305831
+    degree 4.0
+    strength 3.6520589462757953
+    betweenness 0.0
+  ]
+  node [
+    id 1641
+    label "1641"
+    idx 1641
+    row 3411
+    column 10917
+    demarcated "False"
+    area 859.0
+    solidity 0.9377729257641921
+    eccentricity 0.760331912876243
+    diameter 33.0713285026094
+    perimeter 119.29646455628166
+    degree 2.0
+    strength 1.969217648205075
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1642
+    label "1642"
+    idx 1642
+    row 3431
+    column 8748
+    demarcated "False"
+    area 3194.0
+    solidity 0.9284883720930233
+    eccentricity 0.46207852255281934
+    diameter 63.7708954452116
+    perimeter 230.5929291125633
+    degree 1.0
+    strength 0.9049096575287817
+    betweenness 0.0
+  ]
+  node [
+    id 1643
+    label "1643"
+    idx 1643
+    row 3451
+    column 11024
+    demarcated "False"
+    area 13073.0
+    solidity 0.9448540040474126
+    eccentricity 0.8966633017767457
+    diameter 129.01573767693142
+    perimeter 512.6173157302029
+    degree 1.0
+    strength 0.7255600488153687
+    betweenness 0.0
+  ]
+  node [
+    id 1644
+    label "1644"
+    idx 1644
+    row 3401
+    column 7499
+    demarcated "False"
+    area 1.0
+    solidity 1.0
+    eccentricity 0.0
+    diameter 1.1283791670955126
+    perimeter 0.0
+    degree 8.0
+    strength 6.556341770292119
+    betweenness 6.716094134566348E-07
+  ]
+  node [
+    id 1645
+    label "1645"
+    idx 1645
+    row 3493
+    column 4145
+    demarcated "False"
+    area 13690.0
+    solidity 0.913031879418434
+    eccentricity 0.8687273879104852
+    diameter 132.02518459530506
+    perimeter 541.9726547895302
+    degree 2.0
+    strength 1.661348980425657
+    betweenness 8.507052570450707E-06
+  ]
+  node [
+    id 1646
+    label "1646"
+    idx 1646
+    row 3425
+    column 4817
+    demarcated "False"
+    area 1001.0
+    solidity 0.9625
+    eccentricity 0.8421053930922159
+    diameter 35.700319106135424
+    perimeter 129.88225099390854
+    degree 1.0
+    strength 0.7664477779848184
+    betweenness 0.0
+  ]
+  node [
+    id 1647
+    label "1647"
+    idx 1647
+    row 3402
+    column 7500
+    demarcated "False"
+    area 2.0
+    solidity 1.0
+    eccentricity 1.0
+    diameter 1.5957691216057308
+    perimeter 0.0
+    degree 8.0
+    strength 6.556487711052772
+    betweenness 0.0
+  ]
+  node [
+    id 1648
+    label "1648"
+    idx 1648
+    row 3421
+    column 10071
+    demarcated "False"
+    area 2461.0
+    solidity 0.9494598765432098
+    eccentricity 0.9190437690119897
+    diameter 55.97716069606635
+    perimeter 218.75230867899737
+    degree 4.0
+    strength 3.2195404637068203
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1649
+    label "1649"
+    idx 1649
+    row 3440
+    column 3205
+    demarcated "False"
+    area 3351.0
+    solidity 0.8436555891238671
+    eccentricity 0.8593031533303502
+    diameter 65.31941299803245
+    perimeter 269.6223663640862
+    degree 6.0
+    strength 5.487434028161193
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 1650
+    label "1650"
+    idx 1650
+    row 3426
+    column 9960
+    demarcated "False"
+    area 1781.0
+    solidity 0.9807268722466961
+    eccentricity 0.7629634889378103
+    diameter 47.61973991081141
+    perimeter 161.6812408671319
+    degree 4.0
+    strength 3.7772818843797262
+    betweenness 9.850271397363978E-06
+  ]
+  node [
+    id 1651
+    label "1651"
+    idx 1651
+    row 3439
+    column 5802
+    demarcated "False"
+    area 5690.0
+    solidity 0.9822199205938201
+    eccentricity 0.8651922752075837
+    diameter 85.1159973773619
+    perimeter 312.14927829866735
+    degree 1.0
+    strength 0.664589810763814
+    betweenness 0.0
+  ]
+  node [
+    id 1652
+    label "1652"
+    idx 1652
+    row 3437
+    column 4022
+    demarcated "False"
+    area 2634.0
+    solidity 0.9014373716632443
+    eccentricity 0.8082739386517842
+    diameter 57.91125072757813
+    perimeter 228.69343417595164
+    degree 2.0
+    strength 1.729021833920481
+    betweenness 2.8655334974149753E-05
+  ]
+  node [
+    id 1653
+    label "1653"
+    idx 1653
+    row 3437
+    column 5699
+    demarcated "False"
+    area 3041.0
+    solidity 0.9774991963998714
+    eccentricity 0.8138313273088136
+    diameter 62.22476561257286
+    perimeter 224.99494936611663
+    degree 1.0
+    strength 0.596135728421316
+    betweenness 0.0
+  ]
+  node [
+    id 1654
+    label "1654"
+    idx 1654
+    row 3468
+    column 7036
+    demarcated "False"
+    area 10996.0
+    solidity 0.9712922886670788
+    eccentricity 0.2567792532942472
+    diameter 118.32388615113962
+    perimeter 430.2741699796952
+    degree 1.0
+    strength 0.6750618728958615
+    betweenness 0.0
+  ]
+  node [
+    id 1655
+    label "1655"
+    idx 1655
+    row 3427
+    column 7472
+    demarcated "False"
+    area 1672.0
+    solidity 0.9737914967967385
+    eccentricity 0.7658760416895721
+    diameter 46.13953314455178
+    perimeter 162.95331880577405
+    degree 7.0
+    strength 5.711443864109152
+    betweenness 0.0
+  ]
+  node [
+    id 1656
+    label "1656"
+    idx 1656
+    row 3426
+    column 2491
+    demarcated "False"
+    area 729.0
+    solidity 0.9406451612903226
+    eccentricity 0.7416484347483638
+    diameter 30.46623751157884
+    perimeter 107.59797974644665
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1657
+    label "1657"
+    idx 1657
+    row 3441
+    column 5002
+    demarcated "False"
+    area 1617.0
+    solidity 0.886027397260274
+    eccentricity 0.9506898127422264
+    diameter 45.37431370100002
+    perimeter 201.51576464628795
+    degree 3.0
+    strength 2.5498173255908
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1658
+    label "1658"
+    idx 1658
+    row 3432
+    column 7235
+    demarcated "False"
+    area 999.0
+    solidity 0.9727361246348588
+    eccentricity 0.5220207591100432
+    diameter 35.66463661935206
+    perimeter 119.53910524340094
+    degree 4.0
+    strength 3.6521166784861236
+    betweenness 0.0
+  ]
+  node [
+    id 1659
+    label "1659"
+    idx 1659
+    row 3455
+    column 3257
+    demarcated "False"
+    area 4521.0
+    solidity 0.9434474123539232
+    eccentricity 0.904153472642171
+    diameter 75.87038936072274
+    perimeter 296.2914139223983
+    degree 5.0
+    strength 4.58481724071028
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 1660
+    label "1660"
+    idx 1660
+    row 3517
+    column 1823
+    demarcated "False"
+    area 7922.0
+    solidity 0.6050561368670282
+    eccentricity 0.9880181710648839
+    diameter 100.43208488024113
+    perimeter 735.6194077712559
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1661
+    label "1661"
+    idx 1661
+    row 3489
+    column 9689
+    demarcated "False"
+    area 25105.0
+    solidity 0.9416375979895728
+    eccentricity 0.9076042834708934
+    diameter 178.786685104278
+    perimeter 845.1513703397204
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1662
+    label "1662"
+    idx 1662
+    row 3477
+    column 7201
+    demarcated "False"
+    area 9942.0
+    solidity 0.9174972314507198
+    eccentricity 0.7999044150803056
+    diameter 112.51021088664348
+    perimeter 426.13203435596427
+    degree 4.0
+    strength 2.763969385186948
+    betweenness 0.0
+  ]
+  node [
+    id 1663
+    label "1663"
+    idx 1663
+    row 3500
+    column 3366
+    demarcated "False"
+    area 17177.0
+    solidity 0.8662564930152806
+    eccentricity 0.5764897946495379
+    diameter 147.88656348673427
+    perimeter 723.2102448427662
+    degree 1.0
+    strength 0.49966401736008365
+    betweenness 0.0
+  ]
+  node [
+    id 1664
+    label "1664"
+    idx 1664
+    row 3500
+    column 10082
+    demarcated "False"
+    area 25591.0
+    solidity 0.8230734594107809
+    eccentricity 0.9120336738426966
+    diameter 180.5089282814497
+    perimeter 872.4650788387052
+    degree 1.0
+    strength 0.3870741541712051
+    betweenness 0.0
+  ]
+  node [
+    id 1665
+    label "1665"
+    idx 1665
+    row 3446
+    column 3159
+    demarcated "False"
+    area 951.0
+    solidity 0.9491017964071856
+    eccentricity 0.703403573766125
+    diameter 34.79728160421644
+    perimeter 124.08326112068522
+    degree 6.0
+    strength 5.419055442072403
+    betweenness 5.2385534249617514E-05
+  ]
+  node [
+    id 1666
+    label "1666"
+    idx 1666
+    row 3477
+    column 3931
+    demarcated "False"
+    area 8177.0
+    solidity 0.9155749636098981
+    eccentricity 0.8543712972416978
+    diameter 102.03567884470327
+    perimeter 407.60512242138316
+    degree 3.0
+    strength 2.333625357793899
+    betweenness 3.9848825198427E-05
+  ]
+  node [
+    id 1667
+    label "1667"
+    idx 1667
+    row 3469
+    column 1606
+    demarcated "False"
+    area 1161.0
+    solidity 0.9477551020408164
+    eccentricity 0.9545401134055848
+    diameter 38.44777121547521
+    perimeter 172.4030662740799
+    degree 1.0
+    strength 0.8036484823904737
+    betweenness 0.0
+  ]
+  node [
+    id 1668
+    label "1668"
+    idx 1668
+    row 3442
+    column 7269
+    demarcated "False"
+    area 365.0
+    solidity 0.9079601990049752
+    eccentricity 0.8413925949314762
+    diameter 21.557653718072718
+    perimeter 79.25483399593904
+    degree 4.0
+    strength 3.5835089735875068
+    betweenness 0.0
+  ]
+  node [
+    id 1669
+    label "1669"
+    idx 1669
+    row 3446
+    column 9829
+    demarcated "False"
+    area 970.0
+    solidity 0.9738955823293173
+    eccentricity 0.867572250188085
+    diameter 35.1431694414876
+    perimeter 125.7401153701776
+    degree 3.0
+    strength 2.7478902736561372
+    betweenness 0.0
+  ]
+  node [
+    id 1670
+    label "1670"
+    idx 1670
+    row 3454
+    column 8365
+    demarcated "False"
+    area 1367.0
+    solidity 0.9729537366548042
+    eccentricity 0.7908726042842132
+    diameter 41.719521301819455
+    perimeter 148.22539674441617
+    degree 1.0
+    strength 0.9910535996254977
+    betweenness 0.0
+  ]
+  node [
+    id 1671
+    label "1671"
+    idx 1671
+    row 3489
+    column 10831
+    demarcated "False"
+    area 10241.0
+    solidity 0.9434362045140489
+    eccentricity 0.790525055710482
+    diameter 114.18951868552911
+    perimeter 417.78888860545663
+    degree 2.0
+    strength 1.4463720799480706
+    betweenness 1.3432188269132697E-05
+  ]
+  node [
+    id 1672
+    label "1672"
+    idx 1672
+    row 3606
+    column 5244
+    demarcated "False"
+    area 65245.0
+    solidity 0.6417519942557566
+    eccentricity 0.8965336569314283
+    diameter 288.22302839337056
+    perimeter 2116.0155108391486
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1673
+    label "1673"
+    idx 1673
+    row 3452
+    column 5460
+    demarcated "False"
+    area 566.0
+    solidity 0.9758620689655172
+    eccentricity 0.6923376239280251
+    diameter 26.844991754889815
+    perimeter 88.91168824543142
+    degree 4.0
+    strength 3.210557374238982
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 1674
+    label "1674"
+    idx 1674
+    row 3462
+    column 12025
+    demarcated "False"
+    area 1276.0
+    solidity 0.9838087895142636
+    eccentricity 0.4092944976721673
+    diameter 40.306992682189374
+    perimeter 132.61017305526642
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1675
+    label "1675"
+    idx 1675
+    row 3503
+    column 4046
+    demarcated "False"
+    area 4338.0
+    solidity 0.8340703710824842
+    eccentricity 0.9270176680334589
+    diameter 74.31899585611431
+    perimeter 362.5756851698602
+    degree 3.0
+    strength 2.6117519003771665
+    betweenness 2.3730199275467765E-05
+  ]
+  node [
+    id 1676
+    label "1676"
+    idx 1676
+    row 3479
+    column 5537
+    demarcated "False"
+    area 3727.0
+    solidity 0.9766771488469602
+    eccentricity 0.6595032380061574
+    diameter 68.88660089761979
+    perimeter 239.03657992645927
+    degree 1.0
+    strength 0.8783487464670484
+    betweenness 0.0
+  ]
+  node [
+    id 1677
+    label "1677"
+    idx 1677
+    row 3476
+    column 9899
+    demarcated "False"
+    area 2260.0
+    solidity 0.9860383944153578
+    eccentricity 0.7331540181477904
+    diameter 53.642533227854436
+    perimeter 179.68124086713192
+    degree 4.0
+    strength 3.788379965640901
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1678
+    label "1678"
+    idx 1678
+    row 3514
+    column 3132
+    demarcated "False"
+    area 10076.0
+    solidity 0.9172507965407374
+    eccentricity 0.6548888718104741
+    diameter 113.26588918448263
+    perimeter 455.20310216782974
+    degree 2.0
+    strength 1.378652335178003
+    betweenness 0.0
+  ]
+  node [
+    id 1679
+    label "1679"
+    idx 1679
+    row 3571
+    column 7854
+    demarcated "False"
+    area 58036.0
+    solidity 0.9790148448043184
+    eccentricity 0.7247277768184772
+    diameter 271.8340122542614
+    perimeter 966.7493500861672
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1680
+    label "1680"
+    idx 1680
+    row 3500
+    column 10964
+    demarcated "False"
+    area 5255.0
+    solidity 0.9055660865069791
+    eccentricity 0.889777905735163
+    diameter 81.79776162941917
+    perimeter 336.8355697996826
+    degree 3.0
+    strength 2.229051461512802
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1681
+    label "1681"
+    idx 1681
+    row 3545
+    column 12805
+    demarcated "False"
+    area 21247.0
+    solidity 0.8209497314632356
+    eccentricity 0.791616994243237
+    diameter 164.47650472632256
+    perimeter 736.1147904132612
+    degree 4.0
+    strength 1.7184942572319022
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1682
+    label "1682"
+    idx 1682
+    row 3465
+    column 12816
+    demarcated "False"
+    area 228.0
+    solidity 0.926829268292683
+    eccentricity 0.9369246532090086
+    diameter 17.03815178355966
+    perimeter 68.87005768508881
+    degree 2.0
+    strength 1.4005456281753756
+    betweenness 0.0
+  ]
+  node [
+    id 1683
+    label "1683"
+    idx 1683
+    row 3512
+    column 5760
+    demarcated "False"
+    area 15647.0
+    solidity 0.8706320943690184
+    eccentricity 0.8196457144880482
+    diameter 141.14665832555545
+    perimeter 626.683332908185
+    degree 2.0
+    strength 1.26072553918513
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1684
+    label "1684"
+    idx 1684
+    row 3494
+    column 10740
+    demarcated "False"
+    area 3382.0
+    solidity 0.963807352522086
+    eccentricity 0.5919424068849295
+    diameter 65.62085141396993
+    perimeter 233.7228714274745
+    degree 2.0
+    strength 1.53930037356703
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 1685
+    label "1685"
+    idx 1685
+    row 3473
+    column 6527
+    demarcated "False"
+    area 406.0
+    solidity 0.9227272727272727
+    eccentricity 0.7512698836304951
+    diameter 22.736210219877808
+    perimeter 82.42640687119285
+    degree 2.0
+    strength 1.5003673173741143
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1686
+    label "1686"
+    idx 1686
+    row 3498
+    column 5421
+    demarcated "False"
+    area 4707.0
+    solidity 0.9278533412182141
+    eccentricity 0.9114801914667386
+    diameter 77.41536370171241
+    perimeter 309.03657992645924
+    degree 3.0
+    strength 2.6671949387180196
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1687
+    label "1687"
+    idx 1687
+    row 3484
+    column 8332
+    demarcated "False"
+    area 1148.0
+    solidity 0.9534883720930233
+    eccentricity 0.7897773729618577
+    diameter 38.231910720705116
+    perimeter 137.29646455628165
+    degree 2.0
+    strength 1.9673339780251453
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1688
+    label "1688"
+    idx 1688
+    row 3489
+    column 5023
+    demarcated "False"
+    area 2105.0
+    solidity 0.9563834620626988
+    eccentricity 0.8733569950135066
+    diameter 51.770350990383655
+    perimeter 192.50966799187808
+    degree 1.0
+    strength 0.9801741017827792
+    betweenness 0.0
+  ]
+  node [
+    id 1689
+    label "1689"
+    idx 1689
+    row 3483
+    column 8243
+    demarcated "False"
+    area 563.0
+    solidity 0.964041095890411
+    eccentricity 0.747717319827635
+    diameter 26.77375326109316
+    perimeter 91.25483399593904
+    degree 2.0
+    strength 1.9589110601300197
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1690
+    label "1690"
+    idx 1690
+    row 3483
+    column 12793
+    demarcated "False"
+    area 759.0
+    solidity 0.9681122448979592
+    eccentricity 0.8889390626247625
+    diameter 31.086794856562303
+    perimeter 115.59797974644667
+    degree 2.0
+    strength 1.4098439313221287
+    betweenness 0.0
+  ]
+  node [
+    id 1691
+    label "1691"
+    idx 1691
+    row 3531
+    column 1654
+    demarcated "False"
+    area 6488.0
+    solidity 0.9242165242165242
+    eccentricity 0.9330407976766378
+    diameter 90.88882310956467
+    perimeter 369.6883835420683
+    degree 1.0
+    strength 0.8036484823904737
+    betweenness 0.0
+  ]
+  node [
+    id 1692
+    label "1692"
+    idx 1692
+    row 3487
+    column 6291
+    demarcated "False"
+    area 1253.0
+    solidity 0.9698142414860681
+    eccentricity 0.9224873126438804
+    diameter 39.94207242436425
+    perimeter 152.32590180780454
+    degree 4.0
+    strength 3.7813141644881068
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 1693
+    label "1693"
+    idx 1693
+    row 3531
+    column 5896
+    demarcated "False"
+    area 7693.0
+    solidity 0.9075144508670521
+    eccentricity 0.6901596450464056
+    diameter 98.96985307480054
+    perimeter 423.2031021678297
+    degree 2.0
+    strength 1.5222024101067335
+    betweenness 0.0
+  ]
+  node [
+    id 1694
+    label "1694"
+    idx 1694
+    row 3503
+    column 6434
+    demarcated "False"
+    area 2369.0
+    solidity 0.8832960477255779
+    eccentricity 0.9112945024508562
+    diameter 54.9208929413716
+    perimeter 226.16652224137044
+    degree 2.0
+    strength 1.8876949541203487
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1695
+    label "1695"
+    idx 1695
+    row 3503
+    column 10894
+    demarcated "False"
+    area 1258.0
+    solidity 0.9691833590138675
+    eccentricity 0.4628724876854095
+    diameter 40.021685962448345
+    perimeter 134.12489168102783
+    degree 4.0
+    strength 3.0798943517828317
+    betweenness 1.6118625922959236E-05
+  ]
+  node [
+    id 1696
+    label "1696"
+    idx 1696
+    row 3519
+    column 2120
+    demarcated "False"
+    area 2450.0
+    solidity 0.9699129057798892
+    eccentricity 0.9169877357003321
+    diameter 55.85191925620058
+    perimeter 219.37972567696687
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1697
+    label "1697"
+    idx 1697
+    row 3533
+    column 3261
+    demarcated "False"
+    area 4178.0
+    solidity 0.9158263919333626
+    eccentricity 0.7057389306092785
+    diameter 72.93555249604618
+    perimeter 309.237590053236
+    degree 3.0
+    strength 2.729659128221505
+    betweenness 0.0
+  ]
+  node [
+    id 1698
+    label "1698"
+    idx 1698
+    row 3516
+    column 10408
+    demarcated "False"
+    area 2354.0
+    solidity 0.9861751152073732
+    eccentricity 0.6741391385108659
+    diameter 54.74674317533942
+    perimeter 184.36753236814712
+    degree 2.0
+    strength 1.4537613613924951
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1699
+    label "1699"
+    idx 1699
+    row 3595
+    column 1436
+    demarcated "False"
+    area 10192.0
+    solidity 0.9049902326407387
+    eccentricity 0.9467320295129483
+    diameter 113.91601046359014
+    perimeter 493.28636328851496
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1700
+    label "1700"
+    idx 1700
+    row 3613
+    column 6945
+    demarcated "False"
+    area 29523.0
+    solidity 0.8959939301972686
+    eccentricity 0.7643220676665835
+    diameter 193.88102299919973
+    perimeter 940.4478348960022
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1701
+    label "1701"
+    idx 1701
+    row 3510
+    column 11341
+    demarcated "False"
+    area 551.0
+    solidity 0.6318807339449541
+    eccentricity 0.9474010736454154
+    diameter 26.486883341553696
+    perimeter 140.2609306503489
+    degree 1.0
+    strength 0.9510137001986032
+    betweenness 0.0
+  ]
+  node [
+    id 1702
+    label "1702"
+    idx 1702
+    row 3523
+    column 11142
+    demarcated "False"
+    area 1984.0
+    solidity 0.9692232535417684
+    eccentricity 0.8257226519348665
+    diameter 50.26039451451374
+    perimeter 179.19595949289334
+    degree 3.0
+    strength 2.76898064942172
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1703
+    label "1703"
+    idx 1703
+    row 3537
+    column 4438
+    demarcated "False"
+    area 5461.0
+    solidity 0.8723642172523962
+    eccentricity 0.9660068255512398
+    diameter 83.38561718785034
+    perimeter 386.73506473629425
+    degree 1.0
+    strength 0.7872953309507779
+    betweenness 0.0
+  ]
+  node [
+    id 1704
+    label "1704"
+    idx 1704
+    row 3526
+    column 3209
+    demarcated "False"
+    area 1068.0
+    solidity 0.9825206991720331
+    eccentricity 0.8198002698339989
+    diameter 36.875735026940866
+    perimeter 127.94112549695429
+    degree 6.0
+    strength 5.325817555699545
+    betweenness 2.6416636929294303E-05
+  ]
+  node [
+    id 1705
+    label "1705"
+    idx 1705
+    row 3534
+    column 11084
+    demarcated "False"
+    area 2393.0
+    solidity 0.968042071197411
+    eccentricity 0.7464906107861893
+    diameter 55.198389745999336
+    perimeter 200.50966799187808
+    degree 2.0
+    strength 1.9624052986668654
+    betweenness 0.0
+  ]
+  node [
+    id 1706
+    label "1706"
+    idx 1706
+    row 3578
+    column 2382
+    demarcated "False"
+    area 7738.0
+    solidity 0.7959267640403209
+    eccentricity 0.9756730868260589
+    diameter 99.25889177882598
+    perimeter 589.7371567773473
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1707
+    label "1707"
+    idx 1707
+    row 3684
+    column 9220
+    demarcated "False"
+    area 78778.0
+    solidity 0.8575689621388605
+    eccentricity 0.3863822787324112
+    diameter 316.7069068636594
+    perimeter 1461.290547370621
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1708
+    label "1708"
+    idx 1708
+    row 3601
+    column 6731
+    demarcated "False"
+    area 17822.0
+    solidity 0.8491518963217076
+    eccentricity 0.5286816975251896
+    diameter 150.63756226874514
+    perimeter 693.0681092190353
+    degree 1.0
+    strength 0.49070320910301624
+    betweenness 0.0
+  ]
+  node [
+    id 1709
+    label "1709"
+    idx 1709
+    row 3566
+    column 9351
+    demarcated "False"
+    area 7051.0
+    solidity 0.8605076885525995
+    eccentricity 0.7559915346290755
+    diameter 94.75026137128927
+    perimeter 378.47518010647184
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1710
+    label "1710"
+    idx 1710
+    row 3522
+    column 6295
+    demarcated "False"
+    area 493.0
+    solidity 0.9781746031746031
+    eccentricity 0.8797045160527115
+    diameter 25.05408341078227
+    perimeter 89.84062043356595
+    degree 4.0
+    strength 3.526875381232093
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 1711
+    label "1711"
+    idx 1711
+    row 3532
+    column 3947
+    demarcated "False"
+    area 1203.0
+    solidity 0.9555202541699762
+    eccentricity 0.8379979874667052
+    diameter 39.137030703879425
+    perimeter 147.43860018001263
+    degree 2.0
+    strength 1.5063995231152436
+    betweenness 4.074430441636918E-05
+  ]
+  node [
+    id 1712
+    label "1712"
+    idx 1712
+    row 3533
+    column 9932
+    demarcated "False"
+    area 841.0
+    solidity 0.8918345705196182
+    eccentricity 0.6663930260894477
+    diameter 32.722995845769866
+    perimeter 125.05382386916237
+    degree 1.0
+    strength 0.9434342247177314
+    betweenness 0.0
+  ]
+  node [
+    id 1713
+    label "1713"
+    idx 1713
+    row 3536
+    column 11335
+    demarcated "False"
+    area 1775.0
+    solidity 0.9594594594594594
+    eccentricity 0.8172381092464485
+    diameter 47.53945931439391
+    perimeter 166.8528137423857
+    degree 1.0
+    strength 0.9510137001986032
+    betweenness 0.0
+  ]
+  node [
+    id 1714
+    label "1714"
+    idx 1714
+    row 3568
+    column 5484
+    demarcated "False"
+    area 8302.0
+    solidity 0.865964326692396
+    eccentricity 0.8188529911801951
+    diameter 102.81261936353592
+    perimeter 487.4873734152916
+    degree 2.0
+    strength 1.615763343796944
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1715
+    label "1715"
+    idx 1715
+    row 3543
+    column 5969
+    demarcated "False"
+    area 1414.0
+    solidity 0.9826268241834607
+    eccentricity 0.6473527614358362
+    diameter 42.430657740076576
+    perimeter 142.50966799187808
+    degree 3.0
+    strength 2.3108796286580247
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1716
+    label "1716"
+    idx 1716
+    row 3589
+    column 9470
+    demarcated "False"
+    area 20478.0
+    solidity 0.9790590935169249
+    eccentricity 0.6152653946224715
+    diameter 161.4725964276498
+    perimeter 560.7838379715732
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1717
+    label "1717"
+    idx 1717
+    row 3535
+    column 10467
+    demarcated "False"
+    area 1403.0
+    solidity 0.9804332634521313
+    eccentricity 0.7373958447605464
+    diameter 42.26529405154344
+    perimeter 142.71067811865476
+    degree 1.0
+    strength 0.9617273753996035
+    betweenness 0.0
+  ]
+  node [
+    id 1718
+    label "1718"
+    idx 1718
+    row 3543
+    column 3814
+    demarcated "False"
+    area 2804.0
+    solidity 0.956343792633015
+    eccentricity 0.837031935292378
+    diameter 59.75084671732608
+    perimeter 223.48023074035524
+    degree 2.0
+    strength 1.5531674496751728
+    betweenness 0.0
+  ]
+  node [
+    id 1719
+    label "1719"
+    idx 1719
+    row 3566
+    column 11190
+    demarcated "False"
+    area 6735.0
+    solidity 0.9611816754673898
+    eccentricity 0.6548875995233048
+    diameter 92.60274474221227
+    perimeter 334.5756851698602
+    degree 2.0
+    strength 1.6775741153002968
+    betweenness 0.0
+  ]
+  node [
+    id 1720
+    label "1720"
+    idx 1720
+    row 3563
+    column 6613
+    demarcated "False"
+    area 8675.0
+    solidity 0.9379392366742351
+    eccentricity 0.779161234071623
+    diameter 105.09687459947386
+    perimeter 380.3746750430835
+    degree 1.0
+    strength 0.7142166923930003
+    betweenness 0.0
+  ]
+  node [
+    id 1721
+    label "1721"
+    idx 1721
+    row 3650
+    column 1603
+    demarcated "False"
+    area 15115.0
+    solidity 0.672794444939019
+    eccentricity 0.9787346216705645
+    diameter 138.72640598916988
+    perimeter 863.3422791987305
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1722
+    label "1722"
+    idx 1722
+    row 3569
+    column 4791
+    demarcated "False"
+    area 5079.0
+    solidity 0.9388170055452865
+    eccentricity 0.8923384584233561
+    diameter 80.41631456184679
+    perimeter 310.9604614807105
+    degree 1.0
+    strength 0.8378964568968588
+    betweenness 0.0
+  ]
+  node [
+    id 1723
+    label "1723"
+    idx 1723
+    row 3595
+    column 4667
+    demarcated "False"
+    area 11363.0
+    solidity 0.8801704105344694
+    eccentricity 0.8510511375796808
+    diameter 120.28225532814744
+    perimeter 565.9970414071697
+    degree 2.0
+    strength 1.3328324919487566
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1724
+    label "1724"
+    idx 1724
+    row 3583
+    column 10743
+    demarcated "False"
+    area 9293.0
+    solidity 0.8478241036401788
+    eccentricity 0.8633679391290754
+    diameter 108.77598581131714
+    perimeter 465.48737341529164
+    degree 2.0
+    strength 1.6403403709987803
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 1725
+    label "1725"
+    idx 1725
+    row 3568
+    column 4072
+    demarcated "False"
+    area 4387.0
+    solidity 0.9654489436619719
+    eccentricity 0.5685428404686275
+    diameter 74.73755336344078
+    perimeter 258.35028842544403
+    degree 1.0
+    strength 0.9979913063140716
+    betweenness 0.0
+  ]
+  node [
+    id 1726
+    label "1726"
+    idx 1726
+    row 3550
+    column 6456
+    demarcated "False"
+    area 1503.0
+    solidity 0.9464735516372796
+    eccentricity 0.4961345961569954
+    diameter 43.74561733176193
+    perimeter 149.78174593052023
+    degree 1.0
+    strength 0.965087711441607
+    betweenness 0.0
+  ]
+  node [
+    id 1727
+    label "1727"
+    idx 1727
+    row 3555
+    column 6247
+    demarcated "False"
+    area 3288.0
+    solidity 0.848516129032258
+    eccentricity 0.9235386458449452
+    diameter 64.7024854475407
+    perimeter 283.86500705120545
+    degree 3.0
+    strength 2.804533037766491
+    betweenness 0.0
+  ]
+  node [
+    id 1728
+    label "1728"
+    idx 1728
+    row 3606
+    column 1903
+    demarcated "False"
+    area 6512.0
+    solidity 0.7783887162323692
+    eccentricity 0.9834939515402
+    diameter 91.05677303372539
+    perimeter 494.78383797157323
+    degree 1.0
+    strength 0.7790041832993998
+    betweenness 0.0
+  ]
+  node [
+    id 1729
+    label "1729"
+    idx 1729
+    row 3588
+    column 6054
+    demarcated "False"
+    area 15179.0
+    solidity 0.9024912301563708
+    eccentricity 0.8364965051449857
+    diameter 139.01979373288913
+    perimeter 550.0559159102154
+    degree 2.0
+    strength 1.251814923082096
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1730
+    label "1730"
+    idx 1730
+    row 3578
+    column 6831
+    demarcated "False"
+    area 5040.0
+    solidity 0.984375
+    eccentricity 0.63700439495073
+    diameter 80.10697413749455
+    perimeter 274.8772003600252
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1731
+    label "1731"
+    idx 1731
+    row 3587
+    column 10937
+    demarcated "False"
+    area 15575.0
+    solidity 0.9413151214795117
+    eccentricity 0.9224713693684039
+    diameter 140.82153922340913
+    perimeter 563.58787847868
+    degree 2.0
+    strength 1.2104797356999648
+    betweenness 0.0
+  ]
+  node [
+    id 1732
+    label "1732"
+    idx 1732
+    row 3799
+    column 4836
+    demarcated "False"
+    area 73498.0
+    solidity 0.6922214792280814
+    eccentricity 0.5265717524593809
+    diameter 305.90939844820883
+    perimeter 2157.412480458818
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1733
+    label "1733"
+    idx 1733
+    row 3591
+    column 10653
+    demarcated "False"
+    area 5496.0
+    solidity 0.9723991507430998
+    eccentricity 0.8365041799648907
+    diameter 83.65240306090708
+    perimeter 299.2203461105329
+    degree 2.0
+    strength 1.6852027022614455
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1734
+    label "1734"
+    idx 1734
+    row 3604
+    column 6336
+    demarcated "False"
+    area 6925.0
+    solidity 0.954514128187457
+    eccentricity 0.6646412524876804
+    diameter 93.89986074159536
+    perimeter 343.84776310850236
+    degree 2.0
+    strength 1.6233577083577586
+    betweenness 0.0
+  ]
+  node [
+    id 1735
+    label "1735"
+    idx 1735
+    row 3575
+    column 8251
+    demarcated "False"
+    area 990.0
+    solidity 0.9519230769230769
+    eccentricity 0.8086786222961178
+    diameter 35.50362163621919
+    perimeter 131.78174593052023
+    degree 2.0
+    strength 0.9851156188327709
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1736
+    label "1736"
+    idx 1736
+    row 3592
+    column 3900
+    demarcated "False"
+    area 8043.0
+    solidity 0.9534139402560455
+    eccentricity 0.8554000105467008
+    diameter 101.1961741287926
+    perimeter 384.19090885900994
+    degree 4.0
+    strength 3.0399078560673902
+    betweenness 4.387848167916681E-05
+  ]
+  node [
+    id 1737
+    label "1737"
+    idx 1737
+    row 3659
+    column 6522
+    demarcated "False"
+    area 26850.0
+    solidity 0.947691656077933
+    eccentricity 0.5693490317081419
+    diameter 184.89586738523693
+    perimeter 704.2640687119285
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1738
+    label "1738"
+    idx 1738
+    row 3622
+    column 9756
+    demarcated "False"
+    area 24455.0
+    solidity 0.9250993001702289
+    eccentricity 0.8385108434151531
+    diameter 176.45700061629293
+    perimeter 702.541197284454
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1739
+    label "1739"
+    idx 1739
+    row 3613
+    column 3765
+    demarcated "False"
+    area 9925.0
+    solidity 0.9303524559430071
+    eccentricity 0.7457396692259977
+    diameter 112.41397814105011
+    perimeter 415.4629867976521
+    degree 3.0
+    strength 2.1113238211677534
+    betweenness 1.7014105140901414E-05
+  ]
+  node [
+    id 1740
+    label "1740"
+    idx 1740
+    row 3599
+    column 4580
+    demarcated "False"
+    area 2157.0
+    solidity 0.9366044290056448
+    eccentricity 0.8356146876624126
+    diameter 52.405893733374555
+    perimeter 200.3086578651014
+    degree 2.0
+    strength 1.6045579840716298
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1741
+    label "1741"
+    idx 1741
+    row 3596
+    column 6250
+    demarcated "False"
+    area 3117.0
+    solidity 0.9301700984780662
+    eccentricity 0.9052908262544785
+    diameter 62.99752106979688
+    perimeter 249.17871555019022
+    degree 3.0
+    strength 2.746262013829256
+    betweenness 0.0
+  ]
+  node [
+    id 1742
+    label "1742"
+    idx 1742
+    row 3606
+    column 4888
+    demarcated "False"
+    area 3005.0
+    solidity 0.8972827709764108
+    eccentricity 0.8803853781970266
+    diameter 61.855354108833325
+    perimeter 247.52186130069782
+    degree 1.0
+    strength 0.9300575599498448
+    betweenness 0.0
+  ]
+  node [
+    id 1743
+    label "1743"
+    idx 1743
+    row 3574
+    column 3403
+    demarcated "False"
+    area 269.0
+    solidity 0.96415770609319
+    eccentricity 0.6234832414807182
+    diameter 18.5067943613625
+    perimeter 61.21320343559643
+    degree 3.0
+    strength 2.3960285240571784
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1744
+    label "1744"
+    idx 1744
+    row 3597
+    column 5037
+    demarcated "False"
+    area 3285.0
+    solidity 0.9557753855106197
+    eccentricity 0.6925581165594645
+    diameter 64.67296115421814
+    perimeter 231.1370849898476
+    degree 2.0
+    strength 1.8677830738019094
+    betweenness 0.0
+  ]
+  node [
+    id 1745
+    label "1745"
+    idx 1745
+    row 3599
+    column 11118
+    demarcated "False"
+    area 2909.0
+    solidity 0.9768300873069174
+    eccentricity 0.5820169151162121
+    diameter 60.85929539219616
+    perimeter 206.20815280171308
+    degree 3.0
+    strength 2.7965067623646767
+    betweenness 0.0
+  ]
+  node [
+    id 1746
+    label "1746"
+    idx 1746
+    row 3594
+    column 8583
+    demarcated "False"
+    area 3896.0
+    solidity 0.9309438470728794
+    eccentricity 0.8343715963847923
+    diameter 70.43111007422922
+    perimeter 274.99494936611666
+    degree 1.0
+    strength 0.9954963247543206
+    betweenness 0.0
+  ]
+  node [
+    id 1747
+    label "1747"
+    idx 1747
+    row 3611
+    column 5818
+    demarcated "False"
+    area 7322.0
+    solidity 0.9699297920254338
+    eccentricity 0.8103200802083157
+    diameter 96.55392248143448
+    perimeter 349.22034611053283
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1748
+    label "1748"
+    idx 1748
+    row 3624
+    column 7168
+    demarcated "False"
+    area 9102.0
+    solidity 0.8897360703812317
+    eccentricity 0.905133007293475
+    diameter 107.65234013331735
+    perimeter 438.9604614807105
+    degree 1.0
+    strength 0.7598090491759487
+    betweenness 0.0
+  ]
+  node [
+    id 1749
+    label "1749"
+    idx 1749
+    row 3617
+    column 10005
+    demarcated "False"
+    area 12286.0
+    solidity 0.8020105751028135
+    eccentricity 0.9654583147261826
+    diameter 125.07206341392234
+    perimeter 597.144227664784
+    degree 1.0
+    strength 0.7719398645315437
+    betweenness 0.0
+  ]
+  node [
+    id 1750
+    label "1750"
+    idx 1750
+    row 3590
+    column 10175
+    demarcated "False"
+    area 1205.0
+    solidity 0.9226646248085758
+    eccentricity 0.9431910382379527
+    diameter 39.16955005365611
+    perimeter 157.9827560572969
+    degree 2.0
+    strength 1.9589482005293322
+    betweenness 0.0
+  ]
+  node [
+    id 1751
+    label "1751"
+    idx 1751
+    row 3590
+    column 3267
+    demarcated "False"
+    area 600.0
+    solidity 0.9493670886075949
+    eccentricity 0.7789831230776881
+    diameter 27.63953195770684
+    perimeter 97.84062043356595
+    degree 3.0
+    strength 2.6930488186497312
+    betweenness 1.2984448660161608E-05
+  ]
+  node [
+    id 1752
+    label "1752"
+    idx 1752
+    row 3609
+    column 8502
+    demarcated "False"
+    area 4006.0
+    solidity 0.984033407025301
+    eccentricity 0.6860512247903376
+    diameter 71.41846831323858
+    perimeter 243.58073580374355
+    degree 1.0
+    strength 0.9954963247543206
+    betweenness 0.0
+  ]
+  node [
+    id 1753
+    label "1753"
+    idx 1753
+    row 3611
+    column 7624
+    demarcated "False"
+    area 2354.0
+    solidity 0.9845253032204099
+    eccentricity 0.4794503564892077
+    diameter 54.74674317533942
+    perimeter 181.33809511662426
+    degree 1.0
+    strength 0.955394539788605
+    betweenness 0.0
+  ]
+  node [
+    id 1754
+    label "1754"
+    idx 1754
+    row 3609
+    column 5099
+    demarcated "False"
+    area 1864.0
+    solidity 0.8621646623496763
+    eccentricity 0.8223327279585966
+    diameter 48.71671696026266
+    perimeter 196.50966799187808
+    degree 3.0
+    strength 2.8777828628177615
+    betweenness 4.925135698681989E-06
+  ]
+  node [
+    id 1755
+    label "1755"
+    idx 1755
+    row 3597
+    column 5949
+    demarcated "False"
+    area 661.0
+    solidity 0.9792592592592593
+    eccentricity 0.7094970148624328
+    diameter 29.010538413996088
+    perimeter 98.42640687119285
+    degree 2.0
+    strength 1.7189165477812
+    betweenness 0.0
+  ]
+  node [
+    id 1756
+    label "1756"
+    idx 1756
+    row 3626
+    column 6145
+    demarcated "False"
+    area 5901.0
+    solidity 0.9786069651741294
+    eccentricity 0.8028892148030936
+    diameter 86.67979322473143
+    perimeter 319.17871555019025
+    degree 1.0
+    strength 0.6833674937203235
+    betweenness 0.0
+  ]
+  node [
+    id 1757
+    label "1757"
+    idx 1757
+    row 3595
+    column 12781
+    demarcated "False"
+    area 589.0
+    solidity 0.9624183006535948
+    eccentricity 0.9033288375476822
+    diameter 27.384997568906428
+    perimeter 103.84062043356595
+    degree 2.0
+    strength 1.4096193069061345
+    betweenness 0.0
+  ]
+  node [
+    id 1758
+    label "1758"
+    idx 1758
+    row 3685
+    column 1926
+    demarcated "False"
+    area 12598.0
+    solidity 0.9304970825024005
+    eccentricity 0.9721340302683049
+    diameter 126.65019456982125
+    perimeter 587.335136523794
+    degree 1.0
+    strength 0.7790041832993998
+    betweenness 0.0
+  ]
+  node [
+    id 1759
+    label "1759"
+    idx 1759
+    row 3616
+    column 4929
+    demarcated "False"
+    area 1238.0
+    solidity 0.8491083676268861
+    eccentricity 0.7155782283640256
+    diameter 39.702273944726784
+    perimeter 160.61017305526642
+    degree 1.0
+    strength 0.9300575599498448
+    betweenness 0.0
+  ]
+  node [
+    id 1760
+    label "1760"
+    idx 1760
+    row 3617
+    column 3456
+    demarcated "False"
+    area 2516.0
+    solidity 0.9592070148684713
+    eccentricity 0.8576163252149798
+    diameter 56.599211077131365
+    perimeter 209.6223663640862
+    degree 2.0
+    strength 1.8382425595438119
+    betweenness 0.0
+  ]
+  node [
+    id 1761
+    label "1761"
+    idx 1761
+    row 3738
+    column 3559
+    demarcated "False"
+    area 49933.0
+    solidity 0.7264144081234816
+    eccentricity 0.7708916932557303
+    diameter 252.14414565335616
+    perimeter 1785.3515139147198
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1762
+    label "1762"
+    idx 1762
+    row 3672
+    column 2114
+    demarcated "False"
+    area 6754.0
+    solidity 0.8741910432306498
+    eccentricity 0.9809866048396653
+    diameter 92.73327280507945
+    perimeter 491.6122650963195
+    degree 1.0
+    strength 0.7870369202094595
+    betweenness 0.0
+  ]
+  node [
+    id 1763
+    label "1763"
+    idx 1763
+    row 3628
+    column 5509
+    demarcated "False"
+    area 1386.0
+    solidity 0.9726315789473684
+    eccentricity 0.49015700183625943
+    diameter 42.00845163777089
+    perimeter 147.92388155425118
+    degree 1.0
+    strength 0.7529187994941732
+    betweenness 0.0
+  ]
+  node [
+    id 1764
+    label "1764"
+    idx 1764
+    row 3696
+    column 5655
+    demarcated "False"
+    area 22611.0
+    solidity 0.9116235939200903
+    eccentricity 0.3758244796066204
+    diameter 169.67386170535156
+    perimeter 765.9797974644665
+    degree 1.0
+    strength 0.4218571003311649
+    betweenness 0.0
+  ]
+  node [
+    id 1765
+    label "1765"
+    idx 1765
+    row 3656
+    column 7309
+    demarcated "False"
+    area 10210.0
+    solidity 0.9658499668905496
+    eccentricity 0.8129990154146903
+    diameter 114.01655911202553
+    perimeter 421.4041122946064
+    degree 1.0
+    strength 0.7626829151282509
+    betweenness 0.0
+  ]
+  node [
+    id 1766
+    label "1766"
+    idx 1766
+    row 3625
+    column 12809
+    demarcated "False"
+    area 1051.0
+    solidity 0.974050046339203
+    eccentricity 0.6264437299611084
+    diameter 36.581071082141044
+    perimeter 123.39696961966999
+    degree 2.0
+    strength 1.417818435736494
+    betweenness 0.0
+  ]
+  node [
+    id 1767
+    label "1767"
+    idx 1767
+    row 3630
+    column 4718
+    demarcated "False"
+    area 769.0
+    solidity 0.9564676616915423
+    eccentricity 0.8411425421099208
+    diameter 31.29091257699814
+    perimeter 113.53910524340094
+    degree 2.0
+    strength 1.4853394478280042
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1768
+    label "1768"
+    idx 1768
+    row 3626
+    column 10188
+    demarcated "False"
+    area 929.0
+    solidity 0.9508700102354145
+    eccentricity 0.9275259778162926
+    diameter 34.39243429969688
+    perimeter 142.36143571373725
+    degree 2.0
+    strength 1.9699989223990784
+    betweenness 0.0
+  ]
+  node [
+    id 1769
+    label "1769"
+    idx 1769
+    row 3638
+    column 10454
+    demarcated "False"
+    area 2548.0
+    solidity 0.9841637697952877
+    eccentricity 0.492113472253714
+    diameter 56.95800523179507
+    perimeter 190.0243866176395
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1770
+    label "1770"
+    idx 1770
+    row 3641
+    column 8980
+    demarcated "False"
+    area 1177.0
+    solidity 0.9631751227495908
+    eccentricity 0.6781734220606248
+    diameter 38.71179334716084
+    perimeter 134.22539674441617
+    degree 1.0
+    strength 0.9805763985242959
+    betweenness 0.0
+  ]
+  node [
+    id 1771
+    label "1771"
+    idx 1771
+    row 3650
+    column 10344
+    demarcated "False"
+    area 5495.0
+    solidity 0.9643734643734644
+    eccentricity 0.8024562008151479
+    diameter 83.64479241602383
+    perimeter 297.66399692442883
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1772
+    label "1772"
+    idx 1772
+    row 3749
+    column 7577
+    demarcated "False"
+    area 45032.0
+    solidity 0.8813731822363142
+    eccentricity 0.912297156004632
+    diameter 239.45046080246712
+    perimeter 1135.9524522539969
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1773
+    label "1773"
+    idx 1773
+    row 3784
+    column 4073
+    demarcated "False"
+    area 72632.0
+    solidity 0.6530891172794547
+    eccentricity 0.9209545898290049
+    diameter 304.10184907889715
+    perimeter 2731.4856403117374
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1774
+    label "1774"
+    idx 1774
+    row 3670
+    column 7053
+    demarcated "False"
+    area 7065.0
+    solidity 0.9699341021416804
+    eccentricity 0.5673411419969927
+    diameter 94.84427965646597
+    perimeter 328.73506473629425
+    degree 1.0
+    strength 0.9021289677354263
+    betweenness 0.0
+  ]
+  node [
+    id 1775
+    label "1775"
+    idx 1775
+    row 3641
+    column 11379
+    demarcated "False"
+    area 2013.0
+    solidity 0.9814724524622136
+    eccentricity 0.8453014951077736
+    diameter 50.626388411103186
+    perimeter 179.53910524340097
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1776
+    label "1776"
+    idx 1776
+    row 3684
+    column 9584
+    demarcated "False"
+    area 10121.0
+    solidity 0.9741097208854668
+    eccentricity 0.6978915359036664
+    diameter 113.5185334307336
+    perimeter 396.2741699796952
+    degree 1.0
+    strength 0.6929970205227487
+    betweenness 0.0
+  ]
+  node [
+    id 1777
+    label "1777"
+    idx 1777
+    row 3700
+    column 3124
+    demarcated "False"
+    area 25047.0
+    solidity 0.9458122498300733
+    eccentricity 0.9383403589078475
+    diameter 178.58004053359832
+    perimeter 815.1269837220809
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1778
+    label "1778"
+    idx 1778
+    row 3648
+    column 5095
+    demarcated "False"
+    area 1370.0
+    solidity 0.9338786639400136
+    eccentricity 0.8187462563022905
+    diameter 41.76527476609214
+    perimeter 161.53910524340094
+    degree 3.0
+    strength 2.8783985786418267
+    betweenness 0.0
+  ]
+  node [
+    id 1779
+    label "1779"
+    idx 1779
+    row 3652
+    column 8038
+    demarcated "False"
+    area 1653.0
+    solidity 0.9723529411764706
+    eccentricity 0.846803004156457
+    diameter 45.87662768172073
+    perimeter 168.16652224137044
+    degree 3.0
+    strength 2.945393820592377
+    betweenness 0.0
+  ]
+  node [
+    id 1780
+    label "1780"
+    idx 1780
+    row 3646
+    column 3891
+    demarcated "False"
+    area 596.0
+    solidity 0.9003021148036254
+    eccentricity 0.6678103963387492
+    diameter 27.547246117573295
+    perimeter 102.76955262170046
+    degree 6.0
+    strength 5.177804440851018
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 1781
+    label "1781"
+    idx 1781
+    row 3668
+    column 4571
+    demarcated "False"
+    area 4211.0
+    solidity 0.9718439879990769
+    eccentricity 0.5713720285339716
+    diameter 73.22302727202536
+    perimeter 252.20815280171306
+    degree 2.0
+    strength 1.5770832703581026
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1782
+    label "1782"
+    idx 1782
+    row 3647
+    column 7697
+    demarcated "False"
+    area 1242.0
+    solidity 0.9627906976744186
+    eccentricity 0.8949720180559717
+    diameter 39.76636159571394
+    perimeter 149.29646455628165
+    degree 3.0
+    strength 2.8307374343475438
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1783
+    label "1783"
+    idx 1783
+    row 3670
+    column 3674
+    demarcated "False"
+    area 3940.0
+    solidity 0.895251079300159
+    eccentricity 0.7368214109775395
+    diameter 70.82770507546141
+    perimeter 278.5929291125633
+    degree 1.0
+    strength 0.867281765282446
+    betweenness 0.0
+  ]
+  node [
+    id 1784
+    label "1784"
+    idx 1784
+    row 3657
+    column 9022
+    demarcated "False"
+    area 1655.0
+    solidity 0.9538904899135446
+    eccentricity 0.5500630423417332
+    diameter 45.90437284765684
+    perimeter 157.88225099390854
+    degree 1.0
+    strength 0.9805763985242959
+    betweenness 0.0
+  ]
+  node [
+    id 1785
+    label "1785"
+    idx 1785
+    row 3649
+    column 3855
+    demarcated "False"
+    area 751.0
+    solidity 0.9603580562659847
+    eccentricity 0.8710073018467922
+    diameter 30.922530590107066
+    perimeter 113.9827560572969
+    degree 6.0
+    strength 5.1416577783387565
+    betweenness 2.6864376538265393E-05
+  ]
+  node [
+    id 1786
+    label "1786"
+    idx 1786
+    row 3670
+    column 10554
+    demarcated "False"
+    area 3630.0
+    solidity 0.9832069339111592
+    eccentricity 0.25962367258991365
+    diameter 67.98425955608137
+    perimeter 225.82337649086287
+    degree 1.0
+    strength 0.8954901248734404
+    betweenness 0.0
+  ]
+  node [
+    id 1787
+    label "1787"
+    idx 1787
+    row 3695
+    column 3963
+    demarcated "False"
+    area 8624.0
+    solidity 0.8289916370277804
+    eccentricity 0.40755098357208397
+    diameter 104.78748891826754
+    perimeter 536.6000717874997
+    degree 3.0
+    strength 2.2004743243775997
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1788
+    label "1788"
+    idx 1788
+    row 3689
+    column 10892
+    demarcated "False"
+    area 14681.0
+    solidity 0.976389997339718
+    eccentricity 0.8059630370549343
+    diameter 136.72026095739037
+    perimeter 484.3330444827409
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1789
+    label "1789"
+    idx 1789
+    row 3676
+    column 3299
+    demarcated "False"
+    area 4600.0
+    solidity 0.8913001356326293
+    eccentricity 0.6004617042946078
+    diameter 76.53039857325813
+    perimeter 325.8061325481598
+    degree 1.0
+    strength 0.8486232882838366
+    betweenness 0.0
+  ]
+  node [
+    id 1790
+    label "1790"
+    idx 1790
+    row 3671
+    column 9960
+    demarcated "False"
+    area 5978.0
+    solidity 0.9829003617231173
+    eccentricity 0.8622676871682108
+    diameter 87.24348685390103
+    perimeter 313.5218613006978
+    degree 1.0
+    strength 0.7719398645315437
+    betweenness 0.0
+  ]
+  node [
+    id 1791
+    label "1791"
+    idx 1791
+    row 3654
+    column 6656
+    demarcated "False"
+    area 473.0
+    solidity 0.9752577319587629
+    eccentricity 0.7197671691722035
+    diameter 24.54062559633988
+    perimeter 83.84062043356595
+    degree 3.0
+    strength 1.826001402121665
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1792
+    label "1792"
+    idx 1792
+    row 3654
+    column 10161
+    demarcated "False"
+    area 468.0
+    solidity 0.9649484536082474
+    eccentricity 0.8597223063103285
+    diameter 24.410573670769317
+    perimeter 88.76955262170048
+    degree 3.0
+    strength 2.5504016187830607
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1793
+    label "1793"
+    idx 1793
+    row 3659
+    column 3403
+    demarcated "False"
+    area 651.0
+    solidity 0.909217877094972
+    eccentricity 0.8504797107966614
+    diameter 28.79025779013781
+    perimeter 109.39696961967
+    degree 2.0
+    strength 1.9107717693461819
+    betweenness 0.0
+  ]
+  node [
+    id 1794
+    label "1794"
+    idx 1794
+    row 3774
+    column 5873
+    demarcated "False"
+    area 52416.0
+    solidity 0.8201661737783411
+    eccentricity 0.5669291972145467
+    diameter 258.3372291731068
+    perimeter 1580.386001800126
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1795
+    label "1795"
+    idx 1795
+    row 3815
+    column 9004
+    demarcated "False"
+    area 67408.0
+    solidity 0.74211731548353
+    eccentricity 0.844380487058387
+    diameter 292.9616548825253
+    perimeter 1747.9179643685904
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1796
+    label "1796"
+    idx 1796
+    row 3759
+    column 1760
+    demarcated "False"
+    area 8724.0
+    solidity 0.8082267926625903
+    eccentricity 0.9460066903074819
+    diameter 105.3932720256353
+    perimeter 520.3158005400378
+    degree 2.0
+    strength 1.5529615268287595
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1797
+    label "1797"
+    idx 1797
+    row 3678
+    column 7187
+    demarcated "False"
+    area 2408.0
+    solidity 0.9083364768012071
+    eccentricity 0.5659974283999442
+    diameter 55.371119039823206
+    perimeter 205.9655121145938
+    degree 2.0
+    strength 1.7535503655364155
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1798
+    label "1798"
+    idx 1798
+    row 3701
+    column 6419
+    demarcated "False"
+    area 3718.0
+    solidity 0.9674733281290658
+    eccentricity 0.8730993519615776
+    diameter 68.80337656921596
+    perimeter 260.73506473629425
+    degree 1.0
+    strength 0.9865497321866636
+    betweenness 0.0
+  ]
+  node [
+    id 1799
+    label "1799"
+    idx 1799
+    row 3695
+    column 9840
+    demarcated "False"
+    area 5572.0
+    solidity 0.9853227232537577
+    eccentricity 0.828554915806323
+    diameter 84.2287999633399
+    perimeter 304.2914139223983
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1800
+    label "1800"
+    idx 1800
+    row 3681
+    column 8011
+    demarcated "False"
+    area 1843.0
+    solidity 0.9850347407803314
+    eccentricity 0.5625481519830852
+    diameter 48.44151608844324
+    perimeter 161.68124086713192
+    degree 2.0
+    strength 1.983571985130471
+    betweenness 0.0
+  ]
+  node [
+    id 1801
+    label "1801"
+    idx 1801
+    row 3738
+    column 4625
+    demarcated "False"
+    area 14414.0
+    solidity 0.9459867427971386
+    eccentricity 0.79964612269888
+    diameter 135.4713061788829
+    perimeter 536.3401871576773
+    degree 1.0
+    strength 0.6579147873040841
+    betweenness 0.0
+  ]
+  node [
+    id 1802
+    label "1802"
+    idx 1802
+    row 3677
+    column 7775
+    demarcated "False"
+    area 2337.0
+    solidity 0.8325614535090844
+    eccentricity 0.9679055404949132
+    diameter 54.54870132318528
+    perimeter 275.7228714274745
+    degree 4.0
+    strength 3.7936305235620127
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1803
+    label "1803"
+    idx 1803
+    row 3671
+    column 3736
+    demarcated "False"
+    area 470.0
+    solidity 0.9475806451612904
+    eccentricity 0.9059936184193144
+    diameter 24.462677409178383
+    perimeter 91.01219330881975
+    degree 4.0
+    strength 3.2527243479956014
+    betweenness 1.8357323967814686E-05
+  ]
+  node [
+    id 1804
+    label "1804"
+    idx 1804
+    row 3682
+    column 1745
+    demarcated "False"
+    area 1087.0
+    solidity 0.9783978397839784
+    eccentricity 0.7885145211534544
+    diameter 37.202303492218356
+    perimeter 127.29646455628165
+    degree 1.0
+    strength 0.7309690856759952
+    betweenness 0.0
+  ]
+  node [
+    id 1805
+    label "1805"
+    idx 1805
+    row 3718
+    column 10146
+    demarcated "False"
+    area 12960.0
+    solidity 0.9458473215588965
+    eccentricity 0.6957559588063444
+    diameter 128.45693636299953
+    perimeter 480.9015869776647
+    degree 1.0
+    strength 0.5989309767269096
+    betweenness 0.0
+  ]
+  node [
+    id 1806
+    label "1806"
+    idx 1806
+    row 3676
+    column 10628
+    demarcated "False"
+    area 940.0
+    solidity 0.9761163032191069
+    eccentricity 0.8595624815777297
+    diameter 34.595450164018
+    perimeter 124.08326112068524
+    degree 2.0
+    strength 1.724970896762756
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1807
+    label "1807"
+    idx 1807
+    row 3734
+    column 6120
+    demarcated "False"
+    area 18860.0
+    solidity 0.9511321801401987
+    eccentricity 0.7713098081425526
+    diameter 154.96224641410296
+    perimeter 610.2569260369921
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1808
+    label "1808"
+    idx 1808
+    row 3708
+    column 3826
+    demarcated "False"
+    area 7726.0
+    solidity 0.9110849056603774
+    eccentricity 0.8220401429217384
+    diameter 99.18189715176791
+    perimeter 384.8772003600252
+    degree 6.0
+    strength 4.5151950611063185
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1809
+    label "1809"
+    idx 1809
+    row 3718
+    column 6677
+    demarcated "False"
+    area 12080.0
+    solidity 0.9404437524328533
+    eccentricity 0.9086894733672812
+    diameter 124.01908603275855
+    perimeter 528.842712474619
+    degree 1.0
+    strength 0.6210815006256484
+    betweenness 0.0
+  ]
+  node [
+    id 1810
+    label "1810"
+    idx 1810
+    row 3718
+    column 5000
+    demarcated "False"
+    area 6446.0
+    solidity 0.9250861079219288
+    eccentricity 0.62382236014652
+    diameter 90.59416154125418
+    perimeter 372.0904037956216
+    degree 3.0
+    strength 2.4449286252522016
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1811
+    label "1811"
+    idx 1811
+    row 3757
+    column 5464
+    demarcated "False"
+    area 10601.0
+    solidity 0.9598008148483477
+    eccentricity 0.9360788165465124
+    diameter 116.17922539652888
+    perimeter 482.0142853498728
+    degree 1.0
+    strength 0.7681795456167957
+    betweenness 0.0
+  ]
+  node [
+    id 1812
+    label "1812"
+    idx 1812
+    row 3699
+    column 7698
+    demarcated "False"
+    area 3293.0
+    solidity 0.981227651966627
+    eccentricity 0.8647322942282617
+    diameter 64.75166268763213
+    perimeter 236.3086578651014
+    degree 3.0
+    strength 2.8317863937066803
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1813
+    label "1813"
+    idx 1813
+    row 3735
+    column 10398
+    demarcated "False"
+    area 13822.0
+    solidity 0.95687088958117
+    eccentricity 0.8379849325331462
+    diameter 132.6601559901443
+    perimeter 510.3158005400378
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1814
+    label "1814"
+    idx 1814
+    row 3700
+    column 2151
+    demarcated "False"
+    area 918.0
+    solidity 0.9765957446808511
+    eccentricity 0.8600965949049217
+    diameter 34.18821291127805
+    perimeter 123.29646455628165
+    degree 1.0
+    strength 0.7870369202094595
+    betweenness 0.0
+  ]
+  node [
+    id 1815
+    label "1815"
+    idx 1815
+    row 3737
+    column 4411
+    demarcated "False"
+    area 7948.0
+    solidity 0.9138783488559273
+    eccentricity 0.8400808278824676
+    diameter 100.59675890184073
+    perimeter 469.144227664784
+    degree 1.0
+    strength 0.8417907646576622
+    betweenness 0.0
+  ]
+  node [
+    id 1816
+    label "1816"
+    idx 1816
+    row 3752
+    column 9434
+    demarcated "False"
+    area 11871.0
+    solidity 0.9542604501607717
+    eccentricity 0.8899285459258293
+    diameter 122.94155780512591
+    perimeter 480.700576850888
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1817
+    label "1817"
+    idx 1817
+    row 3707
+    column 8114
+    demarcated "False"
+    area 507.0
+    solidity 0.9620493358633776
+    eccentricity 0.7281803367402366
+    diameter 25.40733061895184
+    perimeter 88.08326112068524
+    degree 3.0
+    strength 2.9062411461946995
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1818
+    label "1818"
+    idx 1818
+    row 3705
+    column 5076
+    demarcated "False"
+    area 729.0
+    solidity 0.9732977303070761
+    eccentricity 0.6073882716082195
+    diameter 30.46623751157884
+    perimeter 102.22539674441617
+    degree 4.0
+    strength 3.6432418414185297
+    betweenness 1.3432188269132697E-05
+  ]
+  node [
+    id 1819
+    label "1819"
+    idx 1819
+    row 3705
+    column 7817
+    demarcated "False"
+    area 1384.0
+    solidity 0.9389416553595658
+    eccentricity 0.9455195401568882
+    diameter 41.97813156768016
+    perimeter 179.8111831820431
+    degree 3.0
+    strength 2.7392212483559493
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1820
+    label "1820"
+    idx 1820
+    row 3787
+    column 1637
+    demarcated "False"
+    area 7799.0
+    solidity 0.9052814857806152
+    eccentricity 0.9649001407594414
+    diameter 99.64936130949125
+    perimeter 466.2985565973347
+    degree 1.0
+    strength 0.7839425990924026
+    betweenness 0.0
+  ]
+  node [
+    id 1821
+    label "1821"
+    idx 1821
+    row 3712
+    column 9649
+    demarcated "False"
+    area 1184.0
+    solidity 0.9626016260162602
+    eccentricity 0.9125262382149153
+    diameter 38.826738479640966
+    perimeter 152.8528137423857
+    degree 2.0
+    strength 0.9635486693116349
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1822
+    label "1822"
+    idx 1822
+    row 3767
+    column 8783
+    demarcated "False"
+    area 13486.0
+    solidity 0.9643878718535469
+    eccentricity 0.607701042403679
+    diameter 131.03781324601843
+    perimeter 462.0142853498728
+    degree 1.0
+    strength 0.6598614829153725
+    betweenness 0.0
+  ]
+  node [
+    id 1823
+    label "1823"
+    idx 1823
+    row 3721
+    column 3891
+    demarcated "False"
+    area 406.0
+    solidity 0.9123595505617977
+    eccentricity 0.9447177086630902
+    diameter 22.736210219877808
+    perimeter 101.66904755831213
+    degree 6.0
+    strength 5.359855052980267
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 1824
+    label "1824"
+    idx 1824
+    row 3734
+    column 7782
+    demarcated "False"
+    area 4518.0
+    solidity 0.82959970620639
+    eccentricity 0.8855728465068774
+    diameter 75.84521252599576
+    perimeter 323.9066376115481
+    degree 3.0
+    strength 2.744687873604728
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1825
+    label "1825"
+    idx 1825
+    row 3719
+    column 8037
+    demarcated "False"
+    area 1631.0
+    solidity 0.9656601539372409
+    eccentricity 0.8757679046086727
+    diameter 45.57031596843553
+    perimeter 168.0243866176395
+    degree 3.0
+    strength 2.945360153941682
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1826
+    label "1826"
+    idx 1826
+    row 3717
+    column 4916
+    demarcated "False"
+    area 945.0
+    solidity 0.9613428280773143
+    eccentricity 0.6954288840784989
+    diameter 34.68733731168665
+    perimeter 119.9827560572969
+    degree 1.0
+    strength 0.7979307999371761
+    betweenness 0.0
+  ]
+  node [
+    id 1827
+    label "1827"
+    idx 1827
+    row 3732
+    column 7009
+    demarcated "False"
+    area 4555.0
+    solidity 0.9703877290157648
+    eccentricity 0.9236485334637426
+    diameter 76.1551451070029
+    perimeter 306.936074863071
+    degree 1.0
+    strength 0.9021289677354263
+    betweenness 0.0
+  ]
+  node [
+    id 1828
+    label "1828"
+    idx 1828
+    row 3924
+    column 2199
+    demarcated "False"
+    area 34948.0
+    solidity 0.5787242498509637
+    eccentricity 0.9947066825902128
+    diameter 210.94353654332352
+    perimeter 1759.7728701520293
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1829
+    label "1829"
+    idx 1829
+    row 3779
+    column 2302
+    demarcated "False"
+    area 8737.0
+    solidity 0.8694397452482834
+    eccentricity 0.9820581251987728
+    diameter 105.47176827166176
+    perimeter 552.6244584051392
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1830
+    label "1830"
+    idx 1830
+    row 3738
+    column 7300
+    demarcated "False"
+    area 3608.0
+    solidity 0.9866010391030899
+    eccentricity 0.7137350344702784
+    diameter 67.77793355808708
+    perimeter 228.65180361560903
+    degree 2.0
+    strength 1.7086757138273239
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1831
+    label "1831"
+    idx 1831
+    row 3745
+    column 3917
+    demarcated "False"
+    area 2172.0
+    solidity 0.9398528775421895
+    eccentricity 0.6816180517464381
+    diameter 52.58779602878194
+    perimeter 188.50966799187808
+    degree 4.0
+    strength 3.4212650700678484
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1832
+    label "1832"
+    idx 1832
+    row 3779
+    column 9952
+    demarcated "False"
+    area 22791.0
+    solidity 0.9706145394148461
+    eccentricity 0.8748091279679253
+    diameter 170.34788658524383
+    perimeter 637.0020920410531
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1833
+    label "1833"
+    idx 1833
+    row 3841
+    column 6880
+    demarcated "False"
+    area 102404.0
+    solidity 0.583797959067328
+    eccentricity 0.9741289097968514
+    diameter 361.08838577148896
+    perimeter 2766.0297961890215
+    degree 1.0
+    strength 0.015291178279321197
+    betweenness 0.0
+  ]
+  node [
+    id 1834
+    label "1834"
+    idx 1834
+    row 3749
+    column 7888
+    demarcated "False"
+    area 3999.0
+    solidity 0.9842480925424563
+    eccentricity 0.8884444172217028
+    diameter 71.3560434679216
+    perimeter 263.3797256769669
+    degree 1.0
+    strength 0.8982503513369989
+    betweenness 0.0
+  ]
+  node [
+    id 1835
+    label "1835"
+    idx 1835
+    row 3738
+    column 3872
+    demarcated "False"
+    area 340.0
+    solidity 0.8785529715762274
+    eccentricity 0.8639237580647358
+    diameter 20.806283791440396
+    perimeter 77.94112549695429
+    degree 5.0
+    strength 4.636238394734809
+    betweenness 0.0
+  ]
+  node [
+    id 1836
+    label "1836"
+    idx 1836
+    row 3806
+    column 9672
+    demarcated "False"
+    area 33042.0
+    solidity 0.9557445331482124
+    eccentricity 0.9307773384383536
+    diameter 205.110655591413
+    perimeter 927.0092347159895
+    degree 1.0
+    strength 0.2705516487888862
+    betweenness 0.0
+  ]
+  node [
+    id 1837
+    label "1837"
+    idx 1837
+    row 3765
+    column 4306
+    demarcated "False"
+    area 3527.0
+    solidity 0.9808120133481646
+    eccentricity 0.8814499516852402
+    diameter 67.01280380853288
+    perimeter 244.14927829866738
+    degree 2.0
+    strength 1.9227798020756801
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1838
+    label "1838"
+    idx 1838
+    row 3769
+    column 10247
+    demarcated "False"
+    area 6074.0
+    solidity 0.9501016737056155
+    eccentricity 0.7783229700658013
+    diameter 87.94121328888622
+    perimeter 326.97770542341357
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1839
+    label "1839"
+    idx 1839
+    row 3765
+    column 5041
+    demarcated "False"
+    area 2660.0
+    solidity 0.9382716049382716
+    eccentricity 0.834663886542721
+    diameter 58.196367489694175
+    perimeter 224.69343417595167
+    degree 3.0
+    strength 2.5770077431990424
+    betweenness 1.8805063576785777E-05
+  ]
+  node [
+    id 1840
+    label "1840"
+    idx 1840
+    row 3780
+    column 5338
+    demarcated "False"
+    area 8689.0
+    solidity 0.8640612569610183
+    eccentricity 0.7064407652337582
+    diameter 105.18164480651474
+    perimeter 417.84776310850236
+    degree 1.0
+    strength 0.9043528347262617
+    betweenness 0.0
+  ]
+  node [
+    id 1841
+    label "1841"
+    idx 1841
+    row 3756
+    column 6383
+    demarcated "False"
+    area 3388.0
+    solidity 0.9825986078886311
+    eccentricity 0.80126633678592
+    diameter 65.67903453586031
+    perimeter 234.69343417595167
+    degree 1.0
+    strength 0.9865497321866636
+    betweenness 0.0
+  ]
+  node [
+    id 1842
+    label "1842"
+    idx 1842
+    row 3790
+    column 5253
+    demarcated "False"
+    area 6239.0
+    solidity 0.9865591397849462
+    eccentricity 0.7821321972380653
+    diameter 89.1276697754557
+    perimeter 307.5218613006979
+    degree 3.0
+    strength 2.8008470877779557
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 1843
+    label "1843"
+    idx 1843
+    row 3770
+    column 7218
+    demarcated "False"
+    area 2255.0
+    solidity 0.9567246499787866
+    eccentricity 0.6909141844984601
+    diameter 53.58316128577887
+    perimeter 185.7228714274745
+    degree 2.0
+    strength 1.9397341150595397
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1844
+    label "1844"
+    idx 1844
+    row 3797
+    column 5176
+    demarcated "False"
+    area 7520.0
+    solidity 0.9628681177976952
+    eccentricity 0.7711440642990306
+    diameter 97.85070963671353
+    perimeter 357.58073580374355
+    degree 2.0
+    strength 1.9217927291067451
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 1845
+    label "1845"
+    idx 1845
+    row 3946
+    column 1247
+    demarcated "False"
+    area 58663.0
+    solidity 0.9279770944064794
+    eccentricity 0.9464895970490206
+    diameter 273.29846580762006
+    perimeter 1265.432682994352
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1846
+    label "1846"
+    idx 1846
+    row 3763
+    column 3727
+    demarcated "False"
+    area 1350.0
+    solidity 0.9588068181818182
+    eccentricity 0.7318953018895443
+    diameter 41.45929793656026
+    perimeter 143.29646455628165
+    degree 1.0
+    strength 0.9645334377560222
+    betweenness 0.0
+  ]
+  node [
+    id 1847
+    label "1847"
+    idx 1847
+    row 3830
+    column 7951
+    demarcated "False"
+    area 14038.0
+    solidity 0.7805827402135231
+    eccentricity 0.8528858324324055
+    diameter 133.69269512203056
+    perimeter 632.0681092190351
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1848
+    label "1848"
+    idx 1848
+    row 3901
+    column 2061
+    demarcated "False"
+    area 13803.0
+    solidity 0.7992009727288518
+    eccentricity 0.9933840917490258
+    diameter 132.5689459714433
+    perimeter 860.2123368838193
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1849
+    label "1849"
+    idx 1849
+    row 3798
+    column 3340
+    demarcated "False"
+    area 5768.0
+    solidity 0.9589359933499584
+    eccentricity 0.745100966695013
+    diameter 85.69740774394765
+    perimeter 308.24978336205567
+    degree 1.0
+    strength 0.8557219303721301
+    betweenness 0.0
+  ]
+  node [
+    id 1850
+    label "1850"
+    idx 1850
+    row 3887
+    column 2519
+    demarcated "False"
+    area 19634.0
+    solidity 0.5811454787627646
+    eccentricity 0.985108119270428
+    diameter 158.1100414943029
+    perimeter 1229.8103166302658
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1851
+    label "1851"
+    idx 1851
+    row 3786
+    column 2510
+    demarcated "False"
+    area 2170.0
+    solidity 0.9542656112576957
+    eccentricity 0.6914330618163737
+    diameter 52.56357876015772
+    perimeter 188.30865786510142
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1852
+    label "1852"
+    idx 1852
+    row 3821
+    column 6472
+    demarcated "False"
+    area 13112.0
+    solidity 0.9275608375778155
+    eccentricity 0.8209879288624391
+    diameter 129.20803732960056
+    perimeter 526.3574311003805
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1853
+    label "1853"
+    idx 1853
+    row 3826
+    column 5093
+    demarcated "False"
+    area 8187.0
+    solidity 0.8885391795094422
+    eccentricity 0.797470847734804
+    diameter 102.09805165989593
+    perimeter 411.9898987322333
+    degree 3.0
+    strength 2.5726417334635094
+    betweenness 1.9700542794727955E-05
+  ]
+  node [
+    id 1854
+    label "1854"
+    idx 1854
+    row 3795
+    column 5670
+    demarcated "False"
+    area 1578.0
+    solidity 0.942089552238806
+    eccentricity 0.8883965993918613
+    diameter 44.82378834494121
+    perimeter 171.3380951166243
+    degree 1.0
+    strength 0.4218571003311649
+    betweenness 0.0
+  ]
+  node [
+    id 1855
+    label "1855"
+    idx 1855
+    row 3779
+    column 11448
+    demarcated "False"
+    area 95.0
+    solidity 0.95
+    eccentricity 0.8798819410159648
+    diameter 10.998079684646791
+    perimeter 38.38477631085023
+    degree 3.0
+    strength 2.7462701840333352
+    betweenness 0.0
+  ]
+  node [
+    id 1856
+    label "1856"
+    idx 1856
+    row 3790
+    column 8123
+    demarcated "False"
+    area 574.0
+    solidity 0.9184
+    eccentricity 0.8948177365980498
+    diameter 27.034043328329254
+    perimeter 103.91168824543142
+    degree 1.0
+    strength 0.9972544326011322
+    betweenness 0.0
+  ]
+  node [
+    id 1857
+    label "1857"
+    idx 1857
+    row 3830
+    column 3224
+    demarcated "False"
+    area 7484.0
+    solidity 0.8847381487173425
+    eccentricity 0.7504375946469991
+    diameter 97.61621152655925
+    perimeter 379.50461735799473
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1858
+    label "1858"
+    idx 1858
+    row 3790
+    column 11496
+    demarcated "False"
+    area 418.0
+    solidity 0.7813084112149533
+    eccentricity 0.9925854179134018
+    diameter 23.06976657227589
+    perimeter 141.0477272147525
+    degree 3.0
+    strength 2.7697455161756332
+    betweenness 0.0
+  ]
+  node [
+    id 1859
+    label "1859"
+    idx 1859
+    row 3869
+    column 3104
+    demarcated "False"
+    area 26935.0
+    solidity 0.8162615916116128
+    eccentricity 0.8849965344335549
+    diameter 185.18830183745843
+    perimeter 948.6488450227788
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1860
+    label "1860"
+    idx 1860
+    row 3820
+    column 7404
+    demarcated "False"
+    area 7800.0
+    solidity 0.9834825368805952
+    eccentricity 0.7770024946705903
+    diameter 99.65574970333759
+    perimeter 343.22034611053283
+    degree 1.0
+    strength 0.93426518694519
+    betweenness 0.0
+  ]
+  node [
+    id 1861
+    label "1861"
+    idx 1861
+    row 3820
+    column 4562
+    demarcated "False"
+    area 2875.0
+    solidity 0.8050966115933912
+    eccentricity 0.7964613599639386
+    diameter 60.502592432999045
+    perimeter 269.4213562373095
+    degree 1.0
+    strength 0.9732803740775778
+    betweenness 0.0
+  ]
+  node [
+    id 1862
+    label "1862"
+    idx 1862
+    row 3821
+    column 1812
+    demarcated "False"
+    area 3947.0
+    solidity 0.9088187888556297
+    eccentricity 0.6798629795746948
+    diameter 70.89059516656414
+    perimeter 277.7056274847714
+    degree 2.0
+    strength 1.7609465362932823
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1863
+    label "1863"
+    idx 1863
+    row 3816
+    column 4364
+    demarcated "False"
+    area 3751.0
+    solidity 0.9742857142857143
+    eccentricity 0.7761449138110667
+    diameter 69.10804245745639
+    perimeter 243.3797256769669
+    degree 2.0
+    strength 1.832641045839147
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1864
+    label "1864"
+    idx 1864
+    row 3813
+    column 4240
+    demarcated "False"
+    area 1809.0
+    solidity 0.9694533762057878
+    eccentricity 0.7881731599787981
+    diameter 47.99260710178089
+    perimeter 169.53910524340094
+    degree 2.0
+    strength 1.6525048505033832
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1865
+    label "1865"
+    idx 1865
+    row 3821
+    column 3637
+    demarcated "False"
+    area 1948.0
+    solidity 0.9754631947921882
+    eccentricity 0.7388878132455464
+    diameter 49.802315539983645
+    perimeter 170.16652224137047
+    degree 1.0
+    strength 0.6980200697277886
+    betweenness 0.0
+  ]
+  node [
+    id 1866
+    label "1866"
+    idx 1866
+    row 3855
+    column 4457
+    demarcated "False"
+    area 9646.0
+    solidity 0.9891304347826086
+    eccentricity 0.6117519473148469
+    diameter 110.82269013390435
+    perimeter 373.84776310850236
+    degree 1.0
+    strength 0.7599337743958025
+    betweenness 0.0
+  ]
+  node [
+    id 1867
+    label "1867"
+    idx 1867
+    row 3840
+    column 5996
+    demarcated "False"
+    area 4209.0
+    solidity 0.9449932644813651
+    eccentricity 0.6686741432199225
+    diameter 73.20563669411189
+    perimeter 264.1076477383248
+    degree 1.0
+    strength 0.9931298323077197
+    betweenness 0.0
+  ]
+  node [
+    id 1868
+    label "1868"
+    idx 1868
+    row 3831
+    column 5480
+    demarcated "False"
+    area 4174.0
+    solidity 0.9527505135813741
+    eccentricity 0.8078364170666429
+    diameter 72.90063003654062
+    perimeter 263.5218613006978
+    degree 2.0
+    strength 1.7247902010901701
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1869
+    label "1869"
+    idx 1869
+    row 3854
+    column 10460
+    demarcated "False"
+    area 10993.0
+    solidity 0.868943166548099
+    eccentricity 0.8964595495159141
+    diameter 118.30774410525139
+    perimeter 552.0142853498728
+    degree 2.0
+    strength 1.4287715419236502
+    betweenness 0.0
+  ]
+  node [
+    id 1870
+    label "1870"
+    idx 1870
+    row 3835
+    column 6068
+    demarcated "False"
+    area 4041.0
+    solidity 0.9555450461101915
+    eccentricity 0.8474053472892548
+    diameter 71.72977763993691
+    perimeter 275.7645019878171
+    degree 2.0
+    strength 1.5801623750904334
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1871
+    label "1871"
+    idx 1871
+    row 3829
+    column 1927
+    demarcated "False"
+    area 846.0
+    solidity 0.9825783972125436
+    eccentricity 0.5793029325003357
+    diameter 32.82012575914278
+    perimeter 106.32590180780451
+    degree 1.0
+    strength 0.9501945318934083
+    betweenness 0.0
+  ]
+  node [
+    id 1872
+    label "1872"
+    idx 1872
+    row 3901
+    column 4669
+    demarcated "False"
+    area 6491.0
+    solidity 0.7034026874729086
+    eccentricity 0.9760301490963581
+    diameter 90.9098338183276
+    perimeter 476.5584412271571
+    degree 2.0
+    strength 1.7043614475305802
+    betweenness 0.0
+  ]
+  node [
+    id 1873
+    label "1873"
+    idx 1873
+    row 3838
+    column 11528
+    demarcated "False"
+    area 2810.0
+    solidity 0.9407432206226983
+    eccentricity 0.928295148107278
+    diameter 59.814739995303896
+    perimeter 243.7228714274745
+    degree 3.0
+    strength 2.767871835079663
+    betweenness 0.0
+  ]
+  node [
+    id 1874
+    label "1874"
+    idx 1874
+    row 3886
+    column 3535
+    demarcated "False"
+    area 13513.0
+    solidity 0.8713567191127161
+    eccentricity 0.6460992805376791
+    diameter 131.16892150203208
+    perimeter 575.9554108468271
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1875
+    label "1875"
+    idx 1875
+    row 4037
+    column 11273
+    demarcated "False"
+    area 176210.0
+    solidity 0.8046780100647541
+    eccentricity 0.7591710359037136
+    diameter 473.6639527954212
+    perimeter 3526.227847722968
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1876
+    label "1876"
+    idx 1876
+    row 3829
+    column 10560
+    demarcated "False"
+    area 298.0
+    solidity 0.9706840390879479
+    eccentricity 0.7134436683355151
+    diameter 19.47884453275087
+    perimeter 64.2842712474619
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1877
+    label "1877"
+    idx 1877
+    row 3891
+    column 6136
+    demarcated "False"
+    area 17022.0
+    solidity 0.915062896462746
+    eccentricity 0.8996529115232473
+    diameter 147.21780982775806
+    perimeter 687.2102448427661
+    degree 2.0
+    strength 1.163371864969331
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1878
+    label "1878"
+    idx 1878
+    row 3857
+    column 1660
+    demarcated "False"
+    area 1867.0
+    solidity 0.9623711340206186
+    eccentricity 0.8761721815984439
+    diameter 48.75590456570926
+    perimeter 183.29646455628165
+    degree 3.0
+    strength 2.6960573657730507
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1879
+    label "1879"
+    idx 1879
+    row 3876
+    column 4281
+    demarcated "False"
+    area 9795.0
+    solidity 0.9610478806907379
+    eccentricity 0.7429480222940074
+    diameter 111.6753389996239
+    perimeter 424.2741699796952
+    degree 1.0
+    strength 0.7205753296091881
+    betweenness 0.0
+  ]
+  node [
+    id 1880
+    label "1880"
+    idx 1880
+    row 3916
+    column 2954
+    demarcated "False"
+    area 10514.0
+    solidity 0.8448372840498192
+    eccentricity 0.8708203771986217
+    diameter 115.70151500021726
+    perimeter 510.0559159102154
+    degree 1.0
+    strength 0.7434627125701424
+    betweenness 0.0
+  ]
+  node [
+    id 1881
+    label "1881"
+    idx 1881
+    row 3891
+    column 3678
+    demarcated "False"
+    area 10709.0
+    solidity 0.9058534934867197
+    eccentricity 0.8795712907831027
+    diameter 116.7695263524215
+    perimeter 556.1147904132612
+    degree 1.0
+    strength 0.6980200697277886
+    betweenness 0.0
+  ]
+  node [
+    id 1882
+    label "1882"
+    idx 1882
+    row 3860
+    column 8800
+    demarcated "False"
+    area 3355.0
+    solidity 0.8615819209039548
+    eccentricity 0.8170398449287184
+    diameter 65.35838639827693
+    perimeter 270.2081528017131
+    degree 3.0
+    strength 2.519386055745243
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1883
+    label "1883"
+    idx 1883
+    row 3855
+    column 3388
+    demarcated "False"
+    area 1971.0
+    solidity 0.8918552036199096
+    eccentricity 0.7761561659740994
+    diameter 50.09546030004122
+    perimeter 190.61017305526644
+    degree 2.0
+    strength 1.4966358170681262
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1884
+    label "1884"
+    idx 1884
+    row 3896
+    column 10105
+    demarcated "False"
+    area 45532.0
+    solidity 0.824586185664095
+    eccentricity 0.981529785458191
+    diameter 240.7761262062363
+    perimeter 1509.5088014401008
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1885
+    label "1885"
+    idx 1885
+    row 3864
+    column 11445
+    demarcated "False"
+    area 3633.0
+    solidity 0.9495556717198118
+    eccentricity 0.7233932830898973
+    diameter 68.01234642344613
+    perimeter 245.62236636408616
+    degree 3.0
+    strength 2.7080617883336204
+    betweenness 0.0
+  ]
+  node [
+    id 1886
+    label "1886"
+    idx 1886
+    row 3976
+    column 5650
+    demarcated "False"
+    area 45296.0
+    solidity 0.8656499636891793
+    eccentricity 0.6737393689676506
+    diameter 240.15132399869032
+    perimeter 1079.543289325507
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1887
+    label "1887"
+    idx 1887
+    row 3989
+    column 5333
+    demarcated "False"
+    area 51877.0
+    solidity 0.8048810761329961
+    eccentricity 0.6673028784912731
+    diameter 257.0055405282657
+    perimeter 1509.2316728675755
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1888
+    label "1888"
+    idx 1888
+    row 3859
+    column 6654
+    demarcated "False"
+    area 1407.0
+    solidity 0.9656829100892245
+    eccentricity 0.6744364006849424
+    diameter 42.32550105364819
+    perimeter 142.46803743153546
+    degree 3.0
+    strength 2.859816081752058
+    betweenness 0.0
+  ]
+  node [
+    id 1889
+    label "1889"
+    idx 1889
+    row 3867
+    column 8699
+    demarcated "False"
+    area 2997.0
+    solidity 0.9517307081613211
+    eccentricity 0.8075811957136512
+    diameter 61.77296265819928
+    perimeter 218.45079348883237
+    degree 1.0
+    strength 0.9559435617634037
+    betweenness 0.0
+  ]
+  node [
+    id 1890
+    label "1890"
+    idx 1890
+    row 3903
+    column 4149
+    demarcated "False"
+    area 11203.0
+    solidity 0.8039468963042699
+    eccentricity 0.6592684333056843
+    diameter 119.43241862939907
+    perimeter 722.4884194358183
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1891
+    label "1891"
+    idx 1891
+    row 3886
+    column 5226
+    demarcated "False"
+    area 4930.0
+    solidity 0.9223573433115061
+    eccentricity 0.5068523596288116
+    diameter 79.22796826591195
+    perimeter 304.3086578651014
+    degree 2.0
+    strength 1.8650245235404355
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1892
+    label "1892"
+    idx 1892
+    row 3860
+    column 11171
+    demarcated "False"
+    area 546.0
+    solidity 0.9663716814159292
+    eccentricity 0.8004218470942878
+    diameter 26.366433043273013
+    perimeter 91.49747468305833
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1893
+    label "1893"
+    idx 1893
+    row 3911
+    column 3335
+    demarcated "False"
+    area 12812.0
+    solidity 0.8768735883923071
+    eccentricity 0.779567882174385
+    diameter 127.72135705177465
+    perimeter 584.2152954766494
+    degree 1.0
+    strength 0.6409138866959961
+    betweenness 0.0
+  ]
+  node [
+    id 1894
+    label "1894"
+    idx 1894
+    row 3883
+    column 5735
+    demarcated "False"
+    area 4679.0
+    solidity 0.9069587129288622
+    eccentricity 0.8881502874738393
+    diameter 77.18476423372573
+    perimeter 318.35028842544403
+    degree 2.0
+    strength 1.7154143226812635
+    betweenness 0.0
+  ]
+  node [
+    id 1895
+    label "1895"
+    idx 1895
+    row 3900
+    column 7572
+    demarcated "False"
+    area 10061.0
+    solidity 0.8913004961020553
+    eccentricity 0.8565098910037516
+    diameter 113.18154911283231
+    perimeter 486.3158005400378
+    degree 1.0
+    strength 0.961332811763427
+    betweenness 0.0
+  ]
+  node [
+    id 1896
+    label "1896"
+    idx 1896
+    row 3884
+    column 1757
+    demarcated "False"
+    area 2412.0
+    solidity 0.967121090617482
+    eccentricity 0.9263943646938763
+    diameter 55.41708925865028
+    perimeter 217.17871555019025
+    degree 1.0
+    strength 0.9389540951405182
+    betweenness 0.0
+  ]
+  node [
+    id 1897
+    label "1897"
+    idx 1897
+    row 3869
+    column 6838
+    demarcated "False"
+    area 528.0
+    solidity 0.974169741697417
+    eccentricity 0.7553599837201443
+    diameter 25.928179257714298
+    perimeter 88.32590180780451
+    degree 2.0
+    strength 0.7539795347468368
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1898
+    label "1898"
+    idx 1898
+    row 3882
+    column 8603
+    demarcated "False"
+    area 4095.0
+    solidity 0.9483557202408522
+    eccentricity 0.8101447054034587
+    diameter 72.20745069375107
+    perimeter 262.06601717798213
+    degree 1.0
+    strength 0.9559435617634037
+    betweenness 0.0
+  ]
+  node [
+    id 1899
+    label "1899"
+    idx 1899
+    row 3908
+    column 8324
+    demarcated "False"
+    area 6321.0
+    solidity 0.9048096192384769
+    eccentricity 0.9679177185135656
+    diameter 89.71146616944215
+    perimeter 423.48737341529164
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1900
+    label "1900"
+    idx 1900
+    row 3871
+    column 6357
+    demarcated "False"
+    area 793.0
+    solidity 0.9718137254901961
+    eccentricity 0.7712163830887057
+    diameter 31.775445850136926
+    perimeter 107.7401153701776
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1901
+    label "1901"
+    idx 1901
+    row 3889
+    column 974
+    demarcated "False"
+    area 1641.0
+    solidity 0.9647266313932981
+    eccentricity 0.92007264790518
+    diameter 45.7098030285671
+    perimeter 177.92388155425118
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1902
+    label "1902"
+    idx 1902
+    row 3901
+    column 7809
+    demarcated "False"
+    area 7122.0
+    solidity 0.7729542001302366
+    eccentricity 0.9087645923625904
+    diameter 95.22611006233441
+    perimeter 429.0437226013957
+    degree 1.0
+    strength 0.9136406179414712
+    betweenness 0.0
+  ]
+  node [
+    id 1903
+    label "1903"
+    idx 1903
+    row 3895
+    column 4617
+    demarcated "False"
+    area 3535.0
+    solidity 0.9868788386376326
+    eccentricity 0.5537837139346224
+    diameter 67.08876053884734
+    perimeter 223.27922061357856
+    degree 6.0
+    strength 5.507141619006608
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1904
+    label "1904"
+    idx 1904
+    row 3882
+    column 6688
+    demarcated "False"
+    area 1091.0
+    solidity 0.9091666666666667
+    eccentricity 0.921382802192889
+    diameter 37.2706901372387
+    perimeter 148.8528137423857
+    degree 3.0
+    strength 2.8356894539330924
+    betweenness 0.0
+  ]
+  node [
+    id 1905
+    label "1905"
+    idx 1905
+    row 3919
+    column 1602
+    demarcated "False"
+    area 2389.0
+    solidity 0.8117567108392797
+    eccentricity 0.967487258093097
+    diameter 55.152237238142064
+    perimeter 267.1370849898476
+    degree 4.0
+    strength 3.8218144879564218
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1906
+    label "1906"
+    idx 1906
+    row 3903
+    column 5157
+    demarcated "False"
+    area 2827.0
+    solidity 0.9792171804641496
+    eccentricity 0.45749186190730073
+    diameter 59.99540143182897
+    perimeter 204.55129855222071
+    degree 3.0
+    strength 2.6324371292557127
+    betweenness 8.954792179421798E-06
+  ]
+  node [
+    id 1907
+    label "1907"
+    idx 1907
+    row 3907
+    column 6613
+    demarcated "False"
+    area 4202.0
+    solidity 0.9831539541413196
+    eccentricity 0.5893725225514164
+    diameter 73.14473711058885
+    perimeter 248.93607486307093
+    degree 4.0
+    strength 3.642256110988652
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1908
+    label "1908"
+    idx 1908
+    row 3910
+    column 9750
+    demarcated "False"
+    area 10867.0
+    solidity 0.8778576621698037
+    eccentricity 0.9293124701233099
+    diameter 117.62777789551673
+    perimeter 526.8183258569795
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1909
+    label "1909"
+    idx 1909
+    row 3904
+    column 6964
+    demarcated "False"
+    area 5399.0
+    solidity 0.9654864091559371
+    eccentricity 0.8083534995695307
+    diameter 82.91091786987492
+    perimeter 312.14927829866735
+    degree 3.0
+    strength 2.6643153199538165
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 1910
+    label "1910"
+    idx 1910
+    row 3910
+    column 7055
+    demarcated "False"
+    area 4210.0
+    solidity 0.9477712742008104
+    eccentricity 0.770052309887147
+    diameter 73.21433249941596
+    perimeter 280.3086578651014
+    degree 3.0
+    strength 2.671633058212815
+    betweenness 0.0
+  ]
+  node [
+    id 1911
+    label "1911"
+    idx 1911
+    row 3917
+    column 7410
+    demarcated "False"
+    area 6143.0
+    solidity 0.9735340729001585
+    eccentricity 0.663511427419157
+    diameter 88.43930417697838
+    perimeter 310.6345596729059
+    degree 2.0
+    strength 1.7019090415365126
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1912
+    label "1912"
+    idx 1912
+    row 3904
+    column 8126
+    demarcated "False"
+    area 4993.0
+    solidity 0.9697028549232861
+    eccentricity 0.9502052905480168
+    diameter 79.73258459916289
+    perimeter 341.6639969244288
+    degree 1.0
+    strength 0.8969611884703507
+    betweenness 0.0
+  ]
+  node [
+    id 1913
+    label "1913"
+    idx 1913
+    row 3997
+    column 6262
+    demarcated "False"
+    area 33730.0
+    solidity 0.8784769246796541
+    eccentricity 0.7870751247785278
+    diameter 207.23505939854155
+    perimeter 1022.1879502661798
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1914
+    label "1914"
+    idx 1914
+    row 3918
+    column 1543
+    demarcated "False"
+    area 2536.0
+    solidity 0.7525222551928783
+    eccentricity 0.8712506299556069
+    diameter 56.82372291084396
+    perimeter 310.6761902332486
+    degree 2.0
+    strength 1.992223067248658
+    betweenness 0.0
+  ]
+  node [
+    id 1915
+    label "1915"
+    idx 1915
+    row 3914
+    column 1876
+    demarcated "False"
+    area 2091.0
+    solidity 0.9730107026523964
+    eccentricity 0.9055782170457596
+    diameter 51.597905849377504
+    perimeter 197.48023074035524
+    degree 1.0
+    strength 0.9501945318934083
+    betweenness 0.0
+  ]
+  node [
+    id 1916
+    label "1916"
+    idx 1916
+    row 3894
+    column 8847
+    demarcated "False"
+    area 1467.0
+    solidity 0.940987812700449
+    eccentricity 0.9164234105687358
+    diameter 43.21854245721949
+    perimeter 172.95331880577405
+    degree 2.0
+    strength 1.9162200194517947
+    betweenness 0.0
+  ]
+  node [
+    id 1917
+    label "1917"
+    idx 1917
+    row 4048
+    column 9589
+    demarcated "False"
+    area 122808.0
+    solidity 0.4889028667428371
+    eccentricity 0.9190360111242705
+    diameter 395.4288836312237
+    perimeter 3629.735423673793
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1918
+    label "1918"
+    idx 1918
+    row 3922
+    column 5481
+    demarcated "False"
+    area 3093.0
+    solidity 0.9288288288288288
+    eccentricity 0.8596676812625067
+    diameter 62.75452104721905
+    perimeter 238.20815280171308
+    degree 1.0
+    strength 0.9566106554733744
+    betweenness 0.0
+  ]
+  node [
+    id 1919
+    label "1919"
+    idx 1919
+    row 3901
+    column 5820
+    demarcated "False"
+    area 555.0
+    solidity 0.9503424657534246
+    eccentricity 0.7707385598895358
+    diameter 26.582850624566497
+    perimeter 95.74011537017762
+    degree 4.0
+    strength 3.5857145182020833
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1920
+    label "1920"
+    idx 1920
+    row 3927
+    column 2868
+    demarcated "False"
+    area 3290.0
+    solidity 0.9815035799522673
+    eccentricity 0.7338883993843136
+    diameter 64.72216082748385
+    perimeter 224.16652224137044
+    degree 1.0
+    strength 0.7434627125701424
+    betweenness 0.0
+  ]
+  node [
+    id 1921
+    label "1921"
+    idx 1921
+    row 3971
+    column 3779
+    demarcated "False"
+    area 13363.0
+    solidity 0.8664894306834392
+    eccentricity 0.4876332868815379
+    diameter 130.43887471262536
+    perimeter 611.4112549695428
+    degree 1.0
+    strength 0.6262510815273508
+    betweenness 0.0
+  ]
+  node [
+    id 1922
+    label "1922"
+    idx 1922
+    row 3940
+    column 10507
+    demarcated "False"
+    area 4334.0
+    solidity 0.9413553431798436
+    eccentricity 0.7175137660301617
+    diameter 74.28472377872987
+    perimeter 264.35028842544403
+    degree 3.0
+    strength 2.523207393238107
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1923
+    label "1923"
+    idx 1923
+    row 3945
+    column 5820
+    demarcated "False"
+    area 3249.0
+    solidity 0.9328165374677002
+    eccentricity 0.7296873232735348
+    diameter 64.31761252444421
+    perimeter 236.99494936611666
+    degree 3.0
+    strength 2.798376498141045
+    betweenness 0.0
+  ]
+  node [
+    id 1924
+    label "1924"
+    idx 1924
+    row 3930
+    column 11595
+    demarcated "False"
+    area 1708.0
+    solidity 0.9699034639409426
+    eccentricity 0.3918453256788645
+    diameter 46.63360529068772
+    perimeter 159.09545442950497
+    degree 1.0
+    strength 0.9872786961705686
+    betweenness 0.0
+  ]
+  node [
+    id 1925
+    label "1925"
+    idx 1925
+    row 3941
+    column 6657
+    demarcated "False"
+    area 1873.0
+    solidity 0.9826862539349422
+    eccentricity 0.793712764736757
+    diameter 48.83418543693506
+    perimeter 169.68124086713192
+    degree 4.0
+    strength 3.8009166494577085
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1926
+    label "1926"
+    idx 1926
+    row 3948
+    column 6879
+    demarcated "False"
+    area 7909.0
+    solidity 0.9255705090696313
+    eccentricity 0.852890384929606
+    diameter 100.3496465330616
+    perimeter 378.7766952966369
+    degree 2.0
+    strength 1.6408173242029418
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1927
+    label "1927"
+    idx 1927
+    row 3951
+    column 8180
+    demarcated "False"
+    area 7643.0
+    solidity 0.9851765919051302
+    eccentricity 0.8779517912143266
+    diameter 98.64770570272199
+    perimeter 362.43354954612926
+    degree 1.0
+    strength 0.8969611884703507
+    betweenness 0.0
+  ]
+  node [
+    id 1928
+    label "1928"
+    idx 1928
+    row 3925
+    column 8865
+    demarcated "False"
+    area 1693.0
+    solidity 0.9752304147465438
+    eccentricity 0.9182517838638459
+    diameter 46.42838085951986
+    perimeter 180.95331880577402
+    degree 2.0
+    strength 1.9248424843452663
+    betweenness 0.0
+  ]
+  node [
+    id 1929
+    label "1929"
+    idx 1929
+    row 3950
+    column 2751
+    demarcated "False"
+    area 3455.0
+    solidity 0.8055490790394031
+    eccentricity 0.9798237433537262
+    diameter 66.32527894445667
+    perimeter 332.19090885901
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1930
+    label "1930"
+    idx 1930
+    row 3950
+    column 5988
+    demarcated "False"
+    area 3670.0
+    solidity 0.9395801331285202
+    eccentricity 0.7265582822776199
+    diameter 68.3578022553245
+    perimeter 263.03657992645924
+    degree 1.0
+    strength 0.9170963291723259
+    betweenness 0.0
+  ]
+  node [
+    id 1931
+    label "1931"
+    idx 1931
+    row 3948
+    column 5877
+    demarcated "False"
+    area 3759.0
+    solidity 0.9771250324928515
+    eccentricity 0.5614448015336166
+    diameter 69.18169879859468
+    perimeter 235.92388155425118
+    degree 2.0
+    strength 1.8560898930052523
+    betweenness 0.0
+  ]
+  node [
+    id 1932
+    label "1932"
+    idx 1932
+    row 3929
+    column 5762
+    demarcated "False"
+    area 1316.0
+    solidity 0.9584850691915513
+    eccentricity 0.9126761200290664
+    diameter 40.933888660515436
+    perimeter 160.46803743153546
+    degree 3.0
+    strength 2.7640967948347956
+    betweenness 0.0
+  ]
+  node [
+    id 1933
+    label "1933"
+    idx 1933
+    row 3970
+    column 7618
+    demarcated "False"
+    area 9100.0
+    solidity 0.9180790960451978
+    eccentricity 0.9534185091150231
+    diameter 107.64051215546115
+    perimeter 489.3868683519033
+    degree 1.0
+    strength 0.961332811763427
+    betweenness 0.0
+  ]
+  node [
+    id 1934
+    label "1934"
+    idx 1934
+    row 3945
+    column 4530
+    demarcated "False"
+    area 1257.0
+    solidity 0.9408682634730539
+    eccentricity 0.6717222087157216
+    diameter 40.005775929634204
+    perimeter 143.53910524340094
+    degree 7.0
+    strength 6.7346662039165235
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 1935
+    label "1935"
+    idx 1935
+    row 3951
+    column 7792
+    demarcated "False"
+    area 4921.0
+    solidity 0.9731065849317777
+    eccentricity 0.7505729542428109
+    diameter 79.15561761266055
+    perimeter 282.350288425444
+    degree 1.0
+    strength 0.9136406179414712
+    betweenness 0.0
+  ]
+  node [
+    id 1936
+    label "1936"
+    idx 1936
+    row 3943
+    column 10417
+    demarcated "False"
+    area 1156.0
+    solidity 0.9475409836065574
+    eccentricity 0.7822169572944636
+    diameter 38.36489168124743
+    perimeter 139.39696961967
+    degree 5.0
+    strength 3.998919355255887
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 1937
+    label "1937"
+    idx 1937
+    row 3952
+    column 4442
+    demarcated "False"
+    area 2956.0
+    solidity 0.9211592396385166
+    eccentricity 0.9255805261849065
+    diameter 61.34896978953388
+    perimeter 250.5512985522207
+    degree 4.0
+    strength 3.5287049927885406
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 1938
+    label "1938"
+    idx 1938
+    row 3947
+    column 10367
+    demarcated "False"
+    area 2327.0
+    solidity 0.9802021903959562
+    eccentricity 0.8115296837023307
+    diameter 54.43186953062263
+    perimeter 190.61017305526642
+    degree 4.0
+    strength 3.4434333639748784
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1939
+    label "1939"
+    idx 1939
+    row 3959
+    column 10466
+    demarcated "False"
+    area 1345.0
+    solidity 0.9552556818181818
+    eccentricity 0.8614336331619092
+    diameter 41.382450237616354
+    perimeter 160.36753236814712
+    degree 4.0
+    strength 3.349258046922743
+    betweenness 0.0
+  ]
+  node [
+    id 1940
+    label "1940"
+    idx 1940
+    row 3977
+    column 7230
+    demarcated "False"
+    area 14932.0
+    solidity 0.9009291661638711
+    eccentricity 0.9428257885826601
+    diameter 137.88405593826087
+    perimeter 608.2152954766495
+    degree 2.0
+    strength 1.165289352461699
+    betweenness 0.0
+  ]
+  node [
+    id 1941
+    label "1941"
+    idx 1941
+    row 3964
+    column 11640
+    demarcated "False"
+    area 2020.0
+    solidity 0.9782082324455206
+    eccentricity 0.7167970652974112
+    diameter 50.71433604381535
+    perimeter 175.09545442950497
+    degree 2.0
+    strength 1.8776025367337907
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 1942
+    label "1942"
+    idx 1942
+    row 3952
+    column 4571
+    demarcated "False"
+    area 528.0
+    solidity 0.9103448275862069
+    eccentricity 0.8384401218825773
+    diameter 25.928179257714298
+    perimeter 94.42640687119285
+    degree 7.0
+    strength 6.659496503306376
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1943
+    label "1943"
+    idx 1943
+    row 3953
+    column 4615
+    demarcated "False"
+    area 1613.0
+    solidity 0.9793564055859137
+    eccentricity 0.8830842272242303
+    diameter 45.31815735064498
+    perimeter 164.3259018078045
+    degree 8.0
+    strength 7.650480177653148
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 1944
+    label "1944"
+    idx 1944
+    row 3944
+    column 4864
+    demarcated "False"
+    area 588.0
+    solidity 0.9483870967741935
+    eccentricity 0.9413104354231541
+    diameter 27.361740666563517
+    perimeter 112.59797974644665
+    degree 2.0
+    strength 1.7908320103036566
+    betweenness 0.0
+  ]
+  node [
+    id 1945
+    label "1945"
+    idx 1945
+    row 3959
+    column 10276
+    demarcated "False"
+    area 2251.0
+    solidity 0.9578723404255319
+    eccentricity 0.7782438905859022
+    diameter 53.53561632407767
+    perimeter 189.58073580374355
+    degree 2.0
+    strength 1.952829761561587
+    betweenness 5.372875307653079E-06
+  ]
+  node [
+    id 1946
+    label "1946"
+    idx 1946
+    row 3951
+    column 7007
+    demarcated "False"
+    area 258.0
+    solidity 0.9520295202952029
+    eccentricity 0.8350465688470793
+    diameter 18.12445316531431
+    perimeter 66.2842712474619
+    degree 4.0
+    strength 3.4888553326718776
+    betweenness 1.2984448660161608E-05
+  ]
+  node [
+    id 1947
+    label "1947"
+    idx 1947
+    row 3999
+    column 7447
+    demarcated "False"
+    area 12587.0
+    solidity 0.9579147640791477
+    eccentricity 0.9007080287977648
+    diameter 126.59488990311375
+    perimeter 488.13203435596427
+    degree 1.0
+    strength 0.7676438545913224
+    betweenness 0.0
+  ]
+  node [
+    id 1948
+    label "1948"
+    idx 1948
+    row 3970
+    column 10182
+    demarcated "False"
+    area 3349.0
+    solidity 0.9554921540656205
+    eccentricity 0.7732362220508521
+    diameter 65.29991757512455
+    perimeter 235.1370849898476
+    degree 2.0
+    strength 1.896478714847245
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 1949
+    label "1949"
+    idx 1949
+    row 3972
+    column 6544
+    demarcated "False"
+    area 3248.0
+    solidity 0.9827534039334342
+    eccentricity 0.8020540907355544
+    diameter 64.30771369983393
+    perimeter 224.99494936611663
+    degree 2.0
+    strength 1.7508451071761768
+    betweenness 1.3432188269132697E-06
+  ]
+  node [
+    id 1950
+    label "1950"
+    idx 1950
+    row 3992
+    column 7931
+    demarcated "False"
+    area 12569.0
+    solidity 0.947388256576468
+    eccentricity 0.8857085763281252
+    diameter 126.50433920532632
+    perimeter 565.7716446627535
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1951
+    label "1951"
+    idx 1951
+    row 3955
+    column 1650
+    demarcated "False"
+    area 185.0
+    solidity 0.9343434343434344
+    eccentricity 0.8546060978950553
+    diameter 15.347615963921077
+    perimeter 57.62741699796952
+    degree 3.0
+    strength 2.823356168706791
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1952
+    label "1952"
+    idx 1952
+    row 3976
+    column 6087
+    demarcated "False"
+    area 3593.0
+    solidity 0.9808899808899809
+    eccentricity 0.7350307312312937
+    diameter 67.63689587964132
+    perimeter 233.03657992645927
+    degree 2.0
+    strength 1.4452240669068739
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 1953
+    label "1953"
+    idx 1953
+    row 3975
+    column 4931
+    demarcated "False"
+    area 2337.0
+    solidity 0.9745621351125938
+    eccentricity 0.7670229897123844
+    diameter 54.54870132318528
+    perimeter 190.3086578651014
+    degree 3.0
+    strength 2.541373308180821
+    betweenness 0.0
+  ]
+  node [
+    id 1954
+    label "1954"
+    idx 1954
+    row 3963
+    column 7063
+    demarcated "False"
+    area 787.0
+    solidity 0.9258823529411765
+    eccentricity 0.8075877995975204
+    diameter 31.655007845624887
+    perimeter 112.91168824543144
+    degree 3.0
+    strength 2.716367211689095
+    betweenness 0.0
+  ]
+  node [
+    id 1955
+    label "1955"
+    idx 1955
+    row 4006
+    column 4206
+    demarcated "False"
+    area 8559.0
+    solidity 0.9436604189636163
+    eccentricity 0.8239649831954259
+    diameter 104.39184481264931
+    perimeter 435.10259710444143
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1956
+    label "1956"
+    idx 1956
+    row 3999
+    column 5152
+    demarcated "False"
+    area 5057.0
+    solidity 0.9828960155490768
+    eccentricity 0.8612553929932943
+    diameter 80.241961452383
+    perimeter 287.9482681718907
+    degree 1.0
+    strength 0.9125540192035694
+    betweenness 0.0
+  ]
+  node [
+    id 1957
+    label "1957"
+    idx 1957
+    row 3971
+    column 1636
+    demarcated "False"
+    area 764.0
+    solidity 0.9573934837092731
+    eccentricity 0.8228090635776356
+    diameter 31.18902069924069
+    perimeter 115.8111831820431
+    degree 3.0
+    strength 2.843522529250028
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1958
+    label "1958"
+    idx 1958
+    row 3990
+    column 4323
+    demarcated "False"
+    area 3618.0
+    solidity 0.9770456386713475
+    eccentricity 0.9156327382150481
+    diameter 67.87179585698185
+    perimeter 264.19090885901
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1959
+    label "1959"
+    idx 1959
+    row 3997
+    column 4844
+    demarcated "False"
+    area 4261.0
+    solidity 0.9638090929653924
+    eccentricity 0.8298393764186073
+    diameter 73.65645728730462
+    perimeter 275.66399692442883
+    degree 4.0
+    strength 3.4099821172660936
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1960
+    label "1960"
+    idx 1960
+    row 4002
+    column 10620
+    demarcated "False"
+    area 4862.0
+    solidity 0.9878098334010564
+    eccentricity 0.7294115076081018
+    diameter 78.67967124043136
+    perimeter 266.3919189857866
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1961
+    label "1961"
+    idx 1961
+    row 4008
+    column 3100
+    demarcated "False"
+    area 10448.0
+    solidity 0.9006896551724138
+    eccentricity 0.9331137737885414
+    diameter 115.33779416736294
+    perimeter 500.80108191427644
+    degree 1.0
+    strength 0.748728645836583
+    betweenness 0.0
+  ]
+  node [
+    id 1962
+    label "1962"
+    idx 1962
+    row 4006
+    column 3667
+    demarcated "False"
+    area 6179.0
+    solidity 0.8759569038843209
+    eccentricity 0.6437398744240522
+    diameter 88.6980673234686
+    perimeter 395.36248173426384
+    degree 1.0
+    strength 0.7904028857267802
+    betweenness 0.0
+  ]
+  node [
+    id 1963
+    label "1963"
+    idx 1963
+    row 3983
+    column 4606
+    demarcated "False"
+    area 1747.0
+    solidity 0.9019101703665462
+    eccentricity 0.9669015726636987
+    diameter 47.16300970731543
+    perimeter 208.36753236814712
+    degree 7.0
+    strength 6.831585686317391
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 1964
+    label "1964"
+    idx 1964
+    row 4013
+    column 4764
+    demarcated "False"
+    area 7297.0
+    solidity 0.9459424423126782
+    eccentricity 0.4263433684122126
+    diameter 96.38894624350078
+    perimeter 352.97770542341357
+    degree 1.0
+    strength 0.8828656985774015
+    betweenness 0.0
+  ]
+  node [
+    id 1965
+    label "1965"
+    idx 1965
+    row 4002
+    column 1545
+    demarcated "False"
+    area 2493.0
+    solidity 0.9151982378854625
+    eccentricity 0.909606251817341
+    diameter 56.33991644495722
+    perimeter 230.00714267493638
+    degree 2.0
+    strength 1.9297460089203886
+    betweenness 0.0
+  ]
+  node [
+    id 1966
+    label "1966"
+    idx 1966
+    row 4015
+    column 10429
+    demarcated "False"
+    area 17663.0
+    solidity 0.8017703132092601
+    eccentricity 0.9782850732335249
+    diameter 149.96409596519155
+    perimeter 800.4406922210657
+    degree 3.0
+    strength 1.5528209931599255
+    betweenness 0.0
+  ]
+  node [
+    id 1967
+    label "1967"
+    idx 1967
+    row 3996
+    column 4537
+    demarcated "False"
+    area 1754.0
+    solidity 0.936965811965812
+    eccentricity 0.8244258419689495
+    diameter 47.25740324505225
+    perimeter 176.02438661763952
+    degree 8.0
+    strength 7.777616501043828
+    betweenness 6.716094134566348E-06
+  ]
+  node [
+    id 1968
+    label "1968"
+    idx 1968
+    row 4041
+    column 5031
+    demarcated "False"
+    area 13477.0
+    solidity 0.9296406152997172
+    eccentricity 0.43585408562887074
+    diameter 130.99408133345486
+    perimeter 500.17366491630685
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1969
+    label "1969"
+    idx 1969
+    row 3993
+    column 4481
+    demarcated "False"
+    area 648.0
+    solidity 0.9788519637462235
+    eccentricity 0.7539498316437219
+    diameter 28.723844188903154
+    perimeter 98.8111831820431
+    degree 6.0
+    strength 5.700908786275732
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 1970
+    label "1970"
+    idx 1970
+    row 4010
+    column 5988
+    demarcated "False"
+    area 5779.0
+    solidity 0.9304459829335051
+    eccentricity 0.9370762084357135
+    diameter 85.77908444967517
+    perimeter 350.8355697996826
+    degree 3.0
+    strength 2.6160090306375947
+    betweenness 1.1641229833248337E-05
+  ]
+  node [
+    id 1971
+    label "1971"
+    idx 1971
+    row 4010
+    column 7085
+    demarcated "False"
+    area 4212.0
+    solidity 0.9834228344618258
+    eccentricity 0.7497606586754452
+    diameter 73.23172101230796
+    perimeter 250.10764773832477
+    degree 4.0
+    strength 3.530088560425617
+    betweenness 1.2536709051190517E-05
+  ]
+  node [
+    id 1972
+    label "1972"
+    idx 1972
+    row 4122
+    column 2757
+    demarcated "False"
+    area 55821.0
+    solidity 0.7243553975318895
+    eccentricity 0.9378532354784866
+    diameter 266.5961451834244
+    perimeter 2205.044948090672
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1973
+    label "1973"
+    idx 1973
+    row 4063
+    column 6855
+    demarcated "False"
+    area 21095.0
+    solidity 0.8856746998068687
+    eccentricity 0.6442536781502711
+    diameter 163.88712028767927
+    perimeter 800.9087296526011
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1974
+    label "1974"
+    idx 1974
+    row 4013
+    column 3264
+    demarcated "False"
+    area 4325.0
+    solidity 0.9337219343696027
+    eccentricity 0.799744605669546
+    diameter 74.20755373261929
+    perimeter 277.4802307403552
+    degree 2.0
+    strength 1.7124508289751499
+    betweenness 0.0
+  ]
+  node [
+    id 1975
+    label "1975"
+    idx 1975
+    row 4042
+    column 3380
+    demarcated "False"
+    area 7270.0
+    solidity 0.8560998586905323
+    eccentricity 0.7942158966339472
+    diameter 96.21045416286441
+    perimeter 452.1147904132612
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1976
+    label "1976"
+    idx 1976
+    row 4008
+    column 4624
+    demarcated "False"
+    area 1743.0
+    solidity 0.881638846737481
+    eccentricity 0.9712991157982465
+    diameter 47.108985623481516
+    perimeter 214.8528137423857
+    degree 5.0
+    strength 4.922551271205429
+    betweenness 0.0
+  ]
+  node [
+    id 1977
+    label "1977"
+    idx 1977
+    row 4063
+    column 1360
+    demarcated "False"
+    area 9152.0
+    solidity 0.9333061390985111
+    eccentricity 0.9456833892283544
+    diameter 107.94761837769377
+    perimeter 480.2569260369921
+    degree 1.0
+    strength 0.9005016083300158
+    betweenness 0.0
+  ]
+  node [
+    id 1978
+    label "1978"
+    idx 1978
+    row 4028
+    column 1799
+    demarcated "False"
+    area 3146.0
+    solidity 0.968
+    eccentricity 0.918002424132759
+    diameter 63.28990130926751
+    perimeter 243.80613254815975
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1979
+    label "1979"
+    idx 1979
+    row 4034
+    column 11610
+    demarcated "False"
+    area 4851.0
+    solidity 0.947090980085904
+    eccentricity 0.6396218140856079
+    diameter 78.59061668870065
+    perimeter 277.84776310850236
+    degree 1.0
+    strength 0.890323840563222
+    betweenness 0.0
+  ]
+  node [
+    id 1980
+    label "1980"
+    idx 1980
+    row 4059
+    column 4904
+    demarcated "False"
+    area 11502.0
+    solidity 0.9629133528673085
+    eccentricity 0.4056688555647223
+    diameter 121.01570659853968
+    perimeter 433.445742854949
+    degree 2.0
+    strength 1.4294878520557488
+    betweenness 0.0
+  ]
+  node [
+    id 1981
+    label "1981"
+    idx 1981
+    row 4038
+    column 3949
+    demarcated "False"
+    area 10152.0
+    solidity 0.9090257879656161
+    eccentricity 0.8602623583037706
+    diameter 113.69225065127074
+    perimeter 455.3330444827409
+    degree 2.0
+    strength 1.5784649541395548
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1982
+    label "1982"
+    idx 1982
+    row 4019
+    column 7162
+    demarcated "False"
+    area 1857.0
+    solidity 0.9537750385208013
+    eccentricity 0.8716113181955256
+    diameter 48.62515639638805
+    perimeter 192.1959594928933
+    degree 4.0
+    strength 3.480100584807279
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 1983
+    label "1983"
+    idx 1983
+    row 4016
+    column 4442
+    demarcated "False"
+    area 1095.0
+    solidity 0.9733333333333334
+    eccentricity 0.8392406658412164
+    diameter 37.338951531678056
+    perimeter 132.22539674441617
+    degree 4.0
+    strength 3.7813847222063757
+    betweenness 0.0
+  ]
+  node [
+    id 1984
+    label "1984"
+    idx 1984
+    row 4125
+    column 2103
+    demarcated "False"
+    area 23038.0
+    solidity 0.7479141642047853
+    eccentricity 0.9903227570833016
+    diameter 171.26848113885018
+    perimeter 1202.562625309263
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1985
+    label "1985"
+    idx 1985
+    row 4019
+    column 3607
+    demarcated "False"
+    area 447.0
+    solidity 0.9654427645788337
+    eccentricity 0.44490639515597064
+    diameter 23.85661494212072
+    perimeter 79.1126983722081
+    degree 1.0
+    strength 0.7904028857267802
+    betweenness 0.0
+  ]
+  node [
+    id 1986
+    label "1986"
+    idx 1986
+    row 4030
+    column 4650
+    demarcated "False"
+    area 1179.0
+    solidity 0.8524945770065075
+    eccentricity 0.898445540438118
+    diameter 38.7446696107059
+    perimeter 175.88225099390854
+    degree 3.0
+    strength 2.9364321660598347
+    betweenness 0.0
+  ]
+  node [
+    id 1987
+    label "1987"
+    idx 1987
+    row 4019
+    column 7329
+    demarcated "False"
+    area 363.0
+    solidity 0.981081081081081
+    eccentricity 0.7043283566358647
+    diameter 21.498510523728477
+    perimeter 71.25483399593904
+    degree 1.0
+    strength 0.9173221551258033
+    betweenness 0.0
+  ]
+  node [
+    id 1988
+    label "1988"
+    idx 1988
+    row 4054
+    column 6570
+    demarcated "False"
+    area 9016.0
+    solidity 0.9607843137254902
+    eccentricity 0.8560378860078057
+    diameter 107.14255800256137
+    perimeter 397.60512242138304
+    degree 2.0
+    strength 1.7084046009223646
+    betweenness 1.7909584358843596E-06
+  ]
+  node [
+    id 1989
+    label "1989"
+    idx 1989
+    row 4136
+    column 1410
+    demarcated "False"
+    area 11706.0
+    solidity 0.8192889137737962
+    eccentricity 0.9893352881023162
+    diameter 122.08415994988792
+    perimeter 737.9036790187179
+    degree 1.0
+    strength 0.9005016083300158
+    betweenness 0.0
+  ]
+  node [
+    id 1990
+    label "1990"
+    idx 1990
+    row 4185
+    column 12695
+    demarcated "False"
+    area 84770.0
+    solidity 0.8227381252790341
+    eccentricity 0.6892362806002609
+    diameter 328.53084513816924
+    perimeter 2083.492603517924
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1991
+    label "1991"
+    idx 1991
+    row 4035
+    column 3852
+    demarcated "False"
+    area 1958.0
+    solidity 0.9693069306930693
+    eccentricity 0.8352637009971704
+    diameter 49.92998125967452
+    perimeter 184.20815280171308
+    degree 2.0
+    strength 1.3407022753270883
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 1992
+    label "1992"
+    idx 1992
+    row 4053
+    column 12556
+    demarcated "False"
+    area 3030.0
+    solidity 0.9453978159126365
+    eccentricity 0.8473782017058034
+    diameter 62.11212297569246
+    perimeter 229.27922061357856
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1993
+    label "1993"
+    idx 1993
+    row 4053
+    column 10164
+    demarcated "False"
+    area 4843.0
+    solidity 0.9383840341019183
+    eccentricity 0.8213497542076073
+    diameter 78.52578630712584
+    perimeter 299.86500705120545
+    degree 1.0
+    strength 0.9405351530838414
+    betweenness 0.0
+  ]
+  node [
+    id 1994
+    label "1994"
+    idx 1994
+    row 4030
+    column 6716
+    demarcated "False"
+    area 434.0
+    solidity 0.949671772428884
+    eccentricity 0.7241200673405775
+    diameter 23.507147049675353
+    perimeter 82.42640687119285
+    degree 2.0
+    strength 1.646246037444614
+    betweenness 0.0
+  ]
+  node [
+    id 1995
+    label "1995"
+    idx 1995
+    row 4073
+    column 6387
+    demarcated "False"
+    area 8077.0
+    solidity 0.9583531086853346
+    eccentricity 0.76408014244037
+    diameter 101.40984075929667
+    perimeter 365.84776310850236
+    degree 5.0
+    strength 3.941342756885632
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 1996
+    label "1996"
+    idx 1996
+    row 4033
+    column 6673
+    demarcated "False"
+    area 432.0
+    solidity 0.9494505494505494
+    eccentricity 0.8606377688528862
+    diameter 23.452920571340155
+    perimeter 85.01219330881976
+    degree 3.0
+    strength 2.5887759009391655
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 1997
+    label "1997"
+    idx 1997
+    row 4110
+    column 1557
+    demarcated "False"
+    area 10583.0
+    solidity 0.8760036420826091
+    eccentricity 0.9722957374332716
+    diameter 116.08055005870806
+    perimeter 550.4650788387052
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 1998
+    label "1998"
+    idx 1998
+    row 4056
+    column 8938
+    demarcated "False"
+    area 5769.0
+    solidity 0.9047992471769134
+    eccentricity 0.940306485228696
+    diameter 85.7048361154559
+    perimeter 384.492424049175
+    degree 1.0
+    strength 0.8128020638060751
+    betweenness 0.0
+  ]
+  node [
+    id 1999
+    label "1999"
+    idx 1999
+    row 4067
+    column 5956
+    demarcated "False"
+    area 8223.0
+    solidity 0.9005585368524806
+    eccentricity 0.9200956649475605
+    diameter 102.32227898340246
+    perimeter 436.6345596729059
+    degree 2.0
+    strength 1.741509806776083
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 2000
+    label "2000"
+    idx 2000
+    row 4083
+    column 7547
+    demarcated "False"
+    area 11564.0
+    solidity 0.9071226859115156
+    eccentricity 0.8878100192057874
+    diameter 121.34142777846905
+    perimeter 524.5584412271571
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2001
+    label "2001"
+    idx 2001
+    row 4058
+    column 4507
+    demarcated "False"
+    area 3669.0
+    solidity 0.8155145587908424
+    eccentricity 0.9474073681445686
+    diameter 68.34848856875558
+    perimeter 331.35028842544403
+    degree 3.0
+    strength 2.707598435232661
+    betweenness 0.0
+  ]
+  node [
+    id 2002
+    label "2002"
+    idx 2002
+    row 4060
+    column 7331
+    demarcated "False"
+    area 2466.0
+    solidity 0.9856115107913669
+    eccentricity 0.7234295977648472
+    diameter 56.033996085563196
+    perimeter 188.65180361560903
+    degree 2.0
+    strength 1.6322719200928444
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2003
+    label "2003"
+    idx 2003
+    row 4046
+    column 6059
+    demarcated "False"
+    area 168.0
+    solidity 0.9491525423728814
+    eccentricity 0.754634759148622
+    diameter 14.625465582862905
+    perimeter 49.4558441227157
+    degree 3.0
+    strength 2.43967298631965
+    betweenness 1.7909584358843596E-05
+  ]
+  node [
+    id 2004
+    label "2004"
+    idx 2004
+    row 4055
+    column 8853
+    demarcated "False"
+    area 718.0
+    solidity 0.967654986522911
+    eccentricity 0.8720975215738438
+    diameter 30.23550881198871
+    perimeter 110.32590180780451
+    degree 1.0
+    strength 0.8128020638060751
+    betweenness 0.0
+  ]
+  node [
+    id 2005
+    label "2005"
+    idx 2005
+    row 4104
+    column 6650
+    demarcated "False"
+    area 11070.0
+    solidity 0.8338354926182585
+    eccentricity 0.8809090277503561
+    diameter 118.72136185294646
+    perimeter 677.8965363437813
+    degree 4.0
+    strength 2.9105655148728076
+    betweenness 5.8206149166241685E-06
+  ]
+  node [
+    id 2006
+    label "2006"
+    idx 2006
+    row 4066
+    column 7189
+    demarcated "False"
+    area 1679.0
+    solidity 0.9807242990654206
+    eccentricity 0.4983829161378026
+    diameter 46.23601621690972
+    perimeter 152.71067811865476
+    degree 3.0
+    strength 2.571230493220305
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2007
+    label "2007"
+    idx 2007
+    row 4058
+    column 3259
+    demarcated "False"
+    area 796.0
+    solidity 0.9731051344743277
+    eccentricity 0.857441305777383
+    diameter 31.83549399034338
+    perimeter 112.9116882454314
+    degree 2.0
+    strength 1.8444741905750135
+    betweenness 0.0
+  ]
+  node [
+    id 2008
+    label "2008"
+    idx 2008
+    row 4067
+    column 6461
+    demarcated "False"
+    area 991.0
+    solidity 0.9734774066797642
+    eccentricity 0.6862670544679911
+    diameter 35.52154823248202
+    perimeter 122.32590180780451
+    degree 2.0
+    strength 1.6545273884064677
+    betweenness 0.0
+  ]
+  node [
+    id 2009
+    label "2009"
+    idx 2009
+    row 4076
+    column 7002
+    demarcated "False"
+    area 2493.0
+    solidity 0.9559049079754601
+    eccentricity 0.6796505324190074
+    diameter 56.33991644495722
+    perimeter 194.3086578651014
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2010
+    label "2010"
+    idx 2010
+    row 4057
+    column 9062
+    demarcated "False"
+    area 145.0
+    solidity 0.9666666666666667
+    eccentricity 0.6678632089762313
+    diameter 13.58748446131949
+    perimeter 44.04163056034262
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2011
+    label "2011"
+    idx 2011
+    row 4172
+    column 2295
+    demarcated "False"
+    area 33600.0
+    solidity 0.7101492158769075
+    eccentricity 0.98046429820923
+    diameter 206.83531783305642
+    perimeter 1595.249962830805
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2012
+    label "2012"
+    idx 2012
+    row 4081
+    column 3125
+    demarcated "False"
+    area 3396.0
+    solidity 0.8590943587149
+    eccentricity 0.888332281655586
+    diameter 65.75653194870159
+    perimeter 272.8355697996826
+    degree 2.0
+    strength 1.5238426718661315
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2013
+    label "2013"
+    idx 2013
+    row 4078
+    column 7127
+    demarcated "False"
+    area 1728.0
+    solidity 0.9846153846153847
+    eccentricity 0.5990269061188667
+    diameter 46.90584114268031
+    perimeter 154.36753236814712
+    degree 3.0
+    strength 2.8958037515874016
+    betweenness 0.0
+  ]
+  node [
+    id 2014
+    label "2014"
+    idx 2014
+    row 4108
+    column 7400
+    demarcated "False"
+    area 10643.0
+    solidity 0.9734748010610079
+    eccentricity 0.9030159696288517
+    diameter 116.4091425731516
+    perimeter 461.58787847867995
+    degree 1.0
+    strength 0.7149497649670412
+    betweenness 0.0
+  ]
+  node [
+    id 2015
+    label "2015"
+    idx 2015
+    row 4183
+    column 5523
+    demarcated "False"
+    area 41005.0
+    solidity 0.9705095737378997
+    eccentricity 0.47978073870734633
+    diameter 228.49329865855003
+    perimeter 836.5655839020935
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2016
+    label "2016"
+    idx 2016
+    row 4109
+    column 6084
+    demarcated "False"
+    area 6334.0
+    solidity 0.9795855242808537
+    eccentricity 0.9048667803515096
+    diameter 89.80367072872089
+    perimeter 352.9604614807104
+    degree 2.0
+    strength 1.5839009426770065
+    betweenness 8.059312961479618E-06
+  ]
+  node [
+    id 2017
+    label "2017"
+    idx 2017
+    row 4126
+    column 3797
+    demarcated "False"
+    area 10516.0
+    solidity 0.9197935799877548
+    eccentricity 0.7798431333424004
+    diameter 115.71251899615258
+    perimeter 440.6589462905455
+    degree 1.0
+    strength 0.7609635389831589
+    betweenness 0.0
+  ]
+  node [
+    id 2018
+    label "2018"
+    idx 2018
+    row 4110
+    column 3725
+    demarcated "False"
+    area 3859.0
+    solidity 0.8814527181361352
+    eccentricity 0.9186425610146353
+    diameter 70.09587293937491
+    perimeter 293.4629867976521
+    degree 2.0
+    strength 1.6254738089022123
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2019
+    label "2019"
+    idx 2019
+    row 4131
+    column 10396
+    demarcated "False"
+    area 22203.0
+    solidity 0.9365983295368261
+    eccentricity 0.8552351482409485
+    diameter 168.13606874122763
+    perimeter 693.9137802864846
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2020
+    label "2020"
+    idx 2020
+    row 4107
+    column 9421
+    demarcated "False"
+    area 4918.0
+    solidity 0.9855711422845691
+    eccentricity 0.48225178455992634
+    diameter 79.13148602805036
+    perimeter 264.5512985522207
+    degree 1.0
+    strength 0.840651621617292
+    betweenness 0.0
+  ]
+  node [
+    id 2021
+    label "2021"
+    idx 2021
+    row 4083
+    column 3260
+    demarcated "False"
+    area 286.0
+    solidity 0.8666666666666667
+    eccentricity 0.6932969521467457
+    diameter 19.08262324195121
+    perimeter 75.01219330881975
+    degree 3.0
+    strength 2.77219939213368
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 2022
+    label "2022"
+    idx 2022
+    row 4105
+    column 6309
+    demarcated "False"
+    area 2089.0
+    solidity 0.9798311444652908
+    eccentricity 0.5894553875841779
+    diameter 51.57322375954168
+    perimeter 176.16652224137047
+    degree 3.0
+    strength 2.630165732617163
+    betweenness 0.0
+  ]
+  node [
+    id 2023
+    label "2023"
+    idx 2023
+    row 4140
+    column 5802
+    demarcated "False"
+    area 11160.0
+    solidity 0.8923003118253778
+    eccentricity 0.6805190442774987
+    diameter 119.20299207337212
+    perimeter 514.0731598529185
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2024
+    label "2024"
+    idx 2024
+    row 4129
+    column 3956
+    demarcated "False"
+    area 13714.0
+    solidity 0.9121990155647199
+    eccentricity 0.8747187079598705
+    diameter 132.1408608890453
+    perimeter 533.8132752230961
+    degree 1.0
+    strength 0.8640137603398171
+    betweenness 0.0
+  ]
+  node [
+    id 2025
+    label "2025"
+    idx 2025
+    row 4150
+    column 5699
+    demarcated "False"
+    area 9830.0
+    solidity 0.952242565145791
+    eccentricity 0.6490313846970093
+    diameter 111.87468312691058
+    perimeter 412.91883092036784
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2026
+    label "2026"
+    idx 2026
+    row 4114
+    column 6460
+    demarcated "False"
+    area 3374.0
+    solidity 0.9808139534883721
+    eccentricity 0.7396753302919014
+    diameter 65.54319357443944
+    perimeter 225.7228714274745
+    degree 3.0
+    strength 2.694365504326271
+    betweenness 0.0
+  ]
+  node [
+    id 2027
+    label "2027"
+    idx 2027
+    row 4141
+    column 8340
+    demarcated "False"
+    area 6884.0
+    solidity 0.9705343296207528
+    eccentricity 0.8992668842717941
+    diameter 93.62147737542311
+    perimeter 360.8183258569795
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2028
+    label "2028"
+    idx 2028
+    row 4099
+    column 9354
+    demarcated "False"
+    area 688.0
+    solidity 0.9772727272727273
+    eccentricity 0.8238159271470119
+    diameter 29.597108081327676
+    perimeter 101.49747468305833
+    degree 2.0
+    strength 1.7803766322319272
+    betweenness 4.029656480739809E-06
+  ]
+  node [
+    id 2029
+    label "2029"
+    idx 2029
+    row 4224
+    column 9966
+    demarcated "False"
+    area 72692.0
+    solidity 0.8250141868119396
+    eccentricity 0.9468645483166013
+    diameter 304.2274297066069
+    perimeter 1935.498700172334
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2030
+    label "2030"
+    idx 2030
+    row 4151
+    column 5945
+    demarcated "False"
+    area 12561.0
+    solidity 0.9099536366270646
+    eccentricity 0.846844206131064
+    diameter 126.46407363918964
+    perimeter 547.4284989122459
+    degree 1.0
+    strength 0.8369342840565476
+    betweenness 0.0
+  ]
+  node [
+    id 2031
+    label "2031"
+    idx 2031
+    row 4150
+    column 6166
+    demarcated "False"
+    area 11546.0
+    solidity 0.9041503523884103
+    eccentricity 0.8845897165126663
+    diameter 121.24695370817442
+    perimeter 583.097546470558
+    degree 2.0
+    strength 1.4302924108171793
+    betweenness 4.477396089710899E-06
+  ]
+  node [
+    id 2032
+    label "2032"
+    idx 2032
+    row 4152
+    column 3187
+    demarcated "False"
+    area 9604.0
+    solidity 0.8867959372114497
+    eccentricity 0.7549302166984826
+    diameter 110.58115837536023
+    perimeter 531.3279938488575
+    degree 1.0
+    strength 0.7751140260295485
+    betweenness 0.0
+  ]
+  node [
+    id 2033
+    label "2033"
+    idx 2033
+    row 4101
+    column 6185
+    demarcated "False"
+    area 8.0
+    solidity 1.0
+    eccentricity 1.0
+    diameter 3.1915382432114616
+    perimeter 6.0
+    degree 1.0
+    strength 0.6228425309938316
+    betweenness 0.0
+  ]
+  node [
+    id 2034
+    label "2034"
+    idx 2034
+    row 4112
+    column 3684
+    demarcated "False"
+    area 311.0
+    solidity 0.9539877300613497
+    eccentricity 0.8833253110658205
+    diameter 19.899183360445615
+    perimeter 74.42640687119284
+    degree 1.0
+    strength 0.8645102699190533
+    betweenness 0.0
+  ]
+  node [
+    id 2035
+    label "2035"
+    idx 2035
+    row 4134
+    column 5219
+    demarcated "False"
+    area 2269.0
+    solidity 0.9709028669234061
+    eccentricity 0.8786297033343552
+    diameter 53.74923745509404
+    perimeter 197.3797256769669
+    degree 1.0
+    strength 0.9344568943582194
+    betweenness 0.0
+  ]
+  node [
+    id 2036
+    label "2036"
+    idx 2036
+    row 4133
+    column 6713
+    demarcated "False"
+    area 2336.0
+    solidity 0.9725228975853455
+    eccentricity 0.7924063356248419
+    diameter 54.53702940664572
+    perimeter 193.4386001800126
+    degree 1.0
+    strength 0.6987938657011235
+    betweenness 0.0
+  ]
+  node [
+    id 2037
+    label "2037"
+    idx 2037
+    row 4166
+    column 9716
+    demarcated "False"
+    area 11684.0
+    solidity 0.90447437683852
+    eccentricity 0.9653642309587414
+    diameter 121.96938484999275
+    perimeter 642.3401871576773
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2038
+    label "2038"
+    idx 2038
+    row 4146
+    column 5277
+    demarcated "False"
+    area 3921.0
+    solidity 0.9727114859836269
+    eccentricity 0.925312667888371
+    diameter 70.65672122952333
+    perimeter 281.56349186104046
+    degree 1.0
+    strength 0.9344568943582194
+    betweenness 0.0
+  ]
+  node [
+    id 2039
+    label "2039"
+    idx 2039
+    row 4137
+    column 7265
+    demarcated "False"
+    area 2004.0
+    solidity 0.9775609756097561
+    eccentricity 0.3946315256754995
+    diameter 50.51308788471822
+    perimeter 172.16652224137047
+    degree 1.0
+    strength 0.9678241458163178
+    betweenness 0.0
+  ]
+  node [
+    id 2040
+    label "2040"
+    idx 2040
+    row 4184
+    column 8742
+    demarcated "False"
+    area 3473.0
+    solidity 0.6384191176470588
+    eccentricity 0.78872062070726
+    diameter 66.49782657249197
+    perimeter 337.2203461105329
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2041
+    label "2041"
+    idx 2041
+    row 4148
+    column 9328
+    demarcated "False"
+    area 2203.0
+    solidity 0.8861625100563154
+    eccentricity 0.6425312200846408
+    diameter 52.96174767746589
+    perimeter 210.89444430272832
+    degree 2.0
+    strength 1.9164862470975974
+    betweenness 7.163833743537438E-06
+  ]
+  node [
+    id 2042
+    label "2042"
+    idx 2042
+    row 4148
+    column 3305
+    demarcated "False"
+    area 1648.0
+    solidity 0.9677040516735174
+    eccentricity 0.41089985618396385
+    diameter 45.80719124464573
+    perimeter 159.78174593052023
+    degree 1.0
+    strength 0.9456434940798638
+    betweenness 0.0
+  ]
+  node [
+    id 2043
+    label "2043"
+    idx 2043
+    row 4171
+    column 3040
+    demarcated "False"
+    area 7530.0
+    solidity 0.825386386057218
+    eccentricity 0.7647078895337838
+    diameter 97.91574833424792
+    perimeter 403.84776310850236
+    degree 1.0
+    strength 0.8774481330141468
+    betweenness 0.0
+  ]
+  node [
+    id 2044
+    label "2044"
+    idx 2044
+    row 4174
+    column 5376
+    demarcated "False"
+    area 3432.0
+    solidity 0.9551906484831617
+    eccentricity 0.8746826480864042
+    diameter 66.10414599350845
+    perimeter 254.79393923933998
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2045
+    label "2045"
+    idx 2045
+    row 4140
+    column 6340
+    demarcated "False"
+    area 437.0
+    solidity 0.9520697167755992
+    eccentricity 0.8852786943555383
+    diameter 23.58825303088947
+    perimeter 91.42640687119285
+    degree 4.0
+    strength 2.8139721626822016
+    betweenness 2.6864376538265393E-06
+  ]
+  node [
+    id 2046
+    label "2046"
+    idx 2046
+    row 4165
+    column 6385
+    demarcated "False"
+    area 4292.0
+    solidity 0.9533540648600622
+    eccentricity 0.8943496290932161
+    diameter 73.92390767541525
+    perimeter 303.1787155501902
+    degree 5.0
+    strength 3.931926579795937
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 2047
+    label "2047"
+    idx 2047
+    row 4156
+    column 11045
+    demarcated "False"
+    area 1297.0
+    solidity 0.9324227174694465
+    eccentricity 0.8461882379030462
+    diameter 40.63731892634535
+    perimeter 148.46803743153546
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2048
+    label "2048"
+    idx 2048
+    row 4182
+    column 7175
+    demarcated "False"
+    area 8095.0
+    solidity 0.9296049609554433
+    eccentricity 0.9358206344870651
+    diameter 101.52277633433367
+    perimeter 431.9898987322333
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2049
+    label "2049"
+    idx 2049
+    row 4171
+    column 7043
+    demarcated "False"
+    area 5724.0
+    solidity 0.9581519919651824
+    eccentricity 0.888238482751881
+    diameter 85.369919491962
+    perimeter 323.5218613006979
+    degree 1.0
+    strength 0.8268979344944036
+    betweenness 0.0
+  ]
+  node [
+    id 2050
+    label "2050"
+    idx 2050
+    row 4160
+    column 7310
+    demarcated "False"
+    area 1207.0
+    solidity 0.9718196457326892
+    eccentricity 0.761329349090761
+    diameter 39.202042427599885
+    perimeter 140.12489168102786
+    degree 2.0
+    strength 1.4217596373233286
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2051
+    label "2051"
+    idx 2051
+    row 4182
+    column 2891
+    demarcated "False"
+    area 4040.0
+    solidity 0.926393029121761
+    eccentricity 0.8929481399199444
+    diameter 71.72090183991035
+    perimeter 292.5929291125633
+    degree 1.0
+    strength 0.6675690541203345
+    betweenness 0.0
+  ]
+  node [
+    id 2052
+    label "2052"
+    idx 2052
+    row 4188
+    column 8544
+    demarcated "False"
+    area 2145.0
+    solidity 0.7193158953722334
+    eccentricity 0.8944064028440925
+    diameter 52.25991602994521
+    perimeter 254.86500705120542
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2053
+    label "2053"
+    idx 2053
+    row 4221
+    column 6356
+    demarcated "False"
+    area 30191.0
+    solidity 0.7029172778282229
+    eccentricity 0.9721084954153394
+    diameter 196.0621715046003
+    perimeter 1238.7981233214462
+    degree 3.0
+    strength 0.9544948269945794
+    betweenness 3.1341772627976292E-06
+  ]
+  node [
+    id 2054
+    label "2054"
+    idx 2054
+    row 4206
+    column 7454
+    demarcated "False"
+    area 5445.0
+    solidity 0.9185222672064778
+    eccentricity 0.9221070926128543
+    diameter 83.26337322666528
+    perimeter 349.84776310850236
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2055
+    label "2055"
+    idx 2055
+    row 4243
+    column 5242
+    demarcated "False"
+    area 22203.0
+    solidity 0.8784222187054914
+    eccentricity 0.709069553510493
+    diameter 168.13606874122763
+    perimeter 727.8132752230961
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2056
+    label "2056"
+    idx 2056
+    row 4241
+    column 4298
+    demarcated "False"
+    area 27123.0
+    solidity 0.8775965831877305
+    eccentricity 0.8382112431486154
+    diameter 185.83346354155867
+    perimeter 990.6488450227787
+    degree 1.0
+    strength 0.3392335608318166
+    betweenness 0.0
+  ]
+  node [
+    id 2057
+    label "2057"
+    idx 2057
+    row 4241
+    column 4502
+    demarcated "False"
+    area 25756.0
+    solidity 0.9634173711378768
+    eccentricity 0.7814460468661312
+    diameter 181.0899161030201
+    perimeter 678.3746750430835
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2058
+    label "2058"
+    idx 2058
+    row 4196
+    column 1126
+    demarcated "False"
+    area 2681.0
+    solidity 0.9292894280762565
+    eccentricity 0.44783367111312333
+    diameter 58.42563837421865
+    perimeter 209.7228714274745
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2059
+    label "2059"
+    idx 2059
+    row 4231
+    column 1278
+    demarcated "False"
+    area 5665.0
+    solidity 0.9772296015180265
+    eccentricity 0.9447583269734564
+    diameter 84.92880560166083
+    perimeter 355.01933598375615
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2060
+    label "2060"
+    idx 2060
+    row 4181
+    column 4225
+    demarcated "False"
+    area 778.0
+    solidity 0.9712858926342073
+    eccentricity 0.6521386608060726
+    diameter 31.473486711896992
+    perimeter 114.22539674441617
+    degree 2.0
+    strength 1.1567856206867146
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2061
+    label "2061"
+    idx 2061
+    row 4238
+    column 7317
+    demarcated "False"
+    area 20454.0
+    solidity 0.9814779270633397
+    eccentricity 0.8555787191212254
+    diameter 161.37794659746115
+    perimeter 598.2569260369921
+    degree 1.0
+    strength 0.4539354915070106
+    betweenness 0.0
+  ]
+  node [
+    id 2062
+    label "2062"
+    idx 2062
+    row 4188
+    column 9282
+    demarcated "False"
+    area 1630.0
+    solidity 0.9766327142001199
+    eccentricity 0.8102153227519623
+    diameter 45.55634377250127
+    perimeter 160.0243866176395
+    degree 2.0
+    strength 1.7648323088388573
+    betweenness 9.402531788392888E-06
+  ]
+  node [
+    id 2063
+    label "2063"
+    idx 2063
+    row 4190
+    column 1849
+    demarcated "False"
+    area 916.0
+    solidity 0.9796791443850268
+    eccentricity 0.7524777801827116
+    diameter 34.15095054280933
+    perimeter 115.49747468305833
+    degree 1.0
+    strength 0.9435890926299036
+    betweenness 0.0
+  ]
+  node [
+    id 2064
+    label "2064"
+    idx 2064
+    row 4250
+    column 10630
+    demarcated "False"
+    area 30523.0
+    solidity 0.9665906643865982
+    eccentricity 0.9204055963003757
+    diameter 197.13723804484877
+    perimeter 848.6417023478424
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2065
+    label "2065"
+    idx 2065
+    row 4226
+    column 6045
+    demarcated "False"
+    area 11148.0
+    solidity 0.9197260952066661
+    eccentricity 0.8582740828564541
+    diameter 119.13888720609906
+    perimeter 488.41630560342617
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2066
+    label "2066"
+    idx 2066
+    row 4224
+    column 9229
+    demarcated "False"
+    area 7434.0
+    solidity 0.9624546866908338
+    eccentricity 0.7484352179488816
+    diameter 97.28958205050117
+    perimeter 349.5046173579948
+    degree 4.0
+    strength 3.093669699962548
+    betweenness 1.0745750615306157E-05
+  ]
+  node [
+    id 2067
+    label "2067"
+    idx 2067
+    row 4261
+    column 1423
+    demarcated "False"
+    area 6684.0
+    solidity 0.8940609951845907
+    eccentricity 0.8788685839032698
+    diameter 92.25146674720044
+    perimeter 393.3452377915607
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2068
+    label "2068"
+    idx 2068
+    row 4231
+    column 4163
+    demarcated "False"
+    area 5687.0
+    solidity 0.9704778156996587
+    eccentricity 0.8868399007357233
+    diameter 85.09355610684554
+    perimeter 314.0904037956217
+    degree 1.0
+    strength 0.817552059854898
+    betweenness 0.0
+  ]
+  node [
+    id 2069
+    label "2069"
+    idx 2069
+    row 4228
+    column 12481
+    demarcated "False"
+    area 3418.0
+    solidity 0.9614627285513362
+    eccentricity 0.3800004116370351
+    diameter 65.9691804095275
+    perimeter 231.9655121145938
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2070
+    label "2070"
+    idx 2070
+    row 4258
+    column 1035
+    demarcated "False"
+    area 10391.0
+    solidity 0.9277678571428571
+    eccentricity 0.7477510993924267
+    diameter 115.02274605200084
+    perimeter 450.333044482741
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2071
+    label "2071"
+    idx 2071
+    row 4261
+    column 4722
+    demarcated "False"
+    area 22217.0
+    solidity 0.8823973310032568
+    eccentricity 0.9121080559526885
+    diameter 168.1890691019518
+    perimeter 880.5411972844539
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2072
+    label "2072"
+    idx 2072
+    row 4253
+    column 8392
+    demarcated "False"
+    area 5638.0
+    solidity 0.8442647499251272
+    eccentricity 0.8923734318117794
+    diameter 84.7261739559674
+    perimeter 375.9898987322333
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2073
+    label "2073"
+    idx 2073
+    row 4231
+    column 10476
+    demarcated "False"
+    area 1690.0
+    solidity 0.9362880886426593
+    eccentricity 0.9076702646375021
+    diameter 46.38722701997205
+    perimeter 191.1370849898476
+    degree 1.0
+    strength 0.9349938844163983
+    betweenness 0.0
+  ]
+  node [
+    id 2074
+    label "2074"
+    idx 2074
+    row 4255
+    column 2878
+    demarcated "False"
+    area 13888.0
+    solidity 0.7688645297015999
+    eccentricity 0.8834172217180757
+    diameter 132.9765046813983
+    perimeter 717.2102448427662
+    degree 1.0
+    strength 0.6675690541203345
+    betweenness 0.0
+  ]
+  node [
+    id 2075
+    label "2075"
+    idx 2075
+    row 4219
+    column 8118
+    demarcated "False"
+    area 1648.0
+    solidity 0.915047196002221
+    eccentricity 0.9075598777382363
+    diameter 45.80719124464573
+    perimeter 183.4386001800126
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2076
+    label "2076"
+    idx 2076
+    row 4232
+    column 11459
+    demarcated "False"
+    area 2761.0
+    solidity 0.8709779179810726
+    eccentricity 0.6333173523026678
+    diameter 59.29093002318132
+    perimeter 248.10764773832477
+    degree 1.0
+    strength 0.9296759893487638
+    betweenness 0.0
+  ]
+  node [
+    id 2077
+    label "2077"
+    idx 2077
+    row 4222
+    column 6969
+    demarcated "False"
+    area 1092.0
+    solidity 0.9512195121951219
+    eccentricity 0.6166154403463857
+    diameter 37.28776720119881
+    perimeter 130.08326112068522
+    degree 2.0
+    strength 1.813407184467229
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2078
+    label "2078"
+    idx 2078
+    row 4224
+    column 6930
+    demarcated "False"
+    area 1423.0
+    solidity 0.9686861810755616
+    eccentricity 0.6044272494305104
+    diameter 42.56547746893175
+    perimeter 144.46803743153546
+    degree 1.0
+    strength 0.9865092499728254
+    betweenness 0.0
+  ]
+  node [
+    id 2079
+    label "2079"
+    idx 2079
+    row 4244
+    column 3023
+    demarcated "False"
+    area 4344.0
+    solidity 0.9879463270411645
+    eccentricity 0.5247782257059262
+    diameter 74.37037435921341
+    perimeter 247.52186130069785
+    degree 2.0
+    strength 1.7630351449788133
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2080
+    label "2080"
+    idx 2080
+    row 4258
+    column 2456
+    demarcated "False"
+    area 6044.0
+    solidity 0.9679692504804612
+    eccentricity 0.9004704240079241
+    diameter 87.72376991659287
+    perimeter 330.23253941935263
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2081
+    label "2081"
+    idx 2081
+    row 4240
+    column 11161
+    demarcated "False"
+    area 4270.0
+    solidity 0.9526996876394467
+    eccentricity 0.6702282914948712
+    diameter 73.73420411192586
+    perimeter 268.9655121145938
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2082
+    label "2082"
+    idx 2082
+    row 4246
+    column 8290
+    demarcated "False"
+    area 4433.0
+    solidity 0.924119241192412
+    eccentricity 0.9254993008721812
+    diameter 75.1283628319623
+    perimeter 298.63455967290594
+    degree 1.0
+    strength 0.8469881734690634
+    betweenness 0.0
+  ]
+  node [
+    id 2083
+    label "2083"
+    idx 2083
+    row 4267
+    column 5641
+    demarcated "False"
+    area 4234.0
+    solidity 0.8756980351602895
+    eccentricity 0.8182883732625932
+    diameter 73.42272286158202
+    perimeter 288.72896808188443
+    degree 1.0
+    strength 0.8636947262013311
+    betweenness 0.0
+  ]
+  node [
+    id 2084
+    label "2084"
+    idx 2084
+    row 4259
+    column 6713
+    demarcated "False"
+    area 13017.0
+    solidity 0.9795319437128452
+    eccentricity 0.7985153867084587
+    diameter 128.7391127583906
+    perimeter 464.14927829866735
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2085
+    label "2085"
+    idx 2085
+    row 4267
+    column 10323
+    demarcated "False"
+    area 13170.0
+    solidity 0.9245998315080034
+    eccentricity 0.885152549575674
+    diameter 129.49349328889886
+    perimeter 521.6467529817257
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2086
+    label "2086"
+    idx 2086
+    row 4270
+    column 7091
+    demarcated "False"
+    area 13425.0
+    solidity 0.8996783273019703
+    eccentricity 0.9036005914901265
+    diameter 130.74112164146962
+    perimeter 650.842712474619
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2087
+    label "2087"
+    idx 2087
+    row 4271
+    column 5019
+    demarcated "False"
+    area 11492.0
+    solidity 0.9040276903713027
+    eccentricity 0.8750020243207363
+    diameter 120.96308878371323
+    perimeter 508.5340546095176
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2088
+    label "2088"
+    idx 2088
+    row 4243
+    column 11391
+    demarcated "False"
+    area 984.0
+    solidity 0.9742574257425742
+    eccentricity 0.7483310470953671
+    diameter 35.39587139793849
+    perimeter 120.22539674441617
+    degree 1.0
+    strength 0.9296759893487638
+    betweenness 0.0
+  ]
+  node [
+    id 2089
+    label "2089"
+    idx 2089
+    row 4279
+    column 1636
+    demarcated "False"
+    area 3159.0
+    solidity 0.8215864759427829
+    eccentricity 0.8484866142500569
+    diameter 63.420530759513355
+    perimeter 291.86500705120545
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2090
+    label "2090"
+    idx 2090
+    row 4265
+    column 9071
+    demarcated "False"
+    area 3006.0
+    solidity 0.8237873389969855
+    eccentricity 0.9717323494775593
+    diameter 61.86564532496124
+    perimeter 313.3624817342638
+    degree 3.0
+    strength 2.786161971870818
+    betweenness 0.0
+  ]
+  node [
+    id 2091
+    label "2091"
+    idx 2091
+    row 4258
+    column 9159
+    demarcated "False"
+    area 1986.0
+    solidity 0.9792899408284024
+    eccentricity 0.6539584583856509
+    diameter 50.285720993578614
+    perimeter 169.19595949289334
+    degree 6.0
+    strength 5.547124411447689
+    betweenness 6.2683545255952584E-06
+  ]
+  node [
+    id 2092
+    label "2092"
+    idx 2092
+    row 4278
+    column 6587
+    demarcated "False"
+    area 5699.0
+    solidity 0.9552463962453905
+    eccentricity 0.7598321641849541
+    diameter 85.18328571642263
+    perimeter 308.6101730552664
+    degree 1.0
+    strength 0.8033187730824818
+    betweenness 0.0
+  ]
+  node [
+    id 2093
+    label "2093"
+    idx 2093
+    row 4279
+    column 1885
+    demarcated "False"
+    area 2331.0
+    solidity 0.9123287671232877
+    eccentricity 0.9566682675535383
+    diameter 54.47863231375825
+    perimeter 250.97770542341357
+    degree 2.0
+    strength 1.8879141550842928
+    betweenness 4.477396089710899E-07
+  ]
+  node [
+    id 2094
+    label "2094"
+    idx 2094
+    row 4273
+    column 2246
+    demarcated "False"
+    area 1247.0
+    solidity 0.8346720214190094
+    eccentricity 0.8774412977053798
+    diameter 39.846326208130506
+    perimeter 157.92388155425115
+    degree 1.0
+    strength 0.9880487425121537
+    betweenness 0.0
+  ]
+  node [
+    id 2095
+    label "2095"
+    idx 2095
+    row 4286
+    column 2748
+    demarcated "False"
+    area 4037.0
+    solidity 0.8751354866681118
+    eccentricity 0.8476952845755344
+    diameter 71.69426784684987
+    perimeter 305.37972567696687
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2096
+    label "2096"
+    idx 2096
+    row 4287
+    column 10476
+    demarcated "False"
+    area 3328.0
+    solidity 0.9382576825486326
+    eccentricity 0.8322888131458608
+    diameter 65.0948631220515
+    perimeter 266.2020561473032
+    degree 1.0
+    strength 0.9349938844163983
+    betweenness 0.0
+  ]
+  node [
+    id 2097
+    label "2097"
+    idx 2097
+    row 4276
+    column 2196
+    demarcated "False"
+    area 954.0
+    solidity 0.9626639757820383
+    eccentricity 0.655015844430366
+    diameter 34.8521236896311
+    perimeter 118.08326112068522
+    degree 1.0
+    strength 0.9880487425121537
+    betweenness 0.0
+  ]
+  node [
+    id 2098
+    label "2098"
+    idx 2098
+    row 4288
+    column 2975
+    demarcated "False"
+    area 1383.0
+    solidity 0.9698457223001402
+    eccentricity 0.7358558537014552
+    diameter 41.962963317296
+    perimeter 152.5685424949238
+    degree 1.0
+    strength 0.8855870119646664
+    betweenness 0.0
+  ]
+  node [
+    id 2099
+    label "2099"
+    idx 2099
+    row 4289
+    column 5886
+    demarcated "False"
+    area 2365.0
+    solidity 0.9559417946645109
+    eccentricity 0.8337040345567254
+    diameter 54.87450704378728
+    perimeter 198.5096679918781
+    degree 1.0
+    strength 0.9712456385818878
+    betweenness 0.0
+  ]
+  node [
+    id 2100
+    label "2100"
+    idx 2100
+    row 4276
+    column 8275
+    demarcated "False"
+    area 386.0
+    solidity 0.9530864197530864
+    eccentricity 0.9120149398064586
+    diameter 22.16913314200113
+    perimeter 83.35533905932738
+    degree 1.0
+    strength 0.8469881734690634
+    betweenness 0.0
+  ]
+  node [
+    id 2101
+    label "2101"
+    idx 2101
+    row 4288
+    column 9487
+    demarcated "False"
+    area 2143.0
+    solidity 0.9857405703771849
+    eccentricity 0.8815137264461225
+    diameter 52.23554675091909
+    perimeter 188.8528137423857
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2102
+    label "2102"
+    idx 2102
+    row 4293
+    column 1946
+    demarcated "False"
+    area 935.0
+    solidity 0.9560327198364008
+    eccentricity 0.9239813265957795
+    diameter 34.503318308930474
+    perimeter 143.3319984622144
+    degree 1.0
+    strength 0.9443250624543893
+    betweenness 0.0
+  ]
+  node [
+    id 2103
+    label "2103"
+    idx 2103
+    row 4281
+    column 9213
+    demarcated "False"
+    area 505.0
+    solidity 0.9637404580152672
+    eccentricity 0.9350434101503813
+    diameter 25.357168021907675
+    perimeter 101.25483399593904
+    degree 4.0
+    strength 3.672257564120297
+    betweenness 2.2386980448554494E-06
+  ]
+  node [
+    id 2104
+    label "2104"
+    idx 2104
+    row 4296
+    column 5816
+    demarcated "False"
+    area 1654.0
+    solidity 0.9735138316656857
+    eccentricity 0.9070944651608088
+    diameter 45.890502361512226
+    perimeter 194.29646455628168
+    degree 2.0
+    strength 1.9313957304264302
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 2105
+    label "2105"
+    idx 2105
+    row 4298
+    column 6259
+    demarcated "False"
+    area 1419.0
+    solidity 0.9752577319587629
+    eccentricity 0.9493403486428299
+    diameter 42.505610382385946
+    perimeter 188.81118318204312
+    degree 1.0
+    strength 0.9867521681755298
+    betweenness 0.0
+  ]
+  node [
+    id 2106
+    label "2106"
+    idx 2106
+    row 4298
+    column 7228
+    demarcated "False"
+    area 825.0
+    solidity 0.9844868735083532
+    eccentricity 0.8447830334707624
+    diameter 32.41022407214287
+    perimeter 121.0477272147525
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2107
+    label "2107"
+    idx 2107
+    row 4299
+    column 6369
+    demarcated "False"
+    area 1966.0
+    solidity 0.8466838931955211
+    eccentricity 0.9860771724515615
+    diameter 50.03187928660416
+    perimeter 271.5746391493337
+    degree 1.0
+    strength 0.3140471348257358
+    betweenness 0.0
+  ]
+  node [
+    id 2108
+    label "2108"
+    idx 2108
+    row 4299
+    column 6160
+    demarcated "False"
+    area 1094.0
+    solidity 0.9664310954063604
+    eccentricity 0.9693319427905687
+    diameter 37.32189788770486
+    perimeter 174.4619407771256
+    degree 1.0
+    strength 0.9867521681755298
+    betweenness 0.0
+  ]
+  node [
+    id 2109
+    label "2109"
+    idx 2109
+    row 4301
+    column 5725
+    demarcated "False"
+    area 663.0
+    solidity 0.9678832116788321
+    eccentricity 0.9304927672772249
+    diameter 29.054394128245264
+    perimeter 127.49747468305833
+    degree 2.0
+    strength 1.8238448180458735
+    betweenness 8.954792179421798E-07
+  ]
+  node [
+    id 2110
+    label "2110"
+    idx 2110
+    row 4300
+    column 9068
+    demarcated "False"
+    area 605.0
+    solidity 0.9773828756058158
+    eccentricity 0.9376642626918165
+    diameter 27.754457742221764
+    perimeter 115.59797974644667
+    degree 3.0
+    strength 2.8350013960585363
+    betweenness 0.0
+  ]
+  node [
+    id 2111
+    label "2111"
+    idx 2111
+    row 4300
+    column 9153
+    demarcated "False"
+    area 1000.0
+    solidity 0.9596928982725528
+    eccentricity 0.9634491499130973
+    diameter 35.682482323055424
+    perimeter 165.14823227814082
+    degree 5.0
+    strength 4.826201650045395
+    betweenness 0.0
+  ]
+  node [
+    id 2112
+    label "2112"
+    idx 2112
+    row 4301
+    column 1514
+    demarcated "False"
+    area 258.0
+    solidity 0.9591078066914498
+    eccentricity 0.7548632311639615
+    diameter 18.12445316531431
+    perimeter 63.698484809834994
+    degree 0.0
+    strength 0.0
+    betweenness 0.0
+  ]
+  node [
+    id 2113
+    label "2113"
+    idx 2113
+    row 4301
+    column 6521
+    demarcated "False"
+    area 362.0
+    solidity 0.9627659574468085
+    eccentricity 0.7685775528546128
+    diameter 21.468877828012552
+    perimeter 77.21320343559641
+    degree 1.0
+    strength 0.8033187730824818
+    betweenness 0.0
+  ]
+  node [
+    id 2114
+    label "2114"
+    idx 2114
+    row 4300
+    column 9223
+    demarcated "False"
+    area 534.0
+    solidity 0.9744525547445255
+    eccentricity 0.9270597482465505
+    diameter 26.075082298788182
+    perimeter 101.35533905932738
+    degree 4.0
+    strength 3.675440897856544
+    betweenness 0.0
+  ]
+  edge [
+    source 0
+    target 2
+    weight 0.8566705480591179
+  ]
+  edge [
+    source 3
+    target 5
+    weight 0.9050582015032256
+  ]
+  edge [
+    source 9
+    target 12
+    weight 0.9856595071035161
+  ]
+  edge [
+    source 12
+    target 20
+    weight 0.931279638606174
+  ]
+  edge [
+    source 12
+    target 21
+    weight 0.9246539043884807
+  ]
+  edge [
+    source 13
+    target 19
+    weight 0.9525368868447791
+  ]
+  edge [
+    source 15
+    target 19
+    weight 0.8809476812879765
+  ]
+  edge [
+    source 16
+    target 22
+    weight 0.8044403369569135
+  ]
+  edge [
+    source 17
+    target 22
+    weight 0.7388399323111114
+  ]
+  edge [
+    source 19
+    target 28
+    weight 0.9579462397881271
+  ]
+  edge [
+    source 20
+    target 26
+    weight 0.9606624250515013
+  ]
+  edge [
+    source 20
+    target 21
+    weight 0.9928853440545421
+  ]
+  edge [
+    source 23
+    target 27
+    weight 0.9929668334506464
+  ]
+  edge [
+    source 29
+    target 48
+    weight 0.9988106934865154
+  ]
+  edge [
+    source 29
+    target 33
+    weight 0.9707276612156627
+  ]
+  edge [
+    source 29
+    target 30
+    weight 0.8455296728220915
+  ]
+  edge [
+    source 29
+    target 67
+    weight 0.9768013186790948
+  ]
+  edge [
+    source 29
+    target 39
+    weight 0.9866711887957758
+  ]
+  edge [
+    source 29
+    target 32
+    weight 0.9802143240286306
+  ]
+  edge [
+    source 29
+    target 50
+    weight 0.974799222354579
+  ]
+  edge [
+    source 29
+    target 49
+    weight 0.9948021140712774
+  ]
+  edge [
+    source 30
+    target 49
+    weight 0.8499476035105303
+  ]
+  edge [
+    source 30
+    target 56
+    weight 0.8883896205316371
+  ]
+  edge [
+    source 30
+    target 32
+    weight 0.862596732260561
+  ]
+  edge [
+    source 30
+    target 48
+    weight 0.8445240788748596
+  ]
+  edge [
+    source 30
+    target 44
+    weight 0.8614294337994044
+  ]
+  edge [
+    source 31
+    target 44
+    weight 0.9673873833527072
+  ]
+  edge [
+    source 31
+    target 38
+    weight 0.8967035780057941
+  ]
+  edge [
+    source 32
+    target 48
+    weight 0.9790485487484525
+  ]
+  edge [
+    source 32
+    target 55
+    weight 0.9470026258832525
+  ]
+  edge [
+    source 32
+    target 49
+    weight 0.98533598809622
+  ]
+  edge [
+    source 32
+    target 50
+    weight 0.9555121608039285
+  ]
+  edge [
+    source 32
+    target 71
+    weight 0.9659989954824146
+  ]
+  edge [
+    source 32
+    target 52
+    weight 0.957513935054354
+  ]
+  edge [
+    source 32
+    target 39
+    weight 0.9671492323639768
+  ]
+  edge [
+    source 32
+    target 67
+    weight 0.957474644299304
+  ]
+  edge [
+    source 32
+    target 33
+    weight 0.9515211582544043
+  ]
+  edge [
+    source 33
+    target 41
+    weight 0.8981766349990358
+  ]
+  edge [
+    source 33
+    target 67
+    weight 0.9937820953480637
+  ]
+  edge [
+    source 33
+    target 52
+    weight 0.9937413163604669
+  ]
+  edge [
+    source 33
+    target 57
+    weight 0.9918672906883352
+  ]
+  edge [
+    source 33
+    target 50
+    weight 0.9958231797425097
+  ]
+  edge [
+    source 33
+    target 39
+    weight 0.9838410934046102
+  ]
+  edge [
+    source 33
+    target 49
+    weight 0.9656819295648079
+  ]
+  edge [
+    source 33
+    target 55
+    weight 0.9010930354503947
+  ]
+  edge [
+    source 36
+    target 38
+    weight 0.846605942210531
+  ]
+  edge [
+    source 36
+    target 46
+    weight 0.9308211710448873
+  ]
+  edge [
+    source 36
+    target 59
+    weight 0.9449064967216075
+  ]
+  edge [
+    source 38
+    target 73
+    weight 0.8388597358892207
+  ]
+  edge [
+    source 38
+    target 46
+    weight 0.909525877307001
+  ]
+  edge [
+    source 38
+    target 80
+    weight 0.8521127665343418
+  ]
+  edge [
+    source 39
+    target 50
+    weight 0.9879676567269727
+  ]
+  edge [
+    source 39
+    target 52
+    weight 0.99003742443545
+  ]
+  edge [
+    source 39
+    target 55
+    weight 0.9158928626696579
+  ]
+  edge [
+    source 39
+    target 67
+    weight 0.9899967991071807
+  ]
+  edge [
+    source 39
+    target 57
+    weight 0.9919079927737561
+  ]
+  edge [
+    source 39
+    target 49
+    weight 0.9815425845072582
+  ]
+  edge [
+    source 39
+    target 48
+    weight 0.9878460405260934
+  ]
+  edge [
+    source 39
+    target 41
+    weight 0.9129285623665808
+  ]
+  edge [
+    source 39
+    target 71
+    weight 0.9988106934865154
+  ]
+  edge [
+    source 41
+    target 57
+    weight 0.9055411378428659
+  ]
+  edge [
+    source 41
+    target 55
+    weight 0.9967634857482821
+  ]
+  edge [
+    source 41
+    target 52
+    weight 0.9038334425789677
+  ]
+  edge [
+    source 41
+    target 50
+    weight 0.9019438925204348
+  ]
+  edge [
+    source 41
+    target 68
+    weight 0.969414035899497
+  ]
+  edge [
+    source 42
+    target 75
+    weight 0.8246953104102788
+  ]
+  edge [
+    source 42
+    target 62
+    weight 0.85776099859739
+  ]
+  edge [
+    source 44
+    target 56
+    weight 0.969652744573829
+  ]
+  edge [
+    source 44
+    target 48
+    weight 0.9803752295182412
+  ]
+  edge [
+    source 44
+    target 70
+    weight 0.9865902160617227
+  ]
+  edge [
+    source 45
+    target 69
+    weight 0.9702895884452734
+  ]
+  edge [
+    source 46
+    target 59
+    weight 0.9850934185280873
+  ]
+  edge [
+    source 46
+    target 73
+    weight 0.9223044190595057
+  ]
+  edge [
+    source 46
+    target 80
+    weight 0.9368757808819551
+  ]
+  edge [
+    source 47
+    target 51
+    weight 0.8952329369036155
+  ]
+  edge [
+    source 48
+    target 49
+    weight 0.9936189894373841
+  ]
+  edge [
+    source 48
+    target 50
+    weight 0.9759599378655827
+  ]
+  edge [
+    source 48
+    target 81
+    weight 0.9809788603820587
+  ]
+  edge [
+    source 48
+    target 71
+    weight 0.9866711887957758
+  ]
+  edge [
+    source 48
+    target 83
+    weight 0.9155546723493181
+  ]
+  edge [
+    source 48
+    target 56
+    weight 0.9506235320145602
+  ]
+  edge [
+    source 48
+    target 67
+    weight 0.9779644181315349
+  ]
+  edge [
+    source 49
+    target 52
+    weight 0.9717638923392808
+  ]
+  edge [
+    source 49
+    target 50
+    weight 0.9697323271933724
+  ]
+  edge [
+    source 49
+    target 56
+    weight 0.9567284262077466
+  ]
+  edge [
+    source 49
+    target 57
+    weight 0.9735999348205593
+  ]
+  edge [
+    source 49
+    target 71
+    weight 0.9803752295182412
+  ]
+  edge [
+    source 49
+    target 55
+    weight 0.9331157681043895
+  ]
+  edge [
+    source 49
+    target 81
+    weight 0.974719223912258
+  ]
+  edge [
+    source 49
+    target 67
+    weight 0.9717240168495751
+  ]
+  edge [
+    source 50
+    target 55
+    weight 0.9048725253447009
+  ]
+  edge [
+    source 50
+    target 81
+    weight 0.9948837607830597
+  ]
+  edge [
+    source 50
+    target 67
+    weight 0.9979503546051481
+  ]
+  edge [
+    source 50
+    target 52
+    weight 0.9979094045766427
+  ]
+  edge [
+    source 50
+    target 71
+    weight 0.989144052191018
+  ]
+  edge [
+    source 50
+    target 57
+    weight 0.9960275186050627
+  ]
+  edge [
+    source 51
+    target 101
+    weight 0.9605047549541761
+  ]
+  edge [
+    source 51
+    target 99
+    weight 0.892408739681569
+  ]
+  edge [
+    source 52
+    target 55
+    weight 0.9067682108162792
+  ]
+  edge [
+    source 52
+    target 71
+    weight 0.9912162844187811
+  ]
+  edge [
+    source 52
+    target 57
+    weight 0.9981141715240389
+  ]
+  edge [
+    source 52
+    target 68
+    weight 0.9323502746071974
+  ]
+  edge [
+    source 52
+    target 67
+    weight 0.9999589658660709
+  ]
+  edge [
+    source 55
+    target 86
+    weight 0.9309739684817288
+  ]
+  edge [
+    source 55
+    target 67
+    weight 0.906731002368074
+  ]
+  edge [
+    source 55
+    target 81
+    weight 0.909525877307001
+  ]
+  edge [
+    source 55
+    target 57
+    weight 0.9084814510064697
+  ]
+  edge [
+    source 55
+    target 68
+    weight 0.9725617458506182
+  ]
+  edge [
+    source 55
+    target 71
+    weight 0.9148035853224308
+  ]
+  edge [
+    source 56
+    target 67
+    weight 0.9296759893487638
+  ]
+  edge [
+    source 56
+    target 81
+    weight 0.9325415890880107
+  ]
+  edge [
+    source 56
+    target 88
+    weight 0.9621615824453327
+  ]
+  edge [
+    source 56
+    target 83
+    weight 0.9631096238582226
+  ]
+  edge [
+    source 56
+    target 70
+    weight 0.9828323135460385
+  ]
+  edge [
+    source 57
+    target 67
+    weight 0.998073214773448
+  ]
+  edge [
+    source 57
+    target 68
+    weight 0.9341118493324012
+  ]
+  edge [
+    source 57
+    target 86
+    weight 0.8457725817355324
+  ]
+  edge [
+    source 57
+    target 71
+    weight 0.9930890800851717
+  ]
+  edge [
+    source 59
+    target 64
+    weight 0.9817439930498043
+  ]
+  edge [
+    source 59
+    target 80
+    weight 0.9510527258235282
+  ]
+  edge [
+    source 60
+    target 69
+    weight 0.7233304810287711
+  ]
+  edge [
+    source 64
+    target 116
+    weight 0.9622405502403331
+  ]
+  edge [
+    source 65
+    target 77
+    weight 0.9635049167584296
+  ]
+  edge [
+    source 66
+    target 117
+    weight 0.9176233428999051
+  ]
+  edge [
+    source 66
+    target 96
+    weight 0.9157801186849616
+  ]
+  edge [
+    source 66
+    target 112
+    weight 0.9411142538503772
+  ]
+  edge [
+    source 67
+    target 71
+    weight 0.9911756107170135
+  ]
+  edge [
+    source 67
+    target 83
+    weight 0.8953798924117089
+  ]
+  edge [
+    source 67
+    target 118
+    weight 0.9859831323330038
+  ]
+  edge [
+    source 67
+    target 81
+    weight 0.9969271078386441
+  ]
+  edge [
+    source 67
+    target 86
+    weight 0.8441429596200216
+  ]
+  edge [
+    source 68
+    target 98
+    weight 0.8208800899511484
+  ]
+  edge [
+    source 70
+    target 85
+    weight 0.9514821134077601
+  ]
+  edge [
+    source 70
+    target 88
+    weight 0.9789682015784297
+  ]
+  edge [
+    source 71
+    target 83
+    weight 0.9033514169744287
+  ]
+  edge [
+    source 71
+    target 86
+    weight 0.8516583242089372
+  ]
+  edge [
+    source 71
+    target 81
+    weight 0.9942307746710791
+  ]
+  edge [
+    source 71
+    target 118
+    weight 0.9947612932280956
+  ]
+  edge [
+    source 72
+    target 109
+    weight 0.9111321560465697
+  ]
+  edge [
+    source 72
+    target 91
+    weight 0.85899382075521
+  ]
+  edge [
+    source 73
+    target 105
+    weight 0.975159296603809
+  ]
+  edge [
+    source 73
+    target 129
+    weight 0.9804556921677178
+  ]
+  edge [
+    source 73
+    target 80
+    weight 0.9844468582497327
+  ]
+  edge [
+    source 73
+    target 85
+    weight 0.9077734162834391
+  ]
+  edge [
+    source 73
+    target 107
+    weight 0.9554337451848653
+  ]
+  edge [
+    source 75
+    target 147
+    weight 0.909078119089587
+  ]
+  edge [
+    source 76
+    target 89
+    weight 0.7867140260536037
+  ]
+  edge [
+    source 76
+    target 150
+    weight 0.7866494631208549
+  ]
+  edge [
+    source 76
+    target 142
+    weight 0.7826890089009914
+  ]
+  edge [
+    source 76
+    target 120
+    weight 0.8244922872915619
+  ]
+  edge [
+    source 76
+    target 104
+    weight 0.8106037233797053
+  ]
+  edge [
+    source 77
+    target 133
+    weight 0.9848104961715343
+  ]
+  edge [
+    source 77
+    target 91
+    weight 0.9858617604218193
+  ]
+  edge [
+    source 78
+    target 87
+    weight 0.8618183576661069
+  ]
+  edge [
+    source 78
+    target 110
+    weight 0.9494929492560635
+  ]
+  edge [
+    source 78
+    target 119
+    weight 0.8852963393450443
+  ]
+  edge [
+    source 79
+    target 112
+    weight 0.9161559859487698
+  ]
+  edge [
+    source 79
+    target 96
+    weight 0.8914937098375839
+  ]
+  edge [
+    source 79
+    target 126
+    weight 0.9085187312857664
+  ]
+  edge [
+    source 80
+    target 107
+    weight 0.9705285127158105
+  ]
+  edge [
+    source 80
+    target 129
+    weight 0.9959457780289829
+  ]
+  edge [
+    source 80
+    target 105
+    weight 0.9905657054333677
+  ]
+  edge [
+    source 80
+    target 85
+    weight 0.922115204773356
+  ]
+  edge [
+    source 81
+    target 139
+    weight 0.9935782171426971
+  ]
+  edge [
+    source 81
+    target 86
+    weight 0.8467449154333246
+  ]
+  edge [
+    source 81
+    target 137
+    weight 0.9751993130630288
+  ]
+  edge [
+    source 81
+    target 83
+    weight 0.8981397790987031
+  ]
+  edge [
+    source 81
+    target 118
+    weight 0.989022291178974
+  ]
+  edge [
+    source 81
+    target 88
+    weight 0.9692151568949128
+  ]
+  edge [
+    source 82
+    target 93
+    weight 0.7536297430466283
+  ]
+  edge [
+    source 83
+    target 160
+    weight 0.9207540073357813
+  ]
+  edge [
+    source 83
+    target 88
+    weight 0.9266670797597566
+  ]
+  edge [
+    source 83
+    target 118
+    weight 0.9081087323401646
+  ]
+  edge [
+    source 83
+    target 139
+    weight 0.8923721204618253
+  ]
+  edge [
+    source 83
+    target 115
+    weight 0.8758293552377917
+  ]
+  edge [
+    source 83
+    target 86
+    weight 0.9427763196092326
+  ]
+  edge [
+    source 85
+    target 107
+    weight 0.9501165526739852
+  ]
+  edge [
+    source 85
+    target 130
+    weight 0.9220395299283921
+  ]
+  edge [
+    source 85
+    target 105
+    weight 0.9308975666282884
+  ]
+  edge [
+    source 85
+    target 129
+    weight 0.9258688827400416
+  ]
+  edge [
+    source 86
+    target 139
+    weight 0.8413073034508866
+  ]
+  edge [
+    source 86
+    target 118
+    weight 0.8561434084806661
+  ]
+  edge [
+    source 86
+    target 137
+    weight 0.8682788267905579
+  ]
+  edge [
+    source 86
+    target 155
+    weight 0.8734247067130795
+  ]
+  edge [
+    source 86
+    target 98
+    weight 0.9066193861841061
+  ]
+  edge [
+    source 87
+    target 148
+    weight 0.8695624475021826
+  ]
+  edge [
+    source 87
+    target 110
+    weight 0.818290454143409
+  ]
+  edge [
+    source 88
+    target 115
+    weight 0.811602230986075
+  ]
+  edge [
+    source 89
+    target 104
+    weight 0.9705285127158105
+  ]
+  edge [
+    source 89
+    target 120
+    weight 0.9541799701219051
+  ]
+  edge [
+    source 89
+    target 131
+    weight 0.9815828629099174
+  ]
+  edge [
+    source 90
+    target 94
+    weight 0.8297871679751343
+  ]
+  edge [
+    source 90
+    target 143
+    weight 0.9125165733397279
+  ]
+  edge [
+    source 90
+    target 117
+    weight 0.9089662139817696
+  ]
+  edge [
+    source 91
+    target 133
+    weight 0.9989336595732903
+  ]
+  edge [
+    source 91
+    target 109
+    weight 0.9427763196092327
+  ]
+  edge [
+    source 92
+    target 174
+    weight 0.8594874456025063
+  ]
+  edge [
+    source 92
+    target 140
+    weight 0.9387999879539518
+  ]
+  edge [
+    source 92
+    target 114
+    weight 0.8764765076672997
+  ]
+  edge [
+    source 92
+    target 145
+    weight 0.9438601726506206
+  ]
+  edge [
+    source 92
+    target 97
+    weight 0.9279608579647592
+  ]
+  edge [
+    source 94
+    target 117
+    weight 0.7542485004850125
+  ]
+  edge [
+    source 94
+    target 177
+    weight 0.7787165386577241
+  ]
+  edge [
+    source 94
+    target 112
+    weight 0.7735570593795884
+  ]
+  edge [
+    source 94
+    target 143
+    weight 0.7571945431219467
+  ]
+  edge [
+    source 94
+    target 126
+    weight 0.7671085371306967
+  ]
+  edge [
+    source 95
+    target 127
+    weight 0.6571592909245823
+  ]
+  edge [
+    source 95
+    target 106
+    weight 0.6541728143771575
+  ]
+  edge [
+    source 95
+    target 111
+    weight 0.7576918497164743
+  ]
+  edge [
+    source 95
+    target 154
+    weight 0.6555970927933431
+  ]
+  edge [
+    source 95
+    target 132
+    weight 0.6455594218047026
+  ]
+  edge [
+    source 96
+    target 126
+    weight 0.9812606819629485
+  ]
+  edge [
+    source 96
+    target 117
+    weight 0.9979913063140717
+  ]
+  edge [
+    source 96
+    target 112
+    weight 0.9730807018788993
+  ]
+  edge [
+    source 96
+    target 165
+    weight 0.9959866474784671
+  ]
+  edge [
+    source 97
+    target 145
+    weight 0.8758652956116357
+  ]
+  edge [
+    source 97
+    target 116
+    weight 0.9484415464649029
+  ]
+  edge [
+    source 98
+    target 176
+    weight 0.8105371999011027
+  ]
+  edge [
+    source 98
+    target 137
+    weight 0.7871984169815114
+  ]
+  edge [
+    source 98
+    target 155
+    weight 0.7918637714782449
+  ]
+  edge [
+    source 98
+    target 162
+    weight 0.8459808449175122
+  ]
+  edge [
+    source 99
+    target 101
+    weight 0.8571628378268105
+  ]
+  edge [
+    source 99
+    target 128
+    weight 0.9877649713759721
+  ]
+  edge [
+    source 103
+    target 267
+    weight 0.05729142243364382
+  ]
+  edge [
+    source 103
+    target 204
+    weight 0.07248977143875139
+  ]
+  edge [
+    source 103
+    target 232
+    weight 0.057889311551144046
+  ]
+  edge [
+    source 104
+    target 156
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 104
+    target 131
+    weight 0.9887382404361299
+  ]
+  edge [
+    source 104
+    target 106
+    weight 0.9802143240286306
+  ]
+  edge [
+    source 104
+    target 120
+    weight 0.9831550105126148
+  ]
+  edge [
+    source 104
+    target 127
+    weight 0.9846892686087543
+  ]
+  edge [
+    source 105
+    target 129
+    weight 0.9945980266051606
+  ]
+  edge [
+    source 105
+    target 158
+    weight 0.8731380260773961
+  ]
+  edge [
+    source 105
+    target 136
+    weight 0.9816231429654337
+  ]
+  edge [
+    source 105
+    target 107
+    weight 0.979771970089767
+  ]
+  edge [
+    source 105
+    target 153
+    weight 0.9916231132470829
+  ]
+  edge [
+    source 105
+    target 130
+    weight 0.9904844130896376
+  ]
+  edge [
+    source 106
+    target 156
+    weight 0.9389540951405182
+  ]
+  edge [
+    source 106
+    target 132
+    weight 0.9868331542015305
+  ]
+  edge [
+    source 106
+    target 154
+    weight 0.9978275095606096
+  ]
+  edge [
+    source 106
+    target 131
+    weight 0.9913789959173225
+  ]
+  edge [
+    source 106
+    target 127
+    weight 0.9954554754248046
+  ]
+  edge [
+    source 107
+    target 136
+    weight 0.9617668406689521
+  ]
+  edge [
+    source 107
+    target 129
+    weight 0.9744792679743327
+  ]
+  edge [
+    source 107
+    target 134
+    weight 0.967268300528952
+  ]
+  edge [
+    source 107
+    target 153
+    weight 0.9880487425121536
+  ]
+  edge [
+    source 108
+    target 186
+    weight 0.598636123910531
+  ]
+  edge [
+    source 108
+    target 159
+    weight 0.711408671909237
+  ]
+  edge [
+    source 109
+    target 169
+    weight 0.9241986986661547
+  ]
+  edge [
+    source 109
+    target 144
+    weight 0.9049096575287817
+  ]
+  edge [
+    source 109
+    target 157
+    weight 0.8979186754538848
+  ]
+  edge [
+    source 110
+    target 170
+    weight 0.8524625025544611
+  ]
+  edge [
+    source 110
+    target 119
+    weight 0.8405826322103229
+  ]
+  edge [
+    source 110
+    target 148
+    weight 0.9410370198183553
+  ]
+  edge [
+    source 112
+    target 126
+    weight 0.9916638053124827
+  ]
+  edge [
+    source 112
+    target 117
+    weight 0.9750392570781243
+  ]
+  edge [
+    source 114
+    target 140
+    weight 0.9336136758773488
+  ]
+  edge [
+    source 114
+    target 152
+    weight 0.9497267525586887
+  ]
+  edge [
+    source 114
+    target 174
+    weight 0.9806166372787231
+  ]
+  edge [
+    source 115
+    target 191
+    weight 0.8246953104102788
+  ]
+  edge [
+    source 115
+    target 146
+    weight 0.8535826227218075
+  ]
+  edge [
+    source 115
+    target 130
+    weight 0.8033847041208336
+  ]
+  edge [
+    source 115
+    target 160
+    weight 0.8064233885775102
+  ]
+  edge [
+    source 116
+    target 134
+    weight 0.9324650585853022
+  ]
+  edge [
+    source 117
+    target 143
+    weight 0.9961092658898629
+  ]
+  edge [
+    source 117
+    target 126
+    weight 0.983235701307945
+  ]
+  edge [
+    source 118
+    target 160
+    weight 0.9862663915716142
+  ]
+  edge [
+    source 118
+    target 139
+    weight 0.9826710047839904
+  ]
+  edge [
+    source 118
+    target 137
+    weight 0.9860235929571745
+  ]
+  edge [
+    source 118
+    target 155
+    weight 0.9802143240286306
+  ]
+  edge [
+    source 119
+    target 175
+    weight 0.8460155604333252
+  ]
+  edge [
+    source 119
+    target 170
+    weight 0.98606405524168
+  ]
+  edge [
+    source 120
+    target 142
+    weight 0.9492981571387485
+  ]
+  edge [
+    source 120
+    target 156
+    weight 0.9743193301678605
+  ]
+  edge [
+    source 120
+    target 150
+    weight 0.9541016638311806
+  ]
+  edge [
+    source 120
+    target 131
+    weight 0.9720829551702075
+  ]
+  edge [
+    source 121
+    target 151
+    weight 0.8704549670812811
+  ]
+  edge [
+    source 121
+    target 149
+    weight 0.9844468582497327
+  ]
+  edge [
+    source 122
+    target 229
+    weight 0.16090209655521537
+  ]
+  edge [
+    source 125
+    target 187
+    weight 0.7661333308452687
+  ]
+  edge [
+    source 126
+    target 181
+    weight 0.9700109178017197
+  ]
+  edge [
+    source 126
+    target 165
+    weight 0.9773225369307115
+  ]
+  edge [
+    source 126
+    target 177
+    weight 0.9850934185280872
+  ]
+  edge [
+    source 126
+    target 168
+    weight 0.9847700853257396
+  ]
+  edge [
+    source 127
+    target 154
+    weight 0.9976228014230138
+  ]
+  edge [
+    source 127
+    target 131
+    weight 0.9959049102565412
+  ]
+  edge [
+    source 127
+    target 156
+    weight 0.9432406755709745
+  ]
+  edge [
+    source 127
+    target 132
+    weight 0.982348466680644
+  ]
+  edge [
+    source 129
+    target 158
+    weight 0.8684213576905034
+  ]
+  edge [
+    source 129
+    target 130
+    weight 0.995864044161073
+  ]
+  edge [
+    source 129
+    target 190
+    weight 0.9864687694201397
+  ]
+  edge [
+    source 129
+    target 136
+    weight 0.9869546457034369
+  ]
+  edge [
+    source 129
+    target 194
+    weight 0.9699711142438059
+  ]
+  edge [
+    source 129
+    target 153
+    weight 0.9862663915716142
+  ]
+  edge [
+    source 130
+    target 146
+    weight 0.9411914942212525
+  ]
+  edge [
+    source 130
+    target 158
+    weight 0.8648296053055144
+  ]
+  edge [
+    source 130
+    target 153
+    weight 0.9821872373306562
+  ]
+  edge [
+    source 130
+    target 194
+    weight 0.973999533300673
+  ]
+  edge [
+    source 131
+    target 156
+    weight 0.947119213749031
+  ]
+  edge [
+    source 131
+    target 154
+    weight 0.9935374465210658
+  ]
+  edge [
+    source 132
+    target 154
+    weight 0.9846892686087543
+  ]
+  edge [
+    source 132
+    target 156
+    weight 0.9265910313579616
+  ]
+  edge [
+    source 133
+    target 152
+    weight 0.9795709661152886
+  ]
+  edge [
+    source 134
+    target 180
+    weight 0.9582607658181141
+  ]
+  edge [
+    source 134
+    target 136
+    weight 0.9302865774789566
+  ]
+  edge [
+    source 135
+    target 173
+    weight 0.9321972512821405
+  ]
+  edge [
+    source 136
+    target 180
+    weight 0.9708073320571832
+  ]
+  edge [
+    source 136
+    target 193
+    weight 0.9750792686114241
+  ]
+  edge [
+    source 136
+    target 153
+    weight 0.9734001970627697
+  ]
+  edge [
+    source 136
+    target 190
+    weight 0.999507701508461
+  ]
+  edge [
+    source 137
+    target 162
+    weight 0.9305156514013831
+  ]
+  edge [
+    source 137
+    target 155
+    weight 0.9941083874969753
+  ]
+  edge [
+    source 137
+    target 160
+    weight 0.9997538204520455
+  ]
+  edge [
+    source 137
+    target 139
+    weight 0.9689367948319471
+  ]
+  edge [
+    source 138
+    target 166
+    weight 0.680988078469401
+  ]
+  edge [
+    source 139
+    target 160
+    weight 0.9691753859903587
+  ]
+  edge [
+    source 139
+    target 155
+    weight 0.9632281946968744
+  ]
+  edge [
+    source 140
+    target 145
+    weight 0.8860959187146175
+  ]
+  edge [
+    source 140
+    target 183
+    weight 0.965840449512819
+  ]
+  edge [
+    source 140
+    target 174
+    weight 0.9155171033562735
+  ]
+  edge [
+    source 140
+    target 152
+    weight 0.9830339867357331
+  ]
+  edge [
+    source 141
+    target 167
+    weight 0.9507015528434608
+  ]
+  edge [
+    source 142
+    target 150
+    weight 0.9949654141958588
+  ]
+  edge [
+    source 143
+    target 184
+    weight 0.9683405738754414
+  ]
+  edge [
+    source 144
+    target 169
+    weight 0.9791289025128342
+  ]
+  edge [
+    source 144
+    target 163
+    weight 0.8776281817990081
+  ]
+  edge [
+    source 144
+    target 157
+    weight 0.9922743867117204
+  ]
+  edge [
+    source 145
+    target 198
+    weight 0.8541432346162138
+  ]
+  edge [
+    source 145
+    target 183
+    weight 0.8558272804428005
+  ]
+  edge [
+    source 145
+    target 209
+    weight 0.8562136750121981
+  ]
+  edge [
+    source 145
+    target 174
+    weight 0.8112359687974225
+  ]
+  edge [
+    source 146
+    target 158
+    weight 0.9188667881248541
+  ]
+  edge [
+    source 146
+    target 208
+    weight 0.965087711441607
+  ]
+  edge [
+    source 146
+    target 194
+    weight 0.9167200761180629
+  ]
+  edge [
+    source 146
+    target 191
+    weight 0.9661575674778663
+  ]
+  edge [
+    source 146
+    target 206
+    weight 0.9533580745079804
+  ]
+  edge [
+    source 149
+    target 151
+    weight 0.8842071664781176
+  ]
+  edge [
+    source 149
+    target 179
+    weight 0.9718436482277295
+  ]
+  edge [
+    source 149
+    target 203
+    weight 0.973999533300673
+  ]
+  edge [
+    source 151
+    target 179
+    weight 0.8593111184591972
+  ]
+  edge [
+    source 151
+    target 203
+    weight 0.861217367490797
+  ]
+  edge [
+    source 153
+    target 158
+    weight 0.8805139920733536
+  ]
+  edge [
+    source 153
+    target 190
+    weight 0.972920993614092
+  ]
+  edge [
+    source 153
+    target 180
+    weight 0.9973362805828369
+  ]
+  edge [
+    source 153
+    target 194
+    weight 0.9566499107739365
+  ]
+  edge [
+    source 153
+    target 193
+    weight 0.9982780153340297
+  ]
+  edge [
+    source 154
+    target 201
+    weight 0.9432406755709745
+  ]
+  edge [
+    source 154
+    target 156
+    weight 0.9409984051792517
+  ]
+  edge [
+    source 155
+    target 160
+    weight 0.9938636583435235
+  ]
+  edge [
+    source 155
+    target 162
+    weight 0.9360303796895733
+  ]
+  edge [
+    source 156
+    target 192
+    weight 0.9564536503785381
+  ]
+  edge [
+    source 156
+    target 201
+    weight 0.9976228014230138
+  ]
+  edge [
+    source 157
+    target 163
+    weight 0.8708479658555331
+  ]
+  edge [
+    source 157
+    target 169
+    weight 0.9715645312526425
+  ]
+  edge [
+    source 158
+    target 190
+    weight 0.8566705480591179
+  ]
+  edge [
+    source 158
+    target 206
+    weight 0.8760090718560434
+  ]
+  edge [
+    source 158
+    target 207
+    weight 0.8566002440335755
+  ]
+  edge [
+    source 158
+    target 208
+    weight 0.8867870456711154
+  ]
+  edge [
+    source 158
+    target 194
+    weight 0.8423436319521763
+  ]
+  edge [
+    source 159
+    target 197
+    weight 0.8651845607481738
+  ]
+  edge [
+    source 159
+    target 186
+    weight 0.8414799362846483
+  ]
+  edge [
+    source 159
+    target 236
+    weight 0.8764405422128984
+  ]
+  edge [
+    source 160
+    target 178
+    weight 0.6252239967655989
+  ]
+  edge [
+    source 160
+    target 191
+    weight 0.9778440333028225
+  ]
+  edge [
+    source 162
+    target 211
+    weight 0.900316866974043
+  ]
+  edge [
+    source 162
+    target 196
+    weight 0.9764406381188059
+  ]
+  edge [
+    source 162
+    target 176
+    weight 0.9581034898965526
+  ]
+  edge [
+    source 163
+    target 169
+    weight 0.8963356913953465
+  ]
+  edge [
+    source 163
+    target 226
+    weight 0.9338435690650413
+  ]
+  edge [
+    source 165
+    target 181
+    weight 0.9925187245226597
+  ]
+  edge [
+    source 165
+    target 168
+    weight 0.9924372719013245
+  ]
+  edge [
+    source 165
+    target 177
+    weight 0.9627539989096173
+  ]
+  edge [
+    source 165
+    target 185
+    weight 0.7995696341556866
+  ]
+  edge [
+    source 166
+    target 212
+    weight 0.7217886704471881
+  ]
+  edge [
+    source 168
+    target 181
+    weight 0.9850125752762505
+  ]
+  edge [
+    source 168
+    target 185
+    weight 0.8056626416537748
+  ]
+  edge [
+    source 169
+    target 226
+    weight 0.9598349456887652
+  ]
+  edge [
+    source 174
+    target 183
+    weight 0.9478968330825974
+  ]
+  edge [
+    source 174
+    target 209
+    weight 0.9474690634739805
+  ]
+  edge [
+    source 176
+    target 211
+    weight 0.862596732260561
+  ]
+  edge [
+    source 176
+    target 196
+    weight 0.9812204167807054
+  ]
+  edge [
+    source 177
+    target 215
+    weight 0.9580641749496303
+  ]
+  edge [
+    source 177
+    target 181
+    weight 0.9555513710268634
+  ]
+  edge [
+    source 178
+    target 266
+    weight 0.6165868098877209
+  ]
+  edge [
+    source 178
+    target 191
+    weight 0.6393903071165719
+  ]
+  edge [
+    source 178
+    target 276
+    weight 0.6394690240591322
+  ]
+  edge [
+    source 179
+    target 203
+    weight 0.9977865645729442
+  ]
+  edge [
+    source 180
+    target 193
+    weight 0.9956188828008574
+  ]
+  edge [
+    source 180
+    target 253
+    weight 0.9527323435362453
+  ]
+  edge [
+    source 180
+    target 202
+    weight 0.968897035349739
+  ]
+  edge [
+    source 180
+    target 189
+    weight 0.9355695733456174
+  ]
+  edge [
+    source 180
+    target 227
+    weight 0.9860640552416801
+  ]
+  edge [
+    source 181
+    target 185
+    weight 0.7935878334592517
+  ]
+  edge [
+    source 182
+    target 307
+    weight 0.13054563800265828
+  ]
+  edge [
+    source 182
+    target 261
+    weight 0.1349023067543773
+  ]
+  edge [
+    source 183
+    target 209
+    weight 0.9995487171243882
+  ]
+  edge [
+    source 183
+    target 254
+    weight 0.966276513556493
+  ]
+  edge [
+    source 183
+    target 198
+    weight 0.998032259703482
+  ]
+  edge [
+    source 185
+    target 249
+    weight 0.8139702684642731
+  ]
+  edge [
+    source 186
+    target 237
+    weight 0.9869141468743231
+  ]
+  edge [
+    source 187
+    target 258
+    weight 0.8038133877874605
+  ]
+  edge [
+    source 187
+    target 218
+    weight 0.8899220526602268
+  ]
+  edge [
+    source 188
+    target 249
+    weight 0.3731774799487591
+  ]
+  edge [
+    source 188
+    target 298
+    weight 0.36180802455312644
+  ]
+  edge [
+    source 189
+    target 285
+    weight 0.8996151954067902
+  ]
+  edge [
+    source 189
+    target 278
+    weight 0.9315471822919781
+  ]
+  edge [
+    source 189
+    target 253
+    weight 0.8913473921547751
+  ]
+  edge [
+    source 189
+    target 198
+    weight 0.936068790461688
+  ]
+  edge [
+    source 189
+    target 244
+    weight 0.9653649677164565
+  ]
+  edge [
+    source 189
+    target 202
+    weight 0.9064705859779889
+  ]
+  edge [
+    source 190
+    target 194
+    weight 0.9832760491890368
+  ]
+  edge [
+    source 190
+    target 247
+    weight 0.9776033081007341
+  ]
+  edge [
+    source 190
+    target 231
+    weight 0.9819857378548471
+  ]
+  edge [
+    source 190
+    target 193
+    weight 0.9745992385583558
+  ]
+  edge [
+    source 190
+    target 206
+    weight 0.9779242882086233
+  ]
+  edge [
+    source 190
+    target 227
+    weight 0.984042973591825
+  ]
+  edge [
+    source 190
+    target 234
+    weight 0.9800132293035464
+  ]
+  edge [
+    source 190
+    target 207
+    weight 0.9999179334159418
+  ]
+  edge [
+    source 191
+    target 206
+    weight 0.9867521681755299
+  ]
+  edge [
+    source 191
+    target 239
+    weight 0.989022291178974
+  ]
+  edge [
+    source 191
+    target 266
+    weight 0.9643355600248512
+  ]
+  edge [
+    source 191
+    target 208
+    weight 0.9988926691957171
+  ]
+  edge [
+    source 192
+    target 241
+    weight 0.9362608679668167
+  ]
+  edge [
+    source 192
+    target 251
+    weight 0.8886448425118608
+  ]
+  edge [
+    source 192
+    target 201
+    weight 0.9541799701219051
+  ]
+  edge [
+    source 192
+    target 225
+    weight 0.9644542817915758
+  ]
+  edge [
+    source 192
+    target 205
+    weight 0.9451779552141947
+  ]
+  edge [
+    source 192
+    target 219
+    weight 0.9195457410176442
+  ]
+  edge [
+    source 193
+    target 234
+    weight 0.9944755942233167
+  ]
+  edge [
+    source 193
+    target 227
+    weight 0.9904031274172925
+  ]
+  edge [
+    source 193
+    target 253
+    weight 0.9569247429860265
+  ]
+  edge [
+    source 193
+    target 207
+    weight 0.9745192565280216
+  ]
+  edge [
+    source 193
+    target 202
+    weight 0.9731605658422781
+  ]
+  edge [
+    source 193
+    target 194
+    weight 0.9583000888323037
+  ]
+  edge [
+    source 194
+    target 247
+    weight 0.9612539184634226
+  ]
+  edge [
+    source 194
+    target 206
+    weight 0.9615695305157761
+  ]
+  edge [
+    source 194
+    target 207
+    weight 0.9833567499184132
+  ]
+  edge [
+    source 194
+    target 227
+    weight 0.9675858873056014
+  ]
+  edge [
+    source 194
+    target 208
+    weight 0.9498826534105439
+  ]
+  edge [
+    source 194
+    target 231
+    weight 0.9655630566778952
+  ]
+  edge [
+    source 195
+    target 250
+    weight 0.999712796419881
+  ]
+  edge [
+    source 195
+    target 199
+    weight 0.8058610281574007
+  ]
+  edge [
+    source 196
+    target 211
+    weight 0.8791059760972586
+  ]
+  edge [
+    source 196
+    target 282
+    weight 0.9762803783996478
+  ]
+  edge [
+    source 197
+    target 236
+    weight 0.9871571647789084
+  ]
+  edge [
+    source 197
+    target 235
+    weight 0.9837603529268185
+  ]
+  edge [
+    source 197
+    target 245
+    weight 0.8104706818818549
+  ]
+  edge [
+    source 198
+    target 278
+    weight 0.9951695770484135
+  ]
+  edge [
+    source 198
+    target 246
+    weight 0.8770161666218603
+  ]
+  edge [
+    source 198
+    target 244
+    weight 0.969652744573829
+  ]
+  edge [
+    source 198
+    target 209
+    weight 0.9975818648353696
+  ]
+  edge [
+    source 199
+    target 260
+    weight 0.8727081815442529
+  ]
+  edge [
+    source 199
+    target 250
+    weight 0.8056295819850354
+  ]
+  edge [
+    source 199
+    target 284
+    weight 0.7933599121923433
+  ]
+  edge [
+    source 199
+    target 249
+    weight 0.8044403369569135
+  ]
+  edge [
+    source 200
+    target 252
+    weight 0.9472358159682337
+  ]
+  edge [
+    source 201
+    target 214
+    weight 0.9263249110964494
+  ]
+  edge [
+    source 201
+    target 251
+    weight 0.9313178544277432
+  ]
+  edge [
+    source 201
+    target 225
+    weight 0.9893470205237878
+  ]
+  edge [
+    source 202
+    target 244
+    weight 0.9389926258896875
+  ]
+  edge [
+    source 202
+    target 253
+    weight 0.9833163987258369
+  ]
+  edge [
+    source 202
+    target 227
+    weight 0.9825903603313748
+  ]
+  edge [
+    source 203
+    target 217
+    weight 0.5713706985370385
+  ]
+  edge [
+    source 204
+    target 232
+    weight 0.7985859301550746
+  ]
+  edge [
+    source 204
+    target 267
+    weight 0.7903380200619189
+  ]
+  edge [
+    source 205
+    target 262
+    weight 0.9373372305866362
+  ]
+  edge [
+    source 205
+    target 219
+    weight 0.9728810706437375
+  ]
+  edge [
+    source 205
+    target 241
+    weight 0.8849331327319429
+  ]
+  edge [
+    source 206
+    target 231
+    weight 0.9958640441610729
+  ]
+  edge [
+    source 206
+    target 271
+    weight 0.9675461832567137
+  ]
+  edge [
+    source 206
+    target 239
+    weight 0.9759198901947828
+  ]
+  edge [
+    source 206
+    target 247
+    weight 0.9996717740711021
+  ]
+  edge [
+    source 206
+    target 208
+    weight 0.9878460405260934
+  ]
+  edge [
+    source 206
+    target 207
+    weight 0.9778440333028225
+  ]
+  edge [
+    source 207
+    target 234
+    weight 0.9799328029654857
+  ]
+  edge [
+    source 207
+    target 231
+    weight 0.9819051496397476
+  ]
+  edge [
+    source 207
+    target 247
+    weight 0.9775230795366744
+  ]
+  edge [
+    source 207
+    target 208
+    weight 0.9659593565502586
+  ]
+  edge [
+    source 207
+    target 227
+    weight 0.9839622165464159
+  ]
+  edge [
+    source 207
+    target 270
+    weight 0.9425055508749894
+  ]
+  edge [
+    source 208
+    target 266
+    weight 0.9654045822573807
+  ]
+  edge [
+    source 208
+    target 239
+    weight 0.987927116329829
+  ]
+  edge [
+    source 208
+    target 231
+    weight 0.9837603529268185
+  ]
+  edge [
+    source 208
+    target 271
+    weight 0.9557866661562786
+  ]
+  edge [
+    source 209
+    target 254
+    weight 0.9658404495128191
+  ]
+  edge [
+    source 209
+    target 277
+    weight 0.9799730153094428
+  ]
+  edge [
+    source 209
+    target 246
+    weight 0.8791420509299193
+  ]
+  edge [
+    source 209
+    target 244
+    weight 0.9720031796426555
+  ]
+  edge [
+    source 210
+    target 269
+    weight 0.9643355600248512
+  ]
+  edge [
+    source 210
+    target 228
+    weight 0.9208673636683703
+  ]
+  edge [
+    source 211
+    target 282
+    weight 0.8582539149976234
+  ]
+  edge [
+    source 211
+    target 299
+    weight 0.8263552048926808
+  ]
+  edge [
+    source 212
+    target 261
+    weight 0.961687911749678
+  ]
+  edge [
+    source 213
+    target 223
+    weight 0.8621013216732173
+  ]
+  edge [
+    source 214
+    target 251
+    weight 0.8627029287053153
+  ]
+  edge [
+    source 214
+    target 220
+    weight 0.8856960388003521
+  ]
+  edge [
+    source 214
+    target 225
+    weight 0.9362992881972063
+  ]
+  edge [
+    source 215
+    target 256
+    weight 0.8954533792117241
+  ]
+  edge [
+    source 216
+    target 220
+    weight 0.9842852844982211
+  ]
+  edge [
+    source 216
+    target 273
+    weight 0.9786870384061137
+  ]
+  edge [
+    source 217
+    target 275
+    weight 0.5938894290236525
+  ]
+  edge [
+    source 217
+    target 310
+    weight 0.6269453173898974
+  ]
+  edge [
+    source 218
+    target 281
+    weight 0.9686585127155622
+  ]
+  edge [
+    source 218
+    target 224
+    weight 0.9086305813028681
+  ]
+  edge [
+    source 218
+    target 258
+    weight 0.9032402168084684
+  ]
+  edge [
+    source 219
+    target 262
+    weight 0.963465380168634
+  ]
+  edge [
+    source 219
+    target 297
+    weight 0.958142806456796
+  ]
+  edge [
+    source 219
+    target 241
+    weight 0.8609346936203692
+  ]
+  edge [
+    source 220
+    target 273
+    weight 0.9943123744911403
+  ]
+  edge [
+    source 225
+    target 241
+    weight 0.9029808029844935
+  ]
+  edge [
+    source 225
+    target 321
+    weight 0.9285703196392011
+  ]
+  edge [
+    source 225
+    target 251
+    weight 0.9213965444386945
+  ]
+  edge [
+    source 225
+    target 291
+    weight 0.9791690818680789
+  ]
+  edge [
+    source 226
+    target 230
+    weight 0.7464278834498093
+  ]
+  edge [
+    source 226
+    target 288
+    weight 0.9473913079244405
+  ]
+  edge [
+    source 227
+    target 289
+    weight 0.9274279071472069
+  ]
+  edge [
+    source 227
+    target 253
+    weight 0.9661972145437698
+  ]
+  edge [
+    source 227
+    target 247
+    weight 0.993455910296696
+  ]
+  edge [
+    source 227
+    target 234
+    weight 0.9959049102565412
+  ]
+  edge [
+    source 227
+    target 270
+    weight 0.9578676244125164
+  ]
+  edge [
+    source 228
+    target 269
+    weight 0.8880251448517461
+  ]
+  edge [
+    source 229
+    target 230
+    weight 0.6959893595781802
+  ]
+  edge [
+    source 229
+    target 263
+    weight 0.9567284262077466
+  ]
+  edge [
+    source 230
+    target 263
+    weight 0.7274680468489092
+  ]
+  edge [
+    source 231
+    target 271
+    weight 0.9715645312526425
+  ]
+  edge [
+    source 231
+    target 247
+    weight 0.9955371757601221
+  ]
+  edge [
+    source 231
+    target 270
+    weight 0.9598743333007129
+  ]
+  edge [
+    source 231
+    target 239
+    weight 0.9718835286266067
+  ]
+  edge [
+    source 231
+    target 290
+    weight 0.9362224493129679
+  ]
+  edge [
+    source 232
+    target 313
+    weight 0.8922256586086139
+  ]
+  edge [
+    source 232
+    target 267
+    weight 0.9896718564881878
+  ]
+  edge [
+    source 233
+    target 243
+    weight 0.9508966329318613
+  ]
+  edge [
+    source 233
+    target 287
+    weight 0.9192062018844149
+  ]
+  edge [
+    source 233
+    target 272
+    weight 0.9757997570420425
+  ]
+  edge [
+    source 234
+    target 289
+    weight 0.9312414243527579
+  ]
+  edge [
+    source 234
+    target 253
+    weight 0.9622405502403332
+  ]
+  edge [
+    source 234
+    target 247
+    weight 0.9975409299275226
+  ]
+  edge [
+    source 234
+    target 270
+    weight 0.9618063075577903
+  ]
+  edge [
+    source 235
+    target 236
+    weight 0.9711260808171364
+  ]
+  edge [
+    source 235
+    target 316
+    weight 0.9739196004861008
+  ]
+  edge [
+    source 235
+    target 243
+    weight 0.9978275095606096
+  ]
+  edge [
+    source 235
+    target 272
+    weight 0.9258688827400416
+  ]
+  edge [
+    source 235
+    target 245
+    weight 0.7973089240449328
+  ]
+  edge [
+    source 236
+    target 237
+    weight 0.9728411493115876
+  ]
+  edge [
+    source 236
+    target 293
+    weight 0.9601894923887703
+  ]
+  edge [
+    source 236
+    target 303
+    weight 0.9863878132979533
+  ]
+  edge [
+    source 236
+    target 245
+    weight 0.8210148401884662
+  ]
+  edge [
+    source 239
+    target 247
+    weight 0.9762403175798481
+  ]
+  edge [
+    source 239
+    target 295
+    weight 0.8869326147576573
+  ]
+  edge [
+    source 239
+    target 266
+    weight 0.9537493650411373
+  ]
+  edge [
+    source 239
+    target 271
+    weight 0.9442475649222732
+  ]
+  edge [
+    source 239
+    target 290
+    weight 0.9633072500322829
+  ]
+  edge [
+    source 241
+    target 291
+    weight 0.9221908858292055
+  ]
+  edge [
+    source 241
+    target 262
+    weight 0.8294807718893155
+  ]
+  edge [
+    source 241
+    target 297
+    weight 0.8985452771952632
+  ]
+  edge [
+    source 243
+    target 287
+    weight 0.9666731062557908
+  ]
+  edge [
+    source 243
+    target 272
+    weight 0.9278847033870065
+  ]
+  edge [
+    source 243
+    target 316
+    weight 0.9718037694653099
+  ]
+  edge [
+    source 243
+    target 245
+    weight 0.799044841323352
+  ]
+  edge [
+    source 244
+    target 300
+    weight 0.964850126585068
+  ]
+  edge [
+    source 244
+    target 278
+    weight 0.9649689117013708
+  ]
+  edge [
+    source 244
+    target 285
+    weight 0.9318912799734224
+  ]
+  edge [
+    source 244
+    target 314
+    weight 0.9264389532769571
+  ]
+  edge [
+    source 244
+    target 246
+    weight 0.9044641718694012
+  ]
+  edge [
+    source 244
+    target 253
+    weight 0.9233268473199645
+  ]
+  edge [
+    source 245
+    target 316
+    weight 0.7765147887698438
+  ]
+  edge [
+    source 245
+    target 303
+    weight 0.8098390328986698
+  ]
+  edge [
+    source 245
+    target 293
+    weight 0.7883298226442107
+  ]
+  edge [
+    source 246
+    target 314
+    weight 0.8379308406631979
+  ]
+  edge [
+    source 246
+    target 254
+    weight 0.8491109536557748
+  ]
+  edge [
+    source 246
+    target 278
+    weight 0.8727798076016977
+  ]
+  edge [
+    source 246
+    target 294
+    weight 0.8422399416829095
+  ]
+  edge [
+    source 246
+    target 259
+    weight 0.8633049555616403
+  ]
+  edge [
+    source 246
+    target 285
+    weight 0.8428622748134778
+  ]
+  edge [
+    source 246
+    target 277
+    weight 0.8615354865351207
+  ]
+  edge [
+    source 247
+    target 271
+    weight 0.9672286095119627
+  ]
+  edge [
+    source 247
+    target 270
+    weight 0.9641772870689841
+  ]
+  edge [
+    source 247
+    target 290
+    weight 0.940419375698486
+  ]
+  edge [
+    source 249
+    target 284
+    weight 0.9862259209844126
+  ]
+  edge [
+    source 250
+    target 260
+    weight 0.9231374232787388
+  ]
+  edge [
+    source 251
+    target 265
+    weight 0.6689675947122142
+  ]
+  edge [
+    source 251
+    target 291
+    weight 0.9022030084544571
+  ]
+  edge [
+    source 252
+    target 279
+    weight 0.8296850233733141
+  ]
+  edge [
+    source 253
+    target 300
+    weight 0.9569640111754264
+  ]
+  edge [
+    source 253
+    target 285
+    weight 0.9908096224983433
+  ]
+  edge [
+    source 253
+    target 289
+    weight 0.8960782605757894
+  ]
+  edge [
+    source 254
+    target 277
+    weight 0.9855786173947236
+  ]
+  edge [
+    source 254
+    target 259
+    weight 0.9835585307203162
+  ]
+  edge [
+    source 254
+    target 294
+    weight 0.9919079927737561
+  ]
+  edge [
+    source 255
+    target 296
+    weight 0.8407206166864507
+  ]
+  edge [
+    source 256
+    target 298
+    weight 0.8881344718520798
+  ]
+  edge [
+    source 256
+    target 305
+    weight 0.9920708178185585
+  ]
+  edge [
+    source 258
+    target 281
+    weight 0.9324650585853022
+  ]
+  edge [
+    source 259
+    target 274
+    weight 0.588117543220951
+  ]
+  edge [
+    source 259
+    target 277
+    weight 0.9979503546051482
+  ]
+  edge [
+    source 259
+    target 294
+    weight 0.9755995679822936
+  ]
+  edge [
+    source 260
+    target 284
+    weight 0.909078119089587
+  ]
+  edge [
+    source 260
+    target 286
+    weight 0.6040153223012891
+  ]
+  edge [
+    source 261
+    target 307
+    weight 0.9677050092282604
+  ]
+  edge [
+    source 262
+    target 297
+    weight 0.9231374232787388
+  ]
+  edge [
+    source 262
+    target 269
+    weight 0.9706878282468037
+  ]
+  edge [
+    source 264
+    target 302
+    weight 0.9892252345268797
+  ]
+  edge [
+    source 265
+    target 339
+    weight 0.8042092988121473
+  ]
+  edge [
+    source 265
+    target 273
+    weight 0.690725781292119
+  ]
+  edge [
+    source 265
+    target 323
+    weight 0.6750341723165586
+  ]
+  edge [
+    source 265
+    target 359
+    weight 0.7058257076489785
+  ]
+  edge [
+    source 265
+    target 321
+    weight 0.6741760179148567
+  ]
+  edge [
+    source 266
+    target 276
+    weight 0.9642168528724616
+  ]
+  edge [
+    source 266
+    target 271
+    weight 0.9900374244354498
+  ]
+  edge [
+    source 266
+    target 308
+    weight 0.9909722672419579
+  ]
+  edge [
+    source 266
+    target 295
+    weight 0.8459114181593913
+  ]
+  edge [
+    source 267
+    target 313
+    weight 0.883010623961583
+  ]
+  edge [
+    source 270
+    target 328
+    weight 0.9450616063121983
+  ]
+  edge [
+    source 270
+    target 290
+    weight 0.9753593953216633
+  ]
+  edge [
+    source 270
+    target 289
+    weight 0.9682213737164581
+  ]
+  edge [
+    source 270
+    target 271
+    weight 0.9325798566947499
+  ]
+  edge [
+    source 271
+    target 290
+    weight 0.9096005251149546
+  ]
+  edge [
+    source 271
+    target 295
+    weight 0.8374839617350626
+  ]
+  edge [
+    source 272
+    target 304
+    weight 0.8600872285726459
+  ]
+  edge [
+    source 272
+    target 316
+    weight 0.9017218523806939
+  ]
+  edge [
+    source 272
+    target 287
+    weight 0.8969611884703507
+  ]
+  edge [
+    source 273
+    target 330
+    weight 0.992600183829082
+  ]
+  edge [
+    source 273
+    target 342
+    weight 0.9581034898965527
+  ]
+  edge [
+    source 274
+    target 294
+    weight 0.5737672210891677
+  ]
+  edge [
+    source 275
+    target 310
+    weight 0.9472746865645899
+  ]
+  edge [
+    source 276
+    target 322
+    weight 0.9714847982703706
+  ]
+  edge [
+    source 276
+    target 299
+    weight 0.96465218388397
+  ]
+  edge [
+    source 276
+    target 301
+    weight 0.979249445525014
+  ]
+  edge [
+    source 276
+    target 308
+    weight 0.9730008444696833
+  ]
+  edge [
+    source 277
+    target 294
+    weight 0.9776033081007341
+  ]
+  edge [
+    source 278
+    target 285
+    weight 0.9657215571125207
+  ]
+  edge [
+    source 278
+    target 300
+    weight 0.999876902649544
+  ]
+  edge [
+    source 278
+    target 327
+    weight 0.956767686341127
+  ]
+  edge [
+    source 278
+    target 314
+    weight 0.9600712956063214
+  ]
+  edge [
+    source 279
+    target 331
+    weight 0.7276471787024325
+  ]
+  edge [
+    source 282
+    target 337
+    weight 0.9608989787277143
+  ]
+  edge [
+    source 282
+    target 312
+    weight 0.9598743333007129
+  ]
+  edge [
+    source 282
+    target 320
+    weight 0.9679035783566912
+  ]
+  edge [
+    source 282
+    target 326
+    weight 0.9965181029639432
+  ]
+  edge [
+    source 282
+    target 299
+    weight 0.9628330153262035
+  ]
+  edge [
+    source 285
+    target 314
+    weight 0.9941491815476364
+  ]
+  edge [
+    source 285
+    target 300
+    weight 0.965840449512819
+  ]
+  edge [
+    source 285
+    target 334
+    weight 0.9977456212654208
+  ]
+  edge [
+    source 285
+    target 327
+    weight 0.9907283101371729
+  ]
+  edge [
+    source 285
+    target 345
+    weight 0.9878460405260934
+  ]
+  edge [
+    source 286
+    target 380
+    weight 0.5553513464359802
+  ]
+  edge [
+    source 287
+    target 304
+    weight 0.7714648627286906
+  ]
+  edge [
+    source 289
+    target 362
+    weight 0.9009821132852164
+  ]
+  edge [
+    source 289
+    target 300
+    weight 0.9363761333878671
+  ]
+  edge [
+    source 289
+    target 328
+    weight 0.9150288467102792
+  ]
+  edge [
+    source 290
+    target 354
+    weight 0.9110573825428975
+  ]
+  edge [
+    source 290
+    target 351
+    weight 0.9075499410341734
+  ]
+  edge [
+    source 290
+    target 295
+    weight 0.9207162249925285
+  ]
+  edge [
+    source 290
+    target 328
+    weight 0.9217747168743854
+  ]
+  edge [
+    source 291
+    target 338
+    weight 0.8986190237889152
+  ]
+  edge [
+    source 291
+    target 323
+    weight 0.9103846970876958
+  ]
+  edge [
+    source 291
+    target 349
+    weight 0.9626354864432105
+  ]
+  edge [
+    source 291
+    target 297
+    weight 0.9743593121583708
+  ]
+  edge [
+    source 291
+    target 321
+    weight 0.9092273473310651
+  ]
+  edge [
+    source 291
+    target 335
+    weight 0.9326946689372806
+  ]
+  edge [
+    source 293
+    target 303
+    weight 0.9734401413359013
+  ]
+  edge [
+    source 293
+    target 316
+    weight 0.9850125752762505
+  ]
+  edge [
+    source 294
+    target 346
+    weight 0.9912976368296206
+  ]
+  edge [
+    source 295
+    target 308
+    weight 0.8536176501827893
+  ]
+  edge [
+    source 295
+    target 351
+    weight 0.8355959557011758
+  ]
+  edge [
+    source 297
+    target 335
+    weight 0.9572389336241925
+  ]
+  edge [
+    source 297
+    target 338
+    weight 0.9222665730964504
+  ]
+  edge [
+    source 298
+    target 306
+    weight 0.5178457257898527
+  ]
+  edge [
+    source 299
+    target 343
+    weight 0.9609384100031281
+  ]
+  edge [
+    source 299
+    target 301
+    weight 0.9850934185280873
+  ]
+  edge [
+    source 299
+    target 312
+    weight 0.9969271078386441
+  ]
+  edge [
+    source 299
+    target 326
+    weight 0.9594805299039215
+  ]
+  edge [
+    source 299
+    target 320
+    weight 0.9947612932280956
+  ]
+  edge [
+    source 299
+    target 340
+    weight 0.982106632579183
+  ]
+  edge [
+    source 299
+    target 322
+    weight 0.9929668334506465
+  ]
+  edge [
+    source 300
+    target 314
+    weight 0.9601894923887703
+  ]
+  edge [
+    source 300
+    target 353
+    weight 0.9931705862025684
+  ]
+  edge [
+    source 300
+    target 334
+    weight 0.9636630793424409
+  ]
+  edge [
+    source 300
+    target 345
+    weight 0.9541016638311804
+  ]
+  edge [
+    source 300
+    target 327
+    weight 0.9568854764079626
+  ]
+  edge [
+    source 301
+    target 308
+    weight 0.9936189894373842
+  ]
+  edge [
+    source 301
+    target 312
+    weight 0.9820663326840889
+  ]
+  edge [
+    source 301
+    target 322
+    weight 0.9920708178185585
+  ]
+  edge [
+    source 301
+    target 340
+    weight 0.9674667800465354
+  ]
+  edge [
+    source 301
+    target 326
+    weight 0.973999533300673
+  ]
+  edge [
+    source 304
+    target 347
+    weight 0.8078475819693447
+  ]
+  edge [
+    source 311
+    target 345
+    weight 0.3669816525994378
+  ]
+  edge [
+    source 311
+    target 409
+    weight 0.43242578761569084
+  ]
+  edge [
+    source 311
+    target 334
+    weight 0.3706593152621592
+  ]
+  edge [
+    source 311
+    target 327
+    weight 0.36805240656485105
+  ]
+  edge [
+    source 311
+    target 314
+    weight 0.3693232493804719
+  ]
+  edge [
+    source 312
+    target 326
+    weight 0.9565321497046061
+  ]
+  edge [
+    source 312
+    target 340
+    weight 0.9851338426421243
+  ]
+  edge [
+    source 312
+    target 320
+    weight 0.9917044990477147
+  ]
+  edge [
+    source 312
+    target 355
+    weight 0.964058599399576
+  ]
+  edge [
+    source 312
+    target 322
+    weight 0.9899155534516496
+  ]
+  edge [
+    source 312
+    target 343
+    weight 0.9579855498954837
+  ]
+  edge [
+    source 312
+    target 337
+    weight 0.9989336595732903
+  ]
+  edge [
+    source 313
+    target 317
+    weight 0.8880980280232148
+  ]
+  edge [
+    source 314
+    target 327
+    weight 0.9965589958992491
+  ]
+  edge [
+    source 314
+    target 334
+    weight 0.9963954342257868
+  ]
+  edge [
+    source 314
+    target 345
+    weight 0.9936597634051958
+  ]
+  edge [
+    source 318
+    target 363
+    weight 0.8208800899511484
+  ]
+  edge [
+    source 320
+    target 326
+    weight 0.9645334377560222
+  ]
+  edge [
+    source 320
+    target 343
+    weight 0.9659989954824146
+  ]
+  edge [
+    source 320
+    target 337
+    weight 0.9927631224993824
+  ]
+  edge [
+    source 320
+    target 377
+    weight 0.9755195038583407
+  ]
+  edge [
+    source 320
+    target 355
+    weight 0.9721228453892408
+  ]
+  edge [
+    source 321
+    target 339
+    weight 0.8383091552294215
+  ]
+  edge [
+    source 321
+    target 335
+    weight 0.9748392240378576
+  ]
+  edge [
+    source 321
+    target 338
+    weight 0.9883325951718352
+  ]
+  edge [
+    source 321
+    target 323
+    weight 0.9987287245047802
+  ]
+  edge [
+    source 321
+    target 349
+    weight 0.9445188341129204
+  ]
+  edge [
+    source 322
+    target 326
+    weight 0.966276513556493
+  ]
+  edge [
+    source 322
+    target 343
+    weight 0.9677447197947018
+  ]
+  edge [
+    source 322
+    target 340
+    weight 0.9751993130630288
+  ]
+  edge [
+    source 323
+    target 349
+    weight 0.9457211061805197
+  ]
+  edge [
+    source 323
+    target 339
+    weight 0.8393762336665517
+  ]
+  edge [
+    source 323
+    target 335
+    weight 0.9760800907385855
+  ]
+  edge [
+    source 323
+    target 338
+    weight 0.9870761521624664
+  ]
+  edge [
+    source 324
+    target 366
+    weight 0.998359947324567
+  ]
+  edge [
+    source 325
+    target 356
+    weight 0.7836852888046127
+  ]
+  edge [
+    source 326
+    target 343
+    weight 0.9984828579188526
+  ]
+  edge [
+    source 326
+    target 382
+    weight 0.9967225844219123
+  ]
+  edge [
+    source 326
+    target 355
+    weight 0.9921929541423546
+  ]
+  edge [
+    source 326
+    target 340
+    weight 0.9423121922492304
+  ]
+  edge [
+    source 326
+    target 337
+    weight 0.9575532274217323
+  ]
+  edge [
+    source 327
+    target 353
+    weight 0.9503505095328202
+  ]
+  edge [
+    source 327
+    target 345
+    weight 0.9970907567881244
+  ]
+  edge [
+    source 327
+    target 362
+    weight 0.9944755942233167
+  ]
+  edge [
+    source 327
+    target 334
+    weight 0.9929668334506465
+  ]
+  edge [
+    source 328
+    target 354
+    weight 0.9883731522081349
+  ]
+  edge [
+    source 328
+    target 373
+    weight 0.9900780514308126
+  ]
+  edge [
+    source 328
+    target 362
+    weight 0.9846488627374276
+  ]
+  edge [
+    source 329
+    target 332
+    weight 0.9217368926472007
+  ]
+  edge [
+    source 330
+    target 370
+    weight 0.9970907567881244
+  ]
+  edge [
+    source 330
+    target 381
+    weight 0.9758397997830801
+  ]
+  edge [
+    source 330
+    target 367
+    weight 0.9543757639673707
+  ]
+  edge [
+    source 330
+    target 364
+    weight 0.9786870384061137
+  ]
+  edge [
+    source 330
+    target 392
+    weight 0.9610172774083058
+  ]
+  edge [
+    source 330
+    target 342
+    weight 0.9652461338467077
+  ]
+  edge [
+    source 332
+    target 385
+    weight 0.8301277408113493
+  ]
+  edge [
+    source 333
+    target 341
+    weight 0.7876184636939065
+  ]
+  edge [
+    source 334
+    target 362
+    weight 0.9984828579188527
+  ]
+  edge [
+    source 334
+    target 353
+    weight 0.9570818254123042
+  ]
+  edge [
+    source 334
+    target 345
+    weight 0.9900780514308126
+  ]
+  edge [
+    source 335
+    target 338
+    weight 0.963465380168634
+  ]
+  edge [
+    source 335
+    target 384
+    weight 0.9921115282558817
+  ]
+  edge [
+    source 335
+    target 349
+    weight 0.968897035349739
+  ]
+  edge [
+    source 337
+    target 355
+    weight 0.965087711441607
+  ]
+  edge [
+    source 337
+    target 393
+    weight 0.9926409159893722
+  ]
+  edge [
+    source 337
+    target 382
+    weight 0.9607018466197415
+  ]
+  edge [
+    source 337
+    target 377
+    weight 0.9826306817303718
+  ]
+  edge [
+    source 337
+    target 343
+    weight 0.9590081790863888
+  ]
+  edge [
+    source 338
+    target 349
+    weight 0.9334987505074988
+  ]
+  edge [
+    source 338
+    target 339
+    weight 0.8285282629442031
+  ]
+  edge [
+    source 338
+    target 384
+    weight 0.9711260808171364
+  ]
+  edge [
+    source 339
+    target 384
+    weight 0.8531624052842377
+  ]
+  edge [
+    source 339
+    target 349
+    weight 0.8875515500087942
+  ]
+  edge [
+    source 339
+    target 389
+    weight 0.8798999644725816
+  ]
+  edge [
+    source 339
+    target 408
+    weight 0.8940581608006286
+  ]
+  edge [
+    source 339
+    target 388
+    weight 0.8573387241516794
+  ]
+  edge [
+    source 339
+    target 359
+    weight 0.8776641959891712
+  ]
+  edge [
+    source 340
+    target 382
+    weight 0.9454106959919651
+  ]
+  edge [
+    source 340
+    target 355
+    weight 0.9497267525586887
+  ]
+  edge [
+    source 340
+    target 343
+    weight 0.9437439859641664
+  ]
+  edge [
+    source 341
+    target 435
+    weight 0.6025547316104568
+  ]
+  edge [
+    source 342
+    target 370
+    weight 0.962437998084025
+  ]
+  edge [
+    source 342
+    target 388
+    weight 0.9563751574946416
+  ]
+  edge [
+    source 342
+    target 367
+    weight 0.9212075164065026
+  ]
+  edge [
+    source 342
+    target 364
+    weight 0.9862663915716142
+  ]
+  edge [
+    source 342
+    target 359
+    weight 0.9790485487484525
+  ]
+  edge [
+    source 342
+    target 392
+    weight 0.9276182115782561
+  ]
+  edge [
+    source 342
+    target 402
+    weight 0.9542582828394869
+  ]
+  edge [
+    source 342
+    target 381
+    weight 0.9419255939943633
+  ]
+  edge [
+    source 343
+    target 377
+    weight 0.9423508608006607
+  ]
+  edge [
+    source 343
+    target 355
+    weight 0.9937005390462005
+  ]
+  edge [
+    source 343
+    target 393
+    weight 0.9661179220388458
+  ]
+  edge [
+    source 343
+    target 382
+    weight 0.99823705186025
+  ]
+  edge [
+    source 344
+    target 352
+    weight 0.6033959961768866
+  ]
+  edge [
+    source 345
+    target 353
+    weight 0.9475857087640593
+  ]
+  edge [
+    source 345
+    target 362
+    weight 0.9915824228514466
+  ]
+  edge [
+    source 346
+    target 365
+    weight 0.9830339867357331
+  ]
+  edge [
+    source 347
+    target 375
+    weight 0.603519810578917
+  ]
+  edge [
+    source 348
+    target 423
+    weight 0.6156513600917598
+  ]
+  edge [
+    source 349
+    target 384
+    weight 0.9612539184634226
+  ]
+  edge [
+    source 349
+    target 389
+    weight 0.9913789959173225
+  ]
+  edge [
+    source 351
+    target 371
+    weight 0.8983240737251068
+  ]
+  edge [
+    source 351
+    target 372
+    weight 0.9673079931746946
+  ]
+  edge [
+    source 351
+    target 395
+    weight 0.9446738800673854
+  ]
+  edge [
+    source 351
+    target 354
+    weight 0.9961501420482053
+  ]
+  edge [
+    source 353
+    target 362
+    weight 0.9556297962998699
+  ]
+  edge [
+    source 353
+    target 373
+    weight 0.9608989787277143
+  ]
+  edge [
+    source 354
+    target 395
+    weight 0.9483247958234705
+  ]
+  edge [
+    source 354
+    target 373
+    weight 0.9982780153340296
+  ]
+  edge [
+    source 354
+    target 371
+    weight 0.9017958596864161
+  ]
+  edge [
+    source 354
+    target 362
+    weight 0.9962318993971185
+  ]
+  edge [
+    source 354
+    target 372
+    weight 0.9710463838169939
+  ]
+  edge [
+    source 355
+    target 393
+    weight 0.9722425258681758
+  ]
+  edge [
+    source 355
+    target 377
+    weight 0.9483247958234706
+  ]
+  edge [
+    source 355
+    target 382
+    weight 0.9954554754248046
+  ]
+  edge [
+    source 355
+    target 417
+    weight 0.9656026793475619
+  ]
+  edge [
+    source 358
+    target 397
+    weight 0.8948656536465875
+  ]
+  edge [
+    source 358
+    target 380
+    weight 0.8964828279243117
+  ]
+  edge [
+    source 359
+    target 388
+    weight 0.9768414025200334
+  ]
+  edge [
+    source 359
+    target 408
+    weight 0.9816634246738751
+  ]
+  edge [
+    source 359
+    target 367
+    weight 0.9409211806545346
+  ]
+  edge [
+    source 359
+    target 392
+    weight 0.9474690634739805
+  ]
+  edge [
+    source 359
+    target 381
+    weight 0.9620826211309494
+  ]
+  edge [
+    source 359
+    target 407
+    weight 0.8891190207324107
+  ]
+  edge [
+    source 359
+    target 389
+    weight 0.9974590651509453
+  ]
+  edge [
+    source 359
+    target 370
+    weight 0.9830339867357331
+  ]
+  edge [
+    source 362
+    target 371
+    weight 0.8983978021638557
+  ]
+  edge [
+    source 362
+    target 406
+    weight 0.9771621324686468
+  ]
+  edge [
+    source 362
+    target 373
+    weight 0.9945164033426062
+  ]
+  edge [
+    source 363
+    target 380
+    weight 0.6663648196728911
+  ]
+  edge [
+    source 364
+    target 392
+    weight 0.9405351530838414
+  ]
+  edge [
+    source 364
+    target 367
+    weight 0.9340351899637982
+  ]
+  edge [
+    source 364
+    target 402
+    weight 0.9411528732434256
+  ]
+  edge [
+    source 364
+    target 370
+    weight 0.9758397997830801
+  ]
+  edge [
+    source 364
+    target 381
+    weight 0.9550417636085177
+  ]
+  edge [
+    source 365
+    target 390
+    weight 0.9730807018788993
+  ]
+  edge [
+    source 366
+    target 405
+    weight 0.8987296550282255
+  ]
+  edge [
+    source 366
+    target 399
+    weight 0.9913789959173225
+  ]
+  edge [
+    source 367
+    target 388
+    weight 0.9632281946968744
+  ]
+  edge [
+    source 367
+    target 402
+    weight 0.8790699027448975
+  ]
+  edge [
+    source 367
+    target 407
+    weight 0.8365909187299434
+  ]
+  edge [
+    source 367
+    target 370
+    weight 0.9571603762947826
+  ]
+  edge [
+    source 367
+    target 381
+    weight 0.9780045497012105
+  ]
+  edge [
+    source 367
+    target 392
+    weight 0.9930890800851717
+  ]
+  edge [
+    source 368
+    target 383
+    weight 0.9775230795366744
+  ]
+  edge [
+    source 368
+    target 394
+    weight 0.8196683326032449
+  ]
+  edge [
+    source 368
+    target 385
+    weight 0.9737197971476749
+  ]
+  edge [
+    source 369
+    target 414
+    weight 0.9686187646524199
+  ]
+  edge [
+    source 370
+    target 381
+    weight 0.9786870384061137
+  ]
+  edge [
+    source 370
+    target 402
+    weight 0.918414431391135
+  ]
+  edge [
+    source 370
+    target 388
+    weight 0.9937005390462005
+  ]
+  edge [
+    source 370
+    target 430
+    weight 0.9736798413991092
+  ]
+  edge [
+    source 370
+    target 392
+    weight 0.9638212678893742
+  ]
+  edge [
+    source 370
+    target 407
+    weight 0.8740342156331526
+  ]
+  edge [
+    source 371
+    target 420
+    weight 0.931547182291978
+  ]
+  edge [
+    source 371
+    target 406
+    weight 0.9193948192550141
+  ]
+  edge [
+    source 371
+    target 395
+    weight 0.9509356537528354
+  ]
+  edge [
+    source 371
+    target 373
+    weight 0.9033514169744287
+  ]
+  edge [
+    source 371
+    target 372
+    weight 0.9286846382575799
+  ]
+  edge [
+    source 371
+    target 438
+    weight 0.9834374572711662
+  ]
+  edge [
+    source 372
+    target 395
+    weight 0.9766009241451379
+  ]
+  edge [
+    source 372
+    target 406
+    weight 0.9899967991071807
+  ]
+  edge [
+    source 372
+    target 373
+    weight 0.9727213951436927
+  ]
+  edge [
+    source 373
+    target 406
+    weight 0.9825500405869315
+  ]
+  edge [
+    source 373
+    target 420
+    weight 0.9697323271933725
+  ]
+  edge [
+    source 374
+    target 421
+    weight 0.8673885385133531
+  ]
+  edge [
+    source 374
+    target 448
+    weight 0.9088916182295639
+  ]
+  edge [
+    source 374
+    target 437
+    weight 0.865717267091665
+  ]
+  edge [
+    source 375
+    target 410
+    weight 0.5960623456926352
+  ]
+  edge [
+    source 375
+    target 440
+    weight 0.6225870001437378
+  ]
+  edge [
+    source 376
+    target 378
+    weight 0.956061250370198
+  ]
+  edge [
+    source 376
+    target 413
+    weight 0.9215477947912695
+  ]
+  edge [
+    source 376
+    target 401
+    weight 0.8846789767680564
+  ]
+  edge [
+    source 376
+    target 458
+    weight 0.8732455202872411
+  ]
+  edge [
+    source 376
+    target 445
+    weight 0.8783127041869495
+  ]
+  edge [
+    source 376
+    target 418
+    weight 0.9354544072099713
+  ]
+  edge [
+    source 376
+    target 432
+    weight 0.875326344828566
+  ]
+  edge [
+    source 377
+    target 382
+    weight 0.9440151104835837
+  ]
+  edge [
+    source 377
+    target 393
+    weight 0.9753994199920976
+  ]
+  edge [
+    source 377
+    target 417
+    weight 0.982106632579183
+  ]
+  edge [
+    source 378
+    target 431
+    weight 0.8782045862201922
+  ]
+  edge [
+    source 378
+    target 458
+    weight 0.8348762040059938
+  ]
+  edge [
+    source 378
+    target 418
+    weight 0.8943517102214775
+  ]
+  edge [
+    source 378
+    target 432
+    weight 0.836865599718774
+  ]
+  edge [
+    source 379
+    target 426
+    weight 0.9621221009780971
+  ]
+  edge [
+    source 381
+    target 392
+    weight 0.9848104961715343
+  ]
+  edge [
+    source 381
+    target 402
+    weight 0.8988402998876248
+  ]
+  edge [
+    source 381
+    target 407
+    weight 0.8554059579636206
+  ]
+  edge [
+    source 381
+    target 388
+    weight 0.984891322838068
+  ]
+  edge [
+    source 381
+    target 430
+    weight 0.9529278403346286
+  ]
+  edge [
+    source 382
+    target 393
+    weight 0.9678241458163178
+  ]
+  edge [
+    source 382
+    target 429
+    weight 0.9369526733872842
+  ]
+  edge [
+    source 382
+    target 403
+    weight 0.95955927765604
+  ]
+  edge [
+    source 382
+    target 417
+    weight 0.9612144742413924
+  ]
+  edge [
+    source 384
+    target 408
+    weight 0.9542582828394869
+  ]
+  edge [
+    source 384
+    target 389
+    weight 0.9696129557132434
+  ]
+  edge [
+    source 385
+    target 394
+    weight 0.8417907646576622
+  ]
+  edge [
+    source 388
+    target 407
+    weight 0.8685282712194867
+  ]
+  edge [
+    source 388
+    target 389
+    weight 0.9743593121583708
+  ]
+  edge [
+    source 388
+    target 408
+    weight 0.9589294765610473
+  ]
+  edge [
+    source 388
+    target 392
+    weight 0.9699313123191966
+  ]
+  edge [
+    source 389
+    target 408
+    weight 0.9841641215876064
+  ]
+  edge [
+    source 390
+    target 413
+    weight 0.9536710940887008
+  ]
+  edge [
+    source 390
+    target 452
+    weight 0.9622010655327224
+  ]
+  edge [
+    source 390
+    target 445
+    weight 0.9993846647586448
+  ]
+  edge [
+    source 390
+    target 401
+    weight 0.9934151446938202
+  ]
+  edge [
+    source 392
+    target 402
+    weight 0.8851873617113024
+  ]
+  edge [
+    source 392
+    target 430
+    weight 0.9384533392556142
+  ]
+  edge [
+    source 392
+    target 407
+    weight 0.8424127658902398
+  ]
+  edge [
+    source 393
+    target 429
+    weight 0.9068054207913637
+  ]
+  edge [
+    source 393
+    target 457
+    weight 0.9889817075058188
+  ]
+  edge [
+    source 393
+    target 417
+    weight 0.9931705862025684
+  ]
+  edge [
+    source 395
+    target 438
+    weight 0.9669508179925173
+  ]
+  edge [
+    source 397
+    target 404
+    weight 0.9966407868041552
+  ]
+  edge [
+    source 398
+    target 422
+    weight 0.9825903603313748
+  ]
+  edge [
+    source 399
+    target 473
+    weight 0.9030178575402003
+  ]
+  edge [
+    source 399
+    target 405
+    weight 0.9065449830280411
+  ]
+  edge [
+    source 399
+    target 442
+    weight 0.9387614651095134
+  ]
+  edge [
+    source 401
+    target 432
+    weight 0.9894282195179344
+  ]
+  edge [
+    source 401
+    target 459
+    weight 0.9603471107346814
+  ]
+  edge [
+    source 401
+    target 452
+    weight 0.9685790182203049
+  ]
+  edge [
+    source 401
+    target 445
+    weight 0.9928038613459942
+  ]
+  edge [
+    source 401
+    target 413
+    weight 0.9599925058346388
+  ]
+  edge [
+    source 402
+    target 407
+    weight 0.9516773536640108
+  ]
+  edge [
+    source 402
+    target 456
+    weight 0.9673476874492575
+  ]
+  edge [
+    source 402
+    target 430
+    weight 0.9432406755709745
+  ]
+  edge [
+    source 402
+    target 474
+    weight 0.8769441929009019
+  ]
+  edge [
+    source 403
+    target 424
+    weight 0.979530770269072
+  ]
+  edge [
+    source 403
+    target 429
+    weight 0.9764406381188059
+  ]
+  edge [
+    source 404
+    target 453
+    weight 0.9731206330412847
+  ]
+  edge [
+    source 405
+    target 442
+    weight 0.9656819295648079
+  ]
+  edge [
+    source 405
+    target 412
+    weight 0.9713652110656952
+  ]
+  edge [
+    source 406
+    target 433
+    weight 0.9413073666640536
+  ]
+  edge [
+    source 406
+    target 420
+    weight 0.9869546457034369
+  ]
+  edge [
+    source 406
+    target 438
+    weight 0.934878789146534
+  ]
+  edge [
+    source 406
+    target 468
+    weight 0.9974590651509453
+  ]
+  edge [
+    source 407
+    target 461
+    weight 0.8641201312384483
+  ]
+  edge [
+    source 407
+    target 474
+    weight 0.8345679288109521
+  ]
+  edge [
+    source 407
+    target 408
+    weight 0.9057269511979534
+  ]
+  edge [
+    source 407
+    target 430
+    weight 0.8976607899956387
+  ]
+  edge [
+    source 409
+    target 439
+    weight 0.8757215429647103
+  ]
+  edge [
+    source 409
+    target 471
+    weight 0.8732455202872411
+  ]
+  edge [
+    source 409
+    target 436
+    weight 0.8731021976146954
+  ]
+  edge [
+    source 409
+    target 451
+    weight 0.9454106959919651
+  ]
+  edge [
+    source 410
+    target 440
+    weight 0.9573960676259241
+  ]
+  edge [
+    source 410
+    target 449
+    weight 0.9764406381188059
+  ]
+  edge [
+    source 410
+    target 416
+    weight 0.9904031274172926
+  ]
+  edge [
+    source 412
+    target 449
+    weight 0.9741993940398188
+  ]
+  edge [
+    source 412
+    target 416
+    weight 0.99268164982114
+  ]
+  edge [
+    source 412
+    target 464
+    weight 0.9618457760661846
+  ]
+  edge [
+    source 413
+    target 459
+    weight 0.9996307534056397
+  ]
+  edge [
+    source 413
+    target 458
+    weight 0.9475857087640593
+  ]
+  edge [
+    source 413
+    target 492
+    weight 0.9596774114026763
+  ]
+  edge [
+    source 413
+    target 475
+    weight 0.9939044423515238
+  ]
+  edge [
+    source 413
+    target 432
+    weight 0.9498436757985269
+  ]
+  edge [
+    source 413
+    target 445
+    weight 0.9530842666558463
+  ]
+  edge [
+    source 413
+    target 489
+    weight 0.9484415464649029
+  ]
+  edge [
+    source 413
+    target 418
+    weight 0.9851338426421243
+  ]
+  edge [
+    source 414
+    target 450
+    weight 0.8737114814756757
+  ]
+  edge [
+    source 416
+    target 449
+    weight 0.9670698617302023
+  ]
+  edge [
+    source 416
+    target 464
+    weight 0.9548066518588749
+  ]
+  edge [
+    source 417
+    target 429
+    weight 0.9006124713390253
+  ]
+  edge [
+    source 417
+    target 457
+    weight 0.9822275421871711
+  ]
+  edge [
+    source 417
+    target 469
+    weight 0.9322355047586963
+  ]
+  edge [
+    source 418
+    target 431
+    weight 0.9819454429205635
+  ]
+  edge [
+    source 418
+    target 458
+    weight 0.9334987505074986
+  ]
+  edge [
+    source 418
+    target 432
+    weight 0.9357231502487229
+  ]
+  edge [
+    source 418
+    target 459
+    weight 0.9847700853257396
+  ]
+  edge [
+    source 418
+    target 475
+    weight 0.9791289025128342
+  ]
+  edge [
+    source 418
+    target 445
+    weight 0.938915565972425
+  ]
+  edge [
+    source 419
+    target 444
+    weight 0.9676653002913078
+  ]
+  edge [
+    source 420
+    target 433
+    weight 0.9537493650411373
+  ]
+  edge [
+    source 420
+    target 468
+    weight 0.9844468582497327
+  ]
+  edge [
+    source 420
+    target 467
+    weight 0.9373372305866362
+  ]
+  edge [
+    source 421
+    target 437
+    weight 0.998073214773448
+  ]
+  edge [
+    source 421
+    target 448
+    weight 0.9543366019844534
+  ]
+  edge [
+    source 423
+    target 424
+    weight 0.8718849042511678
+  ]
+  edge [
+    source 423
+    target 477
+    weight 0.972322321039667
+  ]
+  edge [
+    source 424
+    target 429
+    weight 0.9564536503785381
+  ]
+  edge [
+    source 424
+    target 472
+    weight 0.8444201201983538
+  ]
+  edge [
+    source 425
+    target 490
+    weight 0.7022145344831802
+  ]
+  edge [
+    source 429
+    target 457
+    weight 0.9169081833457757
+  ]
+  edge [
+    source 429
+    target 469
+    weight 0.9660782782266415
+  ]
+  edge [
+    source 429
+    target 501
+    weight 0.9438989047246926
+  ]
+  edge [
+    source 430
+    target 456
+    weight 0.9750792686114241
+  ]
+  edge [
+    source 430
+    target 474
+    weight 0.9297141393632742
+  ]
+  edge [
+    source 430
+    target 462
+    weight 0.9667524443265265
+  ]
+  edge [
+    source 430
+    target 461
+    weight 0.9626354864432105
+  ]
+  edge [
+    source 431
+    target 432
+    weight 0.9529278403346286
+  ]
+  edge [
+    source 431
+    target 458
+    weight 0.9506625416286147
+  ]
+  edge [
+    source 431
+    target 455
+    weight 0.9652065258075767
+  ]
+  edge [
+    source 432
+    target 475
+    weight 0.9556690113500735
+  ]
+  edge [
+    source 432
+    target 492
+    weight 0.9897530821427002
+  ]
+  edge [
+    source 432
+    target 445
+    weight 0.9965998905126302
+  ]
+  edge [
+    source 432
+    target 458
+    weight 0.9976228014230138
+  ]
+  edge [
+    source 432
+    target 459
+    weight 0.9501945318934083
+  ]
+  edge [
+    source 432
+    target 489
+    weight 0.998523831479485
+  ]
+  edge [
+    source 433
+    target 484
+    weight 0.992396548097393
+  ]
+  edge [
+    source 433
+    target 467
+    weight 0.9827919838732546
+  ]
+  edge [
+    source 433
+    target 468
+    weight 0.938915565972425
+  ]
+  edge [
+    source 433
+    target 451
+    weight 0.9842045075671836
+  ]
+  edge [
+    source 433
+    target 436
+    weight 0.9383378181360252
+  ]
+  edge [
+    source 434
+    target 437
+    weight 0.725887629472168
+  ]
+  edge [
+    source 435
+    target 466
+    weight 0.9851338426421243
+  ]
+  edge [
+    source 436
+    target 451
+    weight 0.9235163102302322
+  ]
+  edge [
+    source 436
+    target 468
+    weight 0.9993846647586448
+  ]
+  edge [
+    source 436
+    target 471
+    weight 0.9998358735668079
+  ]
+  edge [
+    source 437
+    target 448
+    weight 0.9524978003185919
+  ]
+  edge [
+    source 438
+    target 491
+    weight 0.954297441608514
+  ]
+  edge [
+    source 438
+    target 467
+    weight 0.9895500305048331
+  ]
+  edge [
+    source 439
+    target 481
+    weight 0.9740794726755967
+  ]
+  edge [
+    source 439
+    target 452
+    weight 0.9829533124944285
+  ]
+  edge [
+    source 439
+    target 471
+    weight 0.9971725913364119
+  ]
+  edge [
+    source 439
+    target 486
+    weight 0.9006494287083061
+  ]
+  edge [
+    source 442
+    target 464
+    weight 0.9562181910512485
+  ]
+  edge [
+    source 442
+    target 483
+    weight 0.9520679543722502
+  ]
+  edge [
+    source 442
+    target 473
+    weight 0.9619247179419071
+  ]
+  edge [
+    source 445
+    target 489
+    weight 0.9951287411267067
+  ]
+  edge [
+    source 445
+    target 500
+    weight 0.971046383816994
+  ]
+  edge [
+    source 445
+    target 459
+    weight 0.9534363197698608
+  ]
+  edge [
+    source 445
+    target 452
+    weight 0.9616089893078308
+  ]
+  edge [
+    source 445
+    target 481
+    weight 0.9957005965475606
+  ]
+  edge [
+    source 445
+    target 458
+    weight 0.9942307746710791
+  ]
+  edge [
+    source 445
+    target 475
+    weight 0.9589294765610473
+  ]
+  edge [
+    source 445
+    target 492
+    weight 0.9931298323077197
+  ]
+  edge [
+    source 448
+    target 495
+    weight 0.9503115127227324
+  ]
+  edge [
+    source 449
+    target 464
+    weight 0.9873192099592609
+  ]
+  edge [
+    source 451
+    target 468
+    weight 0.924084932255054
+  ]
+  edge [
+    source 451
+    target 471
+    weight 0.9236679085495163
+  ]
+  edge [
+    source 451
+    target 484
+    weight 0.9917451944528475
+  ]
+  edge [
+    source 452
+    target 500
+    weight 0.9902812114164241
+  ]
+  edge [
+    source 452
+    target 481
+    weight 0.957474644299304
+  ]
+  edge [
+    source 452
+    target 459
+    weight 0.9915010470691911
+  ]
+  edge [
+    source 452
+    target 489
+    weight 0.9569247429860264
+  ]
+  edge [
+    source 454
+    target 470
+    weight 0.6924853414286145
+  ]
+  edge [
+    source 455
+    target 487
+    weight 0.9206784441996414
+  ]
+  edge [
+    source 456
+    target 461
+    weight 0.9386459060604482
+  ]
+  edge [
+    source 456
+    target 462
+    weight 0.9914603616824348
+  ]
+  edge [
+    source 456
+    target 474
+    weight 0.9065449830280411
+  ]
+  edge [
+    source 457
+    target 508
+    weight 0.9677050092282604
+  ]
+  edge [
+    source 457
+    target 469
+    weight 0.9491034049837829
+  ]
+  edge [
+    source 457
+    target 501
+    weight 0.9714050718315123
+  ]
+  edge [
+    source 458
+    target 488
+    weight 0.750697570098943
+  ]
+  edge [
+    source 458
+    target 489
+    weight 0.9990976379050102
+  ]
+  edge [
+    source 458
+    target 459
+    weight 0.9479357308043314
+  ]
+  edge [
+    source 458
+    target 492
+    weight 0.987400242524263
+  ]
+  edge [
+    source 458
+    target 505
+    weight 0.9876028530343881
+  ]
+  edge [
+    source 458
+    target 475
+    weight 0.9533971963362224
+  ]
+  edge [
+    source 459
+    target 517
+    weight 0.9750792686114241
+  ]
+  edge [
+    source 459
+    target 500
+    weight 0.9818648580123315
+  ]
+  edge [
+    source 459
+    target 505
+    weight 0.9598349456887652
+  ]
+  edge [
+    source 459
+    target 492
+    weight 0.9600318999121961
+  ]
+  edge [
+    source 459
+    target 518
+    weight 0.9453719018828478
+  ]
+  edge [
+    source 459
+    target 489
+    weight 0.9487918846370618
+  ]
+  edge [
+    source 459
+    target 481
+    weight 0.9493371123649612
+  ]
+  edge [
+    source 459
+    target 475
+    weight 0.994271573743998
+  ]
+  edge [
+    source 461
+    target 474
+    weight 0.9658008170864596
+  ]
+  edge [
+    source 462
+    target 474
+    weight 0.8988034167543784
+  ]
+  edge [
+    source 462
+    target 506
+    weight 0.9026103410447207
+  ]
+  edge [
+    source 465
+    target 498
+    weight 0.8145717130649064
+  ]
+  edge [
+    source 465
+    target 497
+    weight 0.9985648067215009
+  ]
+  edge [
+    source 467
+    target 468
+    weight 0.9227586917715191
+  ]
+  edge [
+    source 467
+    target 491
+    weight 0.9443250624543893
+  ]
+  edge [
+    source 467
+    target 493
+    weight 0.7714648627286906
+  ]
+  edge [
+    source 468
+    target 484
+    weight 0.9317765666259445
+  ]
+  edge [
+    source 469
+    target 511
+    weight 0.9881298349523141
+  ]
+  edge [
+    source 469
+    target 501
+    weight 0.9770418463991739
+  ]
+  edge [
+    source 469
+    target 515
+    weight 0.9493371123649612
+  ]
+  edge [
+    source 469
+    target 472
+    weight 0.8529173739870171
+  ]
+  edge [
+    source 469
+    target 508
+    weight 0.918452119278405
+  ]
+  edge [
+    source 471
+    target 486
+    weight 0.8981029247107206
+  ]
+  edge [
+    source 471
+    target 504
+    weight 0.712518857488184
+  ]
+  edge [
+    source 472
+    target 511
+    weight 0.863163264398527
+  ]
+  edge [
+    source 473
+    target 483
+    weight 0.9897530821427002
+  ]
+  edge [
+    source 475
+    target 489
+    weight 0.9542582828394869
+  ]
+  edge [
+    source 475
+    target 488
+    weight 0.7873922568513658
+  ]
+  edge [
+    source 475
+    target 505
+    weight 0.9653649677164566
+  ]
+  edge [
+    source 475
+    target 492
+    weight 0.9655630566778952
+  ]
+  edge [
+    source 477
+    target 510
+    weight 0.878168549855584
+  ]
+  edge [
+    source 477
+    target 491
+    weight 0.8722427554281372
+  ]
+  edge [
+    source 479
+    target 530
+    weight 0.8510993432708792
+  ]
+  edge [
+    source 479
+    target 487
+    weight 0.811402431115732
+  ]
+  edge [
+    source 480
+    target 540
+    weight 0.2531822189095729
+  ]
+  edge [
+    source 481
+    target 525
+    weight 0.9983189804887791
+  ]
+  edge [
+    source 481
+    target 518
+    weight 0.9958231797425097
+  ]
+  edge [
+    source 481
+    target 486
+    weight 0.8773041205817642
+  ]
+  edge [
+    source 481
+    target 513
+    weight 0.8988771845344008
+  ]
+  edge [
+    source 481
+    target 489
+    weight 0.9994256753256584
+  ]
+  edge [
+    source 481
+    target 500
+    weight 0.9668714636419324
+  ]
+  edge [
+    source 484
+    target 523
+    weight 0.989022291178974
+  ]
+  edge [
+    source 486
+    target 504
+    weight 0.7933599121923433
+  ]
+  edge [
+    source 486
+    target 513
+    weight 0.9759999871797714
+  ]
+  edge [
+    source 487
+    target 488
+    weight 0.8886083777403777
+  ]
+  edge [
+    source 487
+    target 521
+    weight 0.9493760691897334
+  ]
+  edge [
+    source 488
+    target 492
+    weight 0.7602768743299112
+  ]
+  edge [
+    source 488
+    target 505
+    weight 0.7601209006155066
+  ]
+  edge [
+    source 488
+    target 521
+    weight 0.8436235287082255
+  ]
+  edge [
+    source 489
+    target 517
+    weight 0.9730407723550545
+  ]
+  edge [
+    source 489
+    target 505
+    weight 0.988494833303054
+  ]
+  edge [
+    source 489
+    target 492
+    weight 0.9882920397997584
+  ]
+  edge [
+    source 489
+    target 500
+    weight 0.9663161655034461
+  ]
+  edge [
+    source 489
+    target 518
+    weight 0.9963954342257868
+  ]
+  edge [
+    source 491
+    target 536
+    weight 0.9527323435362453
+  ]
+  edge [
+    source 491
+    target 533
+    weight 0.9879676567269727
+  ]
+  edge [
+    source 492
+    target 518
+    weight 0.9847296761381689
+  ]
+  edge [
+    source 492
+    target 505
+    weight 0.9997948461676649
+  ]
+  edge [
+    source 492
+    target 500
+    weight 0.9777637849832678
+  ]
+  edge [
+    source 492
+    target 517
+    weight 0.9845680559687661
+  ]
+  edge [
+    source 493
+    target 536
+    weight 0.6940784738825635
+  ]
+  edge [
+    source 493
+    target 532
+    weight 0.9497657253726649
+  ]
+  edge [
+    source 494
+    target 524
+    weight 0.9430471661315667
+  ]
+  edge [
+    source 495
+    target 499
+    weight 0.9227208271677768
+  ]
+  edge [
+    source 500
+    target 531
+    weight 0.9652065258075767
+  ]
+  edge [
+    source 500
+    target 505
+    weight 0.97756319299566
+  ]
+  edge [
+    source 500
+    target 513
+    weight 0.9296759893487637
+  ]
+  edge [
+    source 500
+    target 517
+    weight 0.9930890800851718
+  ]
+  edge [
+    source 500
+    target 518
+    weight 0.9628330153262035
+  ]
+  edge [
+    source 500
+    target 525
+    weight 0.9652461338467077
+  ]
+  edge [
+    source 501
+    target 511
+    weight 0.9654441984239199
+  ]
+  edge [
+    source 501
+    target 520
+    weight 0.9392238435909307
+  ]
+  edge [
+    source 501
+    target 508
+    weight 0.9400335540010925
+  ]
+  edge [
+    source 501
+    target 515
+    weight 0.9716442707788651
+  ]
+  edge [
+    source 503
+    target 546
+    weight 0.6174730029912686
+  ]
+  edge [
+    source 504
+    target 534
+    weight 0.7777584900504514
+  ]
+  edge [
+    source 505
+    target 548
+    weight 0.9842448952040324
+  ]
+  edge [
+    source 505
+    target 518
+    weight 0.9849317386589432
+  ]
+  edge [
+    source 505
+    target 517
+    weight 0.9843660680588893
+  ]
+  edge [
+    source 508
+    target 535
+    weight 0.8894839453761149
+  ]
+  edge [
+    source 508
+    target 515
+    weight 0.9674667800465354
+  ]
+  edge [
+    source 508
+    target 520
+    weight 0.999138636693642
+  ]
+  edge [
+    source 509
+    target 556
+    weight 0.9335753658487348
+  ]
+  edge [
+    source 510
+    target 539
+    weight 0.7855849393713106
+  ]
+  edge [
+    source 510
+    target 533
+    weight 0.756759667612555
+  ]
+  edge [
+    source 511
+    target 515
+    weight 0.9380683241552955
+  ]
+  edge [
+    source 511
+    target 529
+    weight 0.9091154238536465
+  ]
+  edge [
+    source 512
+    target 544
+    weight 0.9837199851727424
+  ]
+  edge [
+    source 512
+    target 516
+    weight 0.9385303612363958
+  ]
+  edge [
+    source 513
+    target 525
+    weight 0.8973661544490071
+  ]
+  edge [
+    source 513
+    target 518
+    weight 0.8951227361010416
+  ]
+  edge [
+    source 513
+    target 543
+    weight 0.9257928998435495
+  ]
+  edge [
+    source 513
+    target 558
+    weight 0.9286084242816508
+  ]
+  edge [
+    source 513
+    target 534
+    weight 0.9955780284422782
+  ]
+  edge [
+    source 514
+    target 527
+    weight 0.9505455175885624
+  ]
+  edge [
+    source 515
+    target 529
+    weight 0.8528123821181214
+  ]
+  edge [
+    source 515
+    target 520
+    weight 0.966633439662083
+  ]
+  edge [
+    source 515
+    target 535
+    weight 0.9193948192550141
+  ]
+  edge [
+    source 516
+    target 552
+    weight 0.9206784441996414
+  ]
+  edge [
+    source 516
+    target 544
+    weight 0.9540625130957249
+  ]
+  edge [
+    source 517
+    target 562
+    weight 0.9915417341255055
+  ]
+  edge [
+    source 517
+    target 548
+    weight 0.968857277499027
+  ]
+  edge [
+    source 517
+    target 518
+    weight 0.9695333828901095
+  ]
+  edge [
+    source 517
+    target 531
+    weight 0.958536060806451
+  ]
+  edge [
+    source 517
+    target 525
+    weight 0.9719632943340025
+  ]
+  edge [
+    source 518
+    target 531
+    weight 0.9293327096558381
+  ]
+  edge [
+    source 518
+    target 525
+    weight 0.9974999966994041
+  ]
+  edge [
+    source 518
+    target 548
+    weight 0.9993026486730481
+  ]
+  edge [
+    source 520
+    target 535
+    weight 0.8887177765439734
+  ]
+  edge [
+    source 521
+    target 547
+    weight 0.9422348599064961
+  ]
+  edge [
+    source 522
+    target 559
+    weight 0.8786010838438248
+  ]
+  edge [
+    source 523
+    target 583
+    weight 0.9207162249925285
+  ]
+  edge [
+    source 523
+    target 555
+    weight 0.9544932595586506
+  ]
+  edge [
+    source 524
+    target 545
+    weight 0.723835248499807
+  ]
+  edge [
+    source 525
+    target 548
+    weight 0.9968043887530713
+  ]
+  edge [
+    source 525
+    target 568
+    weight 0.9897936974698445
+  ]
+  edge [
+    source 525
+    target 531
+    weight 0.9316618673993758
+  ]
+  edge [
+    source 525
+    target 543
+    weight 0.969294703600183
+  ]
+  edge [
+    source 525
+    target 558
+    weight 0.9663558190775494
+  ]
+  edge [
+    source 526
+    target 567
+    weight 0.8976239552625591
+  ]
+  edge [
+    source 526
+    target 579
+    weight 0.9019809045256726
+  ]
+  edge [
+    source 529
+    target 577
+    weight 0.9011300125400168
+  ]
+  edge [
+    source 529
+    target 569
+    weight 0.9040560026770321
+  ]
+  edge [
+    source 529
+    target 535
+    weight 0.9275801475683271
+  ]
+  edge [
+    source 530
+    target 547
+    weight 0.8528123821181214
+  ]
+  edge [
+    source 530
+    target 564
+    weight 0.9676255929837771
+  ]
+  edge [
+    source 531
+    target 591
+    weight 0.9403421986927404
+  ]
+  edge [
+    source 531
+    target 543
+    weight 0.9611750316379218
+  ]
+  edge [
+    source 531
+    target 548
+    weight 0.9286846382575799
+  ]
+  edge [
+    source 531
+    target 562
+    weight 0.9504285079538595
+  ]
+  edge [
+    source 531
+    target 576
+    weight 0.9552769332521169
+  ]
+  edge [
+    source 531
+    target 590
+    weight 0.9548850160103072
+  ]
+  edge [
+    source 531
+    target 587
+    weight 0.937068023978233
+  ]
+  edge [
+    source 531
+    target 558
+    weight 0.9640981603326079
+  ]
+  edge [
+    source 531
+    target 568
+    weight 0.9412687409315014
+  ]
+  edge [
+    source 532
+    target 536
+    weight 0.6592119452126252
+  ]
+  edge [
+    source 532
+    target 589
+    weight 0.8153743305585207
+  ]
+  edge [
+    source 533
+    target 536
+    weight 0.9643355600248512
+  ]
+  edge [
+    source 533
+    target 554
+    weight 0.9776835432494184
+  ]
+  edge [
+    source 533
+    target 563
+    weight 0.9933336185063435
+  ]
+  edge [
+    source 533
+    target 539
+    weight 0.963307250032283
+  ]
+  edge [
+    source 533
+    target 586
+    weight 0.9825097224969739
+  ]
+  edge [
+    source 534
+    target 574
+    weight 0.9212453189103003
+  ]
+  edge [
+    source 534
+    target 572
+    weight 0.9896312461606828
+  ]
+  edge [
+    source 534
+    target 543
+    weight 0.9216990699721005
+  ]
+  edge [
+    source 534
+    target 571
+    weight 0.9331923520129883
+  ]
+  edge [
+    source 535
+    target 580
+    weight 0.9040189055219389
+  ]
+  edge [
+    source 535
+    target 577
+    weight 0.9714847982703706
+  ]
+  edge [
+    source 536
+    target 554
+    weight 0.9428150072065088
+  ]
+  edge [
+    source 538
+    target 547
+    weight 0.46641659609273983
+  ]
+  edge [
+    source 539
+    target 573
+    weight 0.9879676567269727
+  ]
+  edge [
+    source 539
+    target 563
+    weight 0.9568854764079627
+  ]
+  edge [
+    source 543
+    target 572
+    weight 0.9313560718175299
+  ]
+  edge [
+    source 543
+    target 576
+    weight 0.9938636583435235
+  ]
+  edge [
+    source 543
+    target 568
+    weight 0.9792896298268398
+  ]
+  edge [
+    source 543
+    target 558
+    weight 0.9969680175577996
+  ]
+  edge [
+    source 544
+    target 552
+    weight 0.8783847902261719
+  ]
+  edge [
+    source 546
+    target 561
+    weight 0.8142709352339949
+  ]
+  edge [
+    source 547
+    target 564
+    weight 0.8813454173823401
+  ]
+  edge [
+    source 548
+    target 562
+    weight 0.9771220354668326
+  ]
+  edge [
+    source 548
+    target 587
+    weight 0.9910535996254977
+  ]
+  edge [
+    source 548
+    target 590
+    weight 0.9725617458506182
+  ]
+  edge [
+    source 548
+    target 576
+    weight 0.9721627372452017
+  ]
+  edge [
+    source 548
+    target 591
+    weight 0.9876028530343881
+  ]
+  edge [
+    source 548
+    target 568
+    weight 0.9866307015980706
+  ]
+  edge [
+    source 548
+    target 558
+    weight 0.9632677215535702
+  ]
+  edge [
+    source 549
+    target 556
+    weight 0.8645457458049746
+  ]
+  edge [
+    source 553
+    target 615
+    weight 0.8104041693215135
+  ]
+  edge [
+    source 554
+    target 586
+    weight 0.9605835867678443
+  ]
+  edge [
+    source 554
+    target 563
+    weight 0.9711659317700481
+  ]
+  edge [
+    source 554
+    target 585
+    weight 0.9374141609646743
+  ]
+  edge [
+    source 555
+    target 574
+    weight 0.9038705321234374
+  ]
+  edge [
+    source 555
+    target 583
+    weight 0.8788174307216544
+  ]
+  edge [
+    source 555
+    target 584
+    weight 0.9513649884805933
+  ]
+  edge [
+    source 558
+    target 568
+    weight 0.9763204408633759
+  ]
+  edge [
+    source 558
+    target 576
+    weight 0.990850281181485
+  ]
+  edge [
+    source 558
+    target 587
+    weight 0.9719632943340025
+  ]
+  edge [
+    source 558
+    target 562
+    weight 0.9858213064383066
+  ]
+  edge [
+    source 558
+    target 572
+    weight 0.934188514992693
+  ]
+  edge [
+    source 558
+    target 590
+    weight 0.9904437694195762
+  ]
+  edge [
+    source 558
+    target 591
+    weight 0.9753593953216633
+  ]
+  edge [
+    source 558
+    target 599
+    weight 0.9237058120175178
+  ]
+  edge [
+    source 558
+    target 606
+    weight 0.9856595071035161
+  ]
+  edge [
+    source 561
+    target 582
+    weight 0.8761888253514134
+  ]
+  edge [
+    source 562
+    target 590
+    weight 0.9953329374932829
+  ]
+  edge [
+    source 562
+    target 576
+    weight 0.9949245866517977
+  ]
+  edge [
+    source 562
+    target 591
+    weight 0.9893876191878614
+  ]
+  edge [
+    source 562
+    target 568
+    weight 0.9903624870827183
+  ]
+  edge [
+    source 562
+    target 606
+    weight 0.9998358735668079
+  ]
+  edge [
+    source 562
+    target 587
+    weight 0.9859426733690998
+  ]
+  edge [
+    source 563
+    target 586
+    weight 0.9891034635215051
+  ]
+  edge [
+    source 563
+    target 585
+    weight 0.9103846970876958
+  ]
+  edge [
+    source 563
+    target 573
+    weight 0.9453719018828478
+  ]
+  edge [
+    source 564
+    target 592
+    weight 0.9232889594024511
+  ]
+  edge [
+    source 564
+    target 623
+    weight 0.8514836032398856
+  ]
+  edge [
+    source 565
+    target 582
+    weight 0.41205366293858553
+  ]
+  edge [
+    source 567
+    target 579
+    weight 0.9951695770484136
+  ]
+  edge [
+    source 568
+    target 576
+    weight 0.9853359880962199
+  ]
+  edge [
+    source 568
+    target 590
+    weight 0.9857404034511954
+  ]
+  edge [
+    source 568
+    target 591
+    weight 0.9990156453747269
+  ]
+  edge [
+    source 568
+    target 599
+    weight 0.9018328656170055
+  ]
+  edge [
+    source 568
+    target 606
+    weight 0.9905250584275453
+  ]
+  edge [
+    source 568
+    target 587
+    weight 0.9955371757601221
+  ]
+  edge [
+    source 568
+    target 572
+    weight 0.9120673428071684
+  ]
+  edge [
+    source 569
+    target 577
+    weight 0.9967634857482821
+  ]
+  edge [
+    source 569
+    target 594
+    weight 0.9119924925559132
+  ]
+  edge [
+    source 569
+    target 593
+    weight 0.9782855168040152
+  ]
+  edge [
+    source 569
+    target 573
+    weight 0.9933743807637256
+  ]
+  edge [
+    source 569
+    target 628
+    weight 0.9478968330825973
+  ]
+  edge [
+    source 571
+    target 607
+    weight 0.9566106554733744
+  ]
+  edge [
+    source 571
+    target 601
+    weight 0.8901411872153111
+  ]
+  edge [
+    source 571
+    target 572
+    weight 0.9235163102302322
+  ]
+  edge [
+    source 571
+    target 603
+    weight 0.841134706033412
+  ]
+  edge [
+    source 571
+    target 574
+    weight 0.8596990859348587
+  ]
+  edge [
+    source 572
+    target 599
+    weight 0.9887788141184147
+  ]
+  edge [
+    source 572
+    target 591
+    weight 0.9111695450997155
+  ]
+  edge [
+    source 572
+    target 576
+    weight 0.9256409527570237
+  ]
+  edge [
+    source 572
+    target 607
+    weight 0.8834455428696946
+  ]
+  edge [
+    source 573
+    target 618
+    weight 0.9303247525494504
+  ]
+  edge [
+    source 573
+    target 594
+    weight 0.9180753099901324
+  ]
+  edge [
+    source 574
+    target 601
+    weight 0.9658008170864596
+  ]
+  edge [
+    source 574
+    target 584
+    weight 0.9500775654641145
+  ]
+  edge [
+    source 574
+    target 583
+    weight 0.9722824226353232
+  ]
+  edge [
+    source 574
+    target 603
+    weight 0.9784059559848673
+  ]
+  edge [
+    source 576
+    target 606
+    weight 0.9947612932280956
+  ]
+  edge [
+    source 576
+    target 587
+    weight 0.98093860676412
+  ]
+  edge [
+    source 576
+    target 599
+    weight 0.9152541635665294
+  ]
+  edge [
+    source 576
+    target 590
+    weight 0.9995897344234247
+  ]
+  edge [
+    source 576
+    target 591
+    weight 0.9843660680588893
+  ]
+  edge [
+    source 577
+    target 626
+    weight 0.9395707769004618
+  ]
+  edge [
+    source 577
+    target 580
+    weight 0.9305538358721126
+  ]
+  edge [
+    source 577
+    target 593
+    weight 0.9751192817866299
+  ]
+  edge [
+    source 579
+    target 608
+    weight 0.9224179662671661
+  ]
+  edge [
+    source 579
+    target 621
+    weight 0.9869546457034369
+  ]
+  edge [
+    source 580
+    target 626
+    weight 0.9904031274172925
+  ]
+  edge [
+    source 580
+    target 633
+    weight 0.9896312461606828
+  ]
+  edge [
+    source 580
+    target 593
+    weight 0.9074009880994078
+  ]
+  edge [
+    source 581
+    target 624
+    weight 0.7085535381219896
+  ]
+  edge [
+    source 583
+    target 589
+    weight 0.8103709150882928
+  ]
+  edge [
+    source 583
+    target 616
+    weight 0.8296850233733141
+  ]
+  edge [
+    source 583
+    target 601
+    weight 0.9390311582199975
+  ]
+  edge [
+    source 583
+    target 584
+    weight 0.9237437170409191
+  ]
+  edge [
+    source 584
+    target 603
+    weight 0.9295615486976924
+  ]
+  edge [
+    source 584
+    target 616
+    weight 0.8981766349990358
+  ]
+  edge [
+    source 584
+    target 589
+    weight 0.8772681211669837
+  ]
+  edge [
+    source 584
+    target 601
+    weight 0.9837199851727424
+  ]
+  edge [
+    source 585
+    target 586
+    weight 0.9004646570264162
+  ]
+  edge [
+    source 585
+    target 627
+    weight 0.9155546723493181
+  ]
+  edge [
+    source 585
+    target 617
+    weight 0.9889817075058188
+  ]
+  edge [
+    source 586
+    target 627
+    weight 0.9835181712478395
+  ]
+  edge [
+    source 587
+    target 590
+    weight 0.9813412172844463
+  ]
+  edge [
+    source 587
+    target 606
+    weight 0.9861045191865885
+  ]
+  edge [
+    source 587
+    target 599
+    weight 0.8978081440440114
+  ]
+  edge [
+    source 587
+    target 591
+    weight 0.9965181029639432
+  ]
+  edge [
+    source 588
+    target 656
+    weight 0.6264824080229399
+  ]
+  edge [
+    source 589
+    target 616
+    weight 0.9767211559315674
+  ]
+  edge [
+    source 590
+    target 649
+    weight 0.997418135282077
+  ]
+  edge [
+    source 590
+    target 591
+    weight 0.9847700853257396
+  ]
+  edge [
+    source 590
+    target 599
+    weight 0.9148786662894008
+  ]
+  edge [
+    source 590
+    target 606
+    weight 0.9951695770484135
+  ]
+  edge [
+    source 591
+    target 649
+    weight 0.9873192099592609
+  ]
+  edge [
+    source 591
+    target 599
+    weight 0.9009451422645121
+  ]
+  edge [
+    source 591
+    target 606
+    weight 0.9895500305048333
+  ]
+  edge [
+    source 592
+    target 623
+    weight 0.9222287286863716
+  ]
+  edge [
+    source 592
+    target 637
+    weight 0.9681021882306987
+  ]
+  edge [
+    source 593
+    target 594
+    weight 0.8921890469014436
+  ]
+  edge [
+    source 593
+    target 634
+    weight 0.9797719700897671
+  ]
+  edge [
+    source 593
+    target 628
+    weight 0.9273137432290981
+  ]
+  edge [
+    source 593
+    target 658
+    weight 0.978084817781125
+  ]
+  edge [
+    source 593
+    target 626
+    weight 0.916193581158884
+  ]
+  edge [
+    source 594
+    target 638
+    weight 0.918678279081865
+  ]
+  edge [
+    source 594
+    target 628
+    weight 0.9621221009780971
+  ]
+  edge [
+    source 594
+    target 634
+    weight 0.9106088703677662
+  ]
+  edge [
+    source 594
+    target 618
+    weight 0.9868331542015305
+  ]
+  edge [
+    source 595
+    target 642
+    weight 0.8811646059923531
+  ]
+  edge [
+    source 595
+    target 609
+    weight 0.9669111400031489
+  ]
+  edge [
+    source 596
+    target 641
+    weight 1.0
+  ]
+  edge [
+    source 597
+    target 654
+    weight 0.9997538204520456
+  ]
+  edge [
+    source 597
+    target 620
+    weight 0.995864044161073
+  ]
+  edge [
+    source 597
+    target 619
+    weight 0.9893876191878613
+  ]
+  edge [
+    source 597
+    target 614
+    weight 0.9882109340480003
+  ]
+  edge [
+    source 597
+    target 640
+    weight 0.9541016638311804
+  ]
+  edge [
+    source 599
+    target 607
+    weight 0.8934713509789
+  ]
+  edge [
+    source 599
+    target 606
+    weight 0.9104594153818397
+  ]
+  edge [
+    source 599
+    target 672
+    weight 0.8952696735193014
+  ]
+  edge [
+    source 599
+    target 649
+    weight 0.9125165733397278
+  ]
+  edge [
+    source 599
+    target 648
+    weight 0.9917451944528475
+  ]
+  edge [
+    source 601
+    target 663
+    weight 0.9863473377283164
+  ]
+  edge [
+    source 601
+    target 603
+    weight 0.9449452717324436
+  ]
+  edge [
+    source 601
+    target 668
+    weight 0.9458763494920025
+  ]
+  edge [
+    source 601
+    target 616
+    weight 0.8835543060637551
+  ]
+  edge [
+    source 601
+    target 682
+    weight 0.9424282026639733
+  ]
+  edge [
+    source 601
+    target 607
+    weight 0.8515185445658864
+  ]
+  edge [
+    source 603
+    target 607
+    weight 0.8046384224800264
+  ]
+  edge [
+    source 603
+    target 668
+    weight 0.9990156453747269
+  ]
+  edge [
+    source 603
+    target 663
+    weight 0.9320442530722562
+  ]
+  edge [
+    source 604
+    target 704
+    weight 0.6345547720749204
+  ]
+  edge [
+    source 604
+    target 690
+    weight 0.6713325571856169
+  ]
+  edge [
+    source 605
+    target 635
+    weight 0.8892649726205295
+  ]
+  edge [
+    source 606
+    target 676
+    weight 0.9863473377283164
+  ]
+  edge [
+    source 606
+    target 649
+    weight 0.9977456212654208
+  ]
+  edge [
+    source 606
+    target 672
+    weight 0.9833163987258369
+  ]
+  edge [
+    source 607
+    target 648
+    weight 0.9009081727608815
+  ]
+  edge [
+    source 607
+    target 668
+    weight 0.8054312524587237
+  ]
+  edge [
+    source 608
+    target 660
+    weight 0.8539329620208276
+  ]
+  edge [
+    source 608
+    target 621
+    weight 0.9103846970876958
+  ]
+  edge [
+    source 609
+    target 697
+    weight 0.9300957256224169
+  ]
+  edge [
+    source 609
+    target 642
+    weight 0.911319116655832
+  ]
+  edge [
+    source 612
+    target 662
+    weight 0.9923151055026596
+  ]
+  edge [
+    source 613
+    target 621
+    weight 0.8750031335567842
+  ]
+  edge [
+    source 613
+    target 632
+    weight 0.6124010127661355
+  ]
+  edge [
+    source 614
+    target 654
+    weight 0.988454271273676
+  ]
+  edge [
+    source 614
+    target 620
+    weight 0.984123737265233
+  ]
+  edge [
+    source 614
+    target 619
+    weight 0.9988106934865154
+  ]
+  edge [
+    source 614
+    target 639
+    weight 0.4971484159914424
+  ]
+  edge [
+    source 616
+    target 683
+    weight 0.8919328070130306
+  ]
+  edge [
+    source 616
+    target 684
+    weight 0.9610172774083058
+  ]
+  edge [
+    source 616
+    target 680
+    weight 0.8294126992358247
+  ]
+  edge [
+    source 616
+    target 663
+    weight 0.8957841444563466
+  ]
+  edge [
+    source 617
+    target 646
+    weight 0.46197836843618395
+  ]
+  edge [
+    source 618
+    target 638
+    weight 0.9309357667712216
+  ]
+  edge [
+    source 618
+    target 627
+    weight 0.9785264099932889
+  ]
+  edge [
+    source 618
+    target 634
+    weight 0.9227586917715191
+  ]
+  edge [
+    source 619
+    target 620
+    weight 0.9852955556873192
+  ]
+  edge [
+    source 619
+    target 673
+    weight 0.9889005451553878
+  ]
+  edge [
+    source 619
+    target 654
+    weight 0.9896312461606828
+  ]
+  edge [
+    source 619
+    target 639
+    weight 0.49655715414213525
+  ]
+  edge [
+    source 619
+    target 640
+    weight 0.9643355600248512
+  ]
+  edge [
+    source 620
+    target 639
+    weight 0.4892555571209889
+  ]
+  edge [
+    source 621
+    target 660
+    weight 0.77740750096253
+  ]
+  edge [
+    source 623
+    target 637
+    weight 0.9526150647090621
+  ]
+  edge [
+    source 623
+    target 653
+    weight 0.7747642303429548
+  ]
+  edge [
+    source 624
+    target 669
+    weight 0.9128161832793977
+  ]
+  edge [
+    source 625
+    target 681
+    weight 0.7723200765402097
+  ]
+  edge [
+    source 626
+    target 658
+    weight 0.8961150318800234
+  ]
+  edge [
+    source 626
+    target 628
+    weight 0.988008198787725
+  ]
+  edge [
+    source 626
+    target 633
+    weight 0.9801338811874127
+  ]
+  edge [
+    source 627
+    target 674
+    weight 0.9904031274172925
+  ]
+  edge [
+    source 627
+    target 638
+    weight 0.9513649884805933
+  ]
+  edge [
+    source 628
+    target 658
+    weight 0.9069914935721654
+  ]
+  edge [
+    source 628
+    target 634
+    weight 0.9464587389085414
+  ]
+  edge [
+    source 628
+    target 677
+    weight 0.909451235625138
+  ]
+  edge [
+    source 628
+    target 638
+    weight 0.9548458331306733
+  ]
+  edge [
+    source 633
+    target 658
+    weight 0.8783127041869495
+  ]
+  edge [
+    source 633
+    target 703
+    weight 0.9560612503701981
+  ]
+  edge [
+    source 634
+    target 728
+    weight 0.9473524325426278
+  ]
+  edge [
+    source 634
+    target 638
+    weight 0.9912162844187811
+  ]
+  edge [
+    source 634
+    target 658
+    weight 0.9583000888323037
+  ]
+  edge [
+    source 634
+    target 677
+    weight 0.9608989787277143
+  ]
+  edge [
+    source 636
+    target 645
+    weight 0.9025362668972956
+  ]
+  edge [
+    source 636
+    target 694
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 636
+    target 696
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 636
+    target 695
+    weight 0.9579462397881271
+  ]
+  edge [
+    source 636
+    target 689
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 636
+    target 686
+    weight 0.9712456385818878
+  ]
+  edge [
+    source 636
+    target 692
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 636
+    target 691
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 636
+    target 693
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 637
+    target 665
+    weight 0.7298301525389349
+  ]
+  edge [
+    source 637
+    target 653
+    weight 0.81330251750698
+  ]
+  edge [
+    source 638
+    target 718
+    weight 0.9285322165603423
+  ]
+  edge [
+    source 638
+    target 674
+    weight 0.9605835867678444
+  ]
+  edge [
+    source 638
+    target 677
+    weight 0.9524587153962865
+  ]
+  edge [
+    source 638
+    target 705
+    weight 0.9583394134601452
+  ]
+  edge [
+    source 639
+    target 654
+    weight 0.49140847524368353
+  ]
+  edge [
+    source 640
+    target 652
+    weight 0.9698517133696235
+  ]
+  edge [
+    source 640
+    target 673
+    weight 0.9536319610213015
+  ]
+  edge [
+    source 640
+    target 654
+    weight 0.9543366019844534
+  ]
+  edge [
+    source 641
+    target 698
+    weight 0.9645334377560222
+  ]
+  edge [
+    source 642
+    target 697
+    weight 0.9798121758338156
+  ]
+  edge [
+    source 643
+    target 787
+    weight 0.434596054524653
+  ]
+  edge [
+    source 645
+    target 678
+    weight 0.6842654261327538
+  ]
+  edge [
+    source 645
+    target 662
+    weight 0.8918230124477023
+  ]
+  edge [
+    source 646
+    target 684
+    weight 0.47931954173188995
+  ]
+  edge [
+    source 647
+    target 670
+    weight 0.9741594186114101
+  ]
+  edge [
+    source 648
+    target 676
+    weight 0.8906161638809033
+  ]
+  edge [
+    source 648
+    target 649
+    weight 0.9049839264682544
+  ]
+  edge [
+    source 648
+    target 672
+    weight 0.8878793964521369
+  ]
+  edge [
+    source 649
+    target 661
+    weight 0.9764807071589227
+  ]
+  edge [
+    source 649
+    target 676
+    weight 0.984123737265233
+  ]
+  edge [
+    source 649
+    target 672
+    weight 0.9810996311471863
+  ]
+  edge [
+    source 650
+    target 685
+    weight 0.8933247087129046
+  ]
+  edge [
+    source 652
+    target 654
+    weight 0.9840025942406546
+  ]
+  edge [
+    source 652
+    target 673
+    weight 0.9832760491890368
+  ]
+  edge [
+    source 653
+    target 681
+    weight 0.7665421372909319
+  ]
+  edge [
+    source 654
+    target 673
+    weight 0.9992616431543268
+  ]
+  edge [
+    source 655
+    target 656
+    weight 0.8093739223598312
+  ]
+  edge [
+    source 656
+    target 659
+    weight 0.937144932261591
+  ]
+  edge [
+    source 657
+    target 661
+    weight 0.9610567135382027
+  ]
+  edge [
+    source 657
+    target 672
+    weight 0.9968452934363489
+  ]
+  edge [
+    source 657
+    target 679
+    weight 0.9970498420324709
+  ]
+  edge [
+    source 657
+    target 676
+    weight 0.9999179334159418
+  ]
+  edge [
+    source 657
+    target 667
+    weight 0.9906876564590074
+  ]
+  edge [
+    source 658
+    target 703
+    weight 0.918678279081865
+  ]
+  edge [
+    source 658
+    target 714
+    weight 0.9134906653656292
+  ]
+  edge [
+    source 660
+    target 755
+    weight 0.7542175505510277
+  ]
+  edge [
+    source 660
+    target 732
+    weight 0.7635597256505167
+  ]
+  edge [
+    source 660
+    target 727
+    weight 0.8308093058891283
+  ]
+  edge [
+    source 661
+    target 667
+    weight 0.9700905298177289
+  ]
+  edge [
+    source 661
+    target 676
+    weight 0.9609778428966365
+  ]
+  edge [
+    source 661
+    target 679
+    weight 0.9639003719002684
+  ]
+  edge [
+    source 661
+    target 672
+    weight 0.9580248616159627
+  ]
+  edge [
+    source 662
+    target 675
+    weight 0.9122544953129468
+  ]
+  edge [
+    source 662
+    target 731
+    weight 0.9908096224983433
+  ]
+  edge [
+    source 663
+    target 682
+    weight 0.9295615486976924
+  ]
+  edge [
+    source 663
+    target 725
+    weight 0.9244262735082841
+  ]
+  edge [
+    source 663
+    target 687
+    weight 0.9792896298268398
+  ]
+  edge [
+    source 663
+    target 680
+    weight 0.925906876526819
+  ]
+  edge [
+    source 663
+    target 742
+    weight 0.9190553358491317
+  ]
+  edge [
+    source 663
+    target 668
+    weight 0.9329626191416153
+  ]
+  edge [
+    source 663
+    target 683
+    weight 0.9957005965475606
+  ]
+  edge [
+    source 665
+    target 747
+    weight 0.6951330895447098
+  ]
+  edge [
+    source 665
+    target 667
+    weight 0.6900741787707814
+  ]
+  edge [
+    source 666
+    target 719
+    weight 0.7332522867945986
+  ]
+  edge [
+    source 667
+    target 676
+    weight 0.9906063541071731
+  ]
+  edge [
+    source 667
+    target 679
+    weight 0.9936189894373842
+  ]
+  edge [
+    source 667
+    target 747
+    weight 0.9927223853244538
+  ]
+  edge [
+    source 668
+    target 682
+    weight 0.9963545480020924
+  ]
+  edge [
+    source 668
+    target 687
+    weight 0.9526932489896619
+  ]
+  edge [
+    source 668
+    target 725
+    weight 0.9908502811814849
+  ]
+  edge [
+    source 669
+    target 670
+    weight 0.9732005002819465
+  ]
+  edge [
+    source 671
+    target 688
+    weight 0.9451003876880831
+  ]
+  edge [
+    source 672
+    target 679
+    weight 0.9939044423515238
+  ]
+  edge [
+    source 672
+    target 676
+    weight 0.9969271078386441
+  ]
+  edge [
+    source 674
+    target 737
+    weight 0.9622405502403331
+  ]
+  edge [
+    source 674
+    target 718
+    weight 0.966633439662083
+  ]
+  edge [
+    source 674
+    target 713
+    weight 0.9695731684853592
+  ]
+  edge [
+    source 674
+    target 705
+    weight 0.9976637396905247
+  ]
+  edge [
+    source 675
+    target 731
+    weight 0.9207162249925285
+  ]
+  edge [
+    source 676
+    target 679
+    weight 0.9969680175577996
+  ]
+  edge [
+    source 677
+    target 748
+    weight 0.9274279071472069
+  ]
+  edge [
+    source 677
+    target 728
+    weight 0.9103099849254269
+  ]
+  edge [
+    source 677
+    target 705
+    weight 0.9127787266578805
+  ]
+  edge [
+    source 678
+    target 752
+    weight 0.8360075209426512
+  ]
+  edge [
+    source 678
+    target 766
+    weight 0.591603039082839
+  ]
+  edge [
+    source 678
+    target 764
+    weight 0.5915787631645003
+  ]
+  edge [
+    source 678
+    target 771
+    weight 0.5915787631645003
+  ]
+  edge [
+    source 678
+    target 760
+    weight 0.5915787631645003
+  ]
+  edge [
+    source 679
+    target 747
+    weight 0.9863878132979533
+  ]
+  edge [
+    source 680
+    target 742
+    weight 0.992600183829082
+  ]
+  edge [
+    source 680
+    target 684
+    weight 0.8630570112876685
+  ]
+  edge [
+    source 680
+    target 725
+    weight 0.9984009158414626
+  ]
+  edge [
+    source 680
+    target 729
+    weight 0.866819233141543
+  ]
+  edge [
+    source 680
+    target 683
+    weight 0.929904912919867
+  ]
+  edge [
+    source 681
+    target 736
+    weight 0.9035367810077081
+  ]
+  edge [
+    source 682
+    target 725
+    weight 0.9944755942233167
+  ]
+  edge [
+    source 682
+    target 742
+    weight 0.988697668418751
+  ]
+  edge [
+    source 682
+    target 683
+    weight 0.9335753658487347
+  ]
+  edge [
+    source 682
+    target 687
+    weight 0.9492202514817395
+  ]
+  edge [
+    source 683
+    target 725
+    weight 0.9284179167046707
+  ]
+  edge [
+    source 683
+    target 742
+    weight 0.9230237875078264
+  ]
+  edge [
+    source 683
+    target 729
+    weight 0.9321589993752831
+  ]
+  edge [
+    source 683
+    target 684
+    weight 0.9281131858715549
+  ]
+  edge [
+    source 684
+    target 729
+    weight 0.9956597388359286
+  ]
+  edge [
+    source 684
+    target 753
+    weight 0.9502335239030922
+  ]
+  edge [
+    source 685
+    target 746
+    weight 0.9063590018505887
+  ]
+  edge [
+    source 686
+    target 741
+    weight 0.8622428385148482
+  ]
+  edge [
+    source 686
+    target 766
+    weight 0.9304011073901377
+  ]
+  edge [
+    source 686
+    target 693
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 691
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 764
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 689
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 696
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 707
+    weight 0.9233268473199645
+  ]
+  edge [
+    source 686
+    target 694
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 760
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 771
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 686
+    target 695
+    weight 0.9304011073901377
+  ]
+  edge [
+    source 686
+    target 692
+    weight 0.9303629291864892
+  ]
+  edge [
+    source 687
+    target 742
+    weight 0.9384918494558563
+  ]
+  edge [
+    source 687
+    target 759
+    weight 0.9735599839904405
+  ]
+  edge [
+    source 687
+    target 725
+    weight 0.943976373641109
+  ]
+  edge [
+    source 687
+    target 758
+    weight 0.9540625130957249
+  ]
+  edge [
+    source 687
+    target 710
+    weight 0.9349555177521223
+  ]
+  edge [
+    source 688
+    target 730
+    weight 0.9859426733690998
+  ]
+  edge [
+    source 689
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 695
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 689
+    target 694
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 693
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 689
+    target 691
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 692
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 689
+    target 696
+    weight 1.0
+  ]
+  edge [
+    source 690
+    target 744
+    weight 0.9417323543489808
+  ]
+  edge [
+    source 690
+    target 735
+    weight 0.9850529960728186
+  ]
+  edge [
+    source 690
+    target 704
+    weight 0.9452167413645518
+  ]
+  edge [
+    source 691
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 691
+    target 695
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 691
+    target 694
+    weight 1.0
+  ]
+  edge [
+    source 691
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 691
+    target 696
+    weight 1.0
+  ]
+  edge [
+    source 691
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 691
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 691
+    target 693
+    weight 1.0
+  ]
+  edge [
+    source 691
+    target 692
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 693
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 692
+    target 694
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 695
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 692
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 696
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 692
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 693
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 693
+    target 695
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 693
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 693
+    target 694
+    weight 1.0
+  ]
+  edge [
+    source 693
+    target 696
+    weight 1.0
+  ]
+  edge [
+    source 693
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 693
+    target 771
+    weight 1.0
+  ]
+  edge [
+    source 693
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 694
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 694
+    target 771
+    weight 1.0
+  ]
+  edge [
+    source 694
+    target 696
+    weight 1.0
+  ]
+  edge [
+    source 694
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 694
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 694
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 694
+    target 695
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 695
+    target 741
+    weight 0.8022316917934303
+  ]
+  edge [
+    source 695
+    target 764
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 695
+    target 707
+    weight 0.8590643212295396
+  ]
+  edge [
+    source 695
+    target 766
+    weight 1.0
+  ]
+  edge [
+    source 695
+    target 696
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 695
+    target 771
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 695
+    target 760
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 696
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 696
+    target 760
+    weight 1.0
+  ]
+  edge [
+    source 696
+    target 771
+    weight 1.0
+  ]
+  edge [
+    source 696
+    target 741
+    weight 0.8021987729107471
+  ]
+  edge [
+    source 696
+    target 707
+    weight 0.8590290702691284
+  ]
+  edge [
+    source 696
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 697
+    target 712
+    weight 0.8902142440574008
+  ]
+  edge [
+    source 697
+    target 720
+    weight 0.9009451422645121
+  ]
+  edge [
+    source 697
+    target 744
+    weight 0.9423895309388867
+  ]
+  edge [
+    source 698
+    target 762
+    weight 0.999835873566808
+  ]
+  edge [
+    source 698
+    target 719
+    weight 0.9713652110656953
+  ]
+  edge [
+    source 698
+    target 739
+    weight 0.9822678486976288
+  ]
+  edge [
+    source 699
+    target 722
+    weight 0.7581583712808517
+  ]
+  edge [
+    source 699
+    target 738
+    weight 0.9514821134077601
+  ]
+  edge [
+    source 700
+    target 761
+    weight 0.9650481099032022
+  ]
+  edge [
+    source 700
+    target 726
+    weight 0.979249445525014
+  ]
+  edge [
+    source 700
+    target 749
+    weight 0.9800534449478641
+  ]
+  edge [
+    source 700
+    target 750
+    weight 0.9670698617302023
+  ]
+  edge [
+    source 700
+    target 772
+    weight 0.963465380168634
+  ]
+  edge [
+    source 700
+    target 733
+    weight 0.9741594186114101
+  ]
+  edge [
+    source 701
+    target 813
+    weight 0.3756665031585101
+  ]
+  edge [
+    source 702
+    target 745
+    weight 0.8981029247107206
+  ]
+  edge [
+    source 703
+    target 714
+    weight 0.9943531769125746
+  ]
+  edge [
+    source 703
+    target 734
+    weight 0.926476970457045
+  ]
+  edge [
+    source 704
+    target 735
+    weight 0.95955927765604
+  ]
+  edge [
+    source 704
+    target 744
+    weight 0.9963136634561288
+  ]
+  edge [
+    source 704
+    target 757
+    weight 0.9962727805878271
+  ]
+  edge [
+    source 705
+    target 718
+    weight 0.968897035349739
+  ]
+  edge [
+    source 705
+    target 728
+    weight 0.997295355752327
+  ]
+  edge [
+    source 705
+    target 737
+    weight 0.9599925058346389
+  ]
+  edge [
+    source 705
+    target 713
+    weight 0.9718436482277294
+  ]
+  edge [
+    source 707
+    target 741
+    weight 0.9338435690650413
+  ]
+  edge [
+    source 710
+    target 819
+    weight 0.9164191848195397
+  ]
+  edge [
+    source 710
+    target 758
+    weight 0.8920060108993043
+  ]
+  edge [
+    source 710
+    target 716
+    weight 0.9505455175885624
+  ]
+  edge [
+    source 710
+    target 805
+    weight 0.8855870119646664
+  ]
+  edge [
+    source 710
+    target 782
+    weight 0.9585753951175954
+  ]
+  edge [
+    source 710
+    target 759
+    weight 0.9102352788945302
+  ]
+  edge [
+    source 712
+    target 788
+    weight 0.8580426304367991
+  ]
+  edge [
+    source 712
+    target 726
+    weight 0.8836630826479248
+  ]
+  edge [
+    source 712
+    target 761
+    weight 0.8350817840620992
+  ]
+  edge [
+    source 712
+    target 750
+    weight 0.8368312596636743
+  ]
+  edge [
+    source 712
+    target 720
+    weight 0.9880892879003272
+  ]
+  edge [
+    source 713
+    target 718
+    weight 0.9969680175577996
+  ]
+  edge [
+    source 713
+    target 737
+    weight 0.9329626191416153
+  ]
+  edge [
+    source 714
+    target 728
+    weight 0.9938228760090597
+  ]
+  edge [
+    source 714
+    target 734
+    weight 0.9212453189103003
+  ]
+  edge [
+    source 714
+    target 748
+    weight 0.9876433801251224
+  ]
+  edge [
+    source 716
+    target 819
+    weight 0.8710981483623778
+  ]
+  edge [
+    source 716
+    target 759
+    weight 0.8652200643041706
+  ]
+  edge [
+    source 716
+    target 725
+    weight 0.8389285838923695
+  ]
+  edge [
+    source 716
+    target 857
+    weight 0.8346021759884191
+  ]
+  edge [
+    source 716
+    target 742
+    weight 0.83405438975305
+  ]
+  edge [
+    source 716
+    target 805
+    weight 0.8417907646576622
+  ]
+  edge [
+    source 716
+    target 832
+    weight 0.8616769104930038
+  ]
+  edge [
+    source 716
+    target 729
+    weight 0.9693742568341152
+  ]
+  edge [
+    source 716
+    target 851
+    weight 0.836728247952831
+  ]
+  edge [
+    source 716
+    target 791
+    weight 0.8903238405632219
+  ]
+  edge [
+    source 718
+    target 737
+    weight 0.9301338928611486
+  ]
+  edge [
+    source 719
+    target 739
+    weight 0.9889005451553878
+  ]
+  edge [
+    source 720
+    target 744
+    weight 0.849041270020322
+  ]
+  edge [
+    source 720
+    target 790
+    weight 0.9753593953216633
+  ]
+  edge [
+    source 720
+    target 735
+    weight 0.8880980280232148
+  ]
+  edge [
+    source 721
+    target 738
+    weight 0.3879805777959571
+  ]
+  edge [
+    source 722
+    target 801
+    weight 0.7379309435674434
+  ]
+  edge [
+    source 725
+    target 742
+    weight 0.9941899772723148
+  ]
+  edge [
+    source 725
+    target 791
+    weight 0.9422735252845306
+  ]
+  edge [
+    source 725
+    target 729
+    weight 0.8654331162375107
+  ]
+  edge [
+    source 726
+    target 749
+    weight 0.9597167925500757
+  ]
+  edge [
+    source 726
+    target 788
+    weight 0.9710065377696291
+  ]
+  edge [
+    source 726
+    target 810
+    weight 0.9497267525586887
+  ]
+  edge [
+    source 726
+    target 750
+    weight 0.9470026258832525
+  ]
+  edge [
+    source 726
+    target 733
+    weight 0.9539450705281933
+  ]
+  edge [
+    source 726
+    target 772
+    weight 0.9434729393126816
+  ]
+  edge [
+    source 726
+    target 761
+    weight 0.9450228265276736
+  ]
+  edge [
+    source 727
+    target 755
+    weight 0.9078106675079519
+  ]
+  edge [
+    source 727
+    target 732
+    weight 0.9190553358491316
+  ]
+  edge [
+    source 728
+    target 800
+    weight 0.9981960900673709
+  ]
+  edge [
+    source 728
+    target 789
+    weight 0.9825097224969739
+  ]
+  edge [
+    source 728
+    target 748
+    weight 0.9815425845072582
+  ]
+  edge [
+    source 729
+    target 753
+    weight 0.9543757639673708
+  ]
+  edge [
+    source 729
+    target 742
+    weight 0.8604049301628794
+  ]
+  edge [
+    source 729
+    target 791
+    weight 0.918452119278405
+  ]
+  edge [
+    source 730
+    target 751
+    weight 0.8423781982119807
+  ]
+  edge [
+    source 731
+    target 752
+    weight 0.7367206979491607
+  ]
+  edge [
+    source 732
+    target 755
+    weight 0.9877649713759721
+  ]
+  edge [
+    source 733
+    target 749
+    weight 0.9939860153884081
+  ]
+  edge [
+    source 733
+    target 772
+    weight 0.989022291178974
+  ]
+  edge [
+    source 733
+    target 788
+    weight 0.9824290912802447
+  ]
+  edge [
+    source 733
+    target 776
+    weight 0.9217747168743854
+  ]
+  edge [
+    source 733
+    target 810
+    weight 0.995578028442278
+  ]
+  edge [
+    source 733
+    target 750
+    weight 0.9927223853244539
+  ]
+  edge [
+    source 733
+    target 761
+    weight 0.9906470044490302
+  ]
+  edge [
+    source 734
+    target 748
+    weight 0.932771218284873
+  ]
+  edge [
+    source 734
+    target 777
+    weight 0.9343035252811768
+  ]
+  edge [
+    source 734
+    target 789
+    weight 0.9318530406218325
+  ]
+  edge [
+    source 734
+    target 823
+    weight 0.9029808029844935
+  ]
+  edge [
+    source 734
+    target 820
+    weight 0.9025362668972956
+  ]
+  edge [
+    source 735
+    target 744
+    weight 0.9560220192248059
+  ]
+  edge [
+    source 735
+    target 767
+    weight 0.9608595490703289
+  ]
+  edge [
+    source 735
+    target 802
+    weight 0.9734401413359013
+  ]
+  edge [
+    source 735
+    target 757
+    weight 0.9631491458492671
+  ]
+  edge [
+    source 736
+    target 813
+    weight 0.9007603099158528
+  ]
+  edge [
+    source 736
+    target 796
+    weight 0.9026473803982187
+  ]
+  edge [
+    source 737
+    target 778
+    weight 0.9377219456213238
+  ]
+  edge [
+    source 737
+    target 795
+    weight 0.9901186800933374
+  ]
+  edge [
+    source 739
+    target 762
+    weight 0.9824290912802447
+  ]
+  edge [
+    source 739
+    target 770
+    weight 0.790175879188263
+  ]
+  edge [
+    source 741
+    target 764
+    weight 0.8021987729107471
+  ]
+  edge [
+    source 741
+    target 771
+    weight 0.8021987729107471
+  ]
+  edge [
+    source 741
+    target 780
+    weight 0.9822678486976288
+  ]
+  edge [
+    source 741
+    target 760
+    weight 0.8021987729107471
+  ]
+  edge [
+    source 741
+    target 766
+    weight 0.8022316917934303
+  ]
+  edge [
+    source 742
+    target 759
+    weight 0.9639794824034914
+  ]
+  edge [
+    source 742
+    target 791
+    weight 0.9367988946869313
+  ]
+  edge [
+    source 744
+    target 767
+    weight 0.9186028862936523
+  ]
+  edge [
+    source 744
+    target 790
+    weight 0.870490686912712
+  ]
+  edge [
+    source 746
+    target 784
+    weight 0.8714199171990613
+  ]
+  edge [
+    source 747
+    target 769
+    weight 0.8175185123141798
+  ]
+  edge [
+    source 747
+    target 783
+    weight 0.9780446829177181
+  ]
+  edge [
+    source 748
+    target 789
+    weight 0.9990156453747269
+  ]
+  edge [
+    source 748
+    target 800
+    weight 0.9833163987258368
+  ]
+  edge [
+    source 748
+    target 820
+    weight 0.9675858873056014
+  ]
+  edge [
+    source 749
+    target 750
+    weight 0.9867521681755299
+  ]
+  edge [
+    source 749
+    target 776
+    weight 0.9273517963069072
+  ]
+  edge [
+    source 749
+    target 810
+    weight 0.9895906374995873
+  ]
+  edge [
+    source 749
+    target 788
+    weight 0.9883731522081349
+  ]
+  edge [
+    source 749
+    target 761
+    weight 0.9846892686087543
+  ]
+  edge [
+    source 749
+    target 772
+    weight 0.9830743263393024
+  ]
+  edge [
+    source 750
+    target 788
+    weight 0.9752793509078602
+  ]
+  edge [
+    source 750
+    target 776
+    weight 0.9150663956673131
+  ]
+  edge [
+    source 750
+    target 761
+    weight 0.9979094045766427
+  ]
+  edge [
+    source 750
+    target 810
+    weight 0.9971316732227485
+  ]
+  edge [
+    source 750
+    target 772
+    weight 0.9962727805878271
+  ]
+  edge [
+    source 751
+    target 773
+    weight 0.8849331327319429
+  ]
+  edge [
+    source 753
+    target 793
+    weight 0.9238574414441599
+  ]
+  edge [
+    source 753
+    target 792
+    weight 0.9481691506572245
+  ]
+  edge [
+    source 753
+    target 855
+    weight 0.9149162090836582
+  ]
+  edge [
+    source 753
+    target 827
+    weight 0.9094885557003396
+  ]
+  edge [
+    source 753
+    target 791
+    weight 0.9623590140851545
+  ]
+  edge [
+    source 753
+    target 843
+    weight 0.9298285988001648
+  ]
+  edge [
+    source 757
+    target 767
+    weight 0.9254510539681993
+  ]
+  edge [
+    source 757
+    target 786
+    weight 0.8565299457776443
+  ]
+  edge [
+    source 757
+    target 802
+    weight 0.9894282195179344
+  ]
+  edge [
+    source 758
+    target 805
+    weight 0.9928038613459942
+  ]
+  edge [
+    source 758
+    target 782
+    weight 0.9305538358721126
+  ]
+  edge [
+    source 758
+    target 818
+    weight 0.9633467801330792
+  ]
+  edge [
+    source 758
+    target 819
+    weight 0.9733602544287168
+  ]
+  edge [
+    source 758
+    target 781
+    weight 0.9765207778433053
+  ]
+  edge [
+    source 758
+    target 759
+    weight 0.9799730153094428
+  ]
+  edge [
+    source 759
+    target 851
+    weight 0.9670698617302023
+  ]
+  edge [
+    source 759
+    target 782
+    weight 0.9495708772942841
+  ]
+  edge [
+    source 759
+    target 805
+    weight 0.972920993614092
+  ]
+  edge [
+    source 759
+    target 832
+    weight 0.9959049102565412
+  ]
+  edge [
+    source 759
+    target 857
+    weight 0.9646126002170614
+  ]
+  edge [
+    source 759
+    target 819
+    weight 0.9932520990094427
+  ]
+  edge [
+    source 760
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 760
+    target 780
+    weight 0.8166802710425348
+  ]
+  edge [
+    source 760
+    target 764
+    weight 1.0
+  ]
+  edge [
+    source 760
+    target 771
+    weight 1.0
+  ]
+  edge [
+    source 761
+    target 788
+    weight 0.9732404363603573
+  ]
+  edge [
+    source 761
+    target 810
+    weight 0.9950470743102244
+  ]
+  edge [
+    source 761
+    target 772
+    weight 0.998359947324567
+  ]
+  edge [
+    source 762
+    target 770
+    weight 0.8043083070336929
+  ]
+  edge [
+    source 764
+    target 771
+    weight 1.0
+  ]
+  edge [
+    source 764
+    target 780
+    weight 0.8166802710425348
+  ]
+  edge [
+    source 764
+    target 766
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 765
+    target 848
+    weight 0.8835905634372737
+  ]
+  edge [
+    source 766
+    target 780
+    weight 0.8167137841853369
+  ]
+  edge [
+    source 766
+    target 771
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 767
+    target 854
+    weight 0.9387999879539518
+  ]
+  edge [
+    source 767
+    target 802
+    weight 0.9353392552509713
+  ]
+  edge [
+    source 767
+    target 786
+    weight 0.9255270088082657
+  ]
+  edge [
+    source 768
+    target 887
+    weight 0.39887731557394307
+  ]
+  edge [
+    source 769
+    target 816
+    weight 0.8611820281819973
+  ]
+  edge [
+    source 769
+    target 822
+    weight 0.95955927765604
+  ]
+  edge [
+    source 769
+    target 783
+    weight 0.7995696341556866
+  ]
+  edge [
+    source 770
+    target 828
+    weight 0.8159098481943496
+  ]
+  edge [
+    source 771
+    target 780
+    weight 0.8166802710425348
+  ]
+  edge [
+    source 772
+    target 810
+    weight 0.9934151446938202
+  ]
+  edge [
+    source 772
+    target 830
+    weight 0.9244262735082841
+  ]
+  edge [
+    source 772
+    target 788
+    weight 0.971644270778865
+  ]
+  edge [
+    source 772
+    target 776
+    weight 0.9116557424339548
+  ]
+  edge [
+    source 773
+    target 829
+    weight 0.8220599048010424
+  ]
+  edge [
+    source 773
+    target 871
+    weight 0.7749868093291391
+  ]
+  edge [
+    source 774
+    target 893
+    weight 0.6624932249256617
+  ]
+  edge [
+    source 774
+    target 787
+    weight 0.6470180455274286
+  ]
+  edge [
+    source 774
+    target 815
+    weight 0.6552205672065252
+  ]
+  edge [
+    source 774
+    target 796
+    weight 0.6521893738898011
+  ]
+  edge [
+    source 776
+    target 809
+    weight 0.9521460937496885
+  ]
+  edge [
+    source 776
+    target 810
+    weight 0.9176986552937397
+  ]
+  edge [
+    source 776
+    target 830
+    weight 0.9861854520578867
+  ]
+  edge [
+    source 776
+    target 817
+    weight 0.9171339629701933
+  ]
+  edge [
+    source 777
+    target 820
+    weight 0.9659989954824146
+  ]
+  edge [
+    source 777
+    target 823
+    weight 0.9664747895634273
+  ]
+  edge [
+    source 778
+    target 800
+    weight 0.899393728544652
+  ]
+  edge [
+    source 778
+    target 795
+    weight 0.9284560150931415
+  ]
+  edge [
+    source 778
+    target 840
+    weight 0.8872602325768476
+  ]
+  edge [
+    source 780
+    target 808
+    weight 0.9996307534056397
+  ]
+  edge [
+    source 780
+    target 836
+    weight 0.9877649713759721
+  ]
+  edge [
+    source 781
+    target 782
+    weight 0.9529278403346286
+  ]
+  edge [
+    source 781
+    target 818
+    weight 0.9865092499728254
+  ]
+  edge [
+    source 782
+    target 819
+    weight 0.9560220192248058
+  ]
+  edge [
+    source 782
+    target 805
+    weight 0.9238574414441599
+  ]
+  edge [
+    source 782
+    target 818
+    weight 0.9659593565502586
+  ]
+  edge [
+    source 783
+    target 822
+    weight 0.8332675768701152
+  ]
+  edge [
+    source 783
+    target 816
+    weight 0.9284560150931414
+  ]
+  edge [
+    source 786
+    target 854
+    weight 0.8688847447202569
+  ]
+  edge [
+    source 786
+    target 825
+    weight 0.8893014643359205
+  ]
+  edge [
+    source 786
+    target 802
+    weight 0.8656817431333823
+  ]
+  edge [
+    source 786
+    target 861
+    weight 0.9100111975850397
+  ]
+  edge [
+    source 787
+    target 825
+    weight 0.9537493650411373
+  ]
+  edge [
+    source 787
+    target 815
+    weight 0.9874812817398767
+  ]
+  edge [
+    source 788
+    target 810
+    weight 0.9780848177811249
+  ]
+  edge [
+    source 788
+    target 799
+    weight 0.7053334991551526
+  ]
+  edge [
+    source 788
+    target 838
+    weight 0.9094885557003396
+  ]
+  edge [
+    source 788
+    target 830
+    weight 0.9514040285209203
+  ]
+  edge [
+    source 789
+    target 823
+    weight 0.9690163186911186
+  ]
+  edge [
+    source 789
+    target 821
+    weight 0.862419767235178
+  ]
+  edge [
+    source 789
+    target 820
+    weight 0.9685392734191502
+  ]
+  edge [
+    source 789
+    target 800
+    weight 0.984285284498221
+  ]
+  edge [
+    source 790
+    target 885
+    weight 0.8830830955746763
+  ]
+  edge [
+    source 790
+    target 799
+    weight 0.7922212873789342
+  ]
+  edge [
+    source 791
+    target 850
+    weight 0.9925594533402007
+  ]
+  edge [
+    source 791
+    target 792
+    weight 0.9124791290124449
+  ]
+  edge [
+    source 791
+    target 832
+    weight 0.9678241458163178
+  ]
+  edge [
+    source 792
+    target 832
+    weight 0.8831193336116872
+  ]
+  edge [
+    source 792
+    target 855
+    weight 0.8674953248893799
+  ]
+  edge [
+    source 792
+    target 843
+    weight 0.8816347927811494
+  ]
+  edge [
+    source 792
+    target 850
+    weight 0.9193193676627971
+  ]
+  edge [
+    source 793
+    target 794
+    weight 0.9188667881248541
+  ]
+  edge [
+    source 793
+    target 855
+    weight 0.990321848415785
+  ]
+  edge [
+    source 793
+    target 845
+    weight 0.9827919838732546
+  ]
+  edge [
+    source 793
+    target 827
+    weight 0.9844468582497327
+  ]
+  edge [
+    source 793
+    target 843
+    weight 0.9935782171426971
+  ]
+  edge [
+    source 793
+    target 868
+    weight 0.9995487171243882
+  ]
+  edge [
+    source 794
+    target 843
+    weight 0.9248056894476855
+  ]
+  edge [
+    source 794
+    target 795
+    weight 0.9702895884452734
+  ]
+  edge [
+    source 794
+    target 840
+    weight 0.9272376417578412
+  ]
+  edge [
+    source 794
+    target 827
+    weight 0.9045755227195353
+  ]
+  edge [
+    source 794
+    target 845
+    weight 0.903054913616471
+  ]
+  edge [
+    source 794
+    target 868
+    weight 0.918452119278405
+  ]
+  edge [
+    source 795
+    target 840
+    weight 0.9556297962998699
+  ]
+  edge [
+    source 796
+    target 831
+    weight 0.9887788141184147
+  ]
+  edge [
+    source 796
+    target 865
+    weight 0.9172092351989928
+  ]
+  edge [
+    source 796
+    target 813
+    weight 0.9979094045766427
+  ]
+  edge [
+    source 799
+    target 838
+    weight 0.775527624547205
+  ]
+  edge [
+    source 799
+    target 810
+    weight 0.6898759869960908
+  ]
+  edge [
+    source 800
+    target 820
+    weight 0.9840025942406547
+  ]
+  edge [
+    source 800
+    target 821
+    weight 0.8488670859499666
+  ]
+  edge [
+    source 802
+    target 875
+    weight 0.9808178558206674
+  ]
+  edge [
+    source 802
+    target 854
+    weight 0.9963136634561288
+  ]
+  edge [
+    source 805
+    target 857
+    weight 0.9914603616824348
+  ]
+  edge [
+    source 805
+    target 870
+    weight 0.9793298157776612
+  ]
+  edge [
+    source 805
+    target 819
+    weight 0.9663558190775494
+  ]
+  edge [
+    source 805
+    target 818
+    weight 0.9564144031313515
+  ]
+  edge [
+    source 805
+    target 851
+    weight 0.9939860153884081
+  ]
+  edge [
+    source 807
+    target 833
+    weight 0.7418779892558108
+  ]
+  edge [
+    source 808
+    target 836
+    weight 0.9881298349523141
+  ]
+  edge [
+    source 808
+    target 844
+    weight 0.8858414287944338
+  ]
+  edge [
+    source 809
+    target 817
+    weight 0.8732455202872411
+  ]
+  edge [
+    source 809
+    target 891
+    weight 0.998073214773448
+  ]
+  edge [
+    source 809
+    target 811
+    weight 0.9510137001986032
+  ]
+  edge [
+    source 809
+    target 866
+    weight 0.9843256754498173
+  ]
+  edge [
+    source 810
+    target 838
+    weight 0.889556948276185
+  ]
+  edge [
+    source 810
+    target 830
+    weight 0.9305538358721125
+  ]
+  edge [
+    source 811
+    target 866
+    weight 0.9361072028100201
+  ]
+  edge [
+    source 811
+    target 844
+    weight 0.9794101926265617
+  ]
+  edge [
+    source 812
+    target 890
+    weight 0.9375295683705149
+  ]
+  edge [
+    source 812
+    target 847
+    weight 0.7427308816103059
+  ]
+  edge [
+    source 813
+    target 831
+    weight 0.990850281181485
+  ]
+  edge [
+    source 813
+    target 865
+    weight 0.9152917217696247
+  ]
+  edge [
+    source 815
+    target 825
+    weight 0.9658404495128191
+  ]
+  edge [
+    source 815
+    target 861
+    weight 0.9438601726506206
+  ]
+  edge [
+    source 816
+    target 822
+    weight 0.8974766314444341
+  ]
+  edge [
+    source 817
+    target 891
+    weight 0.871562963719599
+  ]
+  edge [
+    source 817
+    target 830
+    weight 0.9044641718694012
+  ]
+  edge [
+    source 817
+    target 895
+    weight 0.9535536997038119
+  ]
+  edge [
+    source 817
+    target 866
+    weight 0.8595579865902657
+  ]
+  edge [
+    source 817
+    target 879
+    weight 0.8654686299931854
+  ]
+  edge [
+    source 818
+    target 819
+    weight 0.9897124684821709
+  ]
+  edge [
+    source 818
+    target 857
+    weight 0.9482469700468997
+  ]
+  edge [
+    source 818
+    target 870
+    weight 0.9766009241451379
+  ]
+  edge [
+    source 819
+    target 832
+    weight 0.98918464252612
+  ]
+  edge [
+    source 819
+    target 870
+    weight 0.9867521681755299
+  ]
+  edge [
+    source 819
+    target 857
+    weight 0.9581034898965526
+  ]
+  edge [
+    source 819
+    target 851
+    weight 0.9605441700522949
+  ]
+  edge [
+    source 820
+    target 856
+    weight 0.870955178130327
+  ]
+  edge [
+    source 820
+    target 821
+    weight 0.835287414740272
+  ]
+  edge [
+    source 820
+    target 823
+    weight 0.999507701508461
+  ]
+  edge [
+    source 821
+    target 886
+    weight 0.9617273753996035
+  ]
+  edge [
+    source 821
+    target 858
+    weight 0.889849019797287
+  ]
+  edge [
+    source 822
+    target 880
+    weight 0.9334604451947477
+  ]
+  edge [
+    source 823
+    target 856
+    weight 0.8713841592374705
+  ]
+  edge [
+    source 825
+    target 862
+    weight 0.7278860897903858
+  ]
+  edge [
+    source 825
+    target 861
+    weight 0.9772423314085825
+  ]
+  edge [
+    source 825
+    target 889
+    weight 0.9833163987258368
+  ]
+  edge [
+    source 827
+    target 868
+    weight 0.9848913228380681
+  ]
+  edge [
+    source 827
+    target 845
+    weight 0.998318980488779
+  ]
+  edge [
+    source 827
+    target 892
+    weight 0.9827113294922984
+  ]
+  edge [
+    source 827
+    target 874
+    weight 0.9452943184401958
+  ]
+  edge [
+    source 827
+    target 881
+    weight 0.989468821514075
+  ]
+  edge [
+    source 827
+    target 840
+    weight 0.9755595350989599
+  ]
+  edge [
+    source 827
+    target 843
+    weight 0.9781249542914988
+  ]
+  edge [
+    source 827
+    target 855
+    weight 0.9940675951202627
+  ]
+  edge [
+    source 828
+    target 859
+    weight 0.8312185135094682
+  ]
+  edge [
+    source 829
+    target 873
+    weight 0.9033514169744287
+  ]
+  edge [
+    source 829
+    target 842
+    weight 0.9377219456213238
+  ]
+  edge [
+    source 829
+    target 871
+    weight 0.9427376335994686
+  ]
+  edge [
+    source 829
+    target 899
+    weight 0.918678279081865
+  ]
+  edge [
+    source 830
+    target 901
+    weight 0.9364145583482675
+  ]
+  edge [
+    source 830
+    target 895
+    weight 0.9485193882110062
+  ]
+  edge [
+    source 830
+    target 879
+    weight 0.9568854764079626
+  ]
+  edge [
+    source 830
+    target 838
+    weight 0.9559435617634038
+  ]
+  edge [
+    source 831
+    target 865
+    weight 0.9069170598785181
+  ]
+  edge [
+    source 832
+    target 850
+    weight 0.960623005100891
+  ]
+  edge [
+    source 832
+    target 851
+    weight 0.971046383816994
+  ]
+  edge [
+    source 832
+    target 870
+    weight 0.9975409299275226
+  ]
+  edge [
+    source 832
+    target 857
+    weight 0.9685790182203049
+  ]
+  edge [
+    source 835
+    target 847
+    weight 0.9232889594024511
+  ]
+  edge [
+    source 838
+    target 879
+    weight 0.9147285105170992
+  ]
+  edge [
+    source 838
+    target 901
+    weight 0.8951594681945475
+  ]
+  edge [
+    source 839
+    target 840
+    weight 0.5381224350093533
+  ]
+  edge [
+    source 839
+    target 908
+    weight 0.5351496283208248
+  ]
+  edge [
+    source 842
+    target 894
+    weight 0.999712796419881
+  ]
+  edge [
+    source 842
+    target 871
+    weight 0.9946796565668071
+  ]
+  edge [
+    source 842
+    target 873
+    weight 0.9633467801330791
+  ]
+  edge [
+    source 842
+    target 913
+    weight 0.9551985369373753
+  ]
+  edge [
+    source 843
+    target 881
+    weight 0.9678241458163178
+  ]
+  edge [
+    source 843
+    target 868
+    weight 0.9931298323077197
+  ]
+  edge [
+    source 843
+    target 845
+    weight 0.9764807071589227
+  ]
+  edge [
+    source 843
+    target 910
+    weight 0.9838007223374186
+  ]
+  edge [
+    source 843
+    target 855
+    weight 0.9839622165464159
+  ]
+  edge [
+    source 843
+    target 902
+    weight 0.9770017543331944
+  ]
+  edge [
+    source 843
+    target 892
+    weight 0.9953329374932829
+  ]
+  edge [
+    source 843
+    target 874
+    weight 0.9664351311074731
+  ]
+  edge [
+    source 845
+    target 881
+    weight 0.9911349386842561
+  ]
+  edge [
+    source 845
+    target 874
+    weight 0.9437052602470515
+  ]
+  edge [
+    source 845
+    target 892
+    weight 0.9810593725735239
+  ]
+  edge [
+    source 845
+    target 855
+    weight 0.992396548097393
+  ]
+  edge [
+    source 845
+    target 868
+    weight 0.983235701307945
+  ]
+  edge [
+    source 846
+    target 849
+    weight 0.8623136056468503
+  ]
+  edge [
+    source 847
+    target 890
+    weight 0.7922212873789342
+  ]
+  edge [
+    source 848
+    target 863
+    weight 0.7352106817633173
+  ]
+  edge [
+    source 850
+    target 904
+    weight 0.9787673625001416
+  ]
+  edge [
+    source 850
+    target 939
+    weight 0.95955927765604
+  ]
+  edge [
+    source 850
+    target 902
+    weight 0.936952673387284
+  ]
+  edge [
+    source 850
+    target 855
+    weight 0.9436278135799854
+  ]
+  edge [
+    source 850
+    target 900
+    weight 0.9709666933573122
+  ]
+  edge [
+    source 851
+    target 857
+    weight 0.9974590651509453
+  ]
+  edge [
+    source 851
+    target 870
+    weight 0.9734401413359013
+  ]
+  edge [
+    source 851
+    target 904
+    weight 0.9530451576684026
+  ]
+  edge [
+    source 851
+    target 907
+    weight 0.9885353969969282
+  ]
+  edge [
+    source 852
+    target 945
+    weight 0.6093428311761647
+  ]
+  edge [
+    source 854
+    target 861
+    weight 0.9548066518588749
+  ]
+  edge [
+    source 854
+    target 889
+    weight 0.9607412698056779
+  ]
+  edge [
+    source 854
+    target 925
+    weight 0.999835873566808
+  ]
+  edge [
+    source 854
+    target 875
+    weight 0.9772022311158742
+  ]
+  edge [
+    source 855
+    target 892
+    weight 0.9885759623553665
+  ]
+  edge [
+    source 855
+    target 902
+    weight 0.9929260879166154
+  ]
+  edge [
+    source 855
+    target 874
+    weight 0.9509356537528354
+  ]
+  edge [
+    source 855
+    target 881
+    weight 0.983598891848977
+  ]
+  edge [
+    source 855
+    target 868
+    weight 0.9907689654835954
+  ]
+  edge [
+    source 855
+    target 900
+    weight 0.9718436482277294
+  ]
+  edge [
+    source 856
+    target 919
+    weight 0.8913473921547751
+  ]
+  edge [
+    source 856
+    target 883
+    weight 0.9562574302467121
+  ]
+  edge [
+    source 856
+    target 886
+    weight 0.9972135111291834
+  ]
+  edge [
+    source 857
+    target 904
+    weight 0.9506235320145602
+  ]
+  edge [
+    source 857
+    target 870
+    weight 0.9709666933573121
+  ]
+  edge [
+    source 857
+    target 907
+    weight 0.9860235929571745
+  ]
+  edge [
+    source 858
+    target 905
+    weight 0.9499216326220391
+  ]
+  edge [
+    source 858
+    target 908
+    weight 0.9358767523619954
+  ]
+  edge [
+    source 858
+    target 886
+    weight 0.9252611941378391
+  ]
+  edge [
+    source 859
+    target 938
+    weight 0.9643751323231888
+  ]
+  edge [
+    source 859
+    target 911
+    weight 0.8023304565468214
+  ]
+  edge [
+    source 861
+    target 862
+    weight 0.7448368397439575
+  ]
+  edge [
+    source 861
+    target 889
+    weight 0.9938228760090598
+  ]
+  edge [
+    source 862
+    target 932
+    weight 0.7292314270057053
+  ]
+  edge [
+    source 862
+    target 936
+    weight 0.7113210993866335
+  ]
+  edge [
+    source 862
+    target 889
+    weight 0.740235890231839
+  ]
+  edge [
+    source 863
+    target 934
+    weight 0.7580961518131456
+  ]
+  edge [
+    source 865
+    target 917
+    weight 0.9533971963362224
+  ]
+  edge [
+    source 865
+    target 893
+    weight 0.9317000989060161
+  ]
+  edge [
+    source 865
+    target 916
+    weight 0.9936597634051958
+  ]
+  edge [
+    source 866
+    target 891
+    weight 0.9862259209844128
+  ]
+  edge [
+    source 866
+    target 914
+    weight 0.9763204408633759
+  ]
+  edge [
+    source 866
+    target 895
+    weight 0.9014258838880886
+  ]
+  edge [
+    source 868
+    target 874
+    weight 0.9597955596930539
+  ]
+  edge [
+    source 868
+    target 928
+    weight 0.9792092628721163
+  ]
+  edge [
+    source 868
+    target 902
+    weight 0.9837603529268185
+  ]
+  edge [
+    source 868
+    target 881
+    weight 0.9745192565280217
+  ]
+  edge [
+    source 868
+    target 910
+    weight 0.9770418463991739
+  ]
+  edge [
+    source 868
+    target 892
+    weight 0.9977865645729441
+  ]
+  edge [
+    source 870
+    target 907
+    weight 0.984729676138169
+  ]
+  edge [
+    source 870
+    target 904
+    weight 0.9790485487484525
+  ]
+  edge [
+    source 871
+    target 873
+    weight 0.9582214444175106
+  ]
+  edge [
+    source 871
+    target 899
+    weight 0.9744792679743328
+  ]
+  edge [
+    source 871
+    target 877
+    weight 0.9243124790833233
+  ]
+  edge [
+    source 873
+    target 894
+    weight 0.9630701034889287
+  ]
+  edge [
+    source 873
+    target 913
+    weight 0.9915417341255055
+  ]
+  edge [
+    source 873
+    target 899
+    weight 0.9833163987258368
+  ]
+  edge [
+    source 874
+    target 881
+    weight 0.9353392552509713
+  ]
+  edge [
+    source 874
+    target 902
+    weight 0.944208818541232
+  ]
+  edge [
+    source 874
+    target 910
+    weight 0.982348466680644
+  ]
+  edge [
+    source 874
+    target 892
+    weight 0.9619247179419071
+  ]
+  edge [
+    source 874
+    target 928
+    weight 0.9398407025149655
+  ]
+  edge [
+    source 874
+    target 900
+    weight 0.978486257009528
+  ]
+  edge [
+    source 874
+    target 915
+    weight 0.9869951461944533
+  ]
+  edge [
+    source 874
+    target 949
+    weight 0.9509746761750607
+  ]
+  edge [
+    source 875
+    target 885
+    weight 0.9844468582497325
+  ]
+  edge [
+    source 875
+    target 925
+    weight 0.9773626421602671
+  ]
+  edge [
+    source 877
+    target 899
+    weight 0.9007233479966577
+  ]
+  edge [
+    source 877
+    target 918
+    weight 0.8187270914735058
+  ]
+  edge [
+    source 879
+    target 901
+    weight 0.9786067209040097
+  ]
+  edge [
+    source 879
+    target 895
+    weight 0.9076244266704779
+  ]
+  edge [
+    source 881
+    target 892
+    weight 0.9723622210812745
+  ]
+  edge [
+    source 881
+    target 910
+    weight 0.9521460937496885
+  ]
+  edge [
+    source 881
+    target 902
+    weight 0.9906063541071732
+  ]
+  edge [
+    source 881
+    target 928
+    weight 0.9952104146458558
+  ]
+  edge [
+    source 883
+    target 919
+    weight 0.9321207490380595
+  ]
+  edge [
+    source 883
+    target 942
+    weight 0.9477412581563495
+  ]
+  edge [
+    source 886
+    target 905
+    weight 0.8789256241372336
+  ]
+  edge [
+    source 886
+    target 919
+    weight 0.8888636625665045
+  ]
+  edge [
+    source 889
+    target 925
+    weight 0.9605835867678444
+  ]
+  edge [
+    source 891
+    target 914
+    weight 0.9628725259663907
+  ]
+  edge [
+    source 891
+    target 953
+    weight 0.9869951461944533
+  ]
+  edge [
+    source 891
+    target 895
+    weight 0.9140156070815093
+  ]
+  edge [
+    source 892
+    target 949
+    weight 0.9886165293784376
+  ]
+  edge [
+    source 892
+    target 910
+    weight 0.9792092628721163
+  ]
+  edge [
+    source 892
+    target 928
+    weight 0.9770418463991739
+  ]
+  edge [
+    source 892
+    target 902
+    weight 0.9815828629099174
+  ]
+  edge [
+    source 892
+    target 944
+    weight 0.9951695770484136
+  ]
+  edge [
+    source 893
+    target 948
+    weight 0.9924779973763904
+  ]
+  edge [
+    source 893
+    target 917
+    weight 0.9772423314085825
+  ]
+  edge [
+    source 893
+    target 932
+    weight 0.974759222312735
+  ]
+  edge [
+    source 894
+    target 935
+    weight 0.7448368397439575
+  ]
+  edge [
+    source 894
+    target 913
+    weight 0.9549242004978425
+  ]
+  edge [
+    source 895
+    target 901
+    weight 0.8882073639963782
+  ]
+  edge [
+    source 895
+    target 914
+    weight 0.880080516363277
+  ]
+  edge [
+    source 896
+    target 909
+    weight 0.7274381958276456
+  ]
+  edge [
+    source 899
+    target 918
+    weight 0.7374466069275819
+  ]
+  edge [
+    source 900
+    target 968
+    weight 0.9604653414734217
+  ]
+  edge [
+    source 900
+    target 939
+    weight 0.9882514860918362
+  ]
+  edge [
+    source 900
+    target 915
+    weight 0.9657611862863824
+  ]
+  edge [
+    source 900
+    target 904
+    weight 0.992030109051753
+  ]
+  edge [
+    source 900
+    target 955
+    weight 0.9912162844187811
+  ]
+  edge [
+    source 900
+    target 937
+    weight 0.9778440333028225
+  ]
+  edge [
+    source 900
+    target 902
+    weight 0.9649689117013708
+  ]
+  edge [
+    source 902
+    target 961
+    weight 0.9935782171426971
+  ]
+  edge [
+    source 902
+    target 939
+    weight 0.9764406381188059
+  ]
+  edge [
+    source 902
+    target 910
+    weight 0.9611750316379217
+  ]
+  edge [
+    source 902
+    target 928
+    weight 0.9953737817943545
+  ]
+  edge [
+    source 902
+    target 915
+    weight 0.9319295208941952
+  ]
+  edge [
+    source 902
+    target 968
+    weight 0.9953329374932829
+  ]
+  edge [
+    source 902
+    target 949
+    weight 0.9928853440545421
+  ]
+  edge [
+    source 903
+    target 941
+    weight 0.9217747168743855
+  ]
+  edge [
+    source 904
+    target 907
+    weight 0.9640981603326079
+  ]
+  edge [
+    source 904
+    target 955
+    weight 0.9833163987258368
+  ]
+  edge [
+    source 904
+    target 937
+    weight 0.9856999544474608
+  ]
+  edge [
+    source 904
+    target 939
+    weight 0.9803752295182412
+  ]
+  edge [
+    source 905
+    target 908
+    weight 0.9852146958467763
+  ]
+  edge [
+    source 907
+    target 937
+    weight 0.9503115127227324
+  ]
+  edge [
+    source 909
+    target 924
+    weight 0.865326583713905
+  ]
+  edge [
+    source 910
+    target 928
+    weight 0.9567284262077466
+  ]
+  edge [
+    source 910
+    target 949
+    weight 0.9680624629958497
+  ]
+  edge [
+    source 910
+    target 963
+    weight 0.9588114348832085
+  ]
+  edge [
+    source 910
+    target 944
+    weight 0.9839622165464159
+  ]
+  edge [
+    source 910
+    target 961
+    weight 0.9550025742968818
+  ]
+  edge [
+    source 910
+    target 915
+    weight 0.9695731684853592
+  ]
+  edge [
+    source 911
+    target 938
+    weight 0.831969251025791
+  ]
+  edge [
+    source 912
+    target 916
+    weight 0.9370295722034363
+  ]
+  edge [
+    source 912
+    target 947
+    weight 0.7747006480891202
+  ]
+  edge [
+    source 913
+    target 935
+    weight 0.7112627236938384
+  ]
+  edge [
+    source 914
+    target 953
+    weight 0.9503505095328203
+  ]
+  edge [
+    source 915
+    target 928
+    weight 0.9276182115782561
+  ]
+  edge [
+    source 915
+    target 939
+    weight 0.954414927557332
+  ]
+  edge [
+    source 915
+    target 944
+    weight 0.9540233639667857
+  ]
+  edge [
+    source 915
+    target 961
+    weight 0.9259448718727024
+  ]
+  edge [
+    source 915
+    target 955
+    weight 0.9572782147066622
+  ]
+  edge [
+    source 915
+    target 949
+    weight 0.9386073895386269
+  ]
+  edge [
+    source 915
+    target 963
+    weight 0.9296378408997061
+  ]
+  edge [
+    source 915
+    target 968
+    weight 0.9275801475683271
+  ]
+  edge [
+    source 915
+    target 971
+    weight 0.9992616431543268
+  ]
+  edge [
+    source 916
+    target 917
+    weight 0.9594805299039215
+  ]
+  edge [
+    source 916
+    target 983
+    weight 0.904946791236612
+  ]
+  edge [
+    source 916
+    target 977
+    weight 0.941886942893388
+  ]
+  edge [
+    source 916
+    target 947
+    weight 0.8267622186858012
+  ]
+  edge [
+    source 916
+    target 985
+    weight 0.9049096575287817
+  ]
+  edge [
+    source 917
+    target 932
+    weight 0.9974590651509453
+  ]
+  edge [
+    source 917
+    target 948
+    weight 0.9846488627374276
+  ]
+  edge [
+    source 919
+    target 942
+    weight 0.8834092914469694
+  ]
+  edge [
+    source 922
+    target 975
+    weight 0.8145717130649064
+  ]
+  edge [
+    source 923
+    target 938
+    weight 0.8247968407160355
+  ]
+  edge [
+    source 923
+    target 950
+    weight 0.848066299373779
+  ]
+  edge [
+    source 924
+    target 934
+    weight 0.8466059422105311
+  ]
+  edge [
+    source 926
+    target 965
+    weight 0.6933383499465535
+  ]
+  edge [
+    source 927
+    target 933
+    weight 0.7505743607843567
+  ]
+  edge [
+    source 928
+    target 961
+    weight 0.9981960900673709
+  ]
+  edge [
+    source 928
+    target 949
+    weight 0.9882920397997584
+  ]
+  edge [
+    source 928
+    target 963
+    weight 0.9978275095606096
+  ]
+  edge [
+    source 928
+    target 944
+    weight 0.972322321039667
+  ]
+  edge [
+    source 929
+    target 1010
+    weight 0.33446484386304043
+  ]
+  edge [
+    source 930
+    target 946
+    weight 0.6402567266888446
+  ]
+  edge [
+    source 932
+    target 957
+    weight 0.9157425404409218
+  ]
+  edge [
+    source 932
+    target 948
+    weight 0.982146934128016
+  ]
+  edge [
+    source 932
+    target 936
+    weight 0.975439446304977
+  ]
+  edge [
+    source 935
+    target 976
+    weight 0.7631211944597421
+  ]
+  edge [
+    source 936
+    target 957
+    weight 0.8932513966056058
+  ]
+  edge [
+    source 937
+    target 955
+    weight 0.9692549294314986
+  ]
+  edge [
+    source 937
+    target 939
+    weight 0.9663558190775493
+  ]
+  edge [
+    source 937
+    target 991
+    weight 0.958142806456796
+  ]
+  edge [
+    source 938
+    target 950
+    weight 0.9725617458506182
+  ]
+  edge [
+    source 938
+    target 986
+    weight 0.8216552059499542
+  ]
+  edge [
+    source 939
+    target 991
+    weight 0.9915010470691911
+  ]
+  edge [
+    source 939
+    target 955
+    weight 0.9970089289557189
+  ]
+  edge [
+    source 939
+    target 968
+    weight 0.9718835286266067
+  ]
+  edge [
+    source 939
+    target 971
+    weight 0.9551201470563516
+  ]
+  edge [
+    source 942
+    target 1004
+    weight 0.850470928244427
+  ]
+  edge [
+    source 944
+    target 949
+    weight 0.9838410934046102
+  ]
+  edge [
+    source 944
+    target 963
+    weight 0.9744392810615395
+  ]
+  edge [
+    source 944
+    target 1001
+    weight 0.9741594186114101
+  ]
+  edge [
+    source 944
+    target 992
+    weight 0.9993436558744645
+  ]
+  edge [
+    source 944
+    target 961
+    weight 0.9705683391470266
+  ]
+  edge [
+    source 946
+    target 998
+    weight 0.903054913616471
+  ]
+  edge [
+    source 947
+    target 983
+    weight 0.7481758169153779
+  ]
+  edge [
+    source 947
+    target 977
+    weight 0.7787165386577241
+  ]
+  edge [
+    source 947
+    target 1012
+    weight 0.9362224493129679
+  ]
+  edge [
+    source 947
+    target 985
+    weight 0.748145116168704
+  ]
+  edge [
+    source 948
+    target 988
+    weight 0.9979094045766427
+  ]
+  edge [
+    source 948
+    target 983
+    weight 0.9578676244125164
+  ]
+  edge [
+    source 948
+    target 985
+    weight 0.9578283191441298
+  ]
+  edge [
+    source 948
+    target 957
+    weight 0.899393728544652
+  ]
+  edge [
+    source 949
+    target 963
+    weight 0.9904437694195762
+  ]
+  edge [
+    source 949
+    target 961
+    weight 0.9865092499728254
+  ]
+  edge [
+    source 949
+    target 992
+    weight 0.9831953550824937
+  ]
+  edge [
+    source 949
+    target 1001
+    weight 0.9901593104230924
+  ]
+  edge [
+    source 950
+    target 986
+    weight 0.8448360317023587
+  ]
+  edge [
+    source 951
+    target 1019
+    weight 0.7371138099021974
+  ]
+  edge [
+    source 951
+    target 1008
+    weight 0.7272889590939846
+  ]
+  edge [
+    source 951
+    target 966
+    weight 0.7413910619956986
+  ]
+  edge [
+    source 951
+    target 980
+    weight 0.7880710723558954
+  ]
+  edge [
+    source 953
+    target 967
+    weight 0.9584180675570492
+  ]
+  edge [
+    source 953
+    target 974
+    weight 0.9984418860395349
+  ]
+  edge [
+    source 954
+    target 1003
+    weight 0.9720031796426555
+  ]
+  edge [
+    source 954
+    target 973
+    weight 0.8729588984651888
+  ]
+  edge [
+    source 955
+    target 968
+    weight 0.968976555945718
+  ]
+  edge [
+    source 955
+    target 991
+    weight 0.9885353969969282
+  ]
+  edge [
+    source 955
+    target 971
+    weight 0.9579855498954837
+  ]
+  edge [
+    source 956
+    target 964
+    weight 0.907736166587498
+  ]
+  edge [
+    source 956
+    target 999
+    weight 0.9925594533402007
+  ]
+  edge [
+    source 957
+    target 988
+    weight 0.8975134601319604
+  ]
+  edge [
+    source 958
+    target 1011
+    weight 0.7938158202047696
+  ]
+  edge [
+    source 959
+    target 982
+    weight 0.918678279081865
+  ]
+  edge [
+    source 960
+    target 990
+    weight 0.9410370198183552
+  ]
+  edge [
+    source 961
+    target 968
+    weight 0.9982370518602499
+  ]
+  edge [
+    source 961
+    target 1001
+    weight 0.9963136634561288
+  ]
+  edge [
+    source 961
+    target 992
+    weight 0.9699313123191966
+  ]
+  edge [
+    source 961
+    target 963
+    weight 0.9960275186050627
+  ]
+  edge [
+    source 963
+    target 992
+    weight 0.9737997135637237
+  ]
+  edge [
+    source 963
+    target 1001
+    weight 0.999712796419881
+  ]
+  edge [
+    source 963
+    target 1018
+    weight 0.999876902649544
+  ]
+  edge [
+    source 964
+    target 999
+    weight 0.9145408504576205
+  ]
+  edge [
+    source 965
+    target 1019
+    weight 0.9709268505799762
+  ]
+  edge [
+    source 965
+    target 1008
+    weight 0.9579855498954837
+  ]
+  edge [
+    source 965
+    target 966
+    weight 0.9765608501720212
+  ]
+  edge [
+    source 966
+    target 1008
+    weight 0.9809788603820586
+  ]
+  edge [
+    source 966
+    target 1019
+    weight 0.9942307746710791
+  ]
+  edge [
+    source 968
+    target 971
+    weight 0.9282655387834905
+  ]
+  edge [
+    source 968
+    target 991
+    weight 0.9802143240286306
+  ]
+  edge [
+    source 969
+    target 1028
+    weight 0.9132657826465689
+  ]
+  edge [
+    source 970
+    target 975
+    weight 0.9171339629701933
+  ]
+  edge [
+    source 971
+    target 991
+    weight 0.9470026258832525
+  ]
+  edge [
+    source 973
+    target 1003
+    weight 0.8485188250055136
+  ]
+  edge [
+    source 974
+    target 979
+    weight 0.9051696254858362
+  ]
+  edge [
+    source 975
+    target 1013
+    weight 0.9494929492560636
+  ]
+  edge [
+    source 977
+    target 983
+    weight 0.9607806946093771
+  ]
+  edge [
+    source 977
+    target 996
+    weight 0.9564928992362677
+  ]
+  edge [
+    source 977
+    target 988
+    weight 0.9990566407987281
+  ]
+  edge [
+    source 977
+    target 985
+    weight 0.9607412698056779
+  ]
+  edge [
+    source 977
+    target 1012
+    weight 0.729051905142651
+  ]
+  edge [
+    source 978
+    target 1022
+    weight 0.9394551182272594
+  ]
+  edge [
+    source 981
+    target 1005
+    weight 0.9985648067215009
+  ]
+  edge [
+    source 983
+    target 1012
+    weight 0.7004589958292459
+  ]
+  edge [
+    source 983
+    target 988
+    weight 0.9598743333007129
+  ]
+  edge [
+    source 983
+    target 985
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 983
+    target 996
+    weight 0.9189799121171581
+  ]
+  edge [
+    source 985
+    target 1012
+    weight 0.700430253100999
+  ]
+  edge [
+    source 985
+    target 996
+    weight 0.9189422025723661
+  ]
+  edge [
+    source 985
+    target 988
+    weight 0.9598349456887652
+  ]
+  edge [
+    source 986
+    target 1024
+    weight 0.8455643698236884
+  ]
+  edge [
+    source 987
+    target 1023
+    weight 0.9007603099158528
+  ]
+  edge [
+    source 988
+    target 996
+    weight 0.957396067625924
+  ]
+  edge [
+    source 992
+    target 1018
+    weight 0.9739196004861008
+  ]
+  edge [
+    source 992
+    target 1001
+    weight 0.9735200347996694
+  ]
+  edge [
+    source 995
+    target 1043
+    weight 0.999835873566808
+  ]
+  edge [
+    source 996
+    target 1012
+    weight 0.762213609452593
+  ]
+  edge [
+    source 997
+    target 1026
+    weight 0.6982206011841615
+  ]
+  edge [
+    source 997
+    target 1034
+    weight 0.7198955682417918
+  ]
+  edge [
+    source 997
+    target 1029
+    weight 0.7577851310583225
+  ]
+  edge [
+    source 998
+    target 1014
+    weight 0.95712110004771
+  ]
+  edge [
+    source 1000
+    target 1042
+    weight 0.5224560816374856
+  ]
+  edge [
+    source 1001
+    target 1018
+    weight 0.9995897344234247
+  ]
+  edge [
+    source 1002
+    target 1108
+    weight 0.16964197179756277
+  ]
+  edge [
+    source 1004
+    target 1033
+    weight 0.9579069312938266
+  ]
+  edge [
+    source 1004
+    target 1016
+    weight 0.9905250584275453
+  ]
+  edge [
+    source 1005
+    target 1010
+    weight 0.9525368868447791
+  ]
+  edge [
+    source 1008
+    target 1027
+    weight 0.8739624866307256
+  ]
+  edge [
+    source 1008
+    target 1019
+    weight 0.9866711887957758
+  ]
+  edge [
+    source 1012
+    target 1050
+    weight 0.7333124672438325
+  ]
+  edge [
+    source 1016
+    target 1033
+    weight 0.9670698617302022
+  ]
+  edge [
+    source 1018
+    target 1058
+    weight 0.9897936974698444
+  ]
+  edge [
+    source 1018
+    target 1056
+    weight 0.9524587153962865
+  ]
+  edge [
+    source 1019
+    target 1027
+    weight 0.8857687308143555
+  ]
+  edge [
+    source 1020
+    target 1032
+    weight 0.9070287127098402
+  ]
+  edge [
+    source 1020
+    target 1046
+    weight 0.9519507573296129
+  ]
+  edge [
+    source 1024
+    target 1057
+    weight 0.9036850996198375
+  ]
+  edge [
+    source 1026
+    target 1029
+    weight 0.9213965444386945
+  ]
+  edge [
+    source 1026
+    target 1038
+    weight 0.42329635428132584
+  ]
+  edge [
+    source 1028
+    target 1041
+    weight 0.9438989047246926
+  ]
+  edge [
+    source 1029
+    target 1038
+    weight 0.4594073603121594
+  ]
+  edge [
+    source 1030
+    target 1053
+    weight 0.8590995736365027
+  ]
+  edge [
+    source 1030
+    target 1065
+    weight 0.9714050718315121
+  ]
+  edge [
+    source 1032
+    target 1046
+    weight 0.8634466699838362
+  ]
+  edge [
+    source 1037
+    target 1077
+    weight 0.7090770900455349
+  ]
+  edge [
+    source 1044
+    target 1054
+    weight 0.7965567753351788
+  ]
+  edge [
+    source 1047
+    target 1079
+    weight 0.9913383155388296
+  ]
+  edge [
+    source 1047
+    target 1069
+    weight 0.8414799362846483
+  ]
+  edge [
+    source 1048
+    target 1067
+    weight 0.8724575366301143
+  ]
+  edge [
+    source 1048
+    target 1081
+    weight 0.907922430353548
+  ]
+  edge [
+    source 1048
+    target 1082
+    weight 0.8728156228348605
+  ]
+  edge [
+    source 1049
+    target 1090
+    weight 0.9721627372452017
+  ]
+  edge [
+    source 1050
+    target 1069
+    weight 0.9904031274172925
+  ]
+  edge [
+    source 1051
+    target 1097
+    weight 0.8729947210474918
+  ]
+  edge [
+    source 1051
+    target 1083
+    weight 0.8629153608187645
+  ]
+  edge [
+    source 1052
+    target 1107
+    weight 0.7619008994466374
+  ]
+  edge [
+    source 1052
+    target 1095
+    weight 0.759092276318199
+  ]
+  edge [
+    source 1053
+    target 1065
+    weight 0.8345336830387883
+  ]
+  edge [
+    source 1055
+    target 1088
+    weight 0.9632281946968744
+  ]
+  edge [
+    source 1055
+    target 1071
+    weight 0.8840983229186699
+  ]
+  edge [
+    source 1056
+    target 1070
+    weight 0.9871571647789084
+  ]
+  edge [
+    source 1056
+    target 1098
+    weight 0.9863068638195595
+  ]
+  edge [
+    source 1056
+    target 1058
+    weight 0.962280036568231
+  ]
+  edge [
+    source 1057
+    target 1111
+    weight 0.9923151055026596
+  ]
+  edge [
+    source 1058
+    target 1106
+    weight 0.992396548097393
+  ]
+  edge [
+    source 1058
+    target 1070
+    weight 0.9747992223545792
+  ]
+  edge [
+    source 1058
+    target 1098
+    weight 0.9491034049837829
+  ]
+  edge [
+    source 1059
+    target 1060
+    weight 0.8009488558036069
+  ]
+  edge [
+    source 1060
+    target 1063
+    weight 0.7908246423340791
+  ]
+  edge [
+    source 1060
+    target 1110
+    weight 0.9319677633842156
+  ]
+  edge [
+    source 1065
+    target 1080
+    weight 0.44209667253496965
+  ]
+  edge [
+    source 1067
+    target 1093
+    weight 0.9213587357294881
+  ]
+  edge [
+    source 1067
+    target 1082
+    weight 0.9995897344234247
+  ]
+  edge [
+    source 1070
+    target 1098
+    weight 0.9736398872900932
+  ]
+  edge [
+    source 1070
+    target 1106
+    weight 0.9673873833527072
+  ]
+  edge [
+    source 1071
+    target 1088
+    weight 0.917849298625331
+  ]
+  edge [
+    source 1071
+    target 1112
+    weight 0.8987665351345993
+  ]
+  edge [
+    source 1073
+    target 1151
+    weight 0.5836937215178521
+  ]
+  edge [
+    source 1073
+    target 1142
+    weight 0.5906327789357968
+  ]
+  edge [
+    source 1076
+    target 1140
+    weight 0.8468491603211961
+  ]
+  edge [
+    source 1079
+    target 1129
+    weight 0.8186263083377988
+  ]
+  edge [
+    source 1079
+    target 1133
+    weight 0.8363506468229892
+  ]
+  edge [
+    source 1079
+    target 1132
+    weight 0.8186263083377988
+  ]
+  edge [
+    source 1082
+    target 1093
+    weight 0.9217368926472007
+  ]
+  edge [
+    source 1083
+    target 1087
+    weight 0.9599925058346388
+  ]
+  edge [
+    source 1083
+    target 1086
+    weight 0.9886165293784376
+  ]
+  edge [
+    source 1083
+    target 1097
+    weight 0.988454271273676
+  ]
+  edge [
+    source 1085
+    target 1107
+    weight 0.9460316182871988
+  ]
+  edge [
+    source 1085
+    target 1102
+    weight 0.9006863875941629
+  ]
+  edge [
+    source 1086
+    target 1087
+    weight 0.9490644593475501
+  ]
+  edge [
+    source 1086
+    target 1097
+    weight 0.9772022311158742
+  ]
+  edge [
+    source 1088
+    target 1112
+    weight 0.9792092628721163
+  ]
+  edge [
+    source 1089
+    target 1100
+    weight 0.6942208959598567
+  ]
+  edge [
+    source 1091
+    target 1101
+    weight 0.9796915635510259
+  ]
+  edge [
+    source 1093
+    target 1136
+    weight 0.9213965444386945
+  ]
+  edge [
+    source 1093
+    target 1121
+    weight 0.8631986850089751
+  ]
+  edge [
+    source 1094
+    target 1128
+    weight 0.9502335239030922
+  ]
+  edge [
+    source 1095
+    target 1107
+    weight 0.9963136634561288
+  ]
+  edge [
+    source 1095
+    target 1109
+    weight 0.5629690099185032
+  ]
+  edge [
+    source 1096
+    target 1106
+    weight 0.7193640284208106
+  ]
+  edge [
+    source 1096
+    target 1124
+    weight 0.9301338928611486
+  ]
+  edge [
+    source 1096
+    target 1145
+    weight 0.8458767069169663
+  ]
+  edge [
+    source 1098
+    target 1125
+    weight 0.9251852611122746
+  ]
+  edge [
+    source 1098
+    target 1106
+    weight 0.941886942893388
+  ]
+  edge [
+    source 1099
+    target 1137
+    weight 0.7476847561130777
+  ]
+  edge [
+    source 1099
+    target 1128
+    weight 0.6985645034354455
+  ]
+  edge [
+    source 1101
+    target 1114
+    weight 0.8692770345601164
+  ]
+  edge [
+    source 1102
+    target 1107
+    weight 0.9520679543722502
+  ]
+  edge [
+    source 1102
+    target 1153
+    weight 0.9517945170472379
+  ]
+  edge [
+    source 1103
+    target 1117
+    weight 0.795544132226144
+  ]
+  edge [
+    source 1106
+    target 1145
+    weight 0.8504360299064547
+  ]
+  edge [
+    source 1111
+    target 1131
+    weight 0.9428150072065088
+  ]
+  edge [
+    source 1117
+    target 1152
+    weight 0.7619634311826118
+  ]
+  edge [
+    source 1121
+    target 1136
+    weight 0.7953482855312948
+  ]
+  edge [
+    source 1121
+    target 1168
+    weight 0.8278145991002225
+  ]
+  edge [
+    source 1122
+    target 1155
+    weight 0.803780404001252
+  ]
+  edge [
+    source 1123
+    target 1140
+    weight 0.748390757420237
+  ]
+  edge [
+    source 1124
+    target 1172
+    weight 0.849808104641966
+  ]
+  edge [
+    source 1125
+    target 1145
+    weight 0.9759198901947828
+  ]
+  edge [
+    source 1128
+    target 1137
+    weight 0.9343035252811768
+  ]
+  edge [
+    source 1129
+    target 1132
+    weight 1.0
+  ]
+  edge [
+    source 1129
+    target 1161
+    weight 0.9578676244125164
+  ]
+  edge [
+    source 1129
+    target 1133
+    weight 0.9788075270192962
+  ]
+  edge [
+    source 1132
+    target 1161
+    weight 0.9578676244125164
+  ]
+  edge [
+    source 1132
+    target 1133
+    weight 0.9788075270192962
+  ]
+  edge [
+    source 1133
+    target 1134
+    weight 0.7185084840962432
+  ]
+  edge [
+    source 1133
+    target 1161
+    weight 0.9786067209040097
+  ]
+  edge [
+    source 1134
+    target 1161
+    weight 0.7342157669145221
+  ]
+  edge [
+    source 1136
+    target 1165
+    weight 0.827610808076426
+  ]
+  edge [
+    source 1140
+    target 1186
+    weight 0.6660914331259384
+  ]
+  edge [
+    source 1141
+    target 1179
+    weight 0.8385844003731934
+  ]
+  edge [
+    source 1142
+    target 1151
+    weight 0.9882514860918362
+  ]
+  edge [
+    source 1142
+    target 1154
+    weight 0.8915302930110292
+  ]
+  edge [
+    source 1145
+    target 1172
+    weight 0.9344568943582195
+  ]
+  edge [
+    source 1145
+    target 1190
+    weight 0.8759731255824657
+  ]
+  edge [
+    source 1146
+    target 1205
+    weight 0.3730090713424943
+  ]
+  edge [
+    source 1151
+    target 1154
+    weight 0.8810561369640397
+  ]
+  edge [
+    source 1152
+    target 1208
+    weight 0.6077945307414075
+  ]
+  edge [
+    source 1152
+    target 1215
+    weight 0.6115722885974973
+  ]
+  edge [
+    source 1153
+    target 1171
+    weight 0.9588114348832085
+  ]
+  edge [
+    source 1154
+    target 1183
+    weight 0.8718133516353842
+  ]
+  edge [
+    source 1155
+    target 1198
+    weight 0.8115689275914315
+  ]
+  edge [
+    source 1156
+    target 1169
+    weight 0.8721711734447298
+  ]
+  edge [
+    source 1158
+    target 1159
+    weight 0.9251093343182742
+  ]
+  edge [
+    source 1159
+    target 1203
+    weight 0.9210185271541358
+  ]
+  edge [
+    source 1159
+    target 1188
+    weight 0.8798277540881845
+  ]
+  edge [
+    source 1162
+    target 1184
+    weight 0.8871510131930525
+  ]
+  edge [
+    source 1163
+    target 1195
+    weight 0.9298667550771289
+  ]
+  edge [
+    source 1165
+    target 1207
+    weight 0.9512478779711947
+  ]
+  edge [
+    source 1166
+    target 1206
+    weight 0.9354160216485412
+  ]
+  edge [
+    source 1167
+    target 1194
+    weight 0.9332306463243164
+  ]
+  edge [
+    source 1169
+    target 1193
+    weight 0.9073637536857347
+  ]
+  edge [
+    source 1170
+    target 1180
+    weight 0.34130005483612996
+  ]
+  edge [
+    source 1172
+    target 1189
+    weight 0.9990566407987281
+  ]
+  edge [
+    source 1172
+    target 1190
+    weight 0.9374141609646743
+  ]
+  edge [
+    source 1176
+    target 1222
+    weight 0.6284134548022924
+  ]
+  edge [
+    source 1177
+    target 1187
+    weight 0.9519898214074437
+  ]
+  edge [
+    source 1179
+    target 1206
+    weight 0.9765608501720211
+  ]
+  edge [
+    source 1179
+    target 1188
+    weight 0.9119176484473624
+  ]
+  edge [
+    source 1181
+    target 1199
+    weight 0.9465364179190466
+  ]
+  edge [
+    source 1181
+    target 1214
+    weight 0.9892252345268797
+  ]
+  edge [
+    source 1186
+    target 1201
+    weight 0.7874891946847443
+  ]
+  edge [
+    source 1188
+    target 1203
+    weight 0.9552769332521169
+  ]
+  edge [
+    source 1188
+    target 1217
+    weight 0.817686263784843
+  ]
+  edge [
+    source 1189
+    target 1190
+    weight 0.9365298426905257
+  ]
+  edge [
+    source 1193
+    target 1225
+    weight 0.8524974840503959
+  ]
+  edge [
+    source 1195
+    target 1215
+    weight 0.998359947324567
+  ]
+  edge [
+    source 1195
+    target 1208
+    weight 0.9954554754248046
+  ]
+  edge [
+    source 1199
+    target 1214
+    weight 0.9363377100042015
+  ]
+  edge [
+    source 1203
+    target 1217
+    weight 0.8559677673793878
+  ]
+  edge [
+    source 1205
+    target 1210
+    weight 0.881851886679975
+  ]
+  edge [
+    source 1208
+    target 1215
+    weight 0.9938228760090598
+  ]
+  edge [
+    source 1210
+    target 1236
+    weight 0.9931705862025684
+  ]
+  edge [
+    source 1216
+    target 1288
+    weight 0.2924897058568475
+  ]
+  edge [
+    source 1217
+    target 1244
+    weight 0.855546375738701
+  ]
+  edge [
+    source 1220
+    target 1230
+    weight 0.7430662146684314
+  ]
+  edge [
+    source 1220
+    target 1263
+    weight 0.7616508238161884
+  ]
+  edge [
+    source 1222
+    target 1234
+    weight 0.8775921690866563
+  ]
+  edge [
+    source 1223
+    target 1249
+    weight 0.9182260151508632
+  ]
+  edge [
+    source 1223
+    target 1239
+    weight 0.966435131107473
+  ]
+  edge [
+    source 1225
+    target 1244
+    weight 0.7952503802646561
+  ]
+  edge [
+    source 1225
+    target 1267
+    weight 0.8348762040059938
+  ]
+  edge [
+    source 1226
+    target 1232
+    weight 0.22246442883968456
+  ]
+  edge [
+    source 1229
+    target 1235
+    weight 0.999712796419881
+  ]
+  edge [
+    source 1229
+    target 1250
+    weight 0.9769215751365975
+  ]
+  edge [
+    source 1230
+    target 1263
+    weight 0.9755995679822936
+  ]
+  edge [
+    source 1230
+    target 1250
+    weight 0.9768414025200334
+  ]
+  edge [
+    source 1230
+    target 1235
+    weight 0.9996307534056396
+  ]
+  edge [
+    source 1234
+    target 1240
+    weight 0.9719632943340025
+  ]
+  edge [
+    source 1234
+    target 1273
+    weight 0.9394551182272594
+  ]
+  edge [
+    source 1235
+    target 1250
+    weight 0.9772022311158742
+  ]
+  edge [
+    source 1239
+    target 1241
+    weight 0.5925505773241702
+  ]
+  edge [
+    source 1239
+    target 1249
+    weight 0.9501165526739852
+  ]
+  edge [
+    source 1240
+    target 1298
+    weight 0.881851886679975
+  ]
+  edge [
+    source 1240
+    target 1258
+    weight 0.8812369260966237
+  ]
+  edge [
+    source 1240
+    target 1281
+    weight 0.9352624951533574
+  ]
+  edge [
+    source 1242
+    target 1313
+    weight 0.6316451022455895
+  ]
+  edge [
+    source 1242
+    target 1259
+    weight 0.7607449875304229
+  ]
+  edge [
+    source 1242
+    target 1275
+    weight 0.8391351618071757
+  ]
+  edge [
+    source 1242
+    target 1323
+    weight 0.6251213809810637
+  ]
+  edge [
+    source 1244
+    target 1267
+    weight 0.9525368868447791
+  ]
+  edge [
+    source 1244
+    target 1261
+    weight 0.8229712061686709
+  ]
+  edge [
+    source 1247
+    target 1274
+    weight 0.8835543060637551
+  ]
+  edge [
+    source 1250
+    target 1263
+    weight 0.9987287245047802
+  ]
+  edge [
+    source 1252
+    target 1328
+    weight 0.04514230245276888
+  ]
+  edge [
+    source 1255
+    target 1277
+    weight 0.626045529684393
+  ]
+  edge [
+    source 1256
+    target 1260
+    weight 0.92461596201633
+  ]
+  edge [
+    source 1258
+    target 1290
+    weight 0.7746370710532638
+  ]
+  edge [
+    source 1258
+    target 1281
+    weight 0.9422348599064961
+  ]
+  edge [
+    source 1258
+    target 1298
+    weight 0.9993026486730481
+  ]
+  edge [
+    source 1259
+    target 1306
+    weight 0.8278145991002225
+  ]
+  edge [
+    source 1259
+    target 1321
+    weight 0.8156085762615988
+  ]
+  edge [
+    source 1259
+    target 1313
+    weight 0.8302980796443689
+  ]
+  edge [
+    source 1261
+    target 1267
+    weight 0.8639783062834587
+  ]
+  edge [
+    source 1261
+    target 1299
+    weight 0.654253351231221
+  ]
+  edge [
+    source 1263
+    target 1286
+    weight 0.9958640441610729
+  ]
+  edge [
+    source 1264
+    target 1270
+    weight 0.8641201312384483
+  ]
+  edge [
+    source 1264
+    target 1300
+    weight 0.9927631224993824
+  ]
+  edge [
+    source 1266
+    target 1276
+    weight 0.9889817075058188
+  ]
+  edge [
+    source 1266
+    target 1274
+    weight 0.9979094045766428
+  ]
+  edge [
+    source 1266
+    target 1291
+    weight 0.9705683391470266
+  ]
+  edge [
+    source 1267
+    target 1316
+    weight 0.9259068765268189
+  ]
+  edge [
+    source 1267
+    target 1308
+    weight 0.9344568943582195
+  ]
+  edge [
+    source 1268
+    target 1287
+    weight 0.8558975210286551
+  ]
+  edge [
+    source 1268
+    target 1269
+    weight 0.9159304470822932
+  ]
+  edge [
+    source 1268
+    target 1310
+    weight 0.8278825405923302
+  ]
+  edge [
+    source 1269
+    target 1312
+    weight 0.8717775775295519
+  ]
+  edge [
+    source 1270
+    target 1300
+    weight 0.8578665997028581
+  ]
+  edge [
+    source 1271
+    target 1272
+    weight 0.9291801815929537
+  ]
+  edge [
+    source 1273
+    target 1281
+    weight 0.9039818098890952
+  ]
+  edge [
+    source 1274
+    target 1276
+    weight 0.9869141468743231
+  ]
+  edge [
+    source 1276
+    target 1291
+    weight 0.9598743333007129
+  ]
+  edge [
+    source 1277
+    target 1341
+    weight 0.6040401085640025
+  ]
+  edge [
+    source 1277
+    target 1325
+    weight 0.6399940513937133
+  ]
+  edge [
+    source 1280
+    target 1288
+    weight 0.9230237875078264
+  ]
+  edge [
+    source 1281
+    target 1298
+    weight 0.9428923871638577
+  ]
+  edge [
+    source 1283
+    target 1377
+    weight 0.01306836195931907
+  ]
+  edge [
+    source 1283
+    target 1364
+    weight 0.0156961484197928
+  ]
+  edge [
+    source 1287
+    target 1310
+    weight 0.967268300528952
+  ]
+  edge [
+    source 1288
+    target 1304
+    weight 0.6104941183689917
+  ]
+  edge [
+    source 1289
+    target 1324
+    weight 0.7592480389630851
+  ]
+  edge [
+    source 1290
+    target 1298
+    weight 0.775177642210683
+  ]
+  edge [
+    source 1290
+    target 1307
+    weight 0.9512088443383702
+  ]
+  edge [
+    source 1291
+    target 1311
+    weight 0.9247677408471663
+  ]
+  edge [
+    source 1291
+    target 1303
+    weight 0.9760800907385855
+  ]
+  edge [
+    source 1295
+    target 1325
+    weight 0.8454949772442558
+  ]
+  edge [
+    source 1296
+    target 1308
+    weight 0.9627935063073012
+  ]
+  edge [
+    source 1296
+    target 1316
+    weight 0.9539842164442972
+  ]
+  edge [
+    source 1296
+    target 1335
+    weight 0.9238195317541763
+  ]
+  edge [
+    source 1297
+    target 1324
+    weight 0.9483637111070057
+  ]
+  edge [
+    source 1302
+    target 1315
+    weight 0.8344309541535399
+  ]
+  edge [
+    source 1303
+    target 1311
+    weight 0.9474301849015362
+  ]
+  edge [
+    source 1305
+    target 1311
+    weight 0.25686580110567847
+  ]
+  edge [
+    source 1306
+    target 1317
+    weight 0.9815828629099174
+  ]
+  edge [
+    source 1306
+    target 1330
+    weight 0.952575974974914
+  ]
+  edge [
+    source 1306
+    target 1313
+    weight 0.9970089289557189
+  ]
+  edge [
+    source 1306
+    target 1321
+    weight 0.9852551249375273
+  ]
+  edge [
+    source 1306
+    target 1328
+    weight 0.9802947734720595
+  ]
+  edge [
+    source 1308
+    target 1316
+    weight 0.9908502811814849
+  ]
+  edge [
+    source 1309
+    target 1376
+    weight 0.6895363620883436
+  ]
+  edge [
+    source 1309
+    target 1320
+    weight 0.6028267770118825
+  ]
+  edge [
+    source 1310
+    target 1312
+    weight 0.8698122606974864
+  ]
+  edge [
+    source 1312
+    target 1346
+    weight 0.8794667910473666
+  ]
+  edge [
+    source 1313
+    target 1323
+    weight 0.9896718564881878
+  ]
+  edge [
+    source 1313
+    target 1321
+    weight 0.9823081568620973
+  ]
+  edge [
+    source 1313
+    target 1330
+    weight 0.9554337451848653
+  ]
+  edge [
+    source 1317
+    target 1330
+    weight 0.970448864756041
+  ]
+  edge [
+    source 1317
+    target 1328
+    weight 0.9986877425365401
+  ]
+  edge [
+    source 1317
+    target 1321
+    weight 0.9671095462328465
+  ]
+  edge [
+    source 1318
+    target 1338
+    weight 0.770578974583369
+  ]
+  edge [
+    source 1318
+    target 1371
+    weight 0.6454799551503165
+  ]
+  edge [
+    source 1319
+    target 1352
+    weight 0.9093019706376727
+  ]
+  edge [
+    source 1319
+    target 1336
+    weight 0.9719234106620086
+  ]
+  edge [
+    source 1321
+    target 1330
+    weight 0.9385303612363958
+  ]
+  edge [
+    source 1321
+    target 1323
+    weight 0.9925594533402007
+  ]
+  edge [
+    source 1322
+    target 1349
+    weight 0.8502266699490482
+  ]
+  edge [
+    source 1323
+    target 1330
+    weight 0.9455658883485679
+  ]
+  edge [
+    source 1324
+    target 1353
+    weight 0.752517258543819
+  ]
+  edge [
+    source 1325
+    target 1341
+    weight 0.9438214421658857
+  ]
+  edge [
+    source 1325
+    target 1351
+    weight 0.9864687694201396
+  ]
+  edge [
+    source 1326
+    target 1383
+    weight 0.758065043994121
+  ]
+  edge [
+    source 1328
+    target 1330
+    weight 0.9717240168495751
+  ]
+  edge [
+    source 1330
+    target 1363
+    weight 0.9724021227602128
+  ]
+  edge [
+    source 1331
+    target 1360
+    weight 0.6139862421821156
+  ]
+  edge [
+    source 1333
+    target 1346
+    weight 0.6018628062624207
+  ]
+  edge [
+    source 1336
+    target 1352
+    weight 0.8837718726238524
+  ]
+  edge [
+    source 1338
+    target 1371
+    weight 0.8376558100346689
+  ]
+  edge [
+    source 1341
+    target 1358
+    weight 0.9394936695363206
+  ]
+  edge [
+    source 1341
+    target 1351
+    weight 0.956767686341127
+  ]
+  edge [
+    source 1351
+    target 1358
+    weight 0.9819454429205635
+  ]
+  edge [
+    source 1351
+    target 1365
+    weight 0.7620259680507733
+  ]
+  edge [
+    source 1356
+    target 1368
+    weight 0.9564144031313514
+  ]
+  edge [
+    source 1356
+    target 1367
+    weight 0.8674241325113798
+  ]
+  edge [
+    source 1357
+    target 1397
+    weight 0.9037963545564353
+  ]
+  edge [
+    source 1357
+    target 1360
+    weight 0.8866051179102309
+  ]
+  edge [
+    source 1357
+    target 1414
+    weight 0.856494798813135
+  ]
+  edge [
+    source 1360
+    target 1411
+    weight 0.9602288945498318
+  ]
+  edge [
+    source 1360
+    target 1414
+    weight 0.9660386360411867
+  ]
+  edge [
+    source 1360
+    target 1397
+    weight 0.9809788603820587
+  ]
+  edge [
+    source 1363
+    target 1382
+    weight 0.9753994199920976
+  ]
+  edge [
+    source 1363
+    target 1396
+    weight 0.9707674958191002
+  ]
+  edge [
+    source 1364
+    target 1377
+    weight 0.8325839951181845
+  ]
+  edge [
+    source 1364
+    target 1399
+    weight 0.9299812333029223
+  ]
+  edge [
+    source 1366
+    target 1370
+    weight 0.7352408517348975
+  ]
+  edge [
+    source 1366
+    target 1408
+    weight 0.7119051198892555
+  ]
+  edge [
+    source 1366
+    target 1418
+    weight 0.7108250586740873
+  ]
+  edge [
+    source 1367
+    target 1405
+    weight 0.8621720771904626
+  ]
+  edge [
+    source 1368
+    target 1405
+    weight 0.9506235320145602
+  ]
+  edge [
+    source 1368
+    target 1408
+    weight 0.8925918583220148
+  ]
+  edge [
+    source 1368
+    target 1370
+    weight 0.9218503699852628
+  ]
+  edge [
+    source 1370
+    target 1418
+    weight 0.9667921158036881
+  ]
+  edge [
+    source 1370
+    target 1408
+    weight 0.9682611054723385
+  ]
+  edge [
+    source 1373
+    target 1388
+    weight 0.9677844319906985
+  ]
+  edge [
+    source 1373
+    target 1406
+    weight 0.9680624629958497
+  ]
+  edge [
+    source 1377
+    target 1403
+    weight 0.8703121024122799
+  ]
+  edge [
+    source 1380
+    target 1416
+    weight 0.8153408723790382
+  ]
+  edge [
+    source 1381
+    target 1413
+    weight 0.972801229617575
+  ]
+  edge [
+    source 1381
+    target 1385
+    weight 0.9874002425242631
+  ]
+  edge [
+    source 1381
+    target 1390
+    weight 0.9425442273610491
+  ]
+  edge [
+    source 1382
+    target 1443
+    weight 0.9836392546338896
+  ]
+  edge [
+    source 1382
+    target 1396
+    weight 0.9468860523691313
+  ]
+  edge [
+    source 1383
+    target 1420
+    weight 0.9524587153962865
+  ]
+  edge [
+    source 1383
+    target 1459
+    weight 0.8748595224134417
+  ]
+  edge [
+    source 1383
+    target 1415
+    weight 0.9447514125886006
+  ]
+  edge [
+    source 1384
+    target 1395
+    weight 0.9856190614192931
+  ]
+  edge [
+    source 1384
+    target 1404
+    weight 0.6407561068050917
+  ]
+  edge [
+    source 1385
+    target 1426
+    weight 0.9611355906529442
+  ]
+  edge [
+    source 1385
+    target 1413
+    weight 0.9852146958467763
+  ]
+  edge [
+    source 1386
+    target 1440
+    weight 0.9959457780289829
+  ]
+  edge [
+    source 1388
+    target 1406
+    weight 0.9368757808819551
+  ]
+  edge [
+    source 1388
+    target 1402
+    weight 0.8801166311869943
+  ]
+  edge [
+    source 1389
+    target 1417
+    weight 0.9889005451553878
+  ]
+  edge [
+    source 1390
+    target 1413
+    weight 0.9169081833457757
+  ]
+  edge [
+    source 1391
+    target 1417
+    weight 0.9129285623665808
+  ]
+  edge [
+    source 1393
+    target 1436
+    weight 0.9746392320351357
+  ]
+  edge [
+    source 1394
+    target 1425
+    weight 0.7355728031447225
+  ]
+  edge [
+    source 1394
+    target 1420
+    weight 0.8566705480591179
+  ]
+  edge [
+    source 1394
+    target 1468
+    weight 0.7860041251368961
+  ]
+  edge [
+    source 1396
+    target 1428
+    weight 0.8988034167543784
+  ]
+  edge [
+    source 1396
+    target 1443
+    weight 0.9313942907755984
+  ]
+  edge [
+    source 1397
+    target 1414
+    weight 0.9476634802687217
+  ]
+  edge [
+    source 1397
+    target 1431
+    weight 0.8583948002744629
+  ]
+  edge [
+    source 1397
+    target 1439
+    weight 0.9307065894249832
+  ]
+  edge [
+    source 1397
+    target 1411
+    weight 0.9419642466814181
+  ]
+  edge [
+    source 1402
+    target 1458
+    weight 0.8859141327410767
+  ]
+  edge [
+    source 1402
+    target 1406
+    weight 0.9394165685001176
+  ]
+  edge [
+    source 1402
+    target 1454
+    weight 0.9118053938010046
+  ]
+  edge [
+    source 1402
+    target 1422
+    weight 0.8712053914377669
+  ]
+  edge [
+    source 1402
+    target 1442
+    weight 0.9588901277204775
+  ]
+  edge [
+    source 1405
+    target 1445
+    weight 0.7376887354980284
+  ]
+  edge [
+    source 1406
+    target 1458
+    weight 0.9430471661315667
+  ]
+  edge [
+    source 1406
+    target 1442
+    weight 0.9007972733518105
+  ]
+  edge [
+    source 1406
+    target 1429
+    weight 0.9653649677164566
+  ]
+  edge [
+    source 1406
+    target 1465
+    weight 0.9731605658422781
+  ]
+  edge [
+    source 1408
+    target 1438
+    weight 0.940419375698486
+  ]
+  edge [
+    source 1408
+    target 1418
+    weight 0.9984828579188527
+  ]
+  edge [
+    source 1411
+    target 1419
+    weight 0.9009081727608815
+  ]
+  edge [
+    source 1411
+    target 1439
+    weight 0.9880487425121537
+  ]
+  edge [
+    source 1411
+    target 1414
+    weight 0.9939860153884081
+  ]
+  edge [
+    source 1413
+    target 1426
+    weight 0.9469249086126521
+  ]
+  edge [
+    source 1414
+    target 1439
+    weight 0.982106632579183
+  ]
+  edge [
+    source 1415
+    target 1429
+    weight 0.9679035783566912
+  ]
+  edge [
+    source 1415
+    target 1459
+    weight 0.9260208672420435
+  ]
+  edge [
+    source 1415
+    target 1465
+    weight 0.9706081672125526
+  ]
+  edge [
+    source 1417
+    target 1471
+    weight 0.9027585075786033
+  ]
+  edge [
+    source 1418
+    target 1438
+    weight 0.9389926258896875
+  ]
+  edge [
+    source 1418
+    target 1450
+    weight 0.9060615113252913
+  ]
+  edge [
+    source 1419
+    target 1439
+    weight 0.8901411872153111
+  ]
+  edge [
+    source 1420
+    target 1468
+    weight 0.9175103858976775
+  ]
+  edge [
+    source 1422
+    target 1448
+    weight 0.9096751790495017
+  ]
+  edge [
+    source 1422
+    target 1454
+    weight 0.9554729521899512
+  ]
+  edge [
+    source 1422
+    target 1458
+    weight 0.9833971027668336
+  ]
+  edge [
+    source 1425
+    target 1453
+    weight 0.5441623403340293
+  ]
+  edge [
+    source 1428
+    target 1443
+    weight 0.9650085099898125
+  ]
+  edge [
+    source 1428
+    target 1452
+    weight 0.8118353930174169
+  ]
+  edge [
+    source 1429
+    target 1465
+    weight 0.9394551182272594
+  ]
+  edge [
+    source 1429
+    target 1442
+    weight 0.8695981307083427
+  ]
+  edge [
+    source 1429
+    target 1459
+    weight 0.9567284262077466
+  ]
+  edge [
+    source 1430
+    target 1464
+    weight 0.8668548037776582
+  ]
+  edge [
+    source 1433
+    target 1475
+    weight 0.8493200388790147
+  ]
+  edge [
+    source 1433
+    target 1474
+    weight 0.6980773585520132
+  ]
+  edge [
+    source 1433
+    target 1434
+    weight 0.7271099154268027
+  ]
+  edge [
+    source 1434
+    target 1474
+    weight 0.9600712956063214
+  ]
+  edge [
+    source 1434
+    target 1467
+    weight 0.832959895655165
+  ]
+  edge [
+    source 1438
+    target 1445
+    weight 0.736539332380771
+  ]
+  edge [
+    source 1440
+    target 1470
+    weight 0.8723143432865157
+  ]
+  edge [
+    source 1442
+    target 1465
+    weight 0.9256409527570236
+  ]
+  edge [
+    source 1442
+    target 1454
+    weight 0.8743211905180656
+  ]
+  edge [
+    source 1442
+    target 1458
+    weight 0.8494943158934671
+  ]
+  edge [
+    source 1442
+    target 1489
+    weight 0.8421708219279382
+  ]
+  edge [
+    source 1443
+    target 1452
+    weight 0.8412727811343211
+  ]
+  edge [
+    source 1443
+    target 1469
+    weight 0.8890095725367185
+  ]
+  edge [
+    source 1446
+    target 1510
+    weight 0.5458396467057487
+  ]
+  edge [
+    source 1448
+    target 1467
+    weight 0.8582539149976233
+  ]
+  edge [
+    source 1448
+    target 1458
+    weight 0.9250334137553266
+  ]
+  edge [
+    source 1448
+    target 1454
+    weight 0.9520679543722502
+  ]
+  edge [
+    source 1450
+    target 1484
+    weight 0.8760809688285134
+  ]
+  edge [
+    source 1452
+    target 1469
+    weight 0.946303400011561
+  ]
+  edge [
+    source 1453
+    target 1485
+    weight 0.5836937215178521
+  ]
+  edge [
+    source 1454
+    target 1458
+    weight 0.9716044001977264
+  ]
+  edge [
+    source 1454
+    target 1479
+    weight 0.8258467194132331
+  ]
+  edge [
+    source 1458
+    target 1479
+    weight 0.8023963064707544
+  ]
+  edge [
+    source 1458
+    target 1489
+    weight 0.9913789959173225
+  ]
+  edge [
+    source 1459
+    target 1480
+    weight 0.9663558190775494
+  ]
+  edge [
+    source 1459
+    target 1465
+    weight 0.8988034167543784
+  ]
+  edge [
+    source 1460
+    target 1464
+    weight 0.9639399263403056
+  ]
+  edge [
+    source 1464
+    target 1494
+    weight 0.9767211559315674
+  ]
+  edge [
+    source 1465
+    target 1496
+    weight 0.9057641184440979
+  ]
+  edge [
+    source 1465
+    target 1500
+    weight 0.8957106305115576
+  ]
+  edge [
+    source 1465
+    target 1480
+    weight 0.9300957256224169
+  ]
+  edge [
+    source 1465
+    target 1489
+    weight 0.9098245053003873
+  ]
+  edge [
+    source 1466
+    target 1476
+    weight 0.8460502773737177
+  ]
+  edge [
+    source 1467
+    target 1474
+    weight 0.7997008862097607
+  ]
+  edge [
+    source 1467
+    target 1493
+    weight 0.9302865774789566
+  ]
+  edge [
+    source 1468
+    target 1485
+    weight 0.9961910198839342
+  ]
+  edge [
+    source 1471
+    target 1477
+    weight 0.9165696181217341
+  ]
+  edge [
+    source 1478
+    target 1502
+    weight 0.909078119089587
+  ]
+  edge [
+    source 1478
+    target 1513
+    weight 0.9120299169136713
+  ]
+  edge [
+    source 1478
+    target 1490
+    weight 0.8844611868974708
+  ]
+  edge [
+    source 1479
+    target 1489
+    weight 0.7954788446367447
+  ]
+  edge [
+    source 1480
+    target 1500
+    weight 0.9630305847413191
+  ]
+  edge [
+    source 1480
+    target 1505
+    weight 0.9990156453747268
+  ]
+  edge [
+    source 1480
+    target 1489
+    weight 0.9782052322534176
+  ]
+  edge [
+    source 1480
+    target 1496
+    weight 0.9738396742313417
+  ]
+  edge [
+    source 1481
+    target 1567
+    weight 0.10597722047268741
+  ]
+  edge [
+    source 1482
+    target 1553
+    weight 0.6732360706845103
+  ]
+  edge [
+    source 1482
+    target 1531
+    weight 0.7349090501290593
+  ]
+  edge [
+    source 1482
+    target 1543
+    weight 0.6681994061784374
+  ]
+  edge [
+    source 1482
+    target 1512
+    weight 0.794597986407923
+  ]
+  edge [
+    source 1486
+    target 1495
+    weight 0.895049276435777
+  ]
+  edge [
+    source 1486
+    target 1506
+    weight 0.8359732160980711
+  ]
+  edge [
+    source 1488
+    target 1550
+    weight 0.7200137415290381
+  ]
+  edge [
+    source 1489
+    target 1500
+    weight 0.9844872558316399
+  ]
+  edge [
+    source 1489
+    target 1505
+    weight 0.9772423314085825
+  ]
+  edge [
+    source 1489
+    target 1496
+    weight 0.9955371757601221
+  ]
+  edge [
+    source 1490
+    target 1513
+    weight 0.9697721209524643
+  ]
+  edge [
+    source 1490
+    target 1502
+    weight 0.9729209936140919
+  ]
+  edge [
+    source 1493
+    target 1501
+    weight 0.8317303064783474
+  ]
+  edge [
+    source 1494
+    target 1514
+    weight 0.9331157681043895
+  ]
+  edge [
+    source 1495
+    target 1506
+    weight 0.748237222188268
+  ]
+  edge [
+    source 1495
+    target 1519
+    weight 0.9732404363603573
+  ]
+  edge [
+    source 1496
+    target 1517
+    weight 0.7453872014868527
+  ]
+  edge [
+    source 1496
+    target 1505
+    weight 0.9728810706437375
+  ]
+  edge [
+    source 1496
+    target 1500
+    weight 0.9889005451553878
+  ]
+  edge [
+    source 1498
+    target 1539
+    weight 0.6183350958948546
+  ]
+  edge [
+    source 1500
+    target 1505
+    weight 0.9620826211309493
+  ]
+  edge [
+    source 1500
+    target 1517
+    weight 0.7371138099021974
+  ]
+  edge [
+    source 1501
+    target 1525
+    weight 0.8237482967038985
+  ]
+  edge [
+    source 1502
+    target 1513
+    weight 0.9967634857482821
+  ]
+  edge [
+    source 1502
+    target 1556
+    weight 0.9283036309190085
+  ]
+  edge [
+    source 1504
+    target 1532
+    weight 0.8199038119133797
+  ]
+  edge [
+    source 1504
+    target 1513
+    weight 0.8450787413423546
+  ]
+  edge [
+    source 1505
+    target 1517
+    weight 0.7661647697530425
+  ]
+  edge [
+    source 1506
+    target 1519
+    weight 0.7688102489724561
+  ]
+  edge [
+    source 1506
+    target 1546
+    weight 0.9838814661284617
+  ]
+  edge [
+    source 1508
+    target 1514
+    weight 0.9692549294314986
+  ]
+  edge [
+    source 1508
+    target 1535
+    weight 0.9432406755709745
+  ]
+  edge [
+    source 1508
+    target 1551
+    weight 0.9219260293052423
+  ]
+  edge [
+    source 1512
+    target 1543
+    weight 0.8409276358717119
+  ]
+  edge [
+    source 1512
+    target 1519
+    weight 0.8587118767104751
+  ]
+  edge [
+    source 1512
+    target 1531
+    weight 0.9248815913205434
+  ]
+  edge [
+    source 1512
+    target 1563
+    weight 0.8971084276767718
+  ]
+  edge [
+    source 1513
+    target 1532
+    weight 0.9702099600932025
+  ]
+  edge [
+    source 1513
+    target 1556
+    weight 0.9252991629876176
+  ]
+  edge [
+    source 1513
+    target 1565
+    weight 0.8839169467595621
+  ]
+  edge [
+    source 1514
+    target 1535
+    weight 0.9731605658422781
+  ]
+  edge [
+    source 1514
+    target 1551
+    weight 0.9511698123072571
+  ]
+  edge [
+    source 1516
+    target 1526
+    weight 0.9814620326602401
+  ]
+  edge [
+    source 1519
+    target 1563
+    weight 0.957199654153588
+  ]
+  edge [
+    source 1520
+    target 1522
+    weight 0.901166991147024
+  ]
+  edge [
+    source 1521
+    target 1533
+    weight 0.923781623619784
+  ]
+  edge [
+    source 1521
+    target 1544
+    weight 0.8103376622196309
+  ]
+  edge [
+    source 1522
+    target 1556
+    weight 0.7752412636130086
+  ]
+  edge [
+    source 1523
+    target 1575
+    weight 0.8782045862201922
+  ]
+  edge [
+    source 1527
+    target 1571
+    weight 0.87705215569748
+  ]
+  edge [
+    source 1527
+    target 1534
+    weight 0.7767697447408513
+  ]
+  edge [
+    source 1529
+    target 1571
+    weight 0.9302102320373479
+  ]
+  edge [
+    source 1531
+    target 1563
+    weight 0.9699711142438059
+  ]
+  edge [
+    source 1531
+    target 1589
+    weight 0.9183767450503548
+  ]
+  edge [
+    source 1531
+    target 1543
+    weight 0.9092273473310651
+  ]
+  edge [
+    source 1531
+    target 1561
+    weight 0.9558258876437651
+  ]
+  edge [
+    source 1531
+    target 1553
+    weight 0.9160808001565386
+  ]
+  edge [
+    source 1532
+    target 1603
+    weight 0.9753994199920976
+  ]
+  edge [
+    source 1532
+    target 1565
+    weight 0.8575850256413001
+  ]
+  edge [
+    source 1532
+    target 1556
+    weight 0.9537102287619573
+  ]
+  edge [
+    source 1533
+    target 1572
+    weight 0.9474301849015362
+  ]
+  edge [
+    source 1533
+    target 1552
+    weight 0.9167953143777944
+  ]
+  edge [
+    source 1535
+    target 1551
+    weight 0.9774027490355738
+  ]
+  edge [
+    source 1536
+    target 1584
+    weight 0.8179547377384337
+  ]
+  edge [
+    source 1536
+    target 1545
+    weight 0.6530999365027427
+  ]
+  edge [
+    source 1540
+    target 1644
+    weight 0.7790681187586549
+  ]
+  edge [
+    source 1540
+    target 1608
+    weight 0.9736398872900931
+  ]
+  edge [
+    source 1540
+    target 1632
+    weight 0.7790681187586549
+  ]
+  edge [
+    source 1540
+    target 1647
+    weight 0.7791000884560288
+  ]
+  edge [
+    source 1540
+    target 1604
+    weight 0.8766563570785952
+  ]
+  edge [
+    source 1540
+    target 1634
+    weight 0.7798677548876539
+  ]
+  edge [
+    source 1543
+    target 1589
+    weight 0.99003742443545
+  ]
+  edge [
+    source 1543
+    target 1561
+    weight 0.9512478779711947
+  ]
+  edge [
+    source 1543
+    target 1553
+    weight 0.9925187245226597
+  ]
+  edge [
+    source 1545
+    target 1657
+    weight 0.6276403228534032
+  ]
+  edge [
+    source 1546
+    target 1636
+    weight 0.8087763155835473
+  ]
+  edge [
+    source 1546
+    target 1587
+    weight 0.8362133795744283
+  ]
+  edge [
+    source 1548
+    target 1598
+    weight 0.7561388501059861
+  ]
+  edge [
+    source 1549
+    target 1585
+    weight 0.9794503835247762
+  ]
+  edge [
+    source 1550
+    target 1585
+    weight 0.7694730448184942
+  ]
+  edge [
+    source 1552
+    target 1614
+    weight 0.9633863118560253
+  ]
+  edge [
+    source 1552
+    target 1572
+    weight 0.9676653002913079
+  ]
+  edge [
+    source 1552
+    target 1576
+    weight 0.9753593953216632
+  ]
+  edge [
+    source 1553
+    target 1561
+    weight 0.9584180675570492
+  ]
+  edge [
+    source 1553
+    target 1589
+    weight 0.9974999966994043
+  ]
+  edge [
+    source 1554
+    target 1579
+    weight 0.9345719376875594
+  ]
+  edge [
+    source 1554
+    target 1582
+    weight 0.983679619075122
+  ]
+  edge [
+    source 1554
+    target 1588
+    weight 0.9930075806567038
+  ]
+  edge [
+    source 1554
+    target 1560
+    weight 0.969414035899497
+  ]
+  edge [
+    source 1556
+    target 1565
+    weight 0.8178876109871934
+  ]
+  edge [
+    source 1556
+    target 1603
+    weight 0.9777637849832678
+  ]
+  edge [
+    source 1557
+    target 1628
+    weight 0.9096751790495017
+  ]
+  edge [
+    source 1559
+    target 1619
+    weight 0.8534775489625551
+  ]
+  edge [
+    source 1560
+    target 1579
+    weight 0.9059871539521103
+  ]
+  edge [
+    source 1560
+    target 1564
+    weight 0.9722026307381577
+  ]
+  edge [
+    source 1560
+    target 1588
+    weight 0.9762403175798481
+  ]
+  edge [
+    source 1560
+    target 1582
+    weight 0.9854977343242733
+  ]
+  edge [
+    source 1561
+    target 1589
+    weight 0.9608201210309053
+  ]
+  edge [
+    source 1563
+    target 1595
+    weight 0.9811398913728921
+  ]
+  edge [
+    source 1564
+    target 1579
+    weight 0.9318912799734224
+  ]
+  edge [
+    source 1564
+    target 1606
+    weight 0.9034997051584264
+  ]
+  edge [
+    source 1565
+    target 1603
+    weight 0.8364879366044322
+  ]
+  edge [
+    source 1566
+    target 1610
+    weight 0.7548677659457658
+  ]
+  edge [
+    source 1566
+    target 1601
+    weight 0.8105704609579567
+  ]
+  edge [
+    source 1566
+    target 1649
+    weight 0.8452174638699712
+  ]
+  edge [
+    source 1566
+    target 1635
+    weight 0.7719398645315437
+  ]
+  edge [
+    source 1567
+    target 1580
+    weight 0.9113565133810592
+  ]
+  edge [
+    source 1567
+    target 1605
+    weight 0.8700264434140345
+  ]
+  edge [
+    source 1568
+    target 1627
+    weight 0.9938228760090597
+  ]
+  edge [
+    source 1568
+    target 1581
+    weight 0.8887542458047258
+  ]
+  edge [
+    source 1568
+    target 1600
+    weight 0.8990985242026556
+  ]
+  edge [
+    source 1568
+    target 1650
+    weight 0.9037221830769325
+  ]
+  edge [
+    source 1569
+    target 1573
+    weight 0.6114217320079489
+  ]
+  edge [
+    source 1569
+    target 1673
+    weight 0.6101685342706266
+  ]
+  edge [
+    source 1570
+    target 1597
+    weight 0.961332811763427
+  ]
+  edge [
+    source 1571
+    target 1639
+    weight 0.7791640317865385
+  ]
+  edge [
+    source 1572
+    target 1631
+    weight 0.9608201210309052
+  ]
+  edge [
+    source 1572
+    target 1614
+    weight 0.9322355047586963
+  ]
+  edge [
+    source 1572
+    target 1576
+    weight 0.9438214421658857
+  ]
+  edge [
+    source 1576
+    target 1614
+    weight 0.9877244392958461
+  ]
+  edge [
+    source 1576
+    target 1631
+    weight 0.9823081568620973
+  ]
+  edge [
+    source 1577
+    target 1611
+    weight 0.9057269511979534
+  ]
+  edge [
+    source 1577
+    target 1581
+    weight 0.9131908340434499
+  ]
+  edge [
+    source 1577
+    target 1648
+    weight 0.9548458331306733
+  ]
+  edge [
+    source 1577
+    target 1621
+    weight 0.8796472540526384
+  ]
+  edge [
+    source 1579
+    target 1588
+    weight 0.9280370187927711
+  ]
+  edge [
+    source 1579
+    target 1606
+    weight 0.9695333828901095
+  ]
+  edge [
+    source 1579
+    target 1582
+    weight 0.9193193676627971
+  ]
+  edge [
+    source 1580
+    target 1605
+    weight 0.9546499428487173
+  ]
+  edge [
+    source 1581
+    target 1600
+    weight 0.988494833303054
+  ]
+  edge [
+    source 1581
+    target 1648
+    weight 0.9563751574946416
+  ]
+  edge [
+    source 1582
+    target 1588
+    weight 0.9906063541071731
+  ]
+  edge [
+    source 1584
+    target 1646
+    weight 0.7664477779848184
+  ]
+  edge [
+    source 1586
+    target 1590
+    weight 0.9475079436418389
+  ]
+  edge [
+    source 1587
+    target 1636
+    weight 0.9671889201236599
+  ]
+  edge [
+    source 1587
+    target 1635
+    weight 0.9494150276131309
+  ]
+  edge [
+    source 1590
+    target 1611
+    weight 0.9554729521899512
+  ]
+  edge [
+    source 1590
+    target 1616
+    weight 0.6626291658384504
+  ]
+  edge [
+    source 1594
+    target 1698
+    weight 0.49203398599289155
+  ]
+  edge [
+    source 1595
+    target 1636
+    weight 0.9720430665880347
+  ]
+  edge [
+    source 1596
+    target 1685
+    weight 0.5777600746953726
+  ]
+  edge [
+    source 1599
+    target 1632
+    weight 0.15576967176601117
+  ]
+  edge [
+    source 1599
+    target 1655
+    weight 0.1668254235733761
+  ]
+  edge [
+    source 1599
+    target 1634
+    weight 0.15592955387945828
+  ]
+  edge [
+    source 1599
+    target 1608
+    weight 0.19467304849174208
+  ]
+  edge [
+    source 1599
+    target 1644
+    weight 0.15576967176601117
+  ]
+  edge [
+    source 1599
+    target 1647
+    weight 0.15577606390188026
+  ]
+  edge [
+    source 1600
+    target 1650
+    weight 0.9948837607830597
+  ]
+  edge [
+    source 1601
+    target 1649
+    weight 0.9590081790863888
+  ]
+  edge [
+    source 1601
+    target 1610
+    weight 0.931279638606174
+  ]
+  edge [
+    source 1601
+    target 1659
+    weight 0.9140531144594264
+  ]
+  edge [
+    source 1601
+    target 1612
+    weight 0.9001691011779239
+  ]
+  edge [
+    source 1603
+    target 1654
+    weight 0.6750618728958615
+  ]
+  edge [
+    source 1604
+    target 1634
+    weight 0.8895934519730359
+  ]
+  edge [
+    source 1604
+    target 1655
+    weight 0.9517554609835525
+  ]
+  edge [
+    source 1604
+    target 1644
+    weight 0.8886813087797055
+  ]
+  edge [
+    source 1604
+    target 1608
+    weight 0.9003907589679491
+  ]
+  edge [
+    source 1604
+    target 1632
+    weight 0.8886813087797055
+  ]
+  edge [
+    source 1604
+    target 1647
+    weight 0.8887177765439734
+  ]
+  edge [
+    source 1608
+    target 1632
+    weight 0.8001604380927894
+  ]
+  edge [
+    source 1608
+    target 1647
+    weight 0.8001932733307364
+  ]
+  edge [
+    source 1608
+    target 1634
+    weight 0.8009817233949195
+  ]
+  edge [
+    source 1608
+    target 1655
+    weight 0.8569518218668709
+  ]
+  edge [
+    source 1608
+    target 1644
+    weight 0.8001604380927894
+  ]
+  edge [
+    source 1609
+    target 1626
+    weight 0.9862663915716142
+  ]
+  edge [
+    source 1609
+    target 1612
+    weight 0.8517282226347146
+  ]
+  edge [
+    source 1609
+    target 1610
+    weight 0.9842448952040325
+  ]
+  edge [
+    source 1610
+    target 1612
+    weight 0.8383091552294215
+  ]
+  edge [
+    source 1611
+    target 1621
+    weight 0.9712057843582762
+  ]
+  edge [
+    source 1611
+    target 1616
+    weight 0.633124245290829
+  ]
+  edge [
+    source 1612
+    target 1626
+    weight 0.863588407668933
+  ]
+  edge [
+    source 1614
+    target 1630
+    weight 0.8847515853084026
+  ]
+  edge [
+    source 1614
+    target 1631
+    weight 0.970249773452351
+  ]
+  edge [
+    source 1617
+    target 1645
+    weight 0.9800534449478641
+  ]
+  edge [
+    source 1618
+    target 1642
+    weight 0.9049096575287817
+  ]
+  edge [
+    source 1619
+    target 1657
+    weight 0.9420029009546175
+  ]
+  edge [
+    source 1620
+    target 1658
+    weight 0.9850529960728186
+  ]
+  edge [
+    source 1620
+    target 1668
+    weight 0.9597561753135129
+  ]
+  edge [
+    source 1620
+    target 1640
+    weight 0.9849721561383147
+  ]
+  edge [
+    source 1620
+    target 1662
+    weight 0.7033392331089224
+  ]
+  edge [
+    source 1621
+    target 1648
+    weight 0.9212453189103003
+  ]
+  edge [
+    source 1623
+    target 1641
+    weight 0.9854572952782563
+  ]
+  edge [
+    source 1624
+    target 1666
+    weight 0.7859396204632906
+  ]
+  edge [
+    source 1625
+    target 1673
+    weight 0.8783127041869495
+  ]
+  edge [
+    source 1625
+    target 1686
+    weight 0.960623005100891
+  ]
+  edge [
+    source 1627
+    target 1677
+    weight 0.9159680330372356
+  ]
+  edge [
+    source 1627
+    target 1669
+    weight 0.868742137766251
+  ]
+  edge [
+    source 1627
+    target 1650
+    weight 0.8981397790987031
+  ]
+  edge [
+    source 1627
+    target 1633
+    weight 0.9334221414538221
+  ]
+  edge [
+    source 1629
+    target 1703
+    weight 0.7872953309507779
+  ]
+  edge [
+    source 1630
+    target 1692
+    weight 0.9024621988288828
+  ]
+  edge [
+    source 1630
+    target 1631
+    weight 0.9118802286964438
+  ]
+  edge [
+    source 1631
+    target 1692
+    weight 0.9896718564881878
+  ]
+  edge [
+    source 1632
+    target 1644
+    weight 1.0
+  ]
+  edge [
+    source 1632
+    target 1647
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 1632
+    target 1634
+    weight 0.9989746516329372
+  ]
+  edge [
+    source 1632
+    target 1655
+    weight 0.933728615395949
+  ]
+  edge [
+    source 1633
+    target 1669
+    weight 0.9307065894249832
+  ]
+  edge [
+    source 1634
+    target 1644
+    weight 0.9989746516329372
+  ]
+  edge [
+    source 1634
+    target 1655
+    weight 0.9346869951801718
+  ]
+  edge [
+    source 1634
+    target 1647
+    weight 0.9990156453747269
+  ]
+  edge [
+    source 1635
+    target 1665
+    weight 0.9922336695916416
+  ]
+  edge [
+    source 1635
+    target 1649
+    weight 0.913303259254827
+  ]
+  edge [
+    source 1635
+    target 1636
+    weight 0.9816231429654337
+  ]
+  edge [
+    source 1636
+    target 1665
+    weight 0.973999533300673
+  ]
+  edge [
+    source 1638
+    target 1735
+    weight 0.0024849371023990927
+  ]
+  edge [
+    source 1640
+    target 1668
+    weight 0.9743992957895746
+  ]
+  edge [
+    source 1640
+    target 1662
+    weight 0.6927695609319641
+  ]
+  edge [
+    source 1640
+    target 1658
+    weight 0.9999179334159419
+  ]
+  edge [
+    source 1641
+    target 1695
+    weight 0.9837603529268185
+  ]
+  edge [
+    source 1643
+    target 1680
+    weight 0.7255600488153687
+  ]
+  edge [
+    source 1644
+    target 1655
+    weight 0.933728615395949
+  ]
+  edge [
+    source 1644
+    target 1647
+    weight 0.9999589658660708
+  ]
+  edge [
+    source 1645
+    target 1675
+    weight 0.681295535477793
+  ]
+  edge [
+    source 1647
+    target 1655
+    weight 0.9337669317132835
+  ]
+  edge [
+    source 1648
+    target 1664
+    weight 0.3870741541712051
+  ]
+  edge [
+    source 1649
+    target 1665
+    weight 0.9062102443804235
+  ]
+  edge [
+    source 1649
+    target 1659
+    weight 0.9531233772481593
+  ]
+  edge [
+    source 1649
+    target 1704
+    weight 0.9105715043214224
+  ]
+  edge [
+    source 1650
+    target 1677
+    weight 0.9805361614210311
+  ]
+  edge [
+    source 1651
+    target 1683
+    weight 0.664589810763814
+  ]
+  edge [
+    source 1652
+    target 1666
+    weight 0.7965567753351788
+  ]
+  edge [
+    source 1652
+    target 1675
+    weight 0.9324650585853022
+  ]
+  edge [
+    source 1653
+    target 1683
+    weight 0.596135728421316
+  ]
+  edge [
+    source 1657
+    target 1688
+    weight 0.9801741017827792
+  ]
+  edge [
+    source 1658
+    target 1668
+    weight 0.9743193301678605
+  ]
+  edge [
+    source 1658
+    target 1662
+    weight 0.6928264188295027
+  ]
+  edge [
+    source 1659
+    target 1704
+    weight 0.867886987424771
+  ]
+  edge [
+    source 1659
+    target 1697
+    weight 0.9860235929571746
+  ]
+  edge [
+    source 1659
+    target 1665
+    weight 0.863730168620749
+  ]
+  edge [
+    source 1662
+    target 1668
+    weight 0.6750341723165586
+  ]
+  edge [
+    source 1663
+    target 1743
+    weight 0.49966401736008365
+  ]
+  edge [
+    source 1665
+    target 1678
+    weight 0.68767141153306
+  ]
+  edge [
+    source 1665
+    target 1704
+    weight 0.9952104146458558
+  ]
+  edge [
+    source 1666
+    target 1711
+    weight 0.7511289619954296
+  ]
+  edge [
+    source 1667
+    target 1691
+    weight 0.8036484823904737
+  ]
+  edge [
+    source 1669
+    target 1677
+    weight 0.9484415464649029
+  ]
+  edge [
+    source 1670
+    target 1687
+    weight 0.9910535996254977
+  ]
+  edge [
+    source 1671
+    target 1695
+    weight 0.6916901470076906
+  ]
+  edge [
+    source 1671
+    target 1684
+    weight 0.7546819329403799
+  ]
+  edge [
+    source 1673
+    target 1676
+    weight 0.8783487464670484
+  ]
+  edge [
+    source 1673
+    target 1686
+    weight 0.8437273893143574
+  ]
+  edge [
+    source 1675
+    target 1725
+    weight 0.9979913063140716
+  ]
+  edge [
+    source 1677
+    target 1712
+    weight 0.9434342247177314
+  ]
+  edge [
+    source 1678
+    target 1704
+    weight 0.6909809236449429
+  ]
+  edge [
+    source 1680
+    target 1695
+    weight 0.8487277644228955
+  ]
+  edge [
+    source 1680
+    target 1731
+    weight 0.6547636482745376
+  ]
+  edge [
+    source 1681
+    target 1757
+    weight 0.4283988901254292
+  ]
+  edge [
+    source 1681
+    target 1690
+    weight 0.43139782564871876
+  ]
+  edge [
+    source 1681
+    target 1682
+    weight 0.4220995225019656
+  ]
+  edge [
+    source 1681
+    target 1766
+    weight 0.4365980189557886
+  ]
+  edge [
+    source 1682
+    target 1690
+    weight 0.9784461056734101
+  ]
+  edge [
+    source 1684
+    target 1724
+    weight 0.7846184406266502
+  ]
+  edge [
+    source 1685
+    target 1694
+    weight 0.9226072426787418
+  ]
+  edge [
+    source 1686
+    target 1714
+    weight 0.8628445443027709
+  ]
+  edge [
+    source 1687
+    target 1689
+    weight 0.9762803783996478
+  ]
+  edge [
+    source 1689
+    target 1735
+    weight 0.9826306817303718
+  ]
+  edge [
+    source 1692
+    target 1710
+    weight 0.969294703600183
+  ]
+  edge [
+    source 1692
+    target 1727
+    weight 0.9198854055708531
+  ]
+  edge [
+    source 1693
+    target 1715
+    weight 0.7728590308108926
+  ]
+  edge [
+    source 1693
+    target 1755
+    weight 0.7493433792958409
+  ]
+  edge [
+    source 1694
+    target 1726
+    weight 0.965087711441607
+  ]
+  edge [
+    source 1695
+    target 1731
+    weight 0.5557160874254273
+  ]
+  edge [
+    source 1697
+    target 1751
+    weight 0.8634466699838362
+  ]
+  edge [
+    source 1697
+    target 1704
+    weight 0.8801888652804939
+  ]
+  edge [
+    source 1698
+    target 1717
+    weight 0.9617273753996035
+  ]
+  edge [
+    source 1701
+    target 1713
+    weight 0.9510137001986032
+  ]
+  edge [
+    source 1702
+    target 1745
+    weight 0.9627539989096173
+  ]
+  edge [
+    source 1702
+    target 1705
+    weight 0.983356749918413
+  ]
+  edge [
+    source 1702
+    target 1719
+    weight 0.8228699005936899
+  ]
+  edge [
+    source 1704
+    target 1751
+    weight 0.9809788603820586
+  ]
+  edge [
+    source 1705
+    target 1745
+    weight 0.9790485487484525
+  ]
+  edge [
+    source 1708
+    target 1791
+    weight 0.49070320910301624
+  ]
+  edge [
+    source 1710
+    target 1741
+    weight 0.8979186754538848
+  ]
+  edge [
+    source 1710
+    target 1727
+    weight 0.8916400515389341
+  ]
+  edge [
+    source 1710
+    target 1734
+    weight 0.768021950639091
+  ]
+  edge [
+    source 1711
+    target 1736
+    weight 0.755270561119814
+  ]
+  edge [
+    source 1714
+    target 1763
+    weight 0.7529187994941732
+  ]
+  edge [
+    source 1715
+    target 1755
+    weight 0.9695731684853592
+  ]
+  edge [
+    source 1715
+    target 1729
+    weight 0.5684474293617727
+  ]
+  edge [
+    source 1718
+    target 1739
+    weight 0.7466116839766681
+  ]
+  edge [
+    source 1718
+    target 1736
+    weight 0.8065557656985047
+  ]
+  edge [
+    source 1719
+    target 1745
+    weight 0.8547042147066068
+  ]
+  edge [
+    source 1720
+    target 1791
+    weight 0.7142166923930003
+  ]
+  edge [
+    source 1722
+    target 1767
+    weight 0.8378964568968588
+  ]
+  edge [
+    source 1723
+    target 1767
+    weight 0.6474429909311454
+  ]
+  edge [
+    source 1723
+    target 1740
+    weight 0.6853895010176113
+  ]
+  edge [
+    source 1724
+    target 1733
+    weight 0.8557219303721301
+  ]
+  edge [
+    source 1727
+    target 1741
+    weight 0.9930075806567038
+  ]
+  edge [
+    source 1728
+    target 1758
+    weight 0.7790041832993998
+  ]
+  edge [
+    source 1729
+    target 1756
+    weight 0.6833674937203235
+  ]
+  edge [
+    source 1733
+    target 1806
+    weight 0.8294807718893155
+  ]
+  edge [
+    source 1734
+    target 1741
+    weight 0.8553357577186677
+  ]
+  edge [
+    source 1736
+    target 1785
+    weight 0.7413910619956986
+  ]
+  edge [
+    source 1736
+    target 1780
+    weight 0.7366904672533727
+  ]
+  edge [
+    source 1739
+    target 1785
+    weight 0.6862900903107201
+  ]
+  edge [
+    source 1739
+    target 1803
+    weight 0.6784220468803653
+  ]
+  edge [
+    source 1740
+    target 1781
+    weight 0.9191684830540183
+  ]
+  edge [
+    source 1742
+    target 1759
+    weight 0.9300575599498448
+  ]
+  edge [
+    source 1743
+    target 1760
+    weight 0.9119176484473624
+  ]
+  edge [
+    source 1743
+    target 1793
+    weight 0.9844468582497325
+  ]
+  edge [
+    source 1744
+    target 1778
+    weight 0.9244262735082841
+  ]
+  edge [
+    source 1744
+    target 1754
+    weight 0.9433568002936253
+  ]
+  edge [
+    source 1746
+    target 1752
+    weight 0.9954963247543206
+  ]
+  edge [
+    source 1748
+    target 1797
+    weight 0.7598090491759487
+  ]
+  edge [
+    source 1749
+    target 1790
+    weight 0.7719398645315437
+  ]
+  edge [
+    source 1750
+    target 1768
+    weight 0.9887382404361298
+  ]
+  edge [
+    source 1750
+    target 1792
+    weight 0.9702099600932024
+  ]
+  edge [
+    source 1751
+    target 1789
+    weight 0.8486232882838366
+  ]
+  edge [
+    source 1753
+    target 1782
+    weight 0.955394539788605
+  ]
+  edge [
+    source 1754
+    target 1818
+    weight 0.9544932595586505
+  ]
+  edge [
+    source 1754
+    target 1778
+    weight 0.9799328029654857
+  ]
+  edge [
+    source 1757
+    target 1766
+    weight 0.9812204167807054
+  ]
+  edge [
+    source 1760
+    target 1793
+    weight 0.9263249110964494
+  ]
+  edge [
+    source 1762
+    target 1814
+    weight 0.7870369202094595
+  ]
+  edge [
+    source 1764
+    target 1854
+    weight 0.4218571003311649
+  ]
+  edge [
+    source 1765
+    target 1830
+    weight 0.7626829151282509
+  ]
+  edge [
+    source 1768
+    target 1792
+    weight 0.9812606819629485
+  ]
+  edge [
+    source 1770
+    target 1784
+    weight 0.9805763985242959
+  ]
+  edge [
+    source 1774
+    target 1827
+    weight 0.9021289677354263
+  ]
+  edge [
+    source 1776
+    target 1821
+    weight 0.6929970205227487
+  ]
+  edge [
+    source 1778
+    target 1818
+    weight 0.9740395021680572
+  ]
+  edge [
+    source 1779
+    target 1800
+    weight 0.9922336695916416
+  ]
+  edge [
+    source 1779
+    target 1825
+    weight 0.9990976379050102
+  ]
+  edge [
+    source 1779
+    target 1817
+    weight 0.9540625130957249
+  ]
+  edge [
+    source 1780
+    target 1785
+    weight 0.9936597634051958
+  ]
+  edge [
+    source 1780
+    target 1835
+    weight 0.9895500305048331
+  ]
+  edge [
+    source 1780
+    target 1787
+    weight 0.7193345099409245
+  ]
+  edge [
+    source 1780
+    target 1808
+    weight 0.7463360001550501
+  ]
+  edge [
+    source 1780
+    target 1823
+    weight 0.9922336695916416
+  ]
+  edge [
+    source 1781
+    target 1801
+    weight 0.6579147873040841
+  ]
+  edge [
+    source 1782
+    target 1802
+    weight 0.956061250370198
+  ]
+  edge [
+    source 1782
+    target 1812
+    weight 0.9192816441887408
+  ]
+  edge [
+    source 1783
+    target 1803
+    weight 0.867281765282446
+  ]
+  edge [
+    source 1785
+    target 1808
+    weight 0.751098140069005
+  ]
+  edge [
+    source 1785
+    target 1835
+    weight 0.9832760491890368
+  ]
+  edge [
+    source 1785
+    target 1823
+    weight 0.9859426733690998
+  ]
+  edge [
+    source 1786
+    target 1806
+    weight 0.8954901248734404
+  ]
+  edge [
+    source 1787
+    target 1823
+    weight 0.7137479204625887
+  ]
+  edge [
+    source 1787
+    target 1831
+    weight 0.7673918939740865
+  ]
+  edge [
+    source 1791
+    target 1809
+    weight 0.6210815006256484
+  ]
+  edge [
+    source 1792
+    target 1805
+    weight 0.5989309767269096
+  ]
+  edge [
+    source 1796
+    target 1804
+    weight 0.7309690856759952
+  ]
+  edge [
+    source 1796
+    target 1862
+    weight 0.8219924411527643
+  ]
+  edge [
+    source 1797
+    target 1843
+    weight 0.9937413163604669
+  ]
+  edge [
+    source 1798
+    target 1841
+    weight 0.9865497321866636
+  ]
+  edge [
+    source 1800
+    target 1825
+    weight 0.9913383155388295
+  ]
+  edge [
+    source 1802
+    target 1812
+    weight 0.9615300733428787
+  ]
+  edge [
+    source 1802
+    target 1824
+    weight 0.9143907501298265
+  ]
+  edge [
+    source 1802
+    target 1819
+    weight 0.9616484497191092
+  ]
+  edge [
+    source 1803
+    target 1846
+    weight 0.9645334377560222
+  ]
+  edge [
+    source 1803
+    target 1808
+    weight 0.7424870980767682
+  ]
+  edge [
+    source 1808
+    target 1831
+    weight 0.7961973029030175
+  ]
+  edge [
+    source 1808
+    target 1823
+    weight 0.7405397081821933
+  ]
+  edge [
+    source 1808
+    target 1835
+    weight 0.738536811720285
+  ]
+  edge [
+    source 1810
+    target 1818
+    weight 0.7908895479376457
+  ]
+  edge [
+    source 1810
+    target 1839
+    weight 0.8561082773773799
+  ]
+  edge [
+    source 1810
+    target 1826
+    weight 0.7979307999371761
+  ]
+  edge [
+    source 1811
+    target 1868
+    weight 0.7681795456167957
+  ]
+  edge [
+    source 1812
+    target 1824
+    weight 0.9509746761750607
+  ]
+  edge [
+    source 1815
+    target 1863
+    weight 0.8417907646576622
+  ]
+  edge [
+    source 1817
+    target 1856
+    weight 0.9972544326011322
+  ]
+  edge [
+    source 1817
+    target 1825
+    weight 0.9549242004978425
+  ]
+  edge [
+    source 1818
+    target 1839
+    weight 0.9238195317541763
+  ]
+  edge [
+    source 1819
+    target 1834
+    weight 0.8982503513369989
+  ]
+  edge [
+    source 1819
+    target 1824
+    weight 0.8793224472998411
+  ]
+  edge [
+    source 1820
+    target 1878
+    weight 0.7839425990924026
+  ]
+  edge [
+    source 1821
+    target 1836
+    weight 0.2705516487888862
+  ]
+  edge [
+    source 1822
+    target 1882
+    weight 0.6598614829153725
+  ]
+  edge [
+    source 1823
+    target 1835
+    weight 0.9972953557523271
+  ]
+  edge [
+    source 1823
+    target 1831
+    weight 0.9300957256224169
+  ]
+  edge [
+    source 1830
+    target 1843
+    weight 0.9459927986990728
+  ]
+  edge [
+    source 1831
+    target 1835
+    weight 0.9275801475683271
+  ]
+  edge [
+    source 1833
+    target 1897
+    weight 0.015291178279321197
+  ]
+  edge [
+    source 1837
+    target 1864
+    weight 0.9319295208941952
+  ]
+  edge [
+    source 1837
+    target 1863
+    weight 0.9908502811814849
+  ]
+  edge [
+    source 1839
+    target 1853
+    weight 0.7970799340674862
+  ]
+  edge [
+    source 1840
+    target 1842
+    weight 0.9043528347262617
+  ]
+  edge [
+    source 1842
+    target 1844
+    weight 0.9487918846370619
+  ]
+  edge [
+    source 1842
+    target 1891
+    weight 0.9477023684146322
+  ]
+  edge [
+    source 1844
+    target 1853
+    weight 0.9730008444696833
+  ]
+  edge [
+    source 1849
+    target 1883
+    weight 0.8557219303721301
+  ]
+  edge [
+    source 1853
+    target 1906
+    weight 0.80256095492634
+  ]
+  edge [
+    source 1855
+    target 1858
+    weight 0.9868331542015305
+  ]
+  edge [
+    source 1855
+    target 1873
+    weight 0.8945719355361805
+  ]
+  edge [
+    source 1855
+    target 1885
+    weight 0.8648650942956244
+  ]
+  edge [
+    source 1858
+    target 1873
+    weight 0.9065077837397947
+  ]
+  edge [
+    source 1858
+    target 1885
+    weight 0.8764045782343082
+  ]
+  edge [
+    source 1860
+    target 1911
+    weight 0.93426518694519
+  ]
+  edge [
+    source 1861
+    target 1903
+    weight 0.9732803740775778
+  ]
+  edge [
+    source 1862
+    target 1896
+    weight 0.9389540951405182
+  ]
+  edge [
+    source 1864
+    target 1879
+    weight 0.7205753296091881
+  ]
+  edge [
+    source 1865
+    target 1881
+    weight 0.6980200697277886
+  ]
+  edge [
+    source 1866
+    target 1937
+    weight 0.7599337743958025
+  ]
+  edge [
+    source 1867
+    target 1870
+    weight 0.9931298323077197
+  ]
+  edge [
+    source 1868
+    target 1918
+    weight 0.9566106554733744
+  ]
+  edge [
+    source 1869
+    target 1936
+    weight 0.6678704526187285
+  ]
+  edge [
+    source 1869
+    target 1922
+    weight 0.7609010893049217
+  ]
+  edge [
+    source 1870
+    target 1877
+    weight 0.5870325427827139
+  ]
+  edge [
+    source 1871
+    target 1915
+    weight 0.9501945318934083
+  ]
+  edge [
+    source 1872
+    target 1903
+    weight 0.8857687308143555
+  ]
+  edge [
+    source 1872
+    target 1943
+    weight 0.8185927167162246
+  ]
+  edge [
+    source 1873
+    target 1885
+    weight 0.9667921158036881
+  ]
+  edge [
+    source 1877
+    target 1952
+    weight 0.576339322186617
+  ]
+  edge [
+    source 1878
+    target 1905
+    weight 0.9788075270192962
+  ]
+  edge [
+    source 1878
+    target 1951
+    weight 0.9333072396613521
+  ]
+  edge [
+    source 1880
+    target 1920
+    weight 0.7434627125701424
+  ]
+  edge [
+    source 1882
+    target 1928
+    weight 0.9340735188616709
+  ]
+  edge [
+    source 1882
+    target 1916
+    weight 0.9254510539681993
+  ]
+  edge [
+    source 1883
+    target 1893
+    weight 0.6409138866959961
+  ]
+  edge [
+    source 1888
+    target 1907
+    weight 0.8916400515389341
+  ]
+  edge [
+    source 1888
+    target 1925
+    weight 0.9810593725735239
+  ]
+  edge [
+    source 1888
+    target 1904
+    weight 0.9871166576395998
+  ]
+  edge [
+    source 1889
+    target 1898
+    weight 0.9559435617634037
+  ]
+  edge [
+    source 1891
+    target 1906
+    weight 0.9173221551258033
+  ]
+  edge [
+    source 1894
+    target 1919
+    weight 0.8443161743188856
+  ]
+  edge [
+    source 1894
+    target 1932
+    weight 0.8710981483623779
+  ]
+  edge [
+    source 1895
+    target 1933
+    weight 0.961332811763427
+  ]
+  edge [
+    source 1897
+    target 1926
+    weight 0.7386883564675155
+  ]
+  edge [
+    source 1902
+    target 1935
+    weight 0.9136406179414712
+  ]
+  edge [
+    source 1903
+    target 1942
+    weight 0.883916946759562
+  ]
+  edge [
+    source 1903
+    target 1934
+    weight 0.910758349887233
+  ]
+  edge [
+    source 1903
+    target 1943
+    weight 0.9241607749729764
+  ]
+  edge [
+    source 1903
+    target 1963
+    weight 0.9292564424949032
+  ]
+  edge [
+    source 1904
+    target 1907
+    weight 0.880152747492713
+  ]
+  edge [
+    source 1904
+    target 1925
+    weight 0.9684200488007798
+  ]
+  edge [
+    source 1905
+    target 1951
+    weight 0.9135281512021336
+  ]
+  edge [
+    source 1905
+    target 1957
+    weight 0.9354927943465842
+  ]
+  edge [
+    source 1905
+    target 1914
+    weight 0.9939860153884081
+  ]
+  edge [
+    source 1906
+    target 1956
+    weight 0.9125540192035694
+  ]
+  edge [
+    source 1907
+    target 1925
+    weight 0.9088543226491743
+  ]
+  edge [
+    source 1907
+    target 1949
+    weight 0.9616089893078308
+  ]
+  edge [
+    source 1909
+    target 1926
+    weight 0.9021289677354263
+  ]
+  edge [
+    source 1909
+    target 1910
+    weight 0.9523805503630575
+  ]
+  edge [
+    source 1909
+    target 1946
+    weight 0.8098058018553328
+  ]
+  edge [
+    source 1910
+    target 1954
+    weight 0.8689560569755495
+  ]
+  edge [
+    source 1910
+    target 1946
+    weight 0.8502964508742081
+  ]
+  edge [
+    source 1911
+    target 1947
+    weight 0.7676438545913224
+  ]
+  edge [
+    source 1912
+    target 1927
+    weight 0.8969611884703507
+  ]
+  edge [
+    source 1914
+    target 1965
+    weight 0.9982370518602499
+  ]
+  edge [
+    source 1916
+    target 1928
+    weight 0.9907689654835954
+  ]
+  edge [
+    source 1919
+    target 1932
+    weight 0.9692549294314986
+  ]
+  edge [
+    source 1919
+    target 1923
+    weight 0.8953431512732862
+  ]
+  edge [
+    source 1919
+    target 1931
+    weight 0.8768002631784125
+  ]
+  edge [
+    source 1921
+    target 1991
+    weight 0.6262510815273508
+  ]
+  edge [
+    source 1922
+    target 1936
+    weight 0.8777362288031731
+  ]
+  edge [
+    source 1922
+    target 1939
+    weight 0.8845700751300121
+  ]
+  edge [
+    source 1923
+    target 1931
+    weight 0.9792896298268398
+  ]
+  edge [
+    source 1923
+    target 1932
+    weight 0.9237437170409191
+  ]
+  edge [
+    source 1924
+    target 1941
+    weight 0.9872786961705686
+  ]
+  edge [
+    source 1925
+    target 1996
+    weight 0.9425829054342301
+  ]
+  edge [
+    source 1930
+    target 1970
+    weight 0.9170963291723259
+  ]
+  edge [
+    source 1934
+    target 1969
+    weight 0.9753193722936065
+  ]
+  edge [
+    source 1934
+    target 1967
+    weight 0.9798121758338156
+  ]
+  edge [
+    source 1934
+    target 1963
+    weight 0.9800936622424636
+  ]
+  edge [
+    source 1934
+    target 1937
+    weight 0.9326563966193204
+  ]
+  edge [
+    source 1934
+    target 1942
+    weight 0.9705285127158105
+  ]
+  edge [
+    source 1934
+    target 1943
+    weight 0.9854977343242733
+  ]
+  edge [
+    source 1936
+    target 1938
+    weight 0.9530842666558463
+  ]
+  edge [
+    source 1936
+    target 1966
+    weight 0.5079540204664188
+  ]
+  edge [
+    source 1936
+    target 1939
+    weight 0.9922743867117204
+  ]
+  edge [
+    source 1937
+    target 1969
+    weight 0.9096378513163725
+  ]
+  edge [
+    source 1937
+    target 1983
+    weight 0.9264769704570451
+  ]
+  edge [
+    source 1938
+    target 1966
+    weight 0.5329581425666723
+  ]
+  edge [
+    source 1938
+    target 1939
+    weight 0.960504754954176
+  ]
+  edge [
+    source 1938
+    target 1945
+    weight 0.9968861997981835
+  ]
+  edge [
+    source 1939
+    target 1966
+    weight 0.5119088301268344
+  ]
+  edge [
+    source 1940
+    target 1982
+    weight 0.5847725508799195
+  ]
+  edge [
+    source 1940
+    target 2006
+    weight 0.5805168015817794
+  ]
+  edge [
+    source 1941
+    target 1979
+    weight 0.890323840563222
+  ]
+  edge [
+    source 1942
+    target 1969
+    weight 0.9950879068806666
+  ]
+  edge [
+    source 1942
+    target 1963
+    weight 0.9512088443383702
+  ]
+  edge [
+    source 1942
+    target 1943
+    weight 0.956453650378538
+  ]
+  edge [
+    source 1942
+    target 1976
+    weight 0.9513649884805933
+  ]
+  edge [
+    source 1942
+    target 1967
+    weight 0.9509356537528354
+  ]
+  edge [
+    source 1943
+    target 1967
+    weight 0.9942307746710791
+  ]
+  edge [
+    source 1943
+    target 1986
+    weight 0.982348466680644
+  ]
+  edge [
+    source 1943
+    target 1963
+    weight 0.9945164033426062
+  ]
+  edge [
+    source 1943
+    target 1976
+    weight 0.9946796565668071
+  ]
+  edge [
+    source 1944
+    target 1953
+    weight 0.9307447817310106
+  ]
+  edge [
+    source 1944
+    target 1959
+    weight 0.8600872285726459
+  ]
+  edge [
+    source 1945
+    target 1948
+    weight 0.9559435617634037
+  ]
+  edge [
+    source 1946
+    target 1971
+    weight 0.8502266699490482
+  ]
+  edge [
+    source 1946
+    target 1954
+    weight 0.9785264099932888
+  ]
+  edge [
+    source 1948
+    target 1993
+    weight 0.9405351530838414
+  ]
+  edge [
+    source 1949
+    target 1988
+    weight 0.7892361178683461
+  ]
+  edge [
+    source 1951
+    target 1957
+    weight 0.9765207778433053
+  ]
+  edge [
+    source 1952
+    target 2003
+    weight 0.8688847447202569
+  ]
+  edge [
+    source 1953
+    target 1959
+    weight 0.924084932255054
+  ]
+  edge [
+    source 1953
+    target 1980
+    weight 0.6865435941947564
+  ]
+  edge [
+    source 1954
+    target 1971
+    weight 0.8688847447202569
+  ]
+  edge [
+    source 1957
+    target 1965
+    weight 0.9315089570601386
+  ]
+  edge [
+    source 1959
+    target 1980
+    weight 0.7429442578609924
+  ]
+  edge [
+    source 1959
+    target 1964
+    weight 0.8828656985774015
+  ]
+  edge [
+    source 1961
+    target 2012
+    weight 0.748728645836583
+  ]
+  edge [
+    source 1962
+    target 1985
+    weight 0.7904028857267802
+  ]
+  edge [
+    source 1963
+    target 1976
+    weight 0.9998358735668079
+  ]
+  edge [
+    source 1963
+    target 1967
+    weight 0.999712796419881
+  ]
+  edge [
+    source 1963
+    target 1986
+    weight 0.9769616639123582
+  ]
+  edge [
+    source 1967
+    target 1983
+    weight 0.9733203134336753
+  ]
+  edge [
+    source 1967
+    target 1969
+    weight 0.9556297962998699
+  ]
+  edge [
+    source 1967
+    target 2001
+    weight 0.9244262735082841
+  ]
+  edge [
+    source 1967
+    target 1976
+    weight 0.9995487171243882
+  ]
+  edge [
+    source 1969
+    target 1983
+    weight 0.9818245680382476
+  ]
+  edge [
+    source 1969
+    target 2001
+    weight 0.8834092914469693
+  ]
+  edge [
+    source 1970
+    target 2003
+    weight 0.7943371787457338
+  ]
+  edge [
+    source 1970
+    target 1999
+    weight 0.9045755227195353
+  ]
+  edge [
+    source 1971
+    target 1982
+    weight 0.9078851745429436
+  ]
+  edge [
+    source 1971
+    target 2013
+    weight 0.903091971213368
+  ]
+  edge [
+    source 1974
+    target 2007
+    weight 0.8651845607481738
+  ]
+  edge [
+    source 1974
+    target 2021
+    weight 0.847266268226976
+  ]
+  edge [
+    source 1976
+    target 1986
+    weight 0.9771220354668326
+  ]
+  edge [
+    source 1977
+    target 1989
+    weight 0.9005016083300158
+  ]
+  edge [
+    source 1981
+    target 1991
+    weight 0.7144511937997375
+  ]
+  edge [
+    source 1981
+    target 2024
+    weight 0.8640137603398171
+  ]
+  edge [
+    source 1982
+    target 2013
+    weight 0.9947204740599618
+  ]
+  edge [
+    source 1982
+    target 2006
+    weight 0.9927223853244539
+  ]
+  edge [
+    source 1983
+    target 2001
+    weight 0.8997628702774075
+  ]
+  edge [
+    source 1987
+    target 2002
+    weight 0.9173221551258033
+  ]
+  edge [
+    source 1988
+    target 2005
+    weight 0.9191684830540183
+  ]
+  edge [
+    source 1994
+    target 2005
+    weight 0.646328104028672
+  ]
+  edge [
+    source 1994
+    target 1996
+    weight 0.9999179334159419
+  ]
+  edge [
+    source 1995
+    target 2008
+    weight 0.7476847561130778
+  ]
+  edge [
+    source 1995
+    target 2045
+    weight 0.7308791053182832
+  ]
+  edge [
+    source 1995
+    target 2026
+    weight 0.8244922872915619
+  ]
+  edge [
+    source 1995
+    target 2046
+    weight 0.8561434084806662
+  ]
+  edge [
+    source 1995
+    target 2022
+    weight 0.7821431996820435
+  ]
+  edge [
+    source 1996
+    target 2005
+    weight 0.6462750620889937
+  ]
+  edge [
+    source 1998
+    target 2004
+    weight 0.8128020638060751
+  ]
+  edge [
+    source 1999
+    target 2030
+    weight 0.8369342840565476
+  ]
+  edge [
+    source 2002
+    target 2014
+    weight 0.7149497649670412
+  ]
+  edge [
+    source 2003
+    target 2016
+    weight 0.7764510628536588
+  ]
+  edge [
+    source 2005
+    target 2036
+    weight 0.6987938657011235
+  ]
+  edge [
+    source 2006
+    target 2013
+    weight 0.9979913063140716
+  ]
+  edge [
+    source 2007
+    target 2021
+    weight 0.9792896298268398
+  ]
+  edge [
+    source 2008
+    target 2026
+    weight 0.9068426322933898
+  ]
+  edge [
+    source 2012
+    target 2032
+    weight 0.7751140260295485
+  ]
+  edge [
+    source 2016
+    target 2031
+    weight 0.8074498798233477
+  ]
+  edge [
+    source 2017
+    target 2018
+    weight 0.7609635389831589
+  ]
+  edge [
+    source 2018
+    target 2034
+    weight 0.8645102699190533
+  ]
+  edge [
+    source 2020
+    target 2028
+    weight 0.840651621617292
+  ]
+  edge [
+    source 2021
+    target 2042
+    weight 0.9456434940798638
+  ]
+  edge [
+    source 2022
+    target 2045
+    weight 0.9344568943582195
+  ]
+  edge [
+    source 2022
+    target 2046
+    weight 0.9135656385769
+  ]
+  edge [
+    source 2026
+    target 2046
+    weight 0.9630305847413191
+  ]
+  edge [
+    source 2028
+    target 2041
+    weight 0.9397250106146353
+  ]
+  edge [
+    source 2031
+    target 2033
+    weight 0.6228425309938316
+  ]
+  edge [
+    source 2035
+    target 2038
+    weight 0.9344568943582194
+  ]
+  edge [
+    source 2039
+    target 2050
+    weight 0.9678241458163178
+  ]
+  edge [
+    source 2041
+    target 2062
+    weight 0.976761236482962
+  ]
+  edge [
+    source 2043
+    target 2079
+    weight 0.8774481330141468
+  ]
+  edge [
+    source 2045
+    target 2046
+    weight 0.8536877094169536
+  ]
+  edge [
+    source 2045
+    target 2053
+    weight 0.2949484535887455
+  ]
+  edge [
+    source 2046
+    target 2053
+    weight 0.34549923858009807
+  ]
+  edge [
+    source 2049
+    target 2077
+    weight 0.8268979344944036
+  ]
+  edge [
+    source 2050
+    target 2061
+    weight 0.4539354915070106
+  ]
+  edge [
+    source 2051
+    target 2074
+    weight 0.6675690541203345
+  ]
+  edge [
+    source 2053
+    target 2107
+    weight 0.3140471348257358
+  ]
+  edge [
+    source 2056
+    target 2060
+    weight 0.3392335608318166
+  ]
+  edge [
+    source 2060
+    target 2068
+    weight 0.817552059854898
+  ]
+  edge [
+    source 2062
+    target 2066
+    weight 0.7880710723558954
+  ]
+  edge [
+    source 2063
+    target 2093
+    weight 0.9435890926299036
+  ]
+  edge [
+    source 2066
+    target 2114
+    weight 0.7534132978863411
+  ]
+  edge [
+    source 2066
+    target 2091
+    weight 0.7996680711764927
+  ]
+  edge [
+    source 2066
+    target 2103
+    weight 0.752517258543819
+  ]
+  edge [
+    source 2073
+    target 2096
+    weight 0.9349938844163983
+  ]
+  edge [
+    source 2076
+    target 2088
+    weight 0.9296759893487638
+  ]
+  edge [
+    source 2077
+    target 2078
+    weight 0.9865092499728254
+  ]
+  edge [
+    source 2079
+    target 2098
+    weight 0.8855870119646664
+  ]
+  edge [
+    source 2082
+    target 2100
+    weight 0.8469881734690634
+  ]
+  edge [
+    source 2083
+    target 2109
+    weight 0.8636947262013311
+  ]
+  edge [
+    source 2090
+    target 2110
+    weight 0.9061730588278876
+  ]
+  edge [
+    source 2090
+    target 2091
+    weight 0.9590081790863888
+  ]
+  edge [
+    source 2090
+    target 2111
+    weight 0.9209807339565413
+  ]
+  edge [
+    source 2091
+    target 2114
+    weight 0.9421575339101631
+  ]
+  edge [
+    source 2091
+    target 2111
+    weight 0.9603471107346814
+  ]
+  edge [
+    source 2091
+    target 2110
+    weight 0.9449064967216075
+  ]
+  edge [
+    source 2091
+    target 2103
+    weight 0.9410370198183552
+  ]
+  edge [
+    source 2092
+    target 2113
+    weight 0.8033187730824818
+  ]
+  edge [
+    source 2093
+    target 2102
+    weight 0.9443250624543893
+  ]
+  edge [
+    source 2094
+    target 2097
+    weight 0.9880487425121537
+  ]
+  edge [
+    source 2099
+    target 2104
+    weight 0.9712456385818878
+  ]
+  edge [
+    source 2103
+    target 2111
+    weight 0.9798925922716072
+  ]
+  edge [
+    source 2103
+    target 2114
+    weight 0.9988106934865154
+  ]
+  edge [
+    source 2104
+    target 2109
+    weight 0.9601500918445423
+  ]
+  edge [
+    source 2105
+    target 2108
+    weight 0.9867521681755298
+  ]
+  edge [
+    source 2110
+    target 2111
+    weight 0.983921840509041
+  ]
+  edge [
+    source 2111
+    target 2114
+    weight 0.9810593725735239
+  ]
+]
