@@ -20,6 +20,9 @@ def get_splits(Ns, Nl, folds):
     if (Ns-fold_size*folds) > ((fold_size+1)*folds-Ns):
         fold_size += 1
 
+    if fold_size == 0:
+        fold_size = 1
+        
     num_folds_larger = int(Nl/fold_size)
     if (Nl-fold_size*num_folds_larger) > (fold_size*(num_folds_larger+1)-Nl):
         num_folds_larger += 1

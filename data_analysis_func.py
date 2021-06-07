@@ -356,7 +356,7 @@ def get_colors_by_pred_results_test_indices(G, classes_pred, test_indices):
     list_nodes = G.nodes()
 
     for idx, g_idx in enumerate(test_indices):
-        node_props = list_nodes[str(g_idx)]
+        node_props = list_nodes[g_idx]
 
         if node_props['demarcated'] == 'False':
             if classes_pred[g_idx] == 0:
